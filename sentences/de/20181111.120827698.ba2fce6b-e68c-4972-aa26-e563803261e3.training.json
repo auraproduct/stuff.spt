@@ -1,0 +1,3064 @@
+{
+  "id": "ba2fce6b-e68c-4972-aa26-e563803261e3",
+  "date": "20181111.120827698",
+  "language": "de",
+  "phones": {
+    "AAH": 504,
+    "AE": 0,
+    "AH": 1162,
+    "AO": 137,
+    "AW": 217,
+    "AX": 2521,
+    "AY": 672,
+    "B": 557,
+    "CC": 752,
+    "CH": 137,
+    "D": 1567,
+    "EE": 137,
+    "EEH": 501,
+    "EH": 1155,
+    "EHH": 137,
+    "EX": 1624,
+    "F": 687,
+    "G": 655,
+    "HH": 318,
+    "IH": 1435,
+    "IIH": 1084,
+    "IY": 136,
+    "JH": 0,
+    "K": 637,
+    "L": 1122,
+    "M": 991,
+    "N": 3211,
+    "NG": 307,
+    "OE": 136,
+    "OH": 5,
+    "OHH": 136,
+    "OO": 374,
+    "OOH": 400,
+    "OY": 142,
+    "P": 490,
+    "PF": 136,
+    "Q": 964,
+    "RR": 1032,
+    "S": 1239,
+    "SH": 393,
+    "T": 2362,
+    "TH": 0,
+    "TS": 568,
+    "UE": 5,
+    "UH": 137,
+    "UU": 626,
+    "UUH": 267,
+    "V": 739,
+    "W": 0,
+    "X": 187,
+    "Y": 202,
+    "YY": 136,
+    "YYH": 160,
+    "Z": 633,
+    "ZH": 42
+  },
+  "sentences": {
+    "000b7bff-652c-4f8d-bbe6-d15ab27db43c": {
+      "de": "Es herrscht ein Mangel an Respekt vor Religion"
+    },
+    "004ffc09-922e-4ff4-ab8e-7c4f47bc69b4": {
+      "de": "Das mag sympathisch sein"
+    },
+    "007918a2-78a3-43d5-b306-646b1b6168c3": {
+      "de": "Bis zu diesem Punkt war ich bereit den Bericht zu unterstützen"
+    },
+    "00897024-6d9c-4871-ae3a-5957ac691449": {
+      "de": "Bundeswehr raus aus den Schulen"
+    },
+    "00e0a2f5-3db1-42b4-a232-41a53bb588d6": {
+      "de": "Ich werde dies unterstützen"
+    },
+    "0125c9c6-aa9c-4d66-abb5-ec685ffe7be7": {
+      "de": "Lernen durch Engagement"
+    },
+    "016acc55-a835-4d27-9fab-e533e1625443": {
+      "de": "Kopf an Kopf Rennen mit den Grünen"
+    },
+    "01d2ed07-1ccd-41bd-909c-abc766203a4a": {
+      "de": "Herr stellst du in dieser Zeit das Reich für Israel wieder her"
+    },
+    "01d33326-b994-462f-b6e8-bc92d8533a40": {
+      "de": "Das ist sozusagen das Dilemma in dem wir uns befinden"
+    },
+    "02392761-f76b-4283-9ab2-b8a679b4fefd": {
+      "de": "Könnte ich wohl eine Antwort darauf bekommen"
+    },
+    "02412077-52ed-412b-bcbd-f46dc03fa305": {
+      "de": "Dafür möchte ich mich beim Parlament bedanken"
+    },
+    "02482f00-7452-4d3a-a855-9d091edb77be": {
+      "de": "Geben wir ihnen etwas worüber sie reden können"
+    },
+    "027a718b-e7e3-4120-8ed5-672fbeea9ee8": {
+      "de": "Als nächster Punkt folgt die Abstimmung"
+    },
+    "02f4e5e5-9a6d-4707-bc84-46181f4617d3": {
+      "de": "Warum muß Europa das den Gemeinden und Regionen empfehlen"
+    },
+    "0320b139-a7c5-4530-ad3d-f057dcfa3929": {
+      "de": "Ich habe das jedenfalls meiner Fraktion empfohlen"
+    },
+    "0362607f-20a3-4e60-89fe-dfbff175dfa2": {
+      "de": "Tagesordnung der nächsten Sitzung siehe Protokoll"
+    },
+    "0393cb01-d458-43c4-818b-acf5478ad7b8": {
+      "de": "Es wurden Vorschläge gemacht"
+    },
+    "040ea41a-72cf-4e83-ae17-4dd78517dd76": {
+      "de": "Sie haben das erwähnt Herr Präsident"
+    },
+    "0457cecf-913c-40ba-b360-66d67489f76c": {
+      "de": "Diese Politik kann ich nicht unterstützen"
+    },
+    "0473fc93-f150-4bac-acf4-b59d324d8cb5": {
+      "de": "Die Länder selbst sind darüber auch nicht glücklich"
+    },
+    "04b66f14-ab5b-4929-8cd8-18e23a21fff3": {
+      "de": "So etwas hört die Kommission von mir zum ersten Mal"
+    },
+    "056f933a-99a0-409d-8b72-65a7066dc2cc": {
+      "de": "Nur dann funktioniert er richtig"
+    },
+    "05f55571-23c6-4440-b853-93ca617a8992": {
+      "de": "Europa denkt in diesem Punkt völlig anders"
+    },
+    "06396c42-705a-4f77-9714-df7890d9238c": {
+      "de": "Es ist nicht möglich alle jederzeit zufrieden zu stellen"
+    },
+    "063ee32e-a9f7-4f7f-8cd4-47338f3c164f": {
+      "de": "Die Flexibilität muss erhalten bleiben"
+    },
+    "06563423-6a26-4f87-8cc8-c21245adcca8": {
+      "de": "Ich hoffe die Kommission hört jetzt gut zu"
+    },
+    "0671c1cc-2700-422d-831e-cdf92cab3528": {
+      "de": "Doch sie haben sich einfach zurückgezogen"
+    },
+    "06ad36e8-dd9c-4d9d-85c2-75e33d9066eb": {
+      "de": "Es ist zu sehen dass Tim Respekt für die"
+    },
+    "06db0005-be92-49db-aa43-95c254f6a85e": {
+      "de": "Ein Gegner dem wir Respekt entgegen bringen müssen"
+    },
+    "076d0e8f-f6ec-4163-affa-304cf82d17d0": {
+      "de": "Es sind weitere Fortschritte erforderlich"
+    },
+    "07c3872a-e86a-4fa7-9710-ad6748eb5ebd": {
+      "de": "Traum junger Journalisten von der großen Reportage"
+    },
+    "07c6e938-d87a-48f7-becc-d1a8c7ff6d34": {
+      "de": "Unsere Bereitschaft muss da sein"
+    },
+    "07ccca98-27cc-48ab-bae0-1dd809955a66": {
+      "de": "Das Europäische Parlament ist ihm zu Dank verpflichtet"
+    },
+    "08a08efb-00de-45ca-87ce-345781000aa2": {
+      "de": "Der Anfang einer Politik ist auf jeden Fall gemacht"
+    },
+    "08fe714f-8d57-4227-b2b9-6bd70d278b97": {
+      "de": "Er spielte ja auch in der Debatte heute mit die größte Rolle"
+    },
+    "0934360a-bf13-4c96-9df8-0db12a4c8aa8": {
+      "de": "Wir wissen mathematisch tritt ein Phänomen auf"
+    },
+    "09598340-d836-4d20-aae4-80fed476af84": {
+      "de": "Um die entwickeln zu können braucht man Daten"
+    },
+    "097ff855-110d-481e-afd7-904fd0244895": {
+      "de": "Engagement kann nicht bestellt nur gefördert werden"
+    },
+    "098ac5d6-7d0e-4b88-b835-46721bfbf5b6": {
+      "de": "Was heißt hier Respekt"
+    },
+    "09c3e834-4548-4604-8995-cd8c85d7d972": {
+      "de": "Auch bei uns in Finnland gibt es dafür aktuelle Beispiele"
+    },
+    "09e94f61-2dba-46d9-b7c4-31545ef3451d": {
+      "de": "Jugendliche als Opfer und Täter von Gewalt in Berlin"
+    },
+    "09eea54e-2262-4631-8bc9-d7246e06ea60": {
+      "de": "Und wie sieht unsere Lösung all dieser Probleme aus"
+    },
+    "0a2ffb9d-8332-4a78-ad74-4b8d2b58e679": {
+      "de": "Bildung Engagement und Ehrenamt"
+    },
+    "0a6eaac2-3c84-403c-a380-3debc88493ac": {
+      "de": "Ich hoffe nur dass die Programme entsprechend umgesetzt werden"
+    },
+    "0a81f1d1-5864-4643-a9b7-acec2edebe59": {
+      "de": "Es muss Klarheit darüber bestehen wohin die Gelder fließen"
+    },
+    "0ac896ae-c60a-45e0-8c74-9340d2e494f3": {
+      "de": "Der Weg zum Frieden wird nicht einfach sein das ist er niemals"
+    },
+    "0acd6bb3-1cfc-47c2-89fe-64fe4a85c10e": {
+      "de": "Die Globalisierung an sich ist positiv"
+    },
+    "0ad07542-e585-486a-a288-b0571f3ebb69": {
+      "de": "Wie müssen die deutschen Schulen reformiert werden"
+    },
+    "0b22daa6-fa7b-446a-9134-1144c3a05cf6": {
+      "de": "Es gibt Argumente für jede der beiden Lösungen"
+    },
+    "0b6b24f5-0de8-4f88-bdca-c81477cd08ee": {
+      "de": "Offen gesagt halte ich dies nicht für möglich"
+    },
+    "0c7807bb-fa6f-4df8-8c73-616d93c01fe5": {
+      "de": "Die USA werden Israel nicht zur Seite stehen"
+    },
+    "0d3258ca-1d12-4407-9350-55536546adb2": {
+      "de": "Das Opfer der Zukunft ist der Steuerzahler"
+    },
+    "0d53629f-c19d-4e1a-8770-b00b50ba90e3": {
+      "de": "Er wurde so einfach wie möglich gestaltet"
+    },
+    "0ddb899e-eda0-40dc-9d66-e64442b71259": {
+      "de": "Revolution von oben"
+    },
+    "0df6b1bd-2c89-4b4a-aaa6-49a30046ce98": {
+      "de": "Aus der Sicht der Liberalen wäre dies eine nachhaltige Option"
+    },
+    "0e0464e5-6c04-42e9-ba93-28d937492717": {
+      "de": "Wir haben entsprechend gehandelt"
+    },
+    "0e5aeb20-8a2f-421b-849c-70ea02a97584": {
+      "de": "Zur Sache selber Ich möchte bei dem letzten Punkt anfangen"
+    },
+    "0e95e641-6791-4325-a1bf-f6a2f610819d": {
+      "de": "Nun ist Belgien gerade dabei diese Politik zu übernehmen"
+    },
+    "0eb6e5b0-398b-4a66-b2a8-29d864ca05bb": {
+      "de": "Herr Präsident Ich habe dem Kollegen aufmerksam zugehört"
+    },
+    "0ec5959f-c194-40d2-8634-b6ab71b9e66f": {
+      "de": "Ich komme zum Schluss Herr Präsident"
+    },
+    "0eea9024-0ba0-4950-b0f3-542b7ee2f6b4": {
+      "de": "Immerhin ist ein Kompromiss noch möglich"
+    },
+    "0f0d38ef-3323-4e29-ae55-420dc731a6b0": {
+      "de": "Wir werden auch darüber entscheiden müssen"
+    },
+    "0f493907-c945-44b2-b773-f3744f004187": {
+      "de": "Ich bin allerdings positiv überrascht worden"
+    },
+    "0f6e3d95-1eef-497f-adcf-b9118c375cc2": {
+      "de": "Ich hoffe wir werden nicht mit dieser Enttäuschung konfrontiert"
+    },
+    "0f943e19-6113-4e2d-b200-cbd9030c29c9": {
+      "de": "Dieses Modell steht auf dem Kopf"
+    },
+    "1089f42f-8215-41bf-85f6-053c89cb596a": {
+      "de": "Das entspricht nicht den vereinbarten Spielregeln"
+    },
+    "109a14e4-a6d3-4ac7-b1d9-32d73ec4f6d3": {
+      "de": "Die Sanktionen bleiben Gegenstand politischer Entscheidungen"
+    },
+    "113a9cc0-3f68-4943-a046-15ae495e20d3": {
+      "de": "Das ist gut und schön aber es reicht nicht aus"
+    },
+    "11cd1300-79a0-4764-8a03-02167ff773e4": {
+      "de": "Wir sollten mit unserer Entscheidung das Ergebnis abwarten"
+    },
+    "11ce3f8d-b483-43d9-a08d-3c811663adc4": {
+      "de": "Der Markt muss natürlich funktionieren können"
+    },
+    "11d3f278-4104-4fd3-996b-27a6d29f9a43": {
+      "de": "Es ist auch eine Debatte über die Rechtmäßigkeit gewesen"
+    },
+    "1237ee63-dc95-4288-8167-531f06d2567b": {
+      "de": "Das war ein ganz wichtiges Stück Politik"
+    },
+    "12711564-f705-4912-a919-f3f5ca9db0b4": {
+      "de": "Er ist ein Werkzeug des täglichen Lebens"
+    },
+    "128892a5-1218-48b1-b99f-065fb8a959f0": {
+      "de": "Er wird natürlich viel höher sein"
+    },
+    "12b82d33-26a7-4dd7-b49d-bba52b9f4f7c": {
+      "de": "Die Kosten entstehen ja nicht neu die gibt es schon länger"
+    },
+    "13185196-1750-4159-b365-a7335a22e661": {
+      "de": "Osteuropa reformiert Südeuropa beklagt sich"
+    },
+    "133f7a3f-34c7-4479-8a83-c22ca2170d92": {
+      "de": "Ich studierte die Geschichte der Revolution"
+    },
+    "1382c4a6-280e-48c6-93af-ae0b49b5f4fd": {
+      "de": "In der Praxis werden Beschlüsse zu zwei Themen gefordert"
+    },
+    "13b005d1-ef74-4e2b-b1b0-ab32bc0c451c": {
+      "de": "Ich möchte da auf zwei Punkte eingehen"
+    },
+    "13b59fa3-ad44-45e3-babc-ebe35e975e7f": {
+      "de": "So viel will ich zum Verfahren sagen"
+    },
+    "13b73e53-a278-43f7-9836-923eda0c1109": {
+      "de": "Wie ist das möglich"
+    },
+    "13e9e03f-fe68-4e43-8bc2-2c9860dfc088": {
+      "de": "Ich empfehle den Bericht dem Hohen Haus"
+    },
+    "1429ed42-4ac0-43eb-8a6f-62966a1b92df": {
+      "de": "Angst vor Öffentlichkeit"
+    },
+    "146526da-4627-4638-af89-7c998288fac5": {
+      "de": "Revolution der Rosen"
+    },
+    "14b51b67-6af1-4208-a914-7d4aba9b50db": {
+      "de": "Dieses Vertrauen muß aber unbedingt wiederhergestellt werden"
+    },
+    "15532df0-706a-4fcf-925e-120d7beef10a": {
+      "de": "Das könnte bis zu drei Monate dauern"
+    },
+    "1586a142-58ac-40fd-a2e0-6cc4a9e131fd": {
+      "de": "Derartige Strategien werden die Meinung der Leute nicht ändern"
+    },
+    "15e846d4-c17e-4447-ad59-e626959a1a9e": {
+      "de": "Ich werde gleich zum Schluss kommen"
+    },
+    "1641552f-1a58-4087-a5a1-dcd0239cbcdc": {
+      "de": "Zunächst sollten wir Verantwortung für uns selbst übernehmen"
+    },
+    "1681000e-2db4-4586-8cc3-dbd976418c88": {
+      "de": "Erziehung im antiken Israel"
+    },
+    "16861a52-efc4-4a3d-bbc7-a927590b45d2": {
+      "de": "Nunmehr am vierte Mai hören wir von seiner Festnahme"
+    },
+    "1699ecb2-f8e5-4e89-b65c-003a25c4fd15": {
+      "de": "Es gilt einen kühlen Kopf zu bewahren"
+    },
+    "170c34a0-5df7-4c03-91f9-83f74ee3795a": {
+      "de": "Das ist zum Teufel noch mal der Kapitalismus"
+    },
+    "17a4d5a4-4738-4d17-97d0-4c7817473bff": {
+      "de": "Wir sind bereit für diese Revolution zu sterben"
+    },
+    "17a5d2c9-b81d-4de6-bd99-24f7019b4bd2": {
+      "de": "Viele von Ihnen haben sich zum Sitz geäußert"
+    },
+    "17fc5644-dd44-4173-903e-f21d0043d410": {
+      "de": "Ich würde Sie dringend bitten entsprechend zu verfahren"
+    },
+    "182fdb26-f058-4206-970a-2489f6d405da": {
+      "de": "Wir definieren unseren Wert als Mensch über unsere Arbeit"
+    },
+    "184048e8-29a3-4aba-ac0f-881390bcc319": {
+      "de": "Man braucht europäische Mechanismen"
+    },
+    "184fc642-3ce2-4ea8-818c-79e0520d0ca8": {
+      "de": "Pflege am Boden"
+    },
+    "1908d1cd-8300-494f-8f64-e145abddc2ff": {
+      "de": "Es gibt ein Problem der Politik"
+    },
+    "1911e0e5-a580-4961-b10c-9bfaf1a1e5fc": {
+      "de": "Das Europäische Parlament spielt da eine wichtige Rolle"
+    },
+    "1993aeec-91f2-4215-8da9-96caa0073cfd": {
+      "de": "Vielleicht gibt es an anderer Stelle Grund zum Handeln"
+    },
+    "1a3023b1-78d1-43a4-8b06-c2741994d773": {
+      "de": "Möchte sich jemand dafür äußern"
+    },
+    "1a3cf18d-1f68-4a82-8672-aba297c74775": {
+      "de": "Aber zurück zum Bericht"
+    },
+    "1a613eec-3266-4885-9c3e-9d8648277109": {
+      "de": "Ansonsten könnte die europäische Wirtschaft Schaden nehmen"
+    },
+    "1a67a043-2f3b-4797-b090-32e22624d0c8": {
+      "de": "Aufgabe der Politiker ist es nun ihn mit Leben zu erfüllen"
+    },
+    "1a7a155a-4385-481e-a682-4294030b4c3c": {
+      "de": "Das ist zwar eine Verbesserung aber keine Lösung"
+    },
+    "1ab8c3d2-b657-4b9d-9fab-4dd528924fd8": {
+      "de": "Aber wir werden da auch weiter gute Fortschritte machen"
+    },
+    "1ae0d948-5550-4a5a-ad72-fe87ad4b5894": {
+      "de": "Die andere Aufgabe betrifft die Landwirtschaft"
+    },
+    "1ae8acdf-33b9-4161-a1ec-47167a8bbc5d": {
+      "de": "Später brauchen wir das entsprechende Geld"
+    },
+    "1bc7481e-6ff1-417a-8e94-94cc868ceca1": {
+      "de": "Was ich nicht erwähnt habe war ausschließlich das Datum"
+    },
+    "1be73f6d-f26b-4d22-a6d7-f1240fb5e7ff": {
+      "de": "Ich danke den Betrieben für ihr Engagement in der Ausbildung"
+    },
+    "1c174729-d410-4210-ac10-4fe33d3a2dc4": {
+      "de": "Andererseits ist die Umwelt besonders empfindlich"
+    },
+    "1c42e576-3802-4a17-bb46-ea052db9b6b3": {
+      "de": "Deshalb müssen wir in dem Bereich auch verstärkt arbeiten"
+    },
+    "1c79a804-d4c1-496a-b181-8af7ce3dddf3": {
+      "de": "Je mehr Pflanzen davon aufnehmen desto schneller wachsen sie"
+    },
+    "1ca8503e-b8ed-4ed6-a41b-20ab16346c0c": {
+      "de": "Ich danke den beiden Abgeordneten für ihre wichtige Mitteilung"
+    },
+    "1cacdd83-1fb4-4161-8bce-de0ef4580db5": {
+      "de": "Damit sind die Erklärungen zur Abstimmung abgeschlossen"
+    },
+    "1d956b52-af15-4e67-8ae8-22b7045548b1": {
+      "de": "Dem fühle ich mich persönlich sehr verpflichtet"
+    },
+    "1e63c64e-ca22-45a8-84ab-c94e57444bda": {
+      "de": "Mehrere verschiedene Wege können eingeschlagen werden"
+    },
+    "1e84e525-c226-4190-b8c9-02905e330597": {
+      "de": "Ich möchte die heutige Gelegenheit dazu nutzen"
+    },
+    "1e972dda-dc28-4fa2-8755-4cdb7fce879f": {
+      "de": "Es ist noch nicht zu spät zum Handeln"
+    },
+    "1eb04d9e-196c-4c9a-a919-e93e7e9508c4": {
+      "de": "Dennoch wurde der Zugang zum Recht nicht wirklich erleichtert"
+    },
+    "1ecde09b-baf8-4522-a080-764e2c78844b": {
+      "de": "Ich bin der Meinung das Parlament könnte mit ihm leben"
+    },
+    "1f8fbc2b-713f-4d22-8740-ab8aff007c5e": {
+      "de": "Das Lernen in die eigene Regie nehmen"
+    },
+    "1fb00ee2-ce08-4068-860c-c8982987f96c": {
+      "de": "Die Frau die Reportage macht"
+    },
+    "200ff148-0db8-4bea-881a-f33e3947fcdc": {
+      "de": "Unsere Länder und Regionen profitieren von dieser Lösung"
+    },
+    "20b433bf-924b-4f4b-97f1-fd435d88f625": {
+      "de": "Werte müssen höher stehen als Macht"
+    },
+    "20e14ea2-9cef-45d9-8df2-247cff9e03da": {
+      "de": "Wir alle warten ungeduldig auf die Lösung dieser Probleme"
+    },
+    "20e51186-712a-4cc7-af68-512e13f4e918": {
+      "de": "Achttausend Arbeiter könnten ihren Arbeitsplatz verlieren"
+    },
+    "211945de-a359-4827-bb50-f2ca5914f489": {
+      "de": "Natürlich habe ich sie unterstützt"
+    },
+    "212b9d83-f598-4c08-82b8-28ca384d00f9": {
+      "de": "Gibt es irgendwelche möglichen Einsparungen"
+    },
+    "2186439e-e140-4c91-9cf1-b5b221cda976": {
+      "de": "Die beiden Staaten müssen noch viele Probleme lösen"
+    },
+    "21ba34fb-0ea6-4072-aff7-205339134d10": {
+      "de": "Weder Opfer noch Helden"
+    },
+    "21bdd75f-664a-458a-a757-eead52dd84fd": {
+      "de": "Deshalb möchte ich Ihnen jetzt antworten"
+    },
+    "21f078f5-cb38-4494-9708-f561aa1cba2c": {
+      "de": "Respekt vor den Eltern"
+    },
+    "21f20190-ee62-4372-b336-3424d48d3ee1": {
+      "de": "Herr Präsident Budgets müssen immer überprüft werden"
+    },
+    "2208456f-7e70-48b3-a7e7-c5587fe6d06e": {
+      "de": "Wirtschaftlich gesehen ist das absurd"
+    },
+    "227e8334-3f42-4cc6-85de-45f51cf15af2": {
+      "de": "Die Situation in Ägypten ist ähnlich auch wenn es schnell geht"
+    },
+    "230e7efc-2f39-418d-a6d0-1c10e13f3a94": {
+      "de": "Respekt gegenüber Minderheiten zeigen"
+    },
+    "24867540-f461-4add-b892-4528a6c4c9c9": {
+      "de": "Ich hoffe dass dies auch bis zum Schluss so bleibt"
+    },
+    "249ac489-b770-4264-941a-48c2984ac243": {
+      "de": "Das war sicherlich nötig"
+    },
+    "2516de00-5980-4514-89f9-b4d17beeb3d0": {
+      "de": "Es ist auch wirtschaftlich ein wichtiges Land"
+    },
+    "251e2ad3-095f-4e60-b6b2-2bdf7f14f537": {
+      "de": "Sehen Sie sich zum Beispiel Indien an"
+    },
+    "25816d9e-2e56-4276-ab48-c662ead487d9": {
+      "de": "Zu dieser Grenze muss Israel zurückkehren"
+    },
+    "25af628d-6073-462e-ad71-e4069c2f0f75": {
+      "de": "Griechenland beteiligt sich noch nicht aktiv an dem Programm"
+    },
+    "25d4b5af-df3f-4688-98a2-4b22a032e8d1": {
+      "de": "Die allgemeine politische Botschaft ist wichtig"
+    },
+    "261be3f1-38bd-4410-911f-d74e3c329247": {
+      "de": "Wir sind der Erweiterung verpflichtet"
+    },
+    "263a1dbb-8cf8-4386-b450-667716268a62": {
+      "de": "Die Menschen befinden sich in einem echten Dilemma"
+    },
+    "2659c9db-f1be-4af8-ba13-6a7f761e8d04": {
+      "de": "Man befindet sich jetzt in der entscheidenden Phase"
+    },
+    "26cda847-1dbe-4840-aa30-41557031955d": {
+      "de": "Wir dürfen diese schwache Leistung nicht hinnehmen"
+    },
+    "26d4997d-0b6e-48d0-be2a-8be04223d320": {
+      "de": "Er habe aber Respekt davor wenn jemand das nicht so sehe"
+    },
+    "26faf315-35f7-4b1a-9a08-c05fc932ec0c": {
+      "de": "Diese gehörte dazu"
+    },
+    "2719208d-a2b8-484b-ac3c-7ee0b268304a": {
+      "de": "Dieser Politik kann ich nicht zustimmen"
+    },
+    "27dee8ef-e5eb-431a-88b7-471178c647a8": {
+      "de": "In welchem Jahr fand die Französische Revolution statt"
+    },
+    "281d254a-d601-47e7-8f41-3be2feb74367": {
+      "de": "Dieses System muss weiter verbessert werden"
+    },
+    "29292a16-f6f1-4e17-a17d-3ad5284431ed": {
+      "de": "Erstens sind die Kämpfe leider noch nicht zu Ende"
+    },
+    "29793ae4-9617-4cf1-affd-ab58e8b20b65": {
+      "de": "Ich empfehle ihn diesem Haus"
+    },
+    "29b7252d-5423-42c3-930d-0102dce0b413": {
+      "de": "Die internationale Isolation ist für Israel sehr schädlich"
+    },
+    "29b76203-4a58-444d-8600-d9a5192a23c1": {
+      "de": "Die Verteidigung der Freiheit ist die Mitte Europas"
+    },
+    "29df997a-213f-4915-938b-21a4276fd3af": {
+      "de": "Es ist unsere Aufgabe unsere Firmen in die Pflicht zu nehmen"
+    },
+    "2a6fec82-d2dd-4933-a90a-f04e4d0164ce": {
+      "de": "Ich danke allen für ihre Unterstützung und Vorschläge"
+    },
+    "2aaa0680-9635-470c-9624-50f21654ed87": {
+      "de": "Wir brauchen diese guten Lösungen rasch"
+    },
+    "2afc19f3-e22d-41ce-a3b6-e71f61d552e9": {
+      "de": "Können wir uns eine Perspektive geben"
+    },
+    "2b16935e-5816-4e5e-af77-4f077d1a53b8": {
+      "de": "Mit schönen Worten helfen wir dort nicht"
+    },
+    "2b5e4ab0-4251-4377-b482-6f1091c5f73f": {
+      "de": "Ich glaube wir haben das Recht und die Pflicht dies zu tun"
+    },
+    "2b71a9db-ff09-41ae-939b-afe4967a7ae6": {
+      "de": "Diese Versprechen sind heute eingelöst"
+    },
+    "2b9a29b9-7188-4eb5-813b-e68eccbab3d0": {
+      "de": "Wir müssen wirklich am Ball bleiben"
+    },
+    "2baec3a4-86f3-4182-bb97-1d3f2bd9e84e": {
+      "de": "Diese Ausnahmen müssen erhalten bleiben"
+    },
+    "2cbbbd9e-7e43-49d0-a9f4-cf9f5da66058": {
+      "de": "Israel ist ein Land wie jedes andere"
+    },
+    "2cbf377c-b5a2-4483-bdde-41d11bb697c4": {
+      "de": "Es ist auch deshalb ein Erfolg weil jeder ein Opfer bringt"
+    },
+    "2d2cee90-5be2-48ac-bbed-10c4c3b59632": {
+      "de": "Dies ist auf zwei Arten möglich"
+    },
+    "2d654a1a-2bd7-43fe-b6b2-7e752afc2ac1": {
+      "de": "Und wie wird das Prinzip der Öffentlichkeit gehandhabt werden"
+    },
+    "2d7367e9-0ae1-4d1f-b293-19799cc59f1e": {
+      "de": "Viele Entscheidungen werden gemeinsam getroffen"
+    },
+    "2d92f1a7-de90-4407-a6ed-bb5aab4ca508": {
+      "de": "Niemand hat die Idee einer neuen Umsatzsteuer Strategie erwähnt"
+    },
+    "2d9bd3d7-300f-4e1c-94f1-6c4cc84e239b": {
+      "de": "Wir müssen die Schuldigen in diesem Bereich verfolgen"
+    },
+    "2d9f6ac1-eee3-4c76-81a1-54e2c903e47c": {
+      "de": "Dahinter steckt natürlich auch eine Prestige Frage"
+    },
+    "2e1321da-e0a8-49b3-89ce-4fd1ef1d3b82": {
+      "de": "Jedes Pferd das verkauft wird fehlt mir"
+    },
+    "2e54d931-2465-41a5-a02d-8397ac138cda": {
+      "de": "Ihre Antwort entsprach nicht ganz dieser Frage"
+    },
+    "2e54f272-35f0-4be7-b778-e97cc1f5173f": {
+      "de": "Die Kluft wird größer werden"
+    },
+    "2e818ee6-3b57-4a16-a6c0-c87fc42c71ec": {
+      "de": "Das käme uns allen zugute"
+    },
+    "2fd1205d-8c5a-460a-814c-5b9508710868": {
+      "de": "Nein Ihre Ursachen sind vor allem in der Politik zu suchen"
+    },
+    "3009e1df-ee6f-4ff4-bb55-6c96829ed4be": {
+      "de": "Wenn es irgendwo Mängel gibt werden wir diese beheben"
+    },
+    "3032dc56-b8e9-44c6-875d-9a4411751cdb": {
+      "de": "Jede Empfehlung beginnt mit dem Geben"
+    },
+    "307553b6-de5b-491b-8bc8-3e5502dfc4c6": {
+      "de": "Doch wie ist der aktuelle Stand"
+    },
+    "307e9d3c-c915-4ea0-b787-b5aabd7f5dba": {
+      "de": "Die Europäische Union ist mehrfach gefordert"
+    },
+    "308406dc-bc41-4dd8-a549-01a9231bc051": {
+      "de": "Die Terroristen wollen keine Lösung"
+    },
+    "30c33aa4-4c83-4401-8d9c-b0a064b4916f": {
+      "de": "Die Abstimmung findet heute um zwölf Uhr statt"
+    },
+    "30df4bac-2fea-4e00-b60b-7b105e301709": {
+      "de": "Uns ist es egal wie dies geschieht"
+    },
+    "31824819-75da-4564-a18c-b182d7dc1a24": {
+      "de": "Und dazu möchte ich der Kommission gratulieren"
+    },
+    "31de1fca-c8fa-45ed-9cd3-b3c8267ab55d": {
+      "de": "Zweitens ich bin besorgt über das Europäische Parlament"
+    },
+    "31fa4707-a07c-4603-9c84-7830665baa54": {
+      "de": "Das ist genau das was in den Verträgen festgelegt wurde"
+    },
+    "3237d756-0027-4ce8-8605-651119b705b3": {
+      "de": "Wir haben in Paris Fortschritte gemacht"
+    },
+    "32871e48-7f30-4e54-bc93-926ddd73f5af": {
+      "de": "Eröffnung der Sitzung"
+    },
+    "32e6023d-8d29-42f5-83a5-789ecaee021b": {
+      "de": "Opfer in den Medien Opfer der Medien"
+    },
+    "33a533a0-1b83-470e-98b9-8ddc8d717bf5": {
+      "de": "Wir können diese Dinge nicht dem freien Markt überlassen"
+    },
+    "33a65325-b252-4b38-a74f-c2c6f5aaa5d1": {
+      "de": "Neue Medien neue Politik"
+    },
+    "341ff553-1c2b-44d8-8d88-fdd7eaeb23fb": {
+      "de": "Ich halte drei Dinge für entscheidend"
+    },
+    "3422a13b-7ed6-4c09-9315-fee5d72d7ff9": {
+      "de": "Dies ist ein beachtlicher Fortschritt"
+    },
+    "34513028-091c-42cf-a36b-bc764cbc4580": {
+      "de": "Wir dürfen diesen Prozess nicht begünstigen"
+    },
+    "3460123a-232f-4629-9008-ec8efcbdcc62": {
+      "de": "Es ist das gleiche Dilemma Sicherheit oder Flexibilität"
+    },
+    "3471b336-7409-4290-a907-da933aa460ce": {
+      "de": "Lassen Sie mich nun zum Thema Türkei kommen"
+    },
+    "350b9f4a-a354-42c7-b05a-6678a38b8090": {
+      "de": "Die Europäische Union kann dies durchaus fördern"
+    },
+    "35404e7b-fb1c-4640-98c7-ca09bfb2364e": {
+      "de": "Heißt das nun wir können nichts tun"
+    },
+    "354772fb-b618-4eec-ae75-e44a4283cbd0": {
+      "de": "Ich werde alle rechtlichen Möglichkeiten ausschöpfen"
+    },
+    "357c2eea-c5fd-47d4-920d-4a8ec7d6841c": {
+      "de": "Die Initiative für eine globale Antwort kam von Europa"
+    },
+    "35c01a7b-53d8-4407-a356-9022b3896992": {
+      "de": "Was können wir tun damit unsere Berichte Gehör finden"
+    },
+    "36602238-d81b-4f74-83a2-d3436f2d11d4": {
+      "de": "Unmittelbar Frieden hat die Bundeswehr nicht geschaffen"
+    },
+    "368d66cd-7b0c-4233-93d9-79826445b5cc": {
+      "de": "So stellt sich zum Beispiel das Problem der Finanzierung"
+    },
+    "37ae8289-9e91-4f0d-a4d3-70dddf3522a5": {
+      "de": "Erstens die Politik der Nördlichen Dimension zu unterstützen"
+    },
+    "37c535fd-e06a-42e5-9439-bdbe86d115cc": {
+      "de": "Sie werden also Ihre Argumente dort darlegen können"
+    },
+    "37e99d69-ed71-4768-b737-c24830c019b4": {
+      "de": "Alle möglichen Lösungen sind den Parteien unterbreitet worden"
+    },
+    "3800a068-2676-40d8-bec9-63d09f89223c": {
+      "de": "Ich werde Dir den Kopf abschneiden"
+    },
+    "38146518-13df-4885-b6f8-1273ea924325": {
+      "de": "Die Fraktion der Grünen und ich persönlich lieben Ungarn"
+    },
+    "383f79a4-1068-4aba-9057-4af339b43655": {
+      "de": "Dafür brauchen wir die entsprechenden Mittel"
+    },
+    "3883066e-6b1a-4993-b990-c92099a4738d": {
+      "de": "Und diese Verantwortung tragen Sie die Regierungen"
+    },
+    "389bf76b-a191-4847-bc4f-6f95bb8dd02f": {
+      "de": "Jetzt möchte ich auf meine Bedenken zu sprechen kommen"
+    },
+    "38d56625-782c-48dc-9d70-ba87320410f4": {
+      "de": "Scheitert der Dialog müssen wir Sanktionen einleiten"
+    },
+    "3913b3dc-403d-4840-a6e3-7b171ef96928": {
+      "de": "Mir würde es sehr gefallen das zu erreichen"
+    },
+    "394ec156-2049-4df2-a322-c4de05cfac18": {
+      "de": "Natürlich müsste der Rat sein Einverständnis geben"
+    },
+    "39e21cfa-2a70-423e-8457-dc45c2167d62": {
+      "de": "Daher haben wir uns heute der Stimme enthalten"
+    },
+    "3a243168-6092-4232-86ad-f12c2fc49678": {
+      "de": "Die Verbraucher brauchen auch Wahlmöglichkeiten"
+    },
+    "3a3110cc-c4b1-45f6-b19e-1c5603d94fae": {
+      "de": "Darin liegt nämlich der Grund für die Schwierigkeiten"
+    },
+    "3a3213de-ba0c-46f4-bb2f-2829b71702ca": {
+      "de": "Ist dies möglich"
+    },
+    "3aacb63e-ef9c-4137-86be-4739e723451a": {
+      "de": "Wir wirtschaften nicht nachhaltig"
+    },
+    "3bbe43fe-9ed0-45c0-993a-bc57280a1d02": {
+      "de": "Wir würden sonst das Leben unserer Mitbürger gefährden"
+    },
+    "3bcd585f-eb99-4f11-98ba-43cb8da07e77": {
+      "de": "Die Abstimmung findet am Mittwoch um zwölf Uhr statt"
+    },
+    "3bd4eaae-64e3-4adc-9f75-2c298ba99b20": {
+      "de": "Mein Kollege kann das bestätigen"
+    },
+    "3c65ea31-59f9-42de-9660-0c2639f3b1b3": {
+      "de": "Darauf kann das Europäische Parlament stolz sein"
+    },
+    "3c69ba1b-bace-40fd-8be8-8d88197fd8b9": {
+      "de": "An die müssen wir denken"
+    },
+    "3c88f3e1-542d-4627-982b-54da0de3b5f4": {
+      "de": "Diese Instrumente sind noch lange nicht ausgeschöpft"
+    },
+    "3cd68cd5-e206-4559-8d35-ac88f574cf43": {
+      "de": "Das gilt natürlich auch für Israel"
+    },
+    "3ce725a8-9b97-4b5d-ae37-7c3faa0534b5": {
+      "de": "Ein Grund mehr für diese Mitteilung zum jetzigen Zeitpunkt"
+    },
+    "3d44d08a-4087-4076-8f64-9b3321a193fe": {
+      "de": "Eine andere Lösung sehe ich nicht"
+    },
+    "3d6f3a29-40b0-45e3-a16a-30fc3afafe3d": {
+      "de": "Dieser Bericht enthält eine Reihe konkreter Empfehlungen"
+    },
+    "3de552e1-c791-44fc-bfce-23c3ca36877b": {
+      "de": "Die Politik muss den jungen Leuten feste Ziele vorgeben"
+    },
+    "3e014f04-a857-455d-976d-66d9c9ea6814": {
+      "de": "Kopf oder Zahl"
+    },
+    "3e51b753-bbe1-4420-bf36-16ca8957d9de": {
+      "de": "Sie ist nicht mehr nur eine Möglichkeit"
+    },
+    "3e6168a7-2bd1-4a95-ba7a-64cf3501370a": {
+      "de": "Möglich ist es das Zweite zu erreichen"
+    },
+    "3e7651d2-e603-4536-9e83-e89889194c53": {
+      "de": "Das stand jetzt zum Beispiel nicht im Buch"
+    },
+    "3eb361a7-e7ab-4515-bae7-5aeb62c317ea": {
+      "de": "Integrität und Recht"
+    },
+    "3ed4d981-b4a1-4829-a100-54911ccb08e7": {
+      "de": "Die Billionen Marke wird erstmals geknackt"
+    },
+    "3eebae73-5756-4143-8bda-aa0a7f2f05be": {
+      "de": "Über die zweite Möglichkeit wird kaum nachgedacht"
+    },
+    "3f27b410-0fa8-4e04-b1e1-42178b159ee2": {
+      "de": "Keine Versicherung egal wie groß kann solche Summen aufbringen"
+    },
+    "3ff11e00-52ad-4300-b4d7-a953ad1092bf": {
+      "de": "Die Abstimmung findet heute um zwölf Uhr dreißig statt"
+    },
+    "40204d2b-2c16-4a46-82a5-ab88c60b4fbf": {
+      "de": "Vielleicht könnten Sie das noch ein bisschen näher definieren"
+    },
+    "409596a6-2b9c-4efa-8b54-ebb5b42b006b": {
+      "de": "Ich möchte dies erklären"
+    },
+    "412bc82c-61d8-4391-8fda-cfa3e63fec6b": {
+      "de": "Die Bundeswehr bietet Ihnen individuelle Möglichkeiten"
+    },
+    "4130936a-20f5-46d3-9016-fb86a288a0b9": {
+      "de": "Das kann nicht im Sinne von Sozialdemokraten sein"
+    },
+    "4185cf67-6403-4ca3-bc61-a0fdb75508d9": {
+      "de": "Dafür werden wir kämpfen"
+    },
+    "41ad9aa6-dbfb-48fc-b75d-6b8432c29b48": {
+      "de": "Keiner hat heute die schnelle Lösung"
+    },
+    "41cd6281-0389-49d0-bade-82fbdbdcbdaf": {
+      "de": "Wir können und dürfen uns dieser Pflicht nicht entziehen"
+    },
+    "41d7b84f-a3af-4424-b214-5b914c0d86bf": {
+      "de": "Wie geht es weiter mit der Pflege"
+    },
+    "4238bd44-69a7-42f4-95ec-5b85b3582e1d": {
+      "de": "Das kenne ich aus Deutschland sehr gut dieses Wort"
+    },
+    "424a5040-045e-4f4e-822a-5d4bee4a22ad": {
+      "de": "Mein Bericht soll sie dabei unterstützen"
+    },
+    "42740acd-80d4-46d1-b537-15ff1ad89afb": {
+      "de": "Dafür benötigen wir eine einheitliche Vorgehensweise"
+    },
+    "42c95fc2-31bd-4c52-8951-af6cd56db2fd": {
+      "de": "Das verdient durchaus unseren Respekt"
+    },
+    "438095d3-ead6-4ead-b157-4d0cfe49af9b": {
+      "de": "Lassen Sie mich noch etwas mit Respekt hinzufügen"
+    },
+    "43a63f3a-fa86-4553-ac32-86a22cf540db": {
+      "de": "Vor der Revolution war das undenkbar"
+    },
+    "44767a5b-02cf-458a-9f6a-69bedd24700a": {
+      "de": "Die EU sollte ihre Haltung entsprechend anpassen"
+    },
+    "448b8053-f855-403d-a55b-166b2e4dc38f": {
+      "de": "Die Konsumenten Revolution hat längst begonnen"
+    },
+    "4493b83b-f62e-4d91-8399-ac8e6af90963": {
+      "de": "Ihnen sind die Betroffenen egal"
+    },
+    "45175204-0c2f-4fbc-be4e-21bdd8f4d00e": {
+      "de": "Doch der Bedarf ist enorm während die Mittel begrenzt sind"
+    },
+    "45195d22-cf9b-406f-93d8-feb821ca6834": {
+      "de": "Möchtest du erzählen wie deine Woche war"
+    },
+    "452bfd0c-d8f1-471c-ba87-081a1f525b3f": {
+      "de": "Dabei messen wir einigen Grundsätzen entscheidende Bedeutung zu"
+    },
+    "454d8f84-b168-4a34-bc43-0f654b6d1cbc": {
+      "de": "Wir empfehlen vielfältige Maßnahmen"
+    },
+    "4590e918-b4f1-4c2c-8c55-50d5952088ca": {
+      "de": "Verlierer sind die Wähler und die Abgeordneten"
+    },
+    "45a37903-40e4-453c-b56f-f02f30613860": {
+      "de": "Dies ist einer der Aspekte auf den ich hinweisen möchte"
+    },
+    "45daf7e3-dad1-4dc8-8d93-56ae77b16548": {
+      "de": "Jemand sprach von einem Kampf der Kulturen"
+    },
+    "461ad120-c6eb-4bf5-8738-b9fb5e6d0715": {
+      "de": "Ich denke der Bericht spricht da sehr deutlich für sich"
+    },
+    "4632e46d-1f36-4570-9d5d-339e4fa6bec8": {
+      "de": "Die Jugend hat die Revolution gemacht"
+    },
+    "467a32f5-4990-46eb-a079-ae117b6be9dd": {
+      "de": "Die Abstimmung findet morgen um elf Uhr statt"
+    },
+    "46854443-a5bb-494b-a186-ea8e34b093be": {
+      "de": "Dieses Recht und diese Pflicht haben uns die Bürger übertragen"
+    },
+    "46ace54e-cc85-450b-9454-147ca1f66352": {
+      "de": "Wir machen Europa lebendig"
+    },
+    "47137ff8-ce31-49f4-8c39-08878d44570c": {
+      "de": "Soweit meine erste Feststellung"
+    },
+    "47739380-036f-4ede-8a4f-7e5e9a9513c3": {
+      "de": "Beide Länder haben alle Kriterien erfüllt"
+    },
+    "47e2b72a-6721-4dac-83cd-07ad0b5f98dd": {
+      "de": "Wir kommen dann zum Antrag der liberalen Fraktion"
+    },
+    "49098c1c-dd39-4a70-b05f-9b9d6851d53c": {
+      "de": "Wir haben auch eine Studie aus Österreich"
+    },
+    "49f446c8-1076-4eb7-98c2-66d0226ca1a3": {
+      "de": "Das Opfer war jedoch keiner von ihnen"
+    },
+    "49fd7b94-4407-4e84-a688-bc2c97514fa8": {
+      "de": "Daher haben wir uns entschlossen für den Bericht zu stimmen"
+    },
+    "4a56eefb-131e-4008-a52a-78a78b04b201": {
+      "de": "Ich empfehle dem Haus diesen Vorschlag"
+    },
+    "4a9290a9-52c4-46b8-b135-de86fd41457f": {
+      "de": "Die Revolution hat gerade erst begonnen"
+    },
+    "4af19591-26eb-4afa-ba34-82e456476e53": {
+      "de": "Es gibt außerdem wichtige Aspekte in bezug auf die Integrität"
+    },
+    "4af1daa0-d88a-4d92-ae7d-6927b2d928f9": {
+      "de": "Das gehört jedoch nicht zum Gegenstand dieser Debatte"
+    },
+    "4be6bc1d-1a09-4feb-b2b4-b44265f9a42e": {
+      "de": "Schade denn wir benötigen ein starkes Europa"
+    },
+    "4bfa94ad-0614-42ca-81ae-9e41853d7741": {
+      "de": "Ich komme jetzt zum Problem der Finanzierung"
+    },
+    "4ca06b57-07f4-455c-ab5b-38d927a1ebb7": {
+      "de": "Wir müssen nun einen Ausweg aus dieser Situation finden"
+    },
+    "4ca69137-c38d-414c-b881-eed9164ba241": {
+      "de": "Es weiß doch heute jeder was die Bundeswehr macht"
+    },
+    "4cf45b6b-1a84-4bb8-b4af-450d529c94d9": {
+      "de": "Die EU sollte rasch entsprechende Maßnahmen einleiten"
+    },
+    "4cfaae01-f61d-4205-9b5d-3b28a571c9b2": {
+      "de": "Ist das ein Pferd"
+    },
+    "4cfe1512-49b1-4132-9b7e-653a488d7481": {
+      "de": "Auch ich glaube daß das eine wichtige Entscheidung ist"
+    },
+    "4d4feec2-b42f-4ba5-83c9-2ae020c76340": {
+      "de": "Es ist zu einem ständigen Kampf geworden"
+    },
+    "4d802670-84f4-4e36-948b-ae0b85eecb41": {
+      "de": "Das Kapitel Ausrüstung der Bundeswehr ist noch offen"
+    },
+    "4da0360d-7982-462c-871b-f83c235ade2c": {
+      "de": "Diese Politik hat zu guten Ergebnissen geführt"
+    },
+    "4db9f073-3cd3-45e2-8ffa-ecd336a448ee": {
+      "de": "Das Parlament hat Gelegenheit das Programm für alle zu öffnen"
+    },
+    "4de22dbc-3b64-4319-bec4-e47c5d58d224": {
+      "de": "Es handelt sich auch um eine finanzielle Verpflichtung"
+    },
+    "4df88645-aa7e-436e-9508-f6ea206e4aed": {
+      "de": "Das sollen die Kollegen selbst entscheiden"
+    },
+    "4e070665-4606-420c-a43a-300aeb8d375a": {
+      "de": "Wir stehen kurz davor das Abkommen zum Irak anzunehmen"
+    },
+    "4e8f2ef5-7ee1-4a97-9c89-c98213e5ea56": {
+      "de": "Das ist Grundlage für unsere Bewertung"
+    },
+    "4f2c56ef-0757-40f5-bdda-56324506da94": {
+      "de": "Ich komme nun zum Ende"
+    },
+    "4f74ba05-691d-4b3e-a3e6-a2ece731a151": {
+      "de": "Weil wir ein System haben das sie völlig verrückt macht"
+    },
+    "506e7ded-ea4b-470b-91a4-65eff78b7c69": {
+      "de": "Auch wir haben Angst daß uns der Himmel auf den Kopf fällt"
+    },
+    "50a5f08e-d081-4834-9bdf-771b46071475": {
+      "de": "Allerdings wird nicht nur die Umwelt davon profitieren"
+    },
+    "50a938e9-5b3e-4678-a0b9-1899c477dcbf": {
+      "de": "Doch gerade sie werden von der EU Politik weitgehend vergessen"
+    },
+    "50b5f11f-787d-4e85-b769-233337ca5ca7": {
+      "de": "Die Integrität der Ukraine wird verletzt"
+    },
+    "50c8b782-e94f-441a-9d2c-4543e92ea1d1": {
+      "de": "Ich habe meinen Fehler zugegeben und mich dafür entschuldigt"
+    },
+    "5133f462-b009-43cc-9f9a-b7f3d5874811": {
+      "de": "Die Sozialdemokraten müssen diese Strategie fahren"
+    },
+    "519be4ac-6d75-4012-b5b9-df94de22358c": {
+      "de": "Darauf bestehe ich"
+    },
+    "5245dc12-0dd7-40c4-a91f-ab0445601b27": {
+      "de": "Die Antwort wäre lediglich Ja oder Nein"
+    },
+    "52520f95-8314-470e-ac32-703b8fc48922": {
+      "de": "Zunächst möchte ich über aktuelle Themen sprechen"
+    },
+    "5259217a-8dab-488f-98d6-94f1a58af635": {
+      "de": "Ich komme zum Anfang zurück"
+    },
+    "52c5f911-13ec-465d-87a8-6561b3cf4644": {
+      "de": "Die Lage in Israel ist dramatisch"
+    },
+    "52eee1dd-9840-4155-b104-1d273a73f39b": {
+      "de": "Das Potenzial für die Branche ist noch groß"
+    },
+    "52fa1f29-0d20-4aff-a84b-c075571cacee": {
+      "de": "Von welchen und von wie vielen Regierungen"
+    },
+    "5309416c-16e4-4af2-9232-a1bf781365a5": {
+      "de": "Wir müssen viel über die Chancen in der Union sprechen"
+    },
+    "5336faee-462b-4071-b2d9-5d53ca904c6a": {
+      "de": "Damit haben wir das Problem ja sehr elegant und richtig gelöst"
+    },
+    "5359b942-b1e0-47c3-9023-7fafa6bd76b9": {
+      "de": "Damit werden Flüchtlinge als Lasten verunglimpft"
+    },
+    "53b33a01-ab2b-40a3-9c5f-f30cf0f9cf0a": {
+      "de": "Die Debatte muss sich um drei entscheidende Fragen drehen"
+    },
+    "54265042-d2a8-4637-adf0-5fd945bd3c91": {
+      "de": "Der Dritte Weg für Europas Sozialdemokraten"
+    },
+    "5428a30f-203e-4ebf-a2c8-6a0d9abb4fed": {
+      "de": "All das ist zu verurteilen und sollte Anlass zum Nachdenken sein"
+    },
+    "543f36c6-4e7e-4291-ad16-7b7447ca8678": {
+      "de": "Wir wollten in der Tat so viel Fortschritt wie möglich"
+    },
+    "548d9670-fc21-43b0-8491-e63a6ea19626": {
+      "de": "Kann ich von der Kommission eine Erklärung erhalten"
+    },
+    "54cf17b2-d1be-4983-a2ed-a1ce5f0114d5": {
+      "de": "Die nationale Revolution geht weiter"
+    },
+    "55548e00-abe7-4b26-898b-641e79f8894c": {
+      "de": "Empfehle den Abschied vom Euro"
+    },
+    "556a62aa-de1a-478b-bb36-49ea88bdf17d": {
+      "de": "Welche Beurteilung und welche Politik liegen dem zugrunde"
+    },
+    "557ef831-9181-4fb6-a376-14a871ff1228": {
+      "de": "Journalisten und internationale Interessenten"
+    },
+    "565b36b4-3daf-4d04-a341-f43630e9406a": {
+      "de": "Und so muss auch die Politik der Europäischen Union aussehen"
+    },
+    "566f103f-d4d6-46bd-b8c3-1d4a6a862014": {
+      "de": "Jetzt brauchen wir weiteres Engagement"
+    },
+    "569119cf-e986-42bf-882f-6a622d182cb1": {
+      "de": "Fortschritte wurden in allen Bereichen festgestellt"
+    },
+    "56df5fb3-d82d-4666-ae77-a37290fd9564": {
+      "de": "Die Veränderung ist wichtig und positiv"
+    },
+    "5704c5ef-96dc-47a7-b20a-cf3f79d43977": {
+      "de": "Ich habe großen Respekt vor Ihren Leistungen"
+    },
+    "57461be8-7e8b-450d-bfb1-96b9c8856267": {
+      "de": "Lassen Sie mich mit einer einfachen Botschaft zum Ende kommen"
+    },
+    "5766b6c2-b716-4165-b27b-4c73a622ec4c": {
+      "de": "Betrifft Unterstützung für den Kampf gegen Drogen"
+    },
+    "57ac5b88-f444-4c90-93e0-8e4c86676ccb": {
+      "de": "Dann gehen auch Sie gestärkt daraus hervor"
+    },
+    "57ba4b4d-8d0c-4376-a6f6-7133ff608e3d": {
+      "de": "Wie Sie sehen ist bei diesen Themen alles möglich"
+    },
+    "57c3b902-d911-4a9a-ab7d-3590a767fdd2": {
+      "de": "Das ist meiner Meinung nach der Weg den wir einschlagen müssen"
+    },
+    "57c5cf43-9995-4efc-9f1e-98e879e94c31": {
+      "de": "Ich möchte auf einige Widersprüche hinweisen"
+    },
+    "57ea0d0e-f4a3-4af1-843d-461966ccfca4": {
+      "de": "Schon lange sollte die Kommission diese Vorschläge vorlegen"
+    },
+    "57ebe1c3-90da-48ea-803f-138b22682cab": {
+      "de": "Nehmen wir zum Beispiel Österreich und Italien"
+    },
+    "581ad5f3-6826-4ea4-9bef-946759d759ab": {
+      "de": "Das zum einen"
+    },
+    "58979418-bd6d-4a65-801a-966b47af64bb": {
+      "de": "Das Wirtschaftswachstum hielt sich in Grenzen"
+    },
+    "58a89c7d-8dc1-4298-8b3f-0872810b0c3b": {
+      "de": "Es muss einen gemeinsamen Kampf gegen Kriminelle geben"
+    },
+    "58e2776d-33ba-4cb0-a28f-543ac8e28d75": {
+      "de": "Lohn und Sozialpolitik"
+    },
+    "59307364-f72a-462b-9768-10f65b0ad11d": {
+      "de": "Sind Sie bereit sehr bald darüber Gespräche zu führen"
+    },
+    "593da5e9-5a6c-4a40-95c3-b51f3fcb528d": {
+      "de": "Es kommt ganz auf die Branche an"
+    },
+    "598a98a2-6736-419f-970c-9d74b8ebeaf9": {
+      "de": "Die nächste Revolution"
+    },
+    "59a81283-58c0-4ee9-b019-27852d7787d5": {
+      "de": "Das wäre meiner Meinung nach sehr zu begrüßen"
+    },
+    "5a0411fa-5fa9-40b6-b812-db9ca4c365ea": {
+      "de": "Es gibt keine andere Lösung"
+    },
+    "5a209090-14b8-45e9-942d-f4042e9118ca": {
+      "de": "Ist das was ich in meiner rechten Hand halte tot oder lebendig"
+    },
+    "5a8b1f3e-02cd-4538-ab5f-ddb1a81b6f77": {
+      "de": "Ich danke Ihnen Frau Schröder"
+    },
+    "5a981a98-37af-41d0-bd91-31c36423e4c5": {
+      "de": "Die ganze Debatte hat nichts zum Thema beigetragen"
+    },
+    "5ad1f734-4568-4a3a-9f89-591accaa3a2d": {
+      "de": "Darin besteht die Bedeutung der dritten Generation"
+    },
+    "5af04856-4329-4e06-8321-44d16a5faa04": {
+      "de": "Wir sind zum Handeln gezwungen"
+    },
+    "5b1ce7f8-31c6-449d-bff3-8fbc3616c5e6": {
+      "de": "Gefahr entsteht im Kopf"
+    },
+    "5b326ba5-fd05-419a-97e5-8ee9aac90457": {
+      "de": "Die Bereitschaft Europas ist da"
+    },
+    "5c021879-79cd-46d8-a56d-9d687eb66061": {
+      "de": "Die EU Politik gegenüber China beruht auf Engagement"
+    },
+    "5c3b720c-c12d-43b9-a217-048bc104af76": {
+      "de": "Sie mussten die größten finanziellen Forderungen zahlen"
+    },
+    "5c48be2f-949a-423e-a879-3cdd93d48074": {
+      "de": "Auch die Türkei hat erhebliche Fortschritte gemacht"
+    },
+    "5c9aa5af-f351-48e2-a324-a496fe949134": {
+      "de": "In den Agenturen wird es keine Kontrolleure geben"
+    },
+    "5ce849c8-8b25-401a-99d9-a4005fa8b6f5": {
+      "de": "Herr Präsident ich habe zwei Bemerkungen zum Protokoll"
+    },
+    "5cf87f83-5f59-4633-a349-8bc8b785207c": {
+      "de": "Ich halte diesen Vorschlag für sehr vernünftig"
+    },
+    "5d13f8b2-5296-4f24-9818-18b22e097ea9": {
+      "de": "Respekt muß man sich verdienen"
+    },
+    "5d1789a6-91c3-4285-a7c7-8c67c365c870": {
+      "de": "Das ist die einzige Option für die Europäische Union"
+    },
+    "5d509865-f82e-466c-b0eb-6cca9f5bbd75": {
+      "de": "Staat und Revolution"
+    },
+    "5d539715-4d96-4a5b-906f-e03456c54ee1": {
+      "de": "Wir werden mit Ihnen in eine entsprechende Aussprache eintreten"
+    },
+    "5df4b8c2-f8bb-4dc0-a0f5-6c830322c51c": {
+      "de": "Oder ist die Polizei in anderen Ländern schlechter"
+    },
+    "5e33145b-cc64-411e-a24d-22b3975e0088": {
+      "de": "Deshalb brauchen wir eine unabhängige Bewertung"
+    },
+    "5e4294b3-031c-4c5b-bf57-e57f143e82c6": {
+      "de": "Revolution der Bürger"
+    },
+    "5e9ec61b-7ef8-4a48-8c13-3fbf2841d623": {
+      "de": "Und danach werden wir dann Entscheidungen treffen"
+    },
+    "5eb80257-85e4-4044-b73c-b5eb02b11526": {
+      "de": "Als Erstes möchte ich auf die Frage der Finanzierung eingehen"
+    },
+    "5eec7465-c552-452b-abfa-bdba0de63f8f": {
+      "de": "Das wäre mein Vorschlag"
+    },
+    "5f4be816-5dc6-4dd6-b02f-ca34b76ba77b": {
+      "de": "Die Entscheidung über die Form liegt jedoch bei Ihnen"
+    },
+    "5f8b309c-5551-4a12-adf0-7ca2b6ea0ca1": {
+      "de": "Gesundheit Pflege und Senioren"
+    },
+    "5fd65e97-3688-4da9-8fc8-68e54b01abd5": {
+      "de": "Aus diesem Grunde können wir nicht für diesen Bericht stimmen"
+    },
+    "5fd7aa22-a236-40f9-b73a-4059f08bacdc": {
+      "de": "Das ist die einzige mögliche und korrekte Lösung"
+    },
+    "6039efd4-36a9-4a62-9ada-ff1a95d92c28": {
+      "de": "Mir ist das ziemlich egal"
+    },
+    "603e0f45-e01b-4463-b411-becba5a28b98": {
+      "de": "Dennoch empfiehlt es sich die Ziele klarer festzulegen"
+    },
+    "6058d08d-ae9d-47a5-b2f8-5d3fc7e171d5": {
+      "de": "Und was stellen wir heute fest"
+    },
+    "608746c2-09ec-4c72-b7d4-27ee72fe00cc": {
+      "de": "Es gibt aber sicherlich auch andere Möglichkeiten"
+    },
+    "60d08ab3-b31b-401f-9ad3-2d9181829e38": {
+      "de": "Haben die Dienste denn schon Zeit zum Zählen gehabt"
+    },
+    "615422f1-0e54-4230-b76e-5a63fe3214a5": {
+      "de": "Wer entscheidet darüber"
+    },
+    "6245fd3f-bbc1-4427-8c9c-59ace2e40705": {
+      "de": "Ich empfehle Ihnen und dem Haus diesen Satz"
+    },
+    "628fd08a-ec95-456c-a7d2-e45aa676e0d1": {
+      "de": "Ich hatte gehofft dass Sie das gehört haben"
+    },
+    "63240525-c2a0-4891-936c-811550c27958": {
+      "de": "Möchte jemand für den Antrag sprechen"
+    },
+    "63321e38-d005-40ee-8550-4151722f7b9c": {
+      "de": "Das gibt Anlass zum Nachdenken"
+    },
+    "634f6b6c-a8c1-4125-9d7a-c5d92a174877": {
+      "de": "Die Europäische Union muss reformiert werden"
+    },
+    "637a4959-6318-4ce6-8ef4-57d07d776f41": {
+      "de": "In den Vereinten Nationen ist es die EU die Engagement zeigt"
+    },
+    "63978842-a1d6-4478-83db-ee6e2d5f739c": {
+      "de": "Wir kämpfen und geben alles"
+    },
+    "64d14469-5aa5-4636-b846-582024f3ab28": {
+      "de": "Definition von Revolution"
+    },
+    "64dd6786-f91e-4f27-9f88-b57d6201cba2": {
+      "de": "Sie müssen allerdings bis zum Ende vorteilhaft genutzt werden"
+    },
+    "650ad6cd-8caf-42cd-9d64-846c74e8cf41": {
+      "de": "Ich glaube nicht dass es hier um Prestige geht"
+    },
+    "655d8209-2820-4063-b5e6-39b13d6e4303": {
+      "de": "Es handelt sich geradezu um eine Revolution"
+    },
+    "656085fb-43d6-4b91-aaa5-6d332157352d": {
+      "de": "Dies können wir nicht einfach den Regierungen überlassen"
+    },
+    "6573361e-4615-4cb2-9e2a-d761544af058": {
+      "de": "Die EU trägt eine entscheidende Verantwortung"
+    },
+    "65c074a8-ab6d-48af-b3a3-59a62de303c6": {
+      "de": "Ich empfehle den Bericht dem Parlament"
+    },
+    "65c8af53-f6aa-4f97-8533-a42a646f7ca8": {
+      "de": "Ich möchte aber zum heutigen Punkt kommen"
+    },
+    "664e860a-5e2c-4f54-9749-a816a2430ab3": {
+      "de": "Sie bestehen bis zum heutigen Tage als politische Kraft weiter"
+    },
+    "667733e5-da80-49a6-99ab-f544013d3f78": {
+      "de": "Ich kann die letzte Feststellung nicht teilen"
+    },
+    "667fffa7-abdd-4e56-8368-39426fcbd20f": {
+      "de": "Gut das ist möglich"
+    },
+    "669c136f-b127-4cdb-bcc8-c9d736220c37": {
+      "de": "Ich habe deshalb auch bis zum Ende gewartet"
+    },
+    "66db253c-0ba4-45c6-a6fb-9008e457a90a": {
+      "de": "Es geht im Kern darum daß wir eine bessere Lösung finden"
+    },
+    "67039e0b-e46b-4aef-aede-45faf5c4a013": {
+      "de": "Das wird sich auch für die Wirtschaftspolitik zeigen"
+    },
+    "670cadcb-ec79-4018-9e54-6a708c305150": {
+      "de": "Das ist Aufgabe der Wirtschaft und der Kräfte des Marktes"
+    },
+    "679683bb-1159-4cc6-aade-2108d217334e": {
+      "de": "Ich möchte über einen Aspekt sprechen den wir oft übersehen"
+    },
+    "680e216d-a44c-466c-aa6c-63a9537f8a85": {
+      "de": "Ein Dritter nennt die Sozialdemokraten"
+    },
+    "68b3c76b-af2d-49e2-b1b4-4f7c35bc8234": {
+      "de": "Damit ist in der Europäischen Union eine neue Lage entstanden"
+    },
+    "68bd92af-6ef0-4c11-adc6-b7e69fbb9fde": {
+      "de": "Zeigen wir Respekt für unsere Bürger und für Europa"
+    },
+    "6905956d-5a37-44ca-8b67-314d3e44229e": {
+      "de": "Vielen Dank Herr Ministerpräsident"
+    },
+    "691c3415-84d8-4c14-a7f3-97d8b933ce74": {
+      "de": "Und ich glaube wir haben uns alle zum Besseren geändert"
+    },
+    "692ef30f-f63f-4716-ae0b-aaeda5cbbf01": {
+      "de": "Österreich muß sich entscheiden"
+    },
+    "696e8564-434d-4148-b9ff-8605ee3fafa8": {
+      "de": "Ich möchte hier ganz kurz auf einige Fragen eingehen"
+    },
+    "69c27178-929c-4445-9842-0e9e47d693e7": {
+      "de": "Wir leben in einer Zeit der technischen Revolution"
+    },
+    "69e582c4-a769-48d3-97ea-0a60347feae2": {
+      "de": "Ich komme nun zum Schluss"
+    },
+    "69e86484-0214-416d-a421-da91edcc29e3": {
+      "de": "Rußland muß seine Politik ändern"
+    },
+    "6a436e35-0e69-468a-9311-353057c0eac8": {
+      "de": "Was sollen die Erzeuger tun"
+    },
+    "6a67f506-594f-4e73-b253-e863661d9bc7": {
+      "de": "Wer könnte sich beteiligen"
+    },
+    "6a7df29b-044b-4c47-8b10-6554b95dfcb1": {
+      "de": "Es ist eine wirklich entscheidende Frage"
+    },
+    "6bf05afe-26f0-47ec-ab9b-89fade9624ab": {
+      "de": "Was müssen wir denn jetzt tun"
+    },
+    "6c4717fd-7980-4381-ad4a-0b218122de6b": {
+      "de": "Der dritte Grundsatz ist der der Stabilität"
+    },
+    "6cb569a2-5b2b-4641-8ed1-4a830d2bf2d7": {
+      "de": "Ich habe getan was meine Pflicht war"
+    },
+    "6ced7003-d53f-4e9b-a384-91483a347db7": {
+      "de": "Das alles nimmt immer größere Ausmaße an"
+    },
+    "6d486210-c269-423d-83dd-d6dd2acb6716": {
+      "de": "Zumindest dann wenn diese Frist auf zwölf Monate verkürzt wird"
+    },
+    "6d970938-2dca-4d3f-b9a0-94a5a4bbccf5": {
+      "de": "Das ist die entscheidende Frage"
+    },
+    "6de30470-3a7d-4c29-a8cb-1411c682459c": {
+      "de": "Die Anwender sollen sich der örtlichen Sprachen bedienen"
+    },
+    "6e841a10-cb10-48fc-9433-79596a31269e": {
+      "de": "Nicht jetzt schon den Wahlkampf beginnen"
+    },
+    "6ecb6a54-075e-47fd-bced-38d742e6aa9b": {
+      "de": "Ich habe großen Respekt"
+    },
+    "6ef21522-20c0-433e-8469-36cbb594874a": {
+      "de": "Bildung ist ein öffentliches Gut"
+    },
+    "6ef2f70e-df69-45a2-bcf4-346622710d3a": {
+      "de": "Das Europäische Parlament legt noch mehr nach"
+    },
+    "6ef539f2-61f2-4dbb-be38-dee384429106": {
+      "de": "Können Sie entsprechende Zahlen vorlegen"
+    },
+    "6efdbbc8-3aeb-4201-a96f-ec93d7da6365": {
+      "de": "Das Parlament möchte nur einen Ausschuß"
+    },
+    "6fba5fc4-e633-4bda-a56c-8388fb00a7da": {
+      "de": "Er ist ohne Wenn und Aber dazu verpflichtet"
+    },
+    "6fc77600-70b3-4f3a-8fb2-adf84148b8b7": {
+      "de": "Ich empfehle den Bericht dem Haus"
+    },
+    "7098aa70-8e72-4843-98a3-b828f9737e27": {
+      "de": "Ab jetzt wird die Europäische Union effizienter sein"
+    },
+    "70b47619-09e8-4ac9-b2c6-c0ccebc5d6a5": {
+      "de": "Engagement trägt Früchte"
+    },
+    "70f85e4b-b7e2-49b7-a65b-77b95b078644": {
+      "de": "Ich möchte auf folgende Punkte hinweisen"
+    },
+    "710aa5a8-7d5f-4140-894d-e9f71c92cbe5": {
+      "de": "Ich könnte im gleichen Ton antworten"
+    },
+    "712e1bdb-fcec-4683-b8ae-f95bf678b2a4": {
+      "de": "Es könnten noch mehr Menschen kommen"
+    },
+    "7136dcd6-cf5c-4b6a-833d-d06ee679ac9b": {
+      "de": "Doch lassen Sie uns positiv sein wir möchten einen Erfolg sehen"
+    },
+    "716e1cc8-4055-444e-ba8b-3be063409856": {
+      "de": "Eine gute Geld und Währungspolitik kann vieles leisten"
+    },
+    "71725ef6-bf68-420e-bbe3-ebabe826f980": {
+      "de": "Dieser Kampf wird ewig sein"
+    },
+    "71a72cd7-c289-4e0a-806d-2864edc84ef3": {
+      "de": "In Österreich hat es keinerlei Vorfälle dieser Art gegeben"
+    },
+    "72530e7e-1a02-4369-b265-6b80523c50d4": {
+      "de": "Das Problem ist die Trennung von Religion und Politik"
+    },
+    "72873346-1662-4890-84fd-a150d5131ca1": {
+      "de": "Israel Ja oder Nein"
+    },
+    "72d613fe-b710-490f-ab41-07aa2260f28b": {
+      "de": "Nein weil es im Lauf der Revolution geschehen ist"
+    },
+    "72d84621-7af2-4cde-b05b-3c510d9104c9": {
+      "de": "Aus seiner Sicht haben die westlichen Politiker das Problem"
+    },
+    "72f0de3c-22b4-4b60-b19c-ffdc1378670c": {
+      "de": "Deren politische Bewertung steht jetzt aber nicht zur Debatte"
+    },
+    "7346de75-1094-4772-8490-e6789d2cb84c": {
+      "de": "Die Abstimmung findet morgen um zwölf Uhr statt"
+    },
+    "740e4bd0-585a-4290-b15d-8b2d4b591a33": {
+      "de": "Gibt es Möglichkeiten"
+    },
+    "745ad18b-933b-4d0d-9206-0cd392caf6a7": {
+      "de": "Die Bilanz dieser zwei Jahre ist somit positiv"
+    },
+    "747c910e-bb2e-473c-8fe1-6cb6c83299b1": {
+      "de": "Zweitens möchte ich folgendes feststellen"
+    },
+    "748d8b1e-8bbf-48e1-ba9f-50df61fa91de": {
+      "de": "Das ist eine ökologische grüne Revolution"
+    },
+    "74a7c1bc-c51f-4299-a52a-e56ea840db76": {
+      "de": "Schauen wir uns also an wo ein Kampf der Kulturen stattfindet"
+    },
+    "74c6d45c-6011-4869-a59e-d8875ffc9b58": {
+      "de": "Es war eine Prestige Handlung"
+    },
+    "74eb663c-076e-441d-b880-3979fb6de2e4": {
+      "de": "Das ist meine Bitte zum Nachdenken"
+    },
+    "750c42e6-95dd-4624-a828-e97cf8193d1d": {
+      "de": "Neues Wiener Journal"
+    },
+    "75127684-dc5e-4f5e-890e-4f72130ab9ca": {
+      "de": "Damit ist unsere Tagesordnung erschöpft"
+    },
+    "755f3640-77ff-4fd3-bfa5-02cf5d16a57b": {
+      "de": "Ich möchte die Diskussion etwas erweitern"
+    },
+    "75b3d740-7933-407a-9e5f-e9b9bfec5bbe": {
+      "de": "Es geht also zu wie in der Wirtschaft"
+    },
+    "76042ea8-c115-42e6-a5d8-e785dad71124": {
+      "de": "Dies ist eine verrückte Politik"
+    },
+    "76172c07-e554-441c-a091-0a8b69543928": {
+      "de": "Stimme der Revolution"
+    },
+    "762d0246-61d8-434d-8c69-3fdb3cf5bf4b": {
+      "de": "Gefahren der digitalen Revolution"
+    },
+    "76369bda-bfbb-45f0-8da2-0a1e90019e51": {
+      "de": "Es geht nicht darum Saddam Hussein zu verteidigen"
+    },
+    "768ba4e8-7718-4e3d-b791-60ef2bf4dd1a": {
+      "de": "Die Europäische Union hat versagt"
+    },
+    "775ca630-cf6a-4073-a88a-1c55194140d3": {
+      "de": "Ich sage sehr wohl zum Teil"
+    },
+    "77619f10-f227-49f9-a810-d4e505a5a0ce": {
+      "de": "Der Handel ist der Schlüssel für größeren Wohlstand"
+    },
+    "77d44c40-5caa-4028-9d15-071d983d09cf": {
+      "de": "Es ist entscheidend dass eine Einigung erzielt wird"
+    },
+    "77e39135-f54d-4c3c-b582-c21a02df3781": {
+      "de": "Gibt es dazu eine aktuelle Information"
+    },
+    "78487235-a88a-4248-98bb-68c9b17f1190": {
+      "de": "Das ist nur eine Einigung für eine Branche"
+    },
+    "789faca2-fc42-4f34-901d-c3e62437780f": {
+      "de": "Aber ganz ehrlich Israel hat ein Recht auf Sicherheit"
+    },
+    "78b5769b-baa0-47b0-a7e8-c911ee6dcec3": {
+      "de": "Damit komme ich zum zweiten Punkt"
+    },
+    "79113d80-afaa-4ad3-87a7-0a9eb4b81050": {
+      "de": "Nicht wir müssen entscheiden was wir ihnen geben sollten"
+    },
+    "791b35ac-f7fa-4596-aa44-a0744f21abd5": {
+      "de": "Es ist höchste Zeit zum Handeln"
+    },
+    "7973952c-bf7a-4d1f-9c32-26ec70bcd050": {
+      "de": "Farben der Gesellschaft eine Deutschland Reportage"
+    },
+    "79775184-d522-4927-855b-f892f72f5111": {
+      "de": "Der Fußball ist immer mehr zum Geschäft geworden"
+    },
+    "79ac9026-7950-43c4-953a-5b41d2e0e95c": {
+      "de": "Vielleicht können Sie darauf näher eingehen"
+    },
+    "7a1aee3b-7d93-458d-a4a6-f5ab12d6b540": {
+      "de": "Das Parlament kann sie nicht zum Reden zwingen"
+    },
+    "7a75b59a-e55a-4ae1-a33e-914e048c2417": {
+      "de": "Wir sind Politiker wir wollen es selbst entscheiden"
+    },
+    "7ade6ba1-8bb9-490b-b869-53112d3bf106": {
+      "de": "Doch Sie bringen auch einige Bedenken zum Ausdruck"
+    },
+    "7b6e80f2-1976-420e-9d44-08637954c23b": {
+      "de": "Engagement gehört sich"
+    },
+    "7b749638-237d-4501-92e5-d6cb0a5a2efa": {
+      "de": "Wie immer sind die Menschen den Politikern voraus"
+    },
+    "7babb39b-6cc6-48aa-850d-ba4e0f21a726": {
+      "de": "Leider hat sie jedoch nicht auf diese Ratschläge gehört"
+    },
+    "7bfba51a-b68d-40cd-8043-4ddcfec679a2": {
+      "de": "Das wäre nicht sinnvoll"
+    },
+    "7c091b36-35c6-43b5-8310-a92cfbb50cba": {
+      "de": "Wir diskutieren in Deutschland seit langem darüber"
+    },
+    "7c0fa750-28fc-47a4-bbf3-72f835fbc24e": {
+      "de": "Zweitens sagten Sie Das Parlament können Sie selbst bearbeiten"
+    },
+    "7c2b44f4-76c1-4acb-ad88-075d095abb4a": {
+      "de": "Die Verantwortung liegt weiterhin bei den Behörden der Region"
+    },
+    "7c370338-0b3c-4817-ab4f-061709229c2e": {
+      "de": "Es geht um den Ausschuß der mit dem Programm verbunden ist"
+    },
+    "7c5d9e2e-9c57-4825-8a08-ad4cb315b449": {
+      "de": "Es ist ja so daß Parteien aus dem Volk entstehen"
+    },
+    "7cabeab5-dfba-4ffe-bcd1-cb6e0657317f": {
+      "de": "Das möchte ich vermeiden und das muss die Kommission vermeiden"
+    },
+    "7cf65ecd-0676-4e0f-892f-50bbe26596d3": {
+      "de": "Ist es dies was die Kommission möchte"
+    },
+    "7d1e8e63-60c4-4dac-bb4f-36aba2a3eda4": {
+      "de": "Ich persönlich fühle mich dazu verpflichtet"
+    },
+    "7d35d50d-3d78-407e-9d9f-7fb5894a9ca8": {
+      "de": "Eine ähnliche Übertragung wurde auch im Jahr davor vorgenommen"
+    },
+    "7dbb06d8-389a-4d54-9cec-9a0e4e401f61": {
+      "de": "Dann verfahren wir entsprechend"
+    },
+    "7e0c691e-2744-45c2-8d34-c41793af223f": {
+      "de": "Die meisten Redner haben sich ja sehr positiv ausgesprochen"
+    },
+    "7e31c1ae-c165-447e-9c47-9c6a35d3be98": {
+      "de": "Das ist äußerst wichtig und dient dem Umweltschutz"
+    },
+    "7e7ec926-984d-4653-9255-4dbc724dfe57": {
+      "de": "Der Titel ist Programm"
+    },
+    "7ea77667-58e8-4cbb-8e83-74db62a71e96": {
+      "de": "Frau Präsidentin ich möchte keineswegs eine Debatte eröffnen"
+    },
+    "7eace3c7-7036-413e-9760-5d0aee0dafb1": {
+      "de": "Oder halten uns vielleicht wirtschaftliche Aspekte davon ab"
+    },
+    "7f0cb1e4-4b53-4c7b-a74d-fa439210c078": {
+      "de": "Das ist nicht zum ersten Mal passiert"
+    },
+    "7fd94f6a-3690-46c0-b846-cfcda62096bc": {
+      "de": "Dies gehört zum neuen Abkommen"
+    },
+    "80ed9181-5e2f-48f2-b293-6b052f49609e": {
+      "de": "Was gehört dazu"
+    },
+    "80f3a05e-4a7f-4b82-b30f-9acc9be89b18": {
+      "de": "Ein entscheidendes Kriterium ist die Unabhängigkeit"
+    },
+    "8150713a-de10-4038-92f7-e22eb8aa8b78": {
+      "de": "Ich halte das nicht für einen entscheidenden Punkt"
+    },
+    "81a7f08e-acf5-4194-bc50-37029b4e309d": {
+      "de": "In der Politik gibt es zwei Wege Dinge nicht durchzuführen"
+    },
+    "81e944fa-4767-4c35-a9fc-c90f54fde494": {
+      "de": "Deshalb ist dies ein Aspekt der berücksichtigt werden muß"
+    },
+    "81f87466-cd84-4543-8bfd-5d88142c1c38": {
+      "de": "Dieser Prozess der Anpassung läuft bereits seit mehreren Jahren"
+    },
+    "821491b2-163b-493f-b539-ddda5a464236": {
+      "de": "So empfangen wir hier Präsidenten"
+    },
+    "822f32c0-a7cb-4132-ba3b-1724be2903e7": {
+      "de": "Die Politiker müssen ihrer Verantwortung gerecht werden"
+    },
+    "823bc0b3-3271-4b23-93e9-6916c9fa3dea": {
+      "de": "Wir benötigen dringend praktische Fortschritte"
+    },
+    "8265ef69-cd9a-441e-beec-3d1a70188dd8": {
+      "de": "Ich möchte noch kurz auf Österreich eingehen"
+    },
+    "829130e0-1526-44b3-8178-abb5d2736b7d": {
+      "de": "Allerdings bereitet mir der Ton ein wenig Sorge"
+    },
+    "829e277d-faf7-4c0f-bd9c-a01878894d4a": {
+      "de": "Wir unterstützen diese Aspekte"
+    },
+    "82d7ff53-9f6b-4ae6-9c4b-f7ea08c888a2": {
+      "de": "Wege zum Beruf"
+    },
+    "83284299-2e98-49e5-bad1-984c0c1c1abd": {
+      "de": "Es wäre natürlich sie in das Ziel zwei zu übernehmen"
+    },
+    "83d622d7-40a8-47b4-90c8-0e6a08e4e161": {
+      "de": "Mit diesem Gesetz werden diese kleinen Sparer geschützt"
+    },
+    "84125c68-a45f-4e87-abff-421b76a68045": {
+      "de": "Dafür haben wir konkrete Vorschläge ausgearbeitet"
+    },
+    "8437e269-a6cc-4153-9101-6080f9b8332f": {
+      "de": "Allerdings sei für ein Engagement auch viel Energie nötig"
+    },
+    "843e1a21-dc7b-4dd9-b653-bed9a7a79082": {
+      "de": "Der Kampf gegen die Arbeitslosigkeit braucht keine Politik"
+    },
+    "843fa7d8-fe1b-43f4-b16a-846a645a072e": {
+      "de": "Zum anderen ist sie ständig mit der Problematik vertraut"
+    },
+    "84a10fae-4a64-4dd4-a4ee-5b0006707e63": {
+      "de": "Könnten Sie uns dazu noch etwas sagen"
+    },
+    "84d82357-30b2-4f55-a740-f1a6c2800941": {
+      "de": "Wir wissen wie diese Fragen zu lösen sind"
+    },
+    "84f2602b-be53-4926-8dcb-7eed04017892": {
+      "de": "Es gäbe noch zahlreiche Beispiele"
+    },
+    "850306b0-4f27-423f-b7d7-6b103b4adf3f": {
+      "de": "Wir müssen jetzt an die Umsetzung gehen"
+    },
+    "86002ba1-60e5-41e7-88d8-8e9348e4e5d9": {
+      "de": "Ihre Würde zu wahren ist unsere Pflicht"
+    },
+    "8613c2e7-6604-4cc7-b6d2-888bce45cfd8": {
+      "de": "Wir meinen dass das möglich ist"
+    },
+    "871e9850-bce8-4d5f-8e75-b2e54b645403": {
+      "de": "Das halte ich für sehr positiv"
+    },
+    "878d8808-6c62-4680-b1c1-293d07e13d6a": {
+      "de": "Das ist ihre Entscheidung"
+    },
+    "87c2bfcf-d175-46a6-b48e-641f8e59ad75": {
+      "de": "Sie haben gesagt dass reformiert werden muss"
+    },
+    "88431d62-0a65-429c-92fb-b85f0a094524": {
+      "de": "Europa und die Europäische Union sind eine Idee"
+    },
+    "887f44cb-2142-41ca-bd1c-7304ddd8e802": {
+      "de": "Auch internationale Banken stehen vor Problemen"
+    },
+    "888927ac-7f0e-4c35-9ed5-7fdabdc6fefd": {
+      "de": "Zunächst da Ihre Kriterien zum Teil strittig sind"
+    },
+    "8897369f-1d6a-403a-9820-8e8d24bc6cc0": {
+      "de": "Revolution der Würde"
+    },
+    "88a23ffa-5e92-4ed7-b017-fbe9eb82b916": {
+      "de": "Ohne freiwilliges Engagement ist kein Staat zu machen"
+    },
+    "898d63ba-ffd6-4f28-9cc2-f9fa7dd0e0c9": {
+      "de": "Solche Zahlen existieren zum Teil auch für Europa"
+    },
+    "89c6ec4c-ae7b-49cb-ba7f-2a26e0b135fb": {
+      "de": "Heute zwölf Monate später sind sie es alle"
+    },
+    "8a36e816-3da3-4de9-8887-936f538bd15c": {
+      "de": "Lassen Sie uns daher bitte vernünftig bleiben"
+    },
+    "8a50b733-68e9-4c1d-8b01-cddddb0829a5": {
+      "de": "Es ist daher wichtig dies zum Abschluß zu bringen"
+    },
+    "8b1a9f48-4a6c-4c1f-8715-faac782ad643": {
+      "de": "Israel heute Menschen Staat Geschichte"
+    },
+    "8b69cbb4-a63b-46cd-951f-163c68454432": {
+      "de": "Das entspricht nicht den Vorstellungen Frankreichs"
+    },
+    "8b76852f-a917-494e-a1de-5788d9e78a2e": {
+      "de": "Stehen Sie auf und kämpfen Sie noch einmal für die Demokratie"
+    },
+    "8b8a99a2-2a95-4042-a8a3-309da9556399": {
+      "de": "Es besteht aber auch eine rein europäische Dimension"
+    },
+    "8b8c2f75-6d82-43c3-83dc-f5df8db6123f": {
+      "de": "Herr Präsident ich komme zum Schluß"
+    },
+    "8bac1e5c-0a70-46f4-bd5e-3375a4196598": {
+      "de": "Mitteilung und Erklärung des Präsidenten"
+    },
+    "8c3ff222-3d45-4c9c-89b9-636ab2d644f4": {
+      "de": "Australien und Japan haben es zum Beispiel offiziell übernommen"
+    },
+    "8cf360d2-0307-4f36-86a2-bd77cf91b02e": {
+      "de": "Aber jetzt entscheidet das Europäische Parlament"
+    },
+    "8d3df73d-f633-46d3-a388-0d3f950c3580": {
+      "de": "Die Wehrpflicht wird um ihrer selbst willen erhalten"
+    },
+    "8e2ea715-5c56-4cb2-89ec-abf4a7de35a7": {
+      "de": "Hätten wir weiter gehen können"
+    },
+    "8e5d433b-715f-4a71-8e98-920b59a5ff0b": {
+      "de": "Die Branche schaltet einen Gang höher"
+    },
+    "8ea85d16-fe57-43c7-9218-edfe896c98f5": {
+      "de": "Was können wir also tun"
+    },
+    "8ec7f296-ddaf-4e15-9eda-ff4dfaf5f82a": {
+      "de": "Ich persönlich habe damals dagegen gestimmt"
+    },
+    "8f0b7d83-9230-4236-a999-50da1d514a14": {
+      "de": "Politiker sind auch Menschen also könnten es sein"
+    },
+    "8f181196-7606-4319-b96f-dd17b1b319ac": {
+      "de": "Die Kommission unterstützt diese Änderungen"
+    },
+    "8f360509-179d-4004-88f6-61e9bb54718f": {
+      "de": "Eine Zeitschrift die niemanden beleidigt"
+    },
+    "8fdd7726-a413-433c-95b5-46d69c5f0218": {
+      "de": "Mit anderen Worten Ja zum Dialog Nein zum Bericht"
+    },
+    "903d4eb7-f14d-45ca-a94a-c2a9e7405445": {
+      "de": "Dies ist nicht die Art und Weise auf die wir Politik betreiben"
+    },
+    "905166e7-493c-4120-906d-f7c32bc4371e": {
+      "de": "In einem Monat wird ein neuer Staat entstehen"
+    },
+    "907e03a9-81dc-4791-9e12-35df7d839e80": {
+      "de": "Der Druck auf Israel steigt definitiv"
+    },
+    "911d4590-e931-45b8-9152-fc7c984b69af": {
+      "de": "Das ist unsere erste Pflicht und wir sollten ihr nachkommen"
+    },
+    "9169df17-70fa-421b-8e50-6c6cc237c42f": {
+      "de": "Er hat eine internationale Dimension"
+    },
+    "9189d95a-7bf2-4414-a902-c35e4a3ef03b": {
+      "de": "Energie erleben mit Herz Kopf und Hand"
+    },
+    "91a414fa-666a-4730-a666-28e096a678a9": {
+      "de": "Das Parlament hat nicht darüber entschieden"
+    },
+    "923b2e41-e243-40f3-8ffc-aaac1e847b3e": {
+      "de": "Eine entsprechende Tagung hat bereits stattgefunden"
+    },
+    "9245caa3-8437-4b8f-b100-88d67393dd8b": {
+      "de": "Es müssen also stets Entscheidungen getroffen werden"
+    },
+    "926a80c4-3df4-4c11-8b6c-4bf6766ae611": {
+      "de": "Die Frage ist somit entschieden"
+    },
+    "930df73b-1759-4968-8fdb-d0105547d571": {
+      "de": "Unsere Botschaft muss eindeutig sein"
+    },
+    "931aad3d-37e0-470d-a828-8fbcde06c872": {
+      "de": "Wie wollen Sie das lösen"
+    },
+    "93ee1e48-738f-4d0b-9659-dde3973fa983": {
+      "de": "Die Opfer sind verzweifelt"
+    },
+    "9423a6cb-8c3b-4549-8aba-c0124874069e": {
+      "de": "Was können wir tun"
+    },
+    "949a7ae5-1977-4daa-8b32-ad4e12c63406": {
+      "de": "Auch aus wirtschaftlicher Sicht ist das Wahnsinn"
+    },
+    "94b579a9-991e-4723-a87d-7515ef44ba57": {
+      "de": "Zweitens hinsichtlich des Budgets"
+    },
+    "94d21e3f-ef83-401e-b22e-37479498cc21": {
+      "de": "Wen wundert es wirklich dass Israel sich so verhält"
+    },
+    "951e5201-a552-44c0-9b86-41250a43947f": {
+      "de": "Wie hoch die Zahl der Opfer ist wissen wir nicht"
+    },
+    "9535f9ca-578f-4559-92aa-8f21f163d3f8": {
+      "de": "Ich komme zum Schluss ich habe nicht mehr viel zu sagen"
+    },
+    "953dfbab-a962-4f0e-a8e6-4fe51606f215": {
+      "de": "Lassen Sie mich zum Schluss die nächsten Schritte nennen"
+    },
+    "957ca15c-9c46-4460-941c-f8d6d2f28e6d": {
+      "de": "Wir müssen aber untersuchen warum die Probleme aufgetreten sind"
+    },
+    "958e6e8e-56f6-4804-84b1-3afb0fa7ffe5": {
+      "de": "Sie sagten Sport sei mehr als die Marktwirtschaft"
+    },
+    "961eb762-a33d-43cf-9434-e1a2103296fb": {
+      "de": "Kein öffentliches Interesse am rechtlichen Gehör"
+    },
+    "9644d28f-466e-4d2d-9575-2c708400ca27": {
+      "de": "Es war für Europa keine einfache Zeit"
+    },
+    "9650856b-9408-4964-b5e2-f305252aae8d": {
+      "de": "Die EU kann durch ein größeres Engagement nur gewinnen"
+    },
+    "96a0be60-e076-4ef4-b2ad-eb474e16b9ff": {
+      "de": "Frau Präsidentin Ein Antrag zum Verfahren"
+    },
+    "973a0691-dabd-4010-8d05-04188d628324": {
+      "de": "Das geschieht nicht zum ersten Mal"
+    },
+    "98438b46-af77-4580-8bb8-36a20c0bdf8c": {
+      "de": "Das möchte ich gerne wissen"
+    },
+    "98448b4a-12df-4bb8-86d9-42b5185bd201": {
+      "de": "Unsere Partner können sich dann auf die Entscheidung verlassen"
+    },
+    "985418a6-c4db-4af7-bc13-089b17df2c5a": {
+      "de": "Und das wäre für uns alle von großem Nachteil"
+    },
+    "986fb4f9-dc59-4869-b4e2-7914f336c673": {
+      "de": "Ich kämpfe nicht gegen den Berg"
+    },
+    "987c9ce8-e14b-4152-8d94-5d9f68837ec1": {
+      "de": "Wir haben Probleme mit der Bewertung"
+    },
+    "988abc88-5742-41e0-8a52-a86fb51c9189": {
+      "de": "Dessen Verpflichtungen und Disziplin sind neu in Europa"
+    },
+    "990e6d0f-7408-483e-998e-d00962c1da42": {
+      "de": "Schließlich ist da unsere internationale Dimension"
+    },
+    "9943ffbc-e4f9-4809-8a07-f0be43c50831": {
+      "de": "Ich bin sicher dass wir Sie unterstützen können"
+    },
+    "9986ee8b-a711-4c4f-912f-fbbd0b3e8bef": {
+      "de": "Eine Revolution für Hof"
+    },
+    "99b322d1-6895-4885-b462-18d5340b4d3f": {
+      "de": "Jetzt jedoch ist es an der Zeit zu handeln bevor es zu spät ist"
+    },
+    "99cc16f3-d8ee-4fff-8e4f-340118ba8c9b": {
+      "de": "Vereinbarkeit von Beruf und Pflege"
+    },
+    "9aa1e573-2fac-4bb2-8fd0-b66cc4c22ead": {
+      "de": "Uns liegt sehr viel an einer Lösung"
+    },
+    "9ad3474e-7843-4af3-ae04-ac49fa70d886": {
+      "de": "Revolution von unten"
+    },
+    "9af973cd-33e4-4929-abd6-eb4449efde4f": {
+      "de": "Wir machen jetzt Wahlkampf Tag und Nacht"
+    },
+    "9b4b1246-3ef3-4d33-99e8-8d86a83096e3": {
+      "de": "Wir können es nicht von ihr fordern"
+    },
+    "9b6ff41c-dbe9-4818-a114-8e364095ae85": {
+      "de": "Dieses Ziel ist heute so gültig wie damals"
+    },
+    "9b8b44ab-2896-4ddf-ab74-422df9412f31": {
+      "de": "Deshalb ist eine Änderung der Politik geboten"
+    },
+    "9b9140b2-61dc-4ea4-9d74-cb24483d1369": {
+      "de": "Der Sohn arbeitete später als Regisseur"
+    },
+    "9c4e5f0f-57b7-4147-b6ab-897375b92c06": {
+      "de": "Kampf gegen den Rechtsradikalismus"
+    },
+    "9c8336d9-b613-417b-9c03-aa92949b3f80": {
+      "de": "Deshalb sollte hier eine Entscheidung getroffen werden"
+    },
+    "9ca99344-ee5c-4607-b425-95ec90c4143a": {
+      "de": "Was vermisst wird sind die Regierungen"
+    },
+    "9cd8092c-8faa-419d-909e-78a1ebfc4626": {
+      "de": "Was können zum anderem wir als Europäische Union leisten"
+    },
+    "9d7de0f9-9530-44dc-aa02-2f8f6b701ffe": {
+      "de": "Es gibt dort keine Probleme mit dem Natur und dem Umweltschutz"
+    },
+    "9d8dafdc-7b44-4067-b039-67606fa31a23": {
+      "de": "Er hatte stets oberste Priorität"
+    },
+    "9dc78bf2-71ae-4b99-ab2a-565380f4b5c1": {
+      "de": "Das was jetzt beschlossen worden ist ist in einem Punkt positiv"
+    },
+    "9e296ac5-f346-4cf0-a726-fdddcb533f48": {
+      "de": "Der Bericht ist hervorragend und ich empfehle seine Annahme"
+    },
+    "9e35b0e7-d301-4cf7-a6cd-ec8840e44f9c": {
+      "de": "Ist dies technisch möglich"
+    },
+    "9f390480-f90f-4d77-a319-1cbfdabd3b89": {
+      "de": "Der wichtigste Schritt war ohne Zweifel die Einführung des Euro"
+    },
+    "9f665619-4167-4634-9c7f-5560ea29d01f": {
+      "de": "Mein Kopf sagt der Abstieg ist klar"
+    },
+    "9f8d6dfd-0e82-41b5-bd06-ad115f16c57c": {
+      "de": "Derzeit wird eine Reihe von Lösungen für das Problem geprüft"
+    },
+    "9fae5658-a036-4fd7-a244-7f8f7f0f141f": {
+      "de": "Wir sehen das mit hohem Respekt"
+    },
+    "a00e8b75-f420-4f4c-9c5e-de401f0387e3": {
+      "de": "Die Politik die wir bekommen werden wird nicht die gleiche sein"
+    },
+    "a034b4f9-e05f-4e1a-9490-e235fe04c0d7": {
+      "de": "Vielleicht könnte ich einen Punkt zum Thema Hilfe hinzufügen"
+    },
+    "a1470f1b-6f6c-43d1-b4da-9019dd07be4f": {
+      "de": "Wir haben politische Mechanismen um Nein zu sagen"
+    },
+    "a23ba73f-3ded-4a05-b86c-0e7634474ed5": {
+      "de": "Die Länder der EU sind hoch genug verschuldet"
+    },
+    "a23c16c0-7f78-4ef3-892d-b2fe4717bb13": {
+      "de": "Ein freiwilliges Engagement und so soll es auch bleiben"
+    },
+    "a2b15daf-37ab-4822-a949-2968e3532341": {
+      "de": "Wir Politiker haben anderes zu tun"
+    },
+    "a30d6c64-3546-4a67-87c1-3aafb7d8d2c1": {
+      "de": "Wir dürfen dabei auch starken Druck ausüben"
+    },
+    "a3c57d8d-1818-416e-8c09-137993152aea": {
+      "de": "Die EU hat hier eine moralische Verpflichtung"
+    },
+    "a3def1a4-33e7-4628-a808-2c04f1f27068": {
+      "de": "Ein letztes Wort zum Aspekt der Information"
+    },
+    "a40b41f8-5484-41e7-acf6-41fdf357d783": {
+      "de": "Einzelne Gipfeltreffen sind zwar wichtig aber nicht ausreichend"
+    },
+    "a432f8f2-1125-4453-9a8e-a64a5e030216": {
+      "de": "Es handelt sich um drei Gründe"
+    },
+    "a44694b6-e83b-4f45-a8e3-c765c5951a6c": {
+      "de": "Ich persönlich habe seinerzeit drei Vorstellungen formuliert"
+    },
+    "a5e31523-da3a-4e13-a5fa-f7cd28105b2c": {
+      "de": "Ich muss nicht erklären was das ist jeder weiß es"
+    },
+    "a61bb744-e8cc-4f71-8c4a-0e07f4f281da": {
+      "de": "Natürlich braucht es in diesem Zusammenhang Solidarität"
+    },
+    "a6db0013-3715-4322-8be5-7780f7a4d127": {
+      "de": "Respekt für meine Rechte"
+    },
+    "a7b410a8-85e7-4b98-b569-e5522fbfe0b0": {
+      "de": "Wie definieren wir heute die Familie"
+    },
+    "a84947bd-674d-4814-bd9b-7498e9a9ae02": {
+      "de": "Eine solche Politik wäre widersprüchlich und daher unwirksam"
+    },
+    "a8a368bc-d823-4187-9999-b02051c1fc77": {
+      "de": "Wir müssen aber einen kühlen Kopf bewahren"
+    },
+    "a8c3eaea-29ce-4fcd-954a-a67153ad3300": {
+      "de": "Stuttgart Journal Nachrichten aus Stuttgart"
+    },
+    "a8e3f051-c4f9-4c39-a51b-b3e561f1fa49": {
+      "de": "Respekt und Bedauern"
+    },
+    "a9aa4b7b-27ac-4b09-a04a-c4cff0b5bcd2": {
+      "de": "Bundeswehr raus aus Schulen"
+    },
+    "a9ec3ada-1f7a-4a04-8af4-5b9e1ad2f1d8": {
+      "de": "Neuen Wiener Journal"
+    },
+    "aa206f74-5dd3-4b7e-b069-54bfe96c7a55": {
+      "de": "Trotzdem möchte ich zwei Anmerkungen machen"
+    },
+    "aa364aea-afae-4de9-bcdc-5775e07ee361": {
+      "de": "Dieser hat sich aus mir unbekannten Gründen verschoben"
+    },
+    "aa41289c-a272-48d8-a767-a24a6cf65223": {
+      "de": "Das Erreichen dieses Ziel ist entscheidend"
+    },
+    "aa4c290e-5801-4c1f-b63e-47f4e8b0d9b1": {
+      "de": "Die Kommission hat ihren Willen nach Fortschritt betont"
+    },
+    "aa7d2b82-37e5-4316-a6ca-0ed4a7d8d834": {
+      "de": "Die Statistiken erzählen jedoch nicht die ganze Geschichte"
+    },
+    "aab4929b-8665-42c9-a166-99cd17821771": {
+      "de": "Meine Antwort ist in beiden Fällen positiv"
+    },
+    "aab8c482-e081-422b-9132-9d667d4051e3": {
+      "de": "Wenn wir dies einsehen können wir Fortschritte erzielen"
+    },
+    "aabdfeb6-e117-4d19-90d1-aef76f2b084f": {
+      "de": "Lassen Sie mich mit der Wirtschaftspolitik beginnen"
+    },
+    "ab3f66d4-1bbf-420f-9591-2a5c9e1224dd": {
+      "de": "Das Europäische Parlament spielt auch eine entscheidende Rolle"
+    },
+    "ac2d1b78-cdd8-4ab0-85a2-2c28bed7a1c8": {
+      "de": "Könnte der Abgeordnete seine Frage bitte wiederholen"
+    },
+    "ac397860-0ffb-433f-871f-f922004d3072": {
+      "de": "Wird es eine neue Runde in der Politik geben"
+    },
+    "ac594fed-3db2-49fb-8753-12af9f6bda69": {
+      "de": "Sind sie dazu da die europäischen Unternehmen zu unterstützen"
+    },
+    "ac9ade89-16b3-49da-b15f-4905b97e8b56": {
+      "de": "Wir haben demonstriert daß wir dazu bereit sind"
+    },
+    "aca1c346-eab0-469a-8236-e15c6aac0adb": {
+      "de": "Mehrere Mitglieder haben hier über Sanktionen gesprochen"
+    },
+    "ad2d4aef-9f00-4e2b-ba80-b43b825a047c": {
+      "de": "Sie haben den deutschen Beitrag angesprochen"
+    },
+    "ad5d1076-1c6c-40c0-9085-be9409ae623c": {
+      "de": "Wir müssen alle betroffenen Parteien daran beteiligen"
+    },
+    "ad866d1b-c2fe-4bcf-a879-cc77aa0c237f": {
+      "de": "Das wäre eine klare Diskriminierung der anderen"
+    },
+    "ada99643-002a-4065-ba41-fda5887256cf": {
+      "de": "Ein Maßstab dafür ist der Zugang der Frauen zum Arbeitsmarkt"
+    },
+    "adab0b73-c09a-4753-9bf4-43ec9fe73ded": {
+      "de": "Unsere Politik muss für alle da sein"
+    },
+    "adf6d3c8-cafd-45a5-b634-5df830cea1f2": {
+      "de": "Wir werden das berücksichtigen"
+    },
+    "ae04a401-db75-4527-9c39-01ea6cc85b8c": {
+      "de": "Das ist die Wertschöpfung der Europäischen Union"
+    },
+    "ae207787-e3e1-48b7-ac35-5b8caffae759": {
+      "de": "Ich möchte zu folgenden Punkten etwas sagen"
+    },
+    "ae302eb0-0b74-4863-b9ae-3f960ec062e0": {
+      "de": "Das wäre widersinnig"
+    },
+    "ae48c5c6-b73e-4879-9070-ed7babab5896": {
+      "de": "Lange Jahre haben wir für ihn gekämpft"
+    },
+    "ae74fe7f-f47e-4075-bb9d-cb38328cb84d": {
+      "de": "Girokonto für jedermann"
+    },
+    "ae8e5f72-e064-4ada-afc3-a9b2cea194e0": {
+      "de": "Man muss analysieren wodurch diese Situation entstanden ist"
+    },
+    "afdb8b2d-2ceb-4e2e-a9c8-95938696f447": {
+      "de": "Ja wir wollen das ermöglichen"
+    },
+    "b0303a19-5783-4904-ae37-3e0ad94dcb11": {
+      "de": "Wir hoffen daß wir vom Rat gehört werden"
+    },
+    "b08fbd03-7a83-46dd-aa9e-801f517bcf08": {
+      "de": "Die Abstimmung findet heute um siebzehn Uhr dreißig statt"
+    },
+    "b1aacc68-6d6b-4fe0-87e1-2efaada2b0e6": {
+      "de": "Unsere Unterstützung steht Ihnen unverzüglich bereit"
+    },
+    "b22c22f3-8279-47e1-9f0f-7b49000c6d50": {
+      "de": "Damit sind wir völlig einverstanden"
+    },
+    "b2ab24da-4bed-4d35-ab28-1f3000547015": {
+      "de": "Kampf mit Kunst und mehr"
+    },
+    "b35a4653-6eaa-4a80-80a2-b760f7eb5dc6": {
+      "de": "All das ist meiner Meinung nach nur zum Besten"
+    },
+    "b3717793-e982-4ebe-8c7a-13fd56046576": {
+      "de": "Welche Akteure waren an diesem Spiel beteiligt"
+    },
+    "b38624ed-b910-4fdc-beec-4e561a5af00b": {
+      "de": "Frau Präsidentin ich möchte mich zum selben Thema äußern"
+    },
+    "b3894631-9a65-4d24-8624-6628f4eaa0b3": {
+      "de": "Ich habe diese Geschichte aus zwei Gründen erzählt"
+    },
+    "b4372b95-048f-40e9-812f-20daf86fecd7": {
+      "de": "Die Abstimmung findet am Donnerstag um zwölf Uhr statt"
+    },
+    "b4831f43-d09d-49aa-9588-67320e6d49e4": {
+      "de": "Sie haben uns daher positiv überrascht"
+    },
+    "b4a8795a-e0f4-4789-9338-b2d0046707b0": {
+      "de": "Ich bin Ingenieur"
+    },
+    "b4bfc990-3ba7-4eb6-8708-b0526378f44c": {
+      "de": "Ich bin verpflichtet gemäß diesen Bestimmungen zu handeln"
+    },
+    "b56e4acd-9426-4a90-9cea-dbedaa536fc0": {
+      "de": "Dennoch ist diese Vorstellung entstanden"
+    },
+    "b61e24b5-e110-4cb6-b8d1-9069b592aaa5": {
+      "de": "Wir sind Politiker"
+    },
+    "b627b968-0fa1-4495-bcef-e167a55b34b3": {
+      "de": "Schöne gute Worte Herr Präsident aber zu wenig konkret"
+    },
+    "b642669a-2fe5-4d6f-af50-509ac7b35048": {
+      "de": "Das ist doch auch nicht nötig"
+    },
+    "b6e1a6b0-10b0-4393-9c15-ffda1c3d1b5c": {
+      "de": "Du bist hier willkommen egal was du kannst"
+    },
+    "b6e99616-ebf2-4b5f-88cd-972a4b59a402": {
+      "de": "In Finnland hat Europa erstmals Stärke gezeigt"
+    },
+    "b7355970-611d-440f-af67-b305e10e4cc2": {
+      "de": "Ebenso wichtig sind die Unterstützung und der Schutz der Opfer"
+    },
+    "b7d458f1-9c21-4b58-9b39-0d586c19e5b1": {
+      "de": "Zum Donnerstag Die Präsidentin"
+    },
+    "b7e0a81d-9fc7-499f-a9c5-a2a5b7b9ee63": {
+      "de": "Das wird so bald wie möglich geschehen"
+    },
+    "b86d242b-e5d9-417b-9d05-cce200ed99e7": {
+      "de": "Hat er nicht zugehört"
+    },
+    "b919a71d-efcc-4b99-9f18-3da429ff5c05": {
+      "de": "Denn über die Türkei kommt vieles nach Europa herein"
+    },
+    "b96287e0-6ea2-45a2-a4f0-252a463d85cb": {
+      "de": "Es soll zum Schutz dieser Art dienen"
+    },
+    "ba38d8bc-fadd-4cd7-bef9-e9bb7f3d1392": {
+      "de": "Erst war es die Wirtschaft aber der geht jetzt etwas besser"
+    },
+    "ba4512d2-218f-4dcb-bcc7-4091d530c465": {
+      "de": "Ich komme nun zum zweiten Punkt"
+    },
+    "ba473579-e9e1-43cf-aa2e-c9c55c4ec5b2": {
+      "de": "Wir müssen die Lage positiv betrachten"
+    },
+    "ba54b2f2-7e74-4595-bc3e-f7754e9e800d": {
+      "de": "Soweit zum Guten"
+    },
+    "ba5a7c54-cefb-4e20-bbaf-bad2c5bd178f": {
+      "de": "Wir haben über die Wirtschaft diskutiert"
+    },
+    "ba7379a3-5ca7-4dfc-bf4c-b73296566b83": {
+      "de": "Noch zwei Punkte zum Schluss"
+    },
+    "baa3fd6f-a310-4334-9ff7-e734deace865": {
+      "de": "Alle diese Änderungen können wir akzeptieren"
+    },
+    "bb063573-78ac-4839-b838-1aa1e05a49de": {
+      "de": "Daher stimme ich für die Empfehlung"
+    },
+    "bc138f2d-94b6-4c43-a456-50cff114398f": {
+      "de": "Das ist doch völlig überholt"
+    },
+    "bc18878c-1f22-404b-a3b6-9b99c6e68d85": {
+      "de": "Ich glaube dass man das auch objektiv beurteilen können muss"
+    },
+    "bcb05d69-c250-47ae-86ff-68de5b92aab3": {
+      "de": "Wir mussten lange auf die neue Europäische Kommission warten"
+    },
+    "bcf044ff-f3d0-49e7-bf70-8e0a3682e09d": {
+      "de": "Ich bin beeindruckt mit welchem Engagement und"
+    },
+    "bd0a7c86-5c9c-47dc-8c56-11d662e9d4a4": {
+      "de": "Schrumpfung zur Ein Themen Partei"
+    },
+    "bd4b42c5-6d45-431e-bb5c-d6b8526a27ad": {
+      "de": "Jedoch könnte es sich dieses eine Mal lohnen"
+    },
+    "bdeb7a39-63a4-4a5e-8426-2c57c7397a5b": {
+      "de": "Die Abstimmung findet um zwölf Uhr statt"
+    },
+    "bdf2290c-97e9-4e4c-8da9-b11fab8ced7d": {
+      "de": "Nur die Leistung zählt"
+    },
+    "be19d78d-e2fe-4716-8082-6bdeaa747d12": {
+      "de": "Es kann sein dass das Verfahren mathematisch besser ist"
+    },
+    "beb60d16-860c-43ca-b8f7-3fb3f020f203": {
+      "de": "Was wird die internationale Gemeinschaft unternehmen"
+    },
+    "bec85d3b-85d9-4491-be95-c6c1adf1c311": {
+      "de": "Das sind die Werte die unsere Identität definieren"
+    },
+    "beced348-7153-49f9-860c-896bbee08168": {
+      "de": "Besser spät als gar nicht"
+    },
+    "bef3f9b6-0d06-4412-9325-ecaec71018cb": {
+      "de": "Unsere Wirtschaft wird sich erholen unsere Umwelt jedoch nicht"
+    },
+    "befb2f6d-4585-49da-bc22-91704961ea54": {
+      "de": "Hier kann die internationale Gemeinschaft viel tun"
+    },
+    "bf6a9206-5f87-4e76-8420-c670e47be316": {
+      "de": "Das ist der aktuelle Stand"
+    },
+    "bf78fa0d-df7d-4e29-85d7-c94889dfd566": {
+      "de": "Ich habe großen Respekt vor der Entscheidung"
+    },
+    "bfa49c05-7061-446f-88f8-22750e9a625d": {
+      "de": "In unserer Fraktion ist man sich darin völlig einig"
+    },
+    "bfce2787-a548-4784-9679-fea7c10d799e": {
+      "de": "Der Bericht ist hervorragend und ich empfehle ihn anzunehmen"
+    },
+    "bfd3dfe5-67eb-40e3-96c1-ed3be22dde54": {
+      "de": "Es gibt andere Defizite zum Beispiel bei den Arbeitsplätzen"
+    },
+    "c047dbb3-bf4f-474d-9e77-5b98965a73dd": {
+      "de": "Ich möchte mich für sein Eingreifen in dieser Sache bedanken"
+    },
+    "c0abdba2-c002-499f-8f03-cb554cf479b4": {
+      "de": "Zu meiner Freude sind Sie mit dieser Lösung zufrieden"
+    },
+    "c0f3d76b-2c28-4675-b336-dc8deea42e9c": {
+      "de": "Es wird niemand daran gehindert mehr zu öffnen"
+    },
+    "c0fed522-34d8-4b59-b25a-8b262c49e672": {
+      "de": "Die meisten Transporte werden auch ordnungsgemäß durchgeführt"
+    },
+    "c192dc6e-caa1-4ab5-9809-024757a43000": {
+      "de": "Wir wollen sympathisch auftreten"
+    },
+    "c219a31c-f8d1-42b3-8908-82560891a2f9": {
+      "de": "Damit stellt sich die Frage wer eigentlich in Ägypten regiert"
+    },
+    "c27f76e4-160f-4189-99dd-4bad8b2310f4": {
+      "de": "Das können Sie auch"
+    },
+    "c2e825af-30f9-4ab2-b4b5-f0fa04b0565e": {
+      "de": "Italien kommt Verpflichtungen nicht nach"
+    },
+    "c336999a-77aa-4049-b81f-c9b17e395510": {
+      "de": "Integration durch Engagement"
+    },
+    "c34db8bd-8bf4-4777-871b-d10fa3330331": {
+      "de": "Das wäre der Kommission am liebsten gewesen"
+    },
+    "c35aeb5a-9171-4ad1-a685-28bcc81a65b0": {
+      "de": "Bei uns in Deutschland bestellt man einen Klaren"
+    },
+    "c3d230c5-b81f-4482-97c1-99a3e361d96d": {
+      "de": "Jeder sollte der Pflicht Steuern zu zahlen nachkommen"
+    },
+    "c42c1814-20a4-48a5-a224-676530ed36f5": {
+      "de": "Der europäische Geist geht uns verloren"
+    },
+    "c5133df5-84d1-493f-8ffd-687b96644eff": {
+      "de": "Dafür ist es jetzt mittlerweile zu spät"
+    },
+    "c5481ff1-2005-462f-8cd6-7c26fe9eadea": {
+      "de": "Die Union muß ihre Politik in diesem Kontext gestalten"
+    },
+    "c54dabc2-e1ac-4147-b818-3dd3adc424c6": {
+      "de": "Im Gegenteil manche können sich danach besser entwickeln"
+    },
+    "c5809c94-1db2-4bc3-8c81-163c42f79f5c": {
+      "de": "Wir müssen aber eine Lösung finden"
+    },
+    "c5d3d59f-5b07-45f1-ad11-1ac30cb10011": {
+      "de": "Ich möchte gerne mit zwei Anmerkungen schließen"
+    },
+    "c615c567-ea10-4bad-be6f-97666ecb1839": {
+      "de": "Revolution und Widerstand"
+    },
+    "c633ba24-a11c-418c-9c52-e951ff350994": {
+      "de": "Es ist also möglich"
+    },
+    "c66c2e71-ec35-489c-803e-278418eca004": {
+      "de": "Politik Parteien Wahlen das interessiert mich nicht"
+    },
+    "c6929305-7839-4e9e-a4ea-82c7fae1a9a1": {
+      "de": "Ich möchte dem Parlament den Bericht insgesamt empfehlen"
+    },
+    "c6a436c6-6c0b-4ed6-b67c-237c540a925d": {
+      "de": "Die Anträge werden morgen Vormittag in allen Sprachen vorliegen"
+    },
+    "c7121e43-caab-4694-84b3-2d5b09387b5b": {
+      "de": "Diese Priorität hat auch der einzelne europäische Bürger"
+    },
+    "c83b936e-009f-43ab-b713-9a7a88940e13": {
+      "de": "In diesen ein Hundert Jahren wurden viele Kämpfe ausgetragen"
+    },
+    "c841d5f1-94ac-4eb4-a96d-c4d68cc1e700": {
+      "de": "Später nach der Erhöhung wird man dann sehen"
+    },
+    "c842df04-7cb8-4a73-ac9d-77d04cc2579c": {
+      "de": "Der Weg nach vorne für Europas Sozialdemokraten"
+    },
+    "c86785b1-9605-4baf-918d-ee9cb6e2a640": {
+      "de": "Deswegen empfehle ich dem Haus das so zu übernehmen"
+    },
+    "c8e74b51-ed24-4eb9-8230-71e604a89cc7": {
+      "de": "Die internationale Gemeinschaft sollte dies berücksichtigen"
+    },
+    "c8fe2928-1298-4f05-bc94-706685e29486": {
+      "de": "Das ist der Hauptgrund für die Preiserhöhungen"
+    },
+    "c9dbf725-0df7-4c16-879b-2ea9492f3d9a": {
+      "de": "Eine Entscheidung wird in den nächsten zwei Wochen erwartet"
+    },
+    "c9f1cea5-13de-490f-9d5f-81cf07cea253": {
+      "de": "Wer trifft die Entscheidungen in der Europäischen Union"
+    },
+    "ca01605d-04c1-4c8e-af46-14357b89c2a3": {
+      "de": "Wir bedanken uns bei der Kommission allerdings etwas spät"
+    },
+    "ca5156df-c1be-4301-b522-130f300e17bb": {
+      "de": "Neunzehn Menschen wurden dabei getötet Hunderte wurden verletzt"
+    },
+    "caa93d1f-1fb7-4940-8df6-7d510cf1a1f1": {
+      "de": "Hilfe für Menschen in Not war nicht mehr möglich"
+    },
+    "caac82ff-ebe4-42eb-aaac-3814280fae26": {
+      "de": "Damit wird die Welt auf den Kopf gestellt"
+    },
+    "cab93ddd-ab2f-4d17-b4e6-f7305c7b9e40": {
+      "de": "Halten wir die Sprache lebendig"
+    },
+    "cac0aacf-f8ad-4930-9b74-be971d6fac75": {
+      "de": "Es geht darum dass wir mit den Budgets auskommen"
+    },
+    "cac57762-5455-4ab1-8bf3-574fe4b6dde2": {
+      "de": "Es muss dafür eine praktische Lösung geben"
+    },
+    "cb6d31a4-7c01-4327-bfd3-e4a6207e61ee": {
+      "de": "Das macht uns Probleme darüber müssen wir diskutieren"
+    },
+    "cb70bf1e-55a3-4496-86c2-7f943aea4504": {
+      "de": "Es geht darum ob Verpflichtungen erfüllt werden"
+    },
+    "ccb13d68-913c-445b-9e78-d57d81b62c7f": {
+      "de": "Ich glaube wir sind dazu verpflichtet"
+    },
+    "cce445d2-ec20-4ae9-ab61-04919c4cfec3": {
+      "de": "Ich glaube dass sie dann eine große Rolle spielen können"
+    },
+    "cdeb55a4-3b4c-4b81-8d3c-828e2221bdc5": {
+      "de": "Ist doch egal jeder weiß doch was gemeint ist"
+    },
+    "ce4a8b55-b0dc-4c01-88e0-2748e8bdf594": {
+      "de": "Kämpfen bis zum Tod"
+    },
+    "ce4dcd4e-7ba1-4a47-8c19-b89eacb5c0f5": {
+      "de": "Das ist nicht möglich"
+    },
+    "ce6657ba-60c1-4559-a850-abf6b78faa59": {
+      "de": "Zwingen können wir sie leider nicht"
+    },
+    "cea2ca24-7aef-47e1-95e2-14d0241b042c": {
+      "de": "Das ist einer der Titel mit dem meisten Prestige"
+    },
+    "cefd49b7-3d2a-4fa6-9109-dd7ff5e215a8": {
+      "de": "Die günstigste Lösung wäre selber zu bauen"
+    },
+    "cf16a5cb-dc8a-48d5-a25b-2348cd22a599": {
+      "de": "Das Thema ist nicht geeignet Politik zu betreiben"
+    },
+    "cf6b877f-4efa-4d55-9e0f-d2910b73c0fb": {
+      "de": "Und das Fehlen einer Politik muß irgendwie ausgeglichen werden"
+    },
+    "cfabc33b-5d30-4501-b041-2fc8f54b253a": {
+      "de": "Es wird ein sehr schwieriger Kampf sein"
+    },
+    "cfda7e13-2078-4a48-894a-d4be9b306e65": {
+      "de": "Sie sind zusammen entstanden"
+    },
+    "cfe45297-d3d6-47ec-bc4b-5c8d42798753": {
+      "de": "Das Mögliche wurde erreicht"
+    },
+    "cffa0fc5-5d98-4b9d-bb8f-755a00775e04": {
+      "de": "Was passiert aber wenn sie nicht gelöst werden"
+    },
+    "d0339075-c022-495f-b5cb-81df2a3ae387": {
+      "de": "Dafür sollten wir das Geld der Steuerzahler nicht verwenden"
+    },
+    "d050961a-cf1d-4f9f-a1fc-f9e42d71c5e4": {
+      "de": "Diese beiden Aussagen mögen als widersprüchlich erscheinen"
+    },
+    "d0b515d2-04a8-4855-83ab-03c0566f0539": {
+      "de": "Abstand zu gewinnen und den Kopf frei zu kriegen"
+    },
+    "d0ea5190-e3f5-4beb-981c-ac03c55e85af": {
+      "de": "Rechte gibt es nicht ohne Pflichten"
+    },
+    "d1876950-ec26-41ce-8a82-1ce63afb88bf": {
+      "de": "Daran möchte ich Sie alle erinnern"
+    },
+    "d228f00a-ba97-4040-9a74-273a25aac276": {
+      "de": "Schließlich ist es das was wir alle wollen eine Lösung"
+    },
+    "d2340e0f-87da-4fcf-9dab-556b084969d5": {
+      "de": "Verfolgen wir endlich eine eindeutig europäische Politik"
+    },
+    "d2375d6a-477a-4486-a6af-3a24878892bb": {
+      "de": "Dort sitzen immer Politiker"
+    },
+    "d285528a-ba94-420c-959a-a93c0f9fc65b": {
+      "de": "Darum geht es und das werden wir auch entsprechend diskutieren"
+    },
+    "d29a611b-7cee-48f3-8466-a4a72c3c2924": {
+      "de": "Darauf basiert die Aussprache in Europa"
+    },
+    "d2ef1986-4f17-4afd-bbd2-6e63d9c76d79": {
+      "de": "Die Revolution Bonn in Wien"
+    },
+    "d33a875d-5f0e-4260-b323-26ba9d53fe00": {
+      "de": "Journal für politische Bildung"
+    },
+    "d3b7136d-aaf4-4019-ba8b-044c44590fad": {
+      "de": "Wir sind bereit zu kämpfen"
+    },
+    "d3c27632-7dcd-412f-b38a-19db3bfe5e20": {
+      "de": "Nun sind die Regierungen am Zuge"
+    },
+    "d4f1af9e-c29f-424b-8537-a8b8a7b3e656": {
+      "de": "Wir sollten auf sie hören"
+    },
+    "d5000331-aaaa-4254-a79d-0fcdd83ee7a9": {
+      "de": "Ich könnte nie einen Hussein wählen"
+    },
+    "d56a1d19-f1fd-423f-8a07-3ab3a796eda7": {
+      "de": "Ich möchte auf einen weiteren wichtigen Bereich hinweisen"
+    },
+    "d57eac72-4a19-4787-b400-965a2a7c24f1": {
+      "de": "Ihr Argument ist daher nicht gültig"
+    },
+    "d5810302-1039-4532-80aa-cf4ca6bc1523": {
+      "de": "All dies sind die Früchte Ihrer Arbeit und Ihrer Beiträge"
+    },
+    "d5ada260-b279-4735-8ac9-323ea508f02d": {
+      "de": "Es ist ein wichtiges Hilfsmittel im Kampf gegen Gewalt"
+    },
+    "d694bb53-c0b3-4f50-a362-765e3a06ffa3": {
+      "de": "Es ist höchste Zeit mehr für die Ukraine zu tun"
+    },
+    "d71eea2e-a56b-4547-8293-94bd6fbcb013": {
+      "de": "Ich komme nun zum Schluß Herr Präsident"
+    },
+    "d7d9cdf1-b557-44c8-a18e-8a5e1f2bb3f6": {
+      "de": "Die Revolution hat viel verändert"
+    },
+    "d8a00959-0805-492d-b1c5-0d1be211a5af": {
+      "de": "Auch das nicht zum ersten Mal"
+    },
+    "d8efc038-744b-4bdb-a026-e277717f778f": {
+      "de": "Das ist eine soziale Verpflichtung"
+    },
+    "d8ff0a25-8851-4f9f-b3ed-493fdeb04c41": {
+      "de": "Israel ist nicht allein"
+    },
+    "d919ef3d-f4d8-4d07-b554-586480339e3d": {
+      "de": "Ich kann keine Zustimmung für die Kommission empfehlen"
+    },
+    "d9655433-3a2d-49dd-b119-d55d0de01937": {
+      "de": "Interessanter Bericht über die Branche"
+    },
+    "da018285-69c2-4f90-ab98-be68f6552fa9": {
+      "de": "Das sollte für uns jetzt Priorität haben"
+    },
+    "da63162d-2739-4855-82de-93390a9050f4": {
+      "de": "Ich habe Kopfschmerzen"
+    },
+    "da8e43ae-ea97-4418-a530-ddaf69d625fe": {
+      "de": "Manchmal sehen wir Politiker und Diplomaten verhandeln"
+    },
+    "dad66bf2-11b9-4ccd-be3e-2959d3eb96b7": {
+      "de": "Zum Ersten geht es um den Datenschutz"
+    },
+    "daec9c38-75dd-4bea-96cd-487073b42a40": {
+      "de": "Die Wirtschaften von Europa sind eng miteinander verbunden"
+    },
+    "db0d15b5-0b19-467f-baee-5a16a1f40a1c": {
+      "de": "Ein paar Worte zum Prozess insgesamt"
+    },
+    "db124822-8ea0-4997-a385-78785c390d65": {
+      "de": "Persönlich bin ich nicht sehr glücklich darüber aber gut"
+    },
+    "db2a07ed-bd8b-4fc4-a82f-786e811a19da": {
+      "de": "Ich möchte nur zwei kleine Hinweise geben"
+    },
+    "db433730-92eb-44c9-9b2b-1f6cfd7e7b79": {
+      "de": "Ich habe noch keine anderen Empfehlungen gesehen"
+    },
+    "db53ef8d-3976-4abb-b3db-caf90028443a": {
+      "de": "Die Revolution ist in größter Gefahr"
+    },
+    "db6af248-1b87-4b74-bda6-5960567040e7": {
+      "de": "Jetzt müssen wir etwas daran tun"
+    },
+    "db7dae32-8612-4515-bf94-9d7601b1d614": {
+      "de": "Das ist meine Pflicht und mein Recht und dazu stehe ich"
+    },
+    "dbf524e6-1703-40d2-8787-47096e20d145": {
+      "de": "Das ist das was mündlich hier beantragt wird"
+    },
+    "dc123304-55b9-4b6c-940a-e1948ddca86e": {
+      "de": "Wir sind ihnen zu großem Dank verpflichtet"
+    },
+    "dc3d98b1-4ef0-4f22-8176-082a55cdb15c": {
+      "de": "Deswegen sollten wir die Formulierung entsprechend anpassen"
+    },
+    "dc53489a-b51e-47e5-aff4-9cf2848450ce": {
+      "de": "Das ist der Gegenstand unserer heutigen Aussprache"
+    },
+    "dc80d851-513e-4a54-bb2c-f87c8470cb12": {
+      "de": "Dies wurde vorhin erwähnt und ist uns im Übrigen allen bekannt"
+    },
+    "dc83173b-14eb-4d26-8541-497505bf8707": {
+      "de": "Jetzt muss sie an neue Herausforderungen angepasst werden"
+    },
+    "dc8bfebc-cea6-430d-96c3-56dfcf78a341": {
+      "de": "Der Kampf lohnt sich"
+    },
+    "dcabad7f-bda4-43ee-bda6-4cb312c9e2e6": {
+      "de": "So etwas müßte es ja geben"
+    },
+    "dcb15a54-d17c-46ff-9134-ef83bef2e1fd": {
+      "de": "Wir waren nicht auf der Höhe unserer Aufgaben"
+    },
+    "dd408078-1d0e-4ac2-b8f4-155e85bc46aa": {
+      "de": "Es hängt von den Regierungen ab Maßnahmen zu ergreifen"
+    },
+    "de0b238f-ad5d-466e-b806-d4763e10ea4d": {
+      "de": "Stimmen der Opfer am Ort der Täter"
+    },
+    "de226ef9-ec64-44d6-a897-03dbe3a37e92": {
+      "de": "Erste Anzeichen einer Revolution"
+    },
+    "de2e1ff4-9d54-405d-b636-a43fe699e7f3": {
+      "de": "Wäre das eine Verletzung unserer GATT Verpflichtungen"
+    },
+    "de40713d-45e3-4110-be72-da148a9c660d": {
+      "de": "Wir müssen verhindern dass die Unterschiede größer werden"
+    },
+    "de4cda29-8dd6-4db2-b3e6-4f0b07fc5198": {
+      "de": "Wir haben eine Revolution bewirkt"
+    },
+    "de7e3b02-3cb2-46f9-bd64-902363eb06c8": {
+      "de": "Wir sind mit ihnen einig daß wir Mißbrauch bekämpfen müssen"
+    },
+    "deacc8d6-daa0-4815-b3e2-73afc57b4136": {
+      "de": "Wer möchte den Antrag begründen"
+    },
+    "df2d8bc4-2700-4ad9-8e23-48baf87dd9b4": {
+      "de": "Das wäre für die Öffentlichkeit verwirrend"
+    },
+    "df431f6d-e06a-48d4-a1eb-e78a90621da6": {
+      "de": "Sie haben sich dazu verpflichtet"
+    },
+    "df4c3e33-0dec-4eb7-bd3e-1bb90c153e55": {
+      "de": "Die Antwort auf Unterschiede ist Respekt"
+    },
+    "df53269a-c603-48f7-b5cc-d5e202fdaa59": {
+      "de": "Nichts funktioniert heute mehr"
+    },
+    "df572088-4abb-4e76-8ce6-6f1590f7d815": {
+      "de": "Die wahren Abenteuer sind im Kopf"
+    },
+    "df5ac0fc-3d2b-4fce-9bd8-289934536e46": {
+      "de": "Selbst unsere Beziehungen zum Rat werden schlechter"
+    },
+    "df5b9467-936b-4ecc-acd5-9a2b7c271103": {
+      "de": "Wir alle pflichten ihr darin bei"
+    },
+    "df7d821e-a333-4d18-b129-8ebde36deb87": {
+      "de": "Das sind politische und öffentliche Verpflichtungen"
+    },
+    "df9c039b-b22c-4d36-8ff0-2f24579273ba": {
+      "de": "Ich denke kaum noch an die ersten achtzehn Tage der Revolution"
+    },
+    "dfa19b77-0b82-48dd-b53d-2c275917ab08": {
+      "de": "Man könnte einige Politiker suchen die uns beraten"
+    },
+    "dfa62167-c793-42ae-aa77-3b7ce091a5d8": {
+      "de": "Das könnte schnell geschehen Herr Präsident"
+    },
+    "dfd2739d-bd44-4d5c-bc07-4f7e6f6b4174": {
+      "de": "Was ist die europäische Dimension"
+    },
+    "dfe271a1-b48b-4403-b8f3-98349f288faa": {
+      "de": "Das sage ich hier als Deutscher und als Europäer"
+    },
+    "dfe9e2f3-53e2-425e-9db2-85ae9c0a8554": {
+      "de": "Kampf um jeden Preis"
+    },
+    "dfed8cf8-6441-4ebc-9b9a-5abfb7869ca6": {
+      "de": "Ich möchte dem Parlament diesen Bericht empfehlen"
+    },
+    "e05c999f-e7ee-4ceb-871e-cfe33b9b24e0": {
+      "de": "Als gebe es Opfer erster zweiter und dritter Klasse"
+    },
+    "e0b6bf37-9069-4f44-8fce-08ff3f2f33ff": {
+      "de": "Hier liegen also Chancen für Europa"
+    },
+    "e0d5e582-d423-4b4b-afca-7cd6282e3433": {
+      "de": "Ohne diese Einigung kann es keine konkreten Fortschritte geben"
+    },
+    "e11795f8-eb80-4190-ad4b-d617b3a2567d": {
+      "de": "Wie soll man das dem europäischen Bürger vernünftig erklären"
+    },
+    "e12354b8-cd4c-49ca-80fa-ffd5fb93be7e": {
+      "de": "Wir müssen für unsere Rechte kämpfen"
+    },
+    "e1309cc6-a71d-4694-8a8c-b31e5e859d0a": {
+      "de": "Was ist passiert dass wir das dieses Jahr nicht mehr können"
+    },
+    "e143c567-7678-405d-8827-fe32f0d9e438": {
+      "de": "Ich muss Zeit und Geschwindigkeit ganz neu definieren"
+    },
+    "e16d4744-c329-4424-aa93-4cec13a78e62": {
+      "de": "Hier handelt es sich zweifellos nicht um eine Verzögerung"
+    },
+    "e17dd379-1bef-4b60-a974-eb0d507eaa86": {
+      "de": "Die Chancen sollten wir aber auf jeden Fall nutzen"
+    },
+    "e20a8977-3ad7-4c68-a065-425057bcf02c": {
+      "de": "Das bringt mich zum dritten Punkt"
+    },
+    "e228d099-f274-4172-83be-7fec1922c9f9": {
+      "de": "Wir brauchen auch ein neues Konzept"
+    },
+    "e251b416-6d59-4875-82bc-f09cc9c419d3": {
+      "de": "Auch dazu laufen entsprechende Arbeiten"
+    },
+    "e28cbcc6-1973-4ef5-b636-670e14202c2d": {
+      "de": "Es ist ein guter Bericht und wir werden ihn unterstützen"
+    },
+    "e313ed65-e3f0-4fc5-a00b-454ba8f306e3": {
+      "de": "Die Entscheidung ist gefallen ob sie uns gefällt oder nicht"
+    },
+    "e32213ed-1ba2-4def-86ee-c4cf3f9a4f18": {
+      "de": "Das ist das Entscheidende"
+    },
+    "e35c5173-3774-42db-b802-1fc87611b4af": {
+      "de": "Betrifft Europäische Maßnahmen zur Bekämpfung der Armut"
+    },
+    "e38e355b-54c9-4fa1-8890-078ee6ecd59e": {
+      "de": "Erstens im Respekt vor der europäischen politischen Kultur"
+    },
+    "e3b67a9b-ba42-4f87-9bb2-de16f46601f9": {
+      "de": "Herr Präsident ich möchte Folgendes antworten"
+    },
+    "e3bada2a-21da-4cc1-81b3-720a165c57b1": {
+      "de": "Doch das sind wieder einmal unverbindliche Verpflichtungen"
+    },
+    "e4bf8a68-7316-46b0-af9c-f6bc28607d62": {
+      "de": "Diese Unterstützung bleibt auch"
+    },
+    "e4caf286-7007-40a2-bcb3-bee865aab601": {
+      "de": "Unsere Union hat sich nach Osten erweitern können"
+    },
+    "e500186f-456d-489f-9072-1a6fb4d7494a": {
+      "de": "Widerrufsrecht beim Kauf virtueller Gegenstände"
+    },
+    "e50c8fed-371d-4281-9da4-8f760121829a": {
+      "de": "Es gab neue Dokumente neue Entscheidungen und neue Maßnahmen"
+    },
+    "e521dae8-5c80-4482-ac8b-4d37f5b57363": {
+      "de": "Nein bedeutet nein"
+    },
+    "e54ce137-b439-47a8-90d3-8b5264dd65b5": {
+      "de": "Die Möglichkeiten sind vorhanden"
+    },
+    "e5a893c2-326b-45ed-8beb-7ac66051d45d": {
+      "de": "Unsere Regierungen werden uns hoffentlich folgen"
+    },
+    "e5f35920-6039-4f74-8b3b-8d8cdefd772e": {
+      "de": "Wir in Europa können und dürfen dies nicht hinnehmen"
+    },
+    "e60688c2-db5a-40fd-808d-296423cc8ba0": {
+      "de": "Die Kommission hat diesbezüglich eine Verpflichtung übernommen"
+    },
+    "e63b4aff-7058-43ea-b531-77cff400502e": {
+      "de": "Da gehört schon sehr viel spezielles Mercedes Wissen dazu"
+    },
+    "e6bf494a-f2f4-4581-81b5-32f862403ee4": {
+      "de": "Es wurde bereits eine Entscheidung dazu getroffen"
+    },
+    "e6e1fb7e-9cfa-41df-a7cd-88d0a9a54883": {
+      "de": "Ist diese riskante Lösung heute für Israel akzeptabel"
+    },
+    "e6f11a65-3491-47e1-8a9f-915834a395c2": {
+      "de": "Dieser Kampf wird unter schwierigen Umständen geführt"
+    },
+    "e70a26a3-8dd4-4b17-b929-79e274cb7747": {
+      "de": "Das ist nicht das Europa das dieses Parlament erwartet"
+    },
+    "e71252c5-a02b-496b-9e20-4f40f037e956": {
+      "de": "Sie können diese Aufgabe unmöglich lösen"
+    },
+    "e7230fe0-4493-4488-8b8a-9025c01df07f": {
+      "de": "Es ist uns allen zum Glück gelungen gute Kompromisse zu finden"
+    },
+    "e750ff7d-d2c0-481d-bddb-163bf28a7905": {
+      "de": "Das gilt ganz besonders für den Bereich der Landwirtschaft"
+    },
+    "e76535e3-a82f-43b3-afbb-7c270d4cbb4c": {
+      "de": "Zum Schluß möchte ich auf die Partnerschaft eingehen"
+    },
+    "e7991818-3234-435f-a08c-e36f6f771f69": {
+      "de": "Lassen Sie mich direkt zum Thema kommen"
+    },
+    "e79b5302-c079-4a43-8c86-c02eb83123ef": {
+      "de": "Das ist sehr positiv und sollte klar erwähnt werden"
+    },
+    "e7bfa6e3-ba1a-4b50-b5e8-090a211a0b79": {
+      "de": "Das ist eindeutig eine ganz entscheidende Frage"
+    },
+    "e7df4b0c-3237-4dd7-81e8-f05eb04189c2": {
+      "de": "Hier muss generell eine Verschärfung eintreten"
+    },
+    "e7f954d2-f59d-493e-813f-34b53f11e74d": {
+      "de": "Es ist der Staat Israel"
+    },
+    "e8168017-1c65-454e-83d7-6c0e67fa6eda": {
+      "de": "Ich glaube kaum daß die Völker eine solche Politik akzeptieren"
+    },
+    "e8375631-237a-409b-a8e2-100263177d1b": {
+      "de": "Respekt und Danke"
+    },
+    "e83c7cbe-40c5-429d-8b09-a692e135e7e1": {
+      "de": "Egal wie man es sieht es ist eine riesige Summe für mein Land"
+    },
+    "e8792341-2c4a-407f-a3a6-e8ef5414cb4b": {
+      "de": "Ich möchte drei kurze Überlegungen anstellen"
+    },
+    "e9136238-1adc-45e7-a52f-ba80b938532a": {
+      "de": "Die Union spielt bei diesem Prozeß eine entscheidende Rolle"
+    },
+    "e958c601-ee00-4ee0-80cd-606b26c2737c": {
+      "de": "Wir müssen jedoch auch an die Wirtschaft der Zukunft denken"
+    },
+    "e98cdcef-ab2a-4e8f-bacc-8adcbe508596": {
+      "de": "Bildung ist der beste Weg um Diskriminierung zu bekämpfen"
+    },
+    "ea10ee37-19f9-421a-943d-0da1f441734e": {
+      "de": "Die Realität spricht allerdings eine deutliche Sprache"
+    },
+    "ea4688d0-143d-4ff5-ab05-881649a40ac9": {
+      "de": "Auch bei der Organisation ist einiges zu bekämpfen"
+    },
+    "ea6455dd-6d85-4cab-bddc-478c544782af": {
+      "de": "Doch wir müssen schnelle Entscheidungen treffen"
+    },
+    "ea762646-8025-4e78-977c-5b384946699f": {
+      "de": "Es ist wohl bekannt dass Viren keine hohen Temperaturen mögen"
+    },
+    "eada2ed7-da97-4abd-b7f2-b12c48056aeb": {
+      "de": "Brüssel weiß es besser"
+    },
+    "eb066779-a0e2-4b2b-bbed-373eb295e3af": {
+      "de": "Wenn die Sozialdemokraten"
+    },
+    "eb800984-96a0-494f-ace4-3f4bb85cbee2": {
+      "de": "Sie haben gesagt Sie haben noch nicht entschieden"
+    },
+    "ebdd1ba0-4d03-4c4c-acce-76f160709433": {
+      "de": "Katastrophale Folgen für die Bundeswehr"
+    },
+    "ec0fd02e-b88e-4108-b594-0aaaccab7f75": {
+      "de": "Das sind nur drei von vielen Beispielen die ich nennen könnte"
+    },
+    "ec13a599-695f-4897-86dd-2da030f26a5b": {
+      "de": "Die Botschaft von Brüssel kommt nicht überall an"
+    },
+    "ec8f1dca-bafd-47bf-a001-0a89606e7213": {
+      "de": "Ich möchte hierzu zwei Anmerkungen machen"
+    },
+    "ecbcdd3c-f159-400f-b948-d8bea25b596f": {
+      "de": "Soviel zum ersten Punkt"
+    },
+    "eccc560e-45a9-49f5-a186-8d60cd15a833": {
+      "de": "Aus diesen Gründen habe ich mich enthalten"
+    },
+    "ed621c0f-f43e-4d19-b538-d691aac3ec3d": {
+      "de": "Um die Marktwirtschaft steht es gut und es gibt Fortschritte"
+    },
+    "ed6f13b6-8f10-47bb-ae9f-d8df83bf2ed0": {
+      "de": "Können Sie sich konkrete Sanktionen vorstellen"
+    },
+    "ed7b0c38-44ad-4e9d-8c2c-21bc671300e9": {
+      "de": "In Dänemark gibt es keinen Mindestlohn"
+    },
+    "ed86ef7d-7d6a-4464-98bd-b38fefa4d17b": {
+      "de": "Ich kämpfe für Rot Grün"
+    },
+    "edf31b48-6305-40cf-a91f-a9cdffc97ad5": {
+      "de": "Wenn nicht wie können wir in Europa helfen"
+    },
+    "edff3bbb-8c5f-43ea-9a9f-7281a40b356b": {
+      "de": "Das ist keine Revolution"
+    },
+    "ee4bbe6c-6c0c-4a9e-a02c-8b510e1f9bac": {
+      "de": "Zum Zweiten ist die Überschrift falsch"
+    },
+    "ef282f90-5161-4dd4-9b70-c50ac71c64d7": {
+      "de": "Es wäre eine Revolution"
+    },
+    "ef2b5140-3ac2-4260-8e2e-dbf976a6e011": {
+      "de": "Es ist unsere moralische Pflicht und es ist möglich"
+    },
+    "ef8c2cb0-adc3-478a-93e8-defe6f188f9d": {
+      "de": "Wer entscheidet also über den Anspruch darauf"
+    },
+    "ef94cdda-71de-4993-8218-9c9c2a48ec9a": {
+      "de": "Das kann man von den deutschen Behörden nicht sagen"
+    },
+    "efb2d348-5d82-4c5d-a5be-df1f6662bf62": {
+      "de": "Einen solchen Schutz der Privatsphäre wünschen wir uns"
+    },
+    "efce8a03-55ae-4532-9abd-b260b077bec4": {
+      "de": "Hier sollte ein neuer Schwerpunkt gesetzt werden"
+    },
+    "efe6086d-b30e-4fb7-a290-e2de6b40facf": {
+      "de": "Diese Entscheidung werden wir treffen müssen"
+    },
+    "f001be2e-015e-4311-aff7-3a8090698296": {
+      "de": "Dies ist eine grundlegende Frage die gelöst werden muss"
+    },
+    "f0085c8e-d7c0-4c9f-aabf-a9f05bcc8f1c": {
+      "de": "Ich glaube jedoch dass wir noch mehr tun können"
+    },
+    "f01ac27c-10f5-48f2-b81a-4a4b3adf4452": {
+      "de": "Ich denke das ist ein Fortschritt"
+    },
+    "f022433c-d477-4b37-b5bf-584a18e23485": {
+      "de": "Deshalb haben wir uns entschieden gegen den Bericht zu stimmen"
+    },
+    "f02bdb04-fba5-44ed-b0c3-74a2a04f6d8f": {
+      "de": "Es gibt in dieser Hinsicht keine französische Ausnahme"
+    },
+    "f04d5219-0cc8-4785-8f23-22ae5e924c33": {
+      "de": "Wir müssen jetzt unbedingt einen ersten Schritt machen"
+    },
+    "f074ebdd-95ab-45bd-aeb4-0b6b94b4051c": {
+      "de": "Persönlichkeit des öffentliches Lebens"
+    },
+    "f0d29d6e-776f-4155-976a-f29b2c952394": {
+      "de": "Das ist zum Großteil geschehen"
+    },
+    "f0f26b10-b558-4cb1-ba00-a5dd27a4c57e": {
+      "de": "Für die Verzögerungen werden andere sorgen"
+    },
+    "f120652e-6a67-46ee-b249-03a201f38bbe": {
+      "de": "Wir wissen beide sehr genau wie die Realität aussieht"
+    },
+    "f1385ac3-75c6-4465-854a-d4d7224a0af8": {
+      "de": "Unser Geld mag er aber die Europäische Union mag er nicht"
+    },
+    "f15599f2-91c2-4e7b-b337-8850f8ba38f1": {
+      "de": "Sie steht in Verbindung mit grundlegenden Entscheidungen"
+    },
+    "f1ac4d9f-824b-4f6b-bf90-918c33ca2ef7": {
+      "de": "Ich komme nun zum Abschluss Herr Präsident"
+    },
+    "f20c7367-b172-4fd4-81a7-5de5908a4d22": {
+      "de": "Herr Präsident Wir waren in diesem Kampf nicht allein"
+    },
+    "f246894e-c0c4-4d06-a107-d34a11ed2216": {
+      "de": "Ich möchte jedoch einige Empfehlungen aussprechen"
+    },
+    "f25173d1-02a5-4c33-8457-7712898b0181": {
+      "de": "Bei allem Respekt"
+    },
+    "f25fb005-06d8-43b8-8321-ab9da9846615": {
+      "de": "Eine Erklärung halte ich nicht für ausreichend"
+    },
+    "f260ac0f-667b-4a06-886f-0aec58867b96": {
+      "de": "Es gibt kein Zurück zum Absender für sie"
+    },
+    "f2990671-28e7-421b-83e9-d874ee30e9bc": {
+      "de": "Mein zweiter Punkt betrifft die internationale Zusammenarbeit"
+    },
+    "f2d45b15-4ba4-42af-b2f7-d69cd52b84ea": {
+      "de": "Ich danke ihr für ihre Bereitschaft"
+    },
+    "f353bd98-b0bd-4804-8dee-cc5b2cf188c0": {
+      "de": "Die Ziele gefährden Europas Wettbewerbsfähigkeit nicht"
+    },
+    "f37a7a26-2478-48c5-b890-c7cb491371ab": {
+      "de": "Nun aber zurück zum Punkt der Sicherheit im weitesten Sinne"
+    },
+    "f390df90-75c5-48c3-8c70-26e3076d29f9": {
+      "de": "Dazu gehört zunächst der politische Bereich"
+    },
+    "f3ebfb19-1bff-428f-ae19-95ca64b3fd28": {
+      "de": "Die zweite wichtige Herausforderung ist wirtschaftlicher Natur"
+    },
+    "f3f8ffb5-eb16-4187-8988-bea3bacc0cd3": {
+      "de": "Manchmal benötigen sie aber unsere Unterstützung"
+    },
+    "f3fd17ea-73c3-456e-a285-8993105c42e8": {
+      "de": "Stärkung der Pflege im Krankenhaus"
+    },
+    "f45025b6-30e2-4733-92d7-daa77ba0e4bd": {
+      "de": "Wir müssen an die neue Generation glauben"
+    },
+    "f47052b9-9de0-41d4-8431-47b9de3224f8": {
+      "de": "Sie wird nicht von allein entstehen"
+    },
+    "f4762118-b66d-4a8d-99f6-ba57113f8d1f": {
+      "de": "Nie wieder Krieg für Israel"
+    },
+    "f48e588b-47d4-4217-b0fa-02b7efd8be01": {
+      "de": "Es war wohl so eine Mischung aus Zusammenbruch und Revolution"
+    },
+    "f493c2e7-3f38-4e26-8bcf-6c68db5d5ea6": {
+      "de": "Nein ich werde das Beste nicht zum Feind des Guten werden lassen"
+    },
+    "f493c4be-5369-4e29-8535-98c0eddfe3ff": {
+      "de": "Wir müssen dem Frieden eine Chance geben"
+    },
+    "f4f3c88e-c844-4657-9e1d-58078856014a": {
+      "de": "Wie hoch der private Verbrauch ist ist schlicht egal"
+    },
+    "f509eb3e-a451-4a44-8474-40f7d9bede97": {
+      "de": "Wir benötigen wirksamere Mittel"
+    },
+    "f5809892-6dcb-462e-8514-2d46dcc0c23f": {
+      "de": "Die Frage ist gestern nicht gelöst worden"
+    },
+    "f582e189-ebcd-4126-a140-d50c40a3ffbe": {
+      "de": "Das bedeutet wir müssen weiterhin unsere Rolle spielen können"
+    },
+    "f59f9e53-d572-469e-98a4-f94b1e28d3c2": {
+      "de": "Menschen und Arbeitnehmer müssen geachtet werden"
+    },
+    "f5bacafc-d099-4080-90aa-9f07edf9f85f": {
+      "de": "Ich möchte ganz kurz eine Textstelle in Ziffer eins klären"
+    },
+    "f5ec2ac3-496a-49d3-8412-0d8917bfbc83": {
+      "de": "Die meisten ausländischen Anleger werden ihre Gelder abziehen"
+    },
+    "f5f0b0cd-c54e-42e5-a589-c6f7a5754997": {
+      "de": "Diese Botschaft müssen sich die Politiker zu Herzen nehmen"
+    },
+    "f64387a2-006a-4747-b4a2-8765c9801468": {
+      "de": "Welche Wirkung haben unsere Erklärungen"
+    },
+    "f680a2a8-a92f-49d8-9128-312c07c05466": {
+      "de": "Kommen wir zum Thema"
+    },
+    "f687dcd8-082d-4a4a-b40c-4a48ef673174": {
+      "de": "Politische Integration und politisches Engagement"
+    },
+    "f73a91ce-8232-49f0-9f11-836b3adb3c6e": {
+      "de": "Sie glauben bereits daß sie dabei von der EU geschützt werden"
+    },
+    "f748cefd-47cd-4fbf-9f39-18e2f49a6720": {
+      "de": "Deshalb möchte ich ein wenig Kritik üben"
+    },
+    "f7aa208b-7b2d-46e3-ab8d-301f633cd567": {
+      "de": "Das erleichtert den Einstieg und zeigt Engagement"
+    },
+    "f7d7053c-70dc-4ed6-875a-4cf09a9fc8bd": {
+      "de": "Das erfordert eine neue Bewertung der Situation"
+    },
+    "f7edc9f5-a9d3-4068-8d77-594128905951": {
+      "de": "Wie sieht nun die Lösung aus"
+    },
+    "f890d482-2dbd-4e6d-a86a-fa44efef361f": {
+      "de": "Das war nur eine allgemeine Feststellung"
+    },
+    "f8af5ffc-ee08-435d-85f1-32363a674c89": {
+      "de": "Zum Abschluss ein Wort zum Verfahren"
+    },
+    "f8b12d2c-d724-459f-981a-4cb01c69fc77": {
+      "de": "Das System funktioniert"
+    },
+    "f8c086fa-7d23-46fd-90a1-b4f4f5cb2469": {
+      "de": "Wir haben also eindeutig ein Problem"
+    },
+    "f9406bc2-df96-4ea7-be8d-4fe9ed22b419": {
+      "de": "Was erlaubt ist hängt immer auch von der Branche ab"
+    },
+    "f97f656a-2908-4697-8d39-cf297f15fa47": {
+      "de": "Mir ist klar dass es da einen Kampf geben wird"
+    },
+    "f99422c4-6ad8-4d6b-855b-61b5f774339d": {
+      "de": "Zum zweiten ist der Euro eine neue Währung"
+    },
+    "f9d6ced7-ceda-4b62-b3a3-4c2230e11046": {
+      "de": "Betrachten wir die aktuelle Situation"
+    },
+    "f9f123bb-cdf0-40d6-8668-debb37e9c239": {
+      "de": "Mehr Respekt vor Kindern"
+    },
+    "fa7552a6-384e-43f7-a22c-670232001f19": {
+      "de": "Zum zweiten die politischen Bedingungen"
+    },
+    "fbd0d300-ef59-4b97-ba7d-ed26d17bf044": {
+      "de": "Abfindungen sind nach unseren Ergebnissen die Ausnahme"
+    },
+    "fbd8983d-5535-4635-892e-c4fb4fda785b": {
+      "de": "Herr Schutz möchte für den Antrag sprechen"
+    },
+    "fbf20f55-30ec-49fc-9258-7854cc9580f0": {
+      "de": "Pflicht zur Kultur"
+    },
+    "fc1364c7-fe41-4ee1-8b4e-89151975a2f4": {
+      "de": "Auch die Armen benötigen Energie in Form von Strom und Heizung"
+    },
+    "fc14efb8-096e-465e-bc0e-cf907780194c": {
+      "de": "Ich frage jetzt ob jemand dafür sprechen möchte"
+    },
+    "fc28c31f-02ad-4e17-a767-e98be0add63d": {
+      "de": "Betrifft Europäische Verfassung"
+    },
+    "fc41d1ea-d092-4323-9747-faebe2f3a790": {
+      "de": "Diese soll auch aber nicht nur Wirtschaftspolitik sein"
+    },
+    "fc5f4de3-ef47-4da9-964b-5eb2fcf3c347": {
+      "de": "Doch selbst hier stammt der größte Teil der Mittel aus den USA"
+    },
+    "fcccda76-719d-4d26-8af0-ca68c76c5e44": {
+      "de": "Es geht um den Durchmesser der Münzen"
+    },
+    "fcd2b532-bc98-4959-8614-ed4b120ec0c0": {
+      "de": "Dies müssen wir weiter zum Thema machen"
+    },
+    "fcdf199a-c221-4053-8fbe-b6ec0a4a8909": {
+      "de": "Es ist doch egal"
+    },
+    "fcf4e52b-2f1f-42d9-a3af-d999114b6abd": {
+      "de": "Ich möchte zum Abschluss die Analyse der Kommission wiederholen"
+    },
+    "fd490292-8303-44c7-ae35-fc9c2b130f38": {
+      "de": "Meine Fraktion unterstützt diesen Bericht"
+    },
+    "fd9bcf54-c5be-40a6-8239-501983b4d1e0": {
+      "de": "Es ist entscheidend dass eine Lohn Preis Spirale vermieden wird"
+    },
+    "fdc9a096-670d-4422-ad09-27fe7be0f6bc": {
+      "de": "Bedeutet jedoch mehr Handel einen besseren Handel"
+    },
+    "fdd68c0d-e299-4c77-b140-648fde07b148": {
+      "de": "Es muss zumindest Raum für mehr Flexibilität geschaffen werden"
+    },
+    "fde4856b-4987-4cbc-8599-2a50402e9e83": {
+      "de": "Durch sein Engagement konnten Schäden im Dorf vermieden werden"
+    },
+    "fde7a702-cee3-4065-a5f5-e7f5b699cde4": {
+      "de": "Ziele der Revolution"
+    },
+    "fe1ae3db-dd62-4527-a1e8-b2f64afb2d6f": {
+      "de": "Die Türkei gehört nicht in die Europäische Union"
+    },
+    "fe62286b-9672-4f37-b728-f4ecf59a5a43": {
+      "de": "Auch in diesem Punkt kann ich also eine Änderung feststellen"
+    },
+    "fe8f7fce-a4a9-4f2f-83f8-4d15336b8151": {
+      "de": "Dies gehört zu den wichtigsten Prioritäten unserer Politik"
+    },
+    "fe9ae683-2305-4386-8a3e-106879d06c47": {
+      "de": "Bei diesem Europäischen Rat geht es um drei Dinge"
+    },
+    "feed6844-4c65-4fb2-8493-d2acf4ddf307": {
+      "de": "Diese Vorschläge gehen in die richtige Richtung"
+    },
+    "ff29d3fb-9ce8-4cbc-8f2d-7e26b26a7c87": {
+      "de": "Dazu stehe ich ich halte das für unsere Pflicht"
+    },
+    "ffc2c7c9-0e89-46aa-b3ef-0e87fdb23fdc": {
+      "de": "Mehr ist eine solche Empfehlung wirklich nicht"
+    },
+    "ffd53839-d544-4565-a1d6-954015f1d5c6": {
+      "de": "Ich denke darauf können wir stolz sein"
+    },
+    "ffeec030-3fdc-442d-8318-64b9fb0d7141": {
+      "de": "Ich empfehle dem Parlament den Bericht zur Annahme"
+    },
+    "fff05bdd-a141-4ee0-a70d-c6b1c7779818": {
+      "de": "Alle Institutionen und Organe müssen Verantwortung übernehmen"
+    }
+  }
+}
