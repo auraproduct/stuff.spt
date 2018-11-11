@@ -1,0 +1,13 @@
+{
+  "dialect": {
+    "de": [
+      "hoch", "nord", "west", "süd", "ost"
+    ],
+    "en": [
+      "american", "british", "australian"
+    ],
+    "vn": [
+      "north", "south"
+    ]
+  }
+}
