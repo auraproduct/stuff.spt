@@ -1,0 +1,3045 @@
+{
+  "id": "1a4b291f-782d-464d-bf07-0a8e633fb5fe",
+  "date": "20181112.181203771",
+  "language": "tr",
+  "phones": {
+    "AAH": 18,
+    "AH": 2393,
+    "AX": 542,
+    "AXH": 1,
+    "B": 1003,
+    "CC": 152,
+    "D": 860,
+    "DS": 283,
+    "EEH": 141,
+    "EH": 2078,
+    "F": 155,
+    "G": 295,
+    "HH": 239,
+    "IH": 1749,
+    "IIH": 236,
+    "K": 1211,
+    "L": 1386,
+    "M": 780,
+    "N": 1036,
+    "OE": 261,
+    "OEH": 2,
+    "OO": 738,
+    "OOH": 37,
+    "P": 169,
+    "RR": 1444,
+    "S": 588,
+    "SH": 310,
+    "T": 700,
+    "TS": 428,
+    "UU": 697,
+    "UUH": 3,
+    "V": 302,
+    "Y": 741,
+    "YYH": 410,
+    "Z": 360,
+    "ZH": 30
+  },
+  "sentences": {
+    "0010e430-eb04-4fc5-b603-dec9ac152a01": {
+      "tr": "Bu rakam tabi ki önemli bir rakam"
+    },
+    "0037fe13-5d63-45d9-aedf-2707ceccc6c7": {
+      "tr": "Bu çok tehlikeli bir yol"
+    },
+    "0041bfcd-de97-462a-b289-fc928a7d06a8": {
+      "tr": "Ulusal Çocuk ve Suç"
+    },
+    "00886629-4889-4285-bb25-a8f9b6990471": {
+      "tr": "Karınca tekrar çıkar"
+    },
+    "00986943-e945-4f72-b9c0-0a488d0498aa": {
+      "tr": "Gidişat iyi değil"
+    },
+    "0098b206-2fbc-45cc-be81-759d982a0276": {
+      "tr": "Hakem art düşünceli veya taraf olamaz"
+    },
+    "00fa2e62-0da2-40b4-82ec-e4e991699487": {
+      "tr": "Yine bir uygulama daha var"
+    },
+    "01093741-8768-41a0-92af-8a28f1ade1dd": {
+      "tr": "Çünkü doğru bir proje"
+    },
+    "01101bcb-445b-43aa-ab0a-bc890cd91ac6": {
+      "tr": "O bana büyük bir örnek oldu"
+    },
+    "0126b72f-4928-4f05-b9c4-e6d3b5913f07": {
+      "tr": "Çok heyecanlı bir maç oldu"
+    },
+    "013e857b-a879-4d11-834b-60306083e3fa": {
+      "tr": "Dolayısıyla en önemli yenilik bu"
+    },
+    "01417b5b-342c-4bac-9f4a-c682d016cdc9": {
+      "tr": "Ancak tablo çok net"
+    },
+    "01430ac9-c5a5-4219-898d-fa30609e2ea7": {
+      "tr": "Bu zihniyet çok önemli"
+    },
+    "01599036-155c-4a56-baeb-efeb09cdefd8": {
+      "tr": "Geçim böyle olur"
+    },
+    "015cab07-6fee-4fc1-9f1a-ad623c3a4079": {
+      "tr": "Şöyle de bir yaklaşım var"
+    },
+    "016e69bb-50c2-403d-ad06-95e3e2bf4c4d": {
+      "tr": "Bu tamamen gönüllü yapılan bir şey"
+    },
+    "019a8f53-30d5-4fcc-8f33-8f4fceb18042": {
+      "tr": "Tabii ki öznel"
+    },
+    "01a9e357-6ceb-469e-8c0e-5a2981831c23": {
+      "tr": "Madem o kadar yoğunluk olacak"
+    },
+    "01b42013-d53d-4821-b084-33fdb1b92d66": {
+      "tr": "O çok iyi bir örnek"
+    },
+    "028a34d6-b4a1-4dea-ad0e-1187c6ada4fa": {
+      "tr": "En büyük hastalık da burada zaten"
+    },
+    "02dd1aa4-e703-4cea-8cba-2c91531e1146": {
+      "tr": "Nokta tahmin ve aralık tahmini"
+    },
+    "02e17c44-a8a2-4912-b97d-fdf52bc72bbd": {
+      "tr": "Aksi de gayet makul olur"
+    },
+    "03050cbe-cfd6-4732-8258-0ff93ce0e048": {
+      "tr": "Ortada ciddi bir dram var"
+    },
+    "0396ccba-b3de-431e-af60-f55092434482": {
+      "tr": "Özellikle de yeni nesil"
+    },
+    "03ac7130-f338-43f5-b677-74f23c85b564": {
+      "tr": "Bilgi en değerli sermaye oldu"
+    },
+    "03f28bb7-ba3e-4b4b-a834-3c5cc4480bbb": {
+      "tr": "Çok güzel bir organizasyon"
+    },
+    "03f6aa46-c0f1-4465-9b7b-26f12d33e629": {
+      "tr": "Serbest tahliye"
+    },
+    "0402ad29-f2d1-4e24-bb5c-3e825a3808fb": {
+      "tr": "Esas gerçek o değil"
+    },
+    "0464daf5-a125-4c2a-8f9c-686b1e8d659b": {
+      "tr": "Bu uygulama ile"
+    },
+    "04927a16-4a39-4152-b5f7-24a764ccc2ed": {
+      "tr": "Yüksek Sosyete de öyle"
+    },
+    "04a07ca5-92fc-4e45-9a54-d0ef64abef23": {
+      "tr": "Oysaki konu o kadar fazla ki"
+    },
+    "0527a778-1da7-42e4-8ec2-a7d21fa4c969": {
+      "tr": "Zengin bir hayat"
+    },
+    "053b29cc-5e56-44ea-865c-2b4dfda0d715": {
+      "tr": "Her hekim için geçerli bir köprü kurmak doğru değil"
+    },
+    "0581d4fa-6fc4-4b0e-8e76-641fc5475e65": {
+      "tr": "Adana ili ve il"
+    },
+    "05b24773-1ecc-4588-a1e0-83415ec3b309": {
+      "tr": "Yoksa yeni okul veya program açmak sorun değil"
+    },
+    "062c367d-47c6-433a-828b-df87d86976b9": {
+      "tr": "Bunlar elbette temel özellikle"
+    },
+    "065a6fec-481b-4847-9d4b-cb61a23111de": {
+      "tr": "Bu bir sürpriz değil"
+    },
+    "06ec032b-096e-4a55-ad7d-833780eb8581": {
+      "tr": "Özel ve sosyal maliyet"
+    },
+    "08557bba-59a4-4979-ab81-06b290066c6c": {
+      "tr": "Bu ödenek bu yıl çıkmalı"
+    },
+    "085b752f-1ad5-44bf-a70e-df221a96ec4b": {
+      "tr": "Çok özel bir şampiyon"
+    },
+    "085c5caa-8b7e-4b26-a5bb-b4edb23b51dc": {
+      "tr": "Tatlı bir yarış olacak inşallah"
+    },
+    "08927cef-7042-4e80-a3ae-c9ede157c8bd": {
+      "tr": "Sıcak ve kuru özellik taşır"
+    },
+    "08d785aa-e41b-4fed-8ad4-5606d1f42359": {
+      "tr": "Matematik bilmek hayatı"
+    },
+    "091cc840-78f0-4c56-9757-60585e357e10": {
+      "tr": "Hem ne anlatmak"
+    },
+    "09a5c2b8-03b5-4552-9077-fb73298e4970": {
+      "tr": "Oyunculuk da popüler bir iş sonuçta"
+    },
+    "0adf63dd-4736-4c7b-9ca9-9b6593d02af4": {
+      "tr": "Yok böyle bir lezzet"
+    },
+    "0ae7d72d-580b-4e04-9152-74b0c4118bde": {
+      "tr": "Açıklama yok hiç bir şey yok"
+    },
+    "0af410ab-f2f1-4d82-ad20-70e0309a21d1": {
+      "tr": "Üstad itiraz eder"
+    },
+    "0b0937c4-4f18-4326-8b47-931622e9c678": {
+      "tr": "Sahil Güvenlik Görev ve Teşkilat Yön"
+    },
+    "0ba0a156-28f2-4452-9ce3-663b14c52376": {
+      "tr": "Perşembe hariç"
+    },
+    "0bac5bb7-3fd3-4482-abd6-a31b09d82159": {
+      "tr": "Tam bir orta saha pas h"
+    },
+    "0c1cf22a-11ab-4aa1-a7f1-4970ac61f474": {
+      "tr": "Ama maalesef buna imkan ve ihtimal yok bu keşmekeş içinde"
+    },
+    "0c3f2a74-9d9d-42f2-a1a9-0d25cdc8f952": {
+      "tr": "YAŞAM ince bir çizgi"
+    },
+    "0d33b08d-6aed-4e50-98f1-4dc935a18649": {
+      "tr": "Tabii ki bu bir inanış ancak efsane bu"
+    },
+    "0d3c3ddd-fd40-4bda-84f3-e1df3d89fac8": {
+      "tr": "Fakat bu yeterli değil"
+    },
+    "0d66332b-6bd3-4ad5-b0ea-874dc413b28c": {
+      "tr": "Buda ayrı bir önemli farklılık"
+    },
+    "0dc23b86-24f5-42a5-bf3c-7bae785689de": {
+      "tr": "Çok pis bir durum"
+    },
+    "0dfe317e-7ebc-4884-b9c9-3586ed35555e": {
+      "tr": "Göz yerine de iki karanfil sokun"
+    },
+    "0e08153c-789b-4a11-a9b9-db2b17f628b6": {
+      "tr": "Bu çok önemli bir meblağ"
+    },
+    "0e796cfe-a07e-45f3-9ecf-5cca61e214c4": {
+      "tr": "Savaş için aynı şey vardır"
+    },
+    "0f2f9588-0dad-4436-98b3-3ce6f6ac7a68": {
+      "tr": "Fiyat önemli değil"
+    },
+    "0f3be430-33ba-4521-ad64-596a340cb34a": {
+      "tr": "Samimi ve verimli bir görüşme oldu"
+    },
+    "0f5d7210-22b1-4fbc-a5fa-8a1175d7a3e8": {
+      "tr": "Ah bu sevgi ah"
+    },
+    "0f7e2ae7-0f1d-4b16-8cce-3ff36bde8b5d": {
+      "tr": "Ancak evlenmek çok da kolay değil"
+    },
+    "1049d7ab-00c1-49c6-987a-cf7245b8792e": {
+      "tr": "Ne teferruatlı iş"
+    },
+    "10693e85-ce21-4452-9e0f-a8b24013d63e": {
+      "tr": "Daha birçok akım var"
+    },
+    "10c9d2b7-92e0-4de2-8f2b-fa1c4b8418ec": {
+      "tr": "Böyle bir düzen olmaz"
+    },
+    "10d1f835-b77e-4b95-b72b-013ba81ab2d9": {
+      "tr": "Merdane ile ince bir hamur açın"
+    },
+    "10da6b1c-2d15-46e8-9aa4-2f527f863563": {
+      "tr": "Çünkü oyunculuk aslında koşu gibi"
+    },
+    "10e0ed42-501a-42b1-8f07-578601a1663c": {
+      "tr": "Birazcık sakin olun"
+    },
+    "10fcd30b-1b52-49fe-a563-f1f9a61ba18e": {
+      "tr": "Bu mutlu günde görüşmek üzere"
+    },
+    "113cdfce-18ca-4650-9aff-1019507d06d4": {
+      "tr": "Hani bir hikaye var ya"
+    },
+    "12cc1581-9df8-4915-a6fd-a17b4f7309fd": {
+      "tr": "Özgür Mehtap konuk oldu"
+    },
+    "1323d67e-a7b1-4766-b562-2fe8d26e6081": {
+      "tr": "Çaresizlik tabi kötü bir şey"
+    },
+    "13305882-c3dd-4d30-adc3-77b1eebccbea": {
+      "tr": "Bugünkü tablo çok daha vahim"
+    },
+    "134f88df-7b1a-410b-9c87-07bf9fab5cf8": {
+      "tr": "Sessizce demir alındı"
+    },
+    "1369db9c-e94f-421b-a89c-8b31ace1e51f": {
+      "tr": "Titiz ve güvenilir bi aracı bulmak büyük kolaylık ve şans"
+    },
+    "14683625-a6b0-450a-b597-aecce1d11f9a": {
+      "tr": "Üç çocuk yapmak değil çünkü marifet"
+    },
+    "173ae28f-dfdb-40b5-8ad2-b521a7b111b8": {
+      "tr": "Şimdi böyle bir şey yok"
+    },
+    "17e1339c-a000-46af-94d2-24787dc9f232": {
+      "tr": "Uygulama son derece etkili ve pratik"
+    },
+    "1818e564-7a49-4519-be00-7d6e07f1578f": {
+      "tr": "En güzel burada"
+    },
+    "18290e3d-bb1b-43a8-9a79-8a4400ed6afd": {
+      "tr": "Tabii ki mümkün değil"
+    },
+    "189d5702-13e3-4b29-9197-5d2260680d0c": {
+      "tr": "Kahvaltı açık büfe değil"
+    },
+    "18c51ccc-8868-4af3-9463-9c518107aab6": {
+      "tr": "Oysa çatışma sadece bu"
+    },
+    "18e689ac-4ec9-4b45-ab2a-e9745a219759": {
+      "tr": "Döviz ya ihracat yoluyla ya yatırım yoluyla gelecek"
+    },
+    "19180288-ec93-428a-b0f3-07892e979876": {
+      "tr": "Hemen geri döner"
+    },
+    "19287197-4739-4ced-b10e-6fce3878da4f": {
+      "tr": "Şimdi kim daha toleranslı"
+    },
+    "19bf3d8a-9f59-41ec-aa2e-114e7968ce3f": {
+      "tr": "Büyük Şehir Bel"
+    },
+    "1a05b5dd-1fdf-4265-a967-fa7d679e52de": {
+      "tr": "Donan çisenti veya donan yağmur"
+    },
+    "1a1d54ce-2bdc-4927-9923-e442845ea5c8": {
+      "tr": "Nitekim bu yaz da öyle oldu"
+    },
+    "1a6f302c-5d19-42ec-aaa6-b30004210023": {
+      "tr": "Yenilik bölgesel politika ile olur"
+    },
+    "1a779537-a162-4fe1-bf84-c071b1db2a26": {
+      "tr": "Buna en son ve en güzel örnek Hatırla Gönül"
+    },
+    "1a9b6179-471b-4b32-940f-58be53eb0678": {
+      "tr": "Problem fiziksel olabilir"
+    },
+    "1ad88c07-23c8-4362-b356-5db08fa4f6f6": {
+      "tr": "Edebiyat ve Eğitim"
+    },
+    "1c50c2b2-05df-4e45-88a2-74adbf5ade9a": {
+      "tr": "Çünkü turizm dinamik bir sektör"
+    },
+    "1c588c00-54ea-417b-9d97-65e2927cfa07": {
+      "tr": "Engelli engelsiz diye bir şey yok"
+    },
+    "1ccc1d62-294f-44e2-ab11-697dafeafb6a": {
+      "tr": "Kitabı roman değil"
+    },
+    "1cdd3ad6-b6af-4577-95ae-fd81fffebd3f": {
+      "tr": "Bu kalıcı olmaz"
+    },
+    "1d358cdf-259a-41d9-8197-0ff6e07461af": {
+      "tr": "Bu kitap daha sonra pek"
+    },
+    "1d825bef-4cff-436f-ab72-48f2188ed76b": {
+      "tr": "Kitap kesinlikle edebi bir eser değil"
+    },
+    "1d93f3a6-f631-4ae9-a522-608ffde987fa": {
+      "tr": "Bu yine de iyi bir şey"
+    },
+    "1e710d6f-cf6b-45e2-8582-a305a7197db0": {
+      "tr": "Bu sadece bir program için"
+    },
+    "1e96c70c-8e8c-44c8-895a-9c2fea57baa8": {
+      "tr": "Kentsel dönüşüm ve zemin etüd proje geliştirme"
+    },
+    "1ec7997f-6276-4bc0-bc34-a09bec4b5cc1": {
+      "tr": "Metin içinde bir adet renkli portre"
+    },
+    "1ef7681e-3090-4481-90ad-8959ced0722d": {
+      "tr": "Daha hafif olacak"
+    },
+    "1f4a27ec-5eeb-4afe-9985-3725578e2b1a": {
+      "tr": "Ama profesyonelce bir teklif yok"
+    },
+    "1f4fe861-03e8-4eb9-9d4d-34ed91ec167b": {
+      "tr": "Unutkanlık feci bir şey sevgili okur"
+    },
+    "1f708633-9406-4a85-a66e-4dc272b355c6": {
+      "tr": "Böyle güzel bir çalışma için"
+    },
+    "1fc8f379-ea8d-4032-8c41-c649ea4b78d9": {
+      "tr": "Yani çok değerli"
+    },
+    "1fedbd4f-3150-4a04-a88f-0f126685539e": {
+      "tr": "Orada öyle bir şey yok"
+    },
+    "1ff1ad27-c7ef-418c-a7b2-d327299b9b8a": {
+      "tr": "Pek çok sorun var"
+    },
+    "200a49d3-8e21-4b20-9305-d971ee14a7c1": {
+      "tr": "Ama genişleme sonuçta bir değişim demek"
+    },
+    "203dfdc6-fcf0-4769-8d1e-6365e6ef9d5c": {
+      "tr": "Hayat hep ayrık otsu dikensi ve yavan"
+    },
+    "206b2c21-68a2-448c-a9ae-bc3f260db4d6": {
+      "tr": "Hiç bilinmeyen daha yeni o"
+    },
+    "20d198cf-15d1-446b-94fd-f881d37be2bf": {
+      "tr": "Çünkü olay tek taraflı değil"
+    },
+    "21a36eb4-485c-4b2d-878f-a8fcf914a171": {
+      "tr": "Fakat tek eksik organ"
+    },
+    "21b17149-64b8-4fc4-af36-955822acd1e6": {
+      "tr": "En iyi çözüm örgütlenmek"
+    },
+    "21cbbe9e-cd00-4a0b-a81b-2b05990fa873": {
+      "tr": "Sanat böyle bir şey"
+    },
+    "21fcb286-5598-4970-9e91-a02228017252": {
+      "tr": "Peki kriz ile birlikte"
+    },
+    "22158346-db6b-4555-a9ff-8f06db3a4a6f": {
+      "tr": "Yani bu karşılıklı bir ilişki"
+    },
+    "22760687-6370-4cae-8953-9beaf8b22741": {
+      "tr": "Bu kesinlikle doğru değil"
+    },
+    "22c0b04e-5110-44d1-88e1-99546fe09b42": {
+      "tr": "Selam yok sabah yok"
+    },
+    "22f0dc83-8059-4998-8a8c-881c4d6a3bab": {
+      "tr": "O iş mutlaka olacak"
+    },
+    "2305a3a6-50f3-4e6c-8441-01ddfd8105fe": {
+      "tr": "Çoğu köpek yanında"
+    },
+    "23e45608-fd51-4389-80c3-ff6427dc1e5e": {
+      "tr": "Ancak yeterli mi değil"
+    },
+    "24133ad7-576e-480b-8fa7-7e21754948ca": {
+      "tr": "Bu birinci nokta"
+    },
+    "2438db9a-ac41-482d-9787-55ca9875e4cf": {
+      "tr": "Bugün için çift forvet yerinde bir uygulama olur"
+    },
+    "24398d17-d880-4efd-adee-07cdb1647784": {
+      "tr": "Yani ortada yasal bir yönetim yok"
+    },
+    "24617907-4252-4a74-88d4-3e6fc09d4d60": {
+      "tr": "Servis çok iyi"
+    },
+    "24ce2dc5-9e17-4f94-8230-2622fcfb1233": {
+      "tr": "Trabzon çok küçük bir şehir"
+    },
+    "2529e512-4b5b-4830-b7d2-63bd99789cef": {
+      "tr": "Böylece rüya gerçek olur"
+    },
+    "252d78e0-6a0b-4106-bf4e-34b6af074ea4": {
+      "tr": "Burada tabiat çok güzel"
+    },
+    "254dcc22-6bab-4673-8517-81d23d3f6ba0": {
+      "tr": "Önemli bir konu"
+    },
+    "255e9cf7-1e67-441b-bd48-586008bae16f": {
+      "tr": "Mühendislik böyle bir şey"
+    },
+    "25ad6800-fc31-4c98-bf28-b2f296fd0f2e": {
+      "tr": "Hakikaten tuhaf bir şey"
+    },
+    "25ef3919-1ddb-4847-8d62-df71a4dd8667": {
+      "tr": "Bu yalan değil"
+    },
+    "26005475-9bbf-4b25-b216-e26f739b7f0c": {
+      "tr": "Bu zaten bir gerçek"
+    },
+    "26256d6a-52a3-45b8-96e9-c107e77ba00e": {
+      "tr": "Bir kere ulaşım çok rahat"
+    },
+    "2646ae6c-59a2-4157-8cdb-204f7cccca4d": {
+      "tr": "Daha renkli oldu"
+    },
+    "2694a215-5f4f-49fe-a41c-2d5ca94551ea": {
+      "tr": "Bakın yine öyle oldu"
+    },
+    "26c77c36-46c5-4f62-abe7-b6567e5c55e2": {
+      "tr": "Takım elbiseli hali bile hiç uslu değil"
+    },
+    "26efebd4-9ae0-418b-8e39-c896c24d27be": {
+      "tr": "Burada iki sorun var"
+    },
+    "27a61ad7-f0d6-4db1-9f47-17c102b1cf0e": {
+      "tr": "Ancak şöhret kesinlikle bulaşıcı bir hastalık"
+    },
+    "27aa762c-298b-4de9-9046-af7d05d50cc0": {
+      "tr": "Gerçekten çok pahalı"
+    },
+    "27c7ffef-6824-438b-ab87-8b7e249c251a": {
+      "tr": "Bu da güzel bir ayrıntı"
+    },
+    "27e4d08c-d39c-4549-a34d-133dc60396c3": {
+      "tr": "Öyle bir heves de yok"
+    },
+    "27e666ef-2638-4a8a-913f-6036da5e94b3": {
+      "tr": "Sağlıksız bir durum"
+    },
+    "2821407f-0284-438e-ac13-6aa2ad612cb2": {
+      "tr": "Dolayısıyla heyecanlı bir maç oldu"
+    },
+    "282e08a4-efe1-4058-a059-9d70778541df": {
+      "tr": "Bir başka tarayıcı ile test edin"
+    },
+    "286a595f-7d60-4d4c-83c8-3f9b248ccc05": {
+      "tr": "Yapmak şart değil ama sevmek"
+    },
+    "287ddce0-3322-484b-b003-d2566e7fa0be": {
+      "tr": "Burada tek suçlu kriz değil"
+    },
+    "291c9708-8549-453a-a67b-a750ff338d4a": {
+      "tr": "Hepatit A oldukça ciddi olabilir"
+    },
+    "29351de9-8292-4b9a-86da-64ef95a5b4bc": {
+      "tr": "Bu sadece ekonomik adalet için değil"
+    },
+    "2939a362-cc66-4c39-8c14-64908aa2d6a5": {
+      "tr": "Yasemin Koçak adı ile Aferin kap"
+    },
+    "298a8a85-eb47-4236-a493-38baf1d62a38": {
+      "tr": "Uyuşturucu ve gençlik"
+    },
+    "29b28e57-bc52-460d-b44b-5df0c843e771": {
+      "tr": "Hayır kesinlikle yeterli değil"
+    },
+    "29f50248-4f7a-4dab-a49a-22c0a434c166": {
+      "tr": "Bana yardımcı olun"
+    },
+    "2a7444dd-3868-4ade-918d-dc14289901f3": {
+      "tr": "Sonunda bu işte oldu"
+    },
+    "2b65060d-4fd6-4a69-b5e7-2f14b15647a3": {
+      "tr": "Disiplinli ve saygılı bir sanatçı"
+    },
+    "2b6db45f-5aa7-40b7-9d48-ec20a10816ea": {
+      "tr": "Bildirim sözlü veya yazılı olabilir"
+    },
+    "2b852413-d5ed-41d6-b310-7fc049826a3d": {
+      "tr": "Dijital dönüşüm muhteşem olacak"
+    },
+    "2ba396db-203a-4fa1-ac20-fab907407303": {
+      "tr": "Bu büyük bir fatura"
+    },
+    "2bbda9d9-05f1-4a3d-9825-3b0be903f65a": {
+      "tr": "Su bile bedava değil"
+    },
+    "2be0dd3d-9ffa-4aea-a2a4-7f4b61788201": {
+      "tr": "Tür hakkında mevcut bilgi azdır"
+    },
+    "2bfbec20-4bea-4b5d-a2d4-35064264e85a": {
+      "tr": "Güç değil teknik ister"
+    },
+    "2c13dace-14f4-487f-b2f4-0fa4cedc5aab": {
+      "tr": "Herkes çok ilgili"
+    },
+    "2c43c3d2-c84a-4974-ac28-8e355defe311": {
+      "tr": "Ölü deniz gibi son derece hareketsiz"
+    },
+    "2c5e607e-ecf2-426e-94e5-8930edd29b66": {
+      "tr": "Ama taze bir başlangıç da olabilir"
+    },
+    "2cfbbec1-3caa-40bc-8ed9-5a14b88a0378": {
+      "tr": "Çok sıcak ve sempatik biri"
+    },
+    "2d324a63-a0a3-4d0e-9102-7dbc650da79e": {
+      "tr": "Hepsi tek sayfa"
+    },
+    "2db7bb1c-5e0b-45f9-909f-dbbfc7813b90": {
+      "tr": "Ekonomi de buna hazır"
+    },
+    "2dddafa5-381a-4fa3-9004-6e152f09d813": {
+      "tr": "Hem de ne gül"
+    },
+    "2de2fdfa-c52e-438b-9172-6331a3728720": {
+      "tr": "Ay hesabı ile çok kısa"
+    },
+    "2e2743f9-e9b8-4bce-ab05-9e559deeeb64": {
+      "tr": "Bir görev değil"
+    },
+    "2e5810a9-f391-4f61-83ae-8eda7fba2603": {
+      "tr": "Asıl kahraman her daim"
+    },
+    "2e6de39b-c48e-454b-a840-cd7ff422a8c3": {
+      "tr": "Sadece amatör bir yazar"
+    },
+    "2e972319-b4c6-42ae-bf83-73cfee8c7ecd": {
+      "tr": "Ama bu güzel bir rekabet"
+    },
+    "2ee2ba80-1262-44c0-91bf-a912bf0ecf34": {
+      "tr": "Tabii ki bunlar ileride olacak"
+    },
+    "2ef47a22-9eab-4ad6-8c34-ddf7c611cd0b": {
+      "tr": "Akdeniz ve Uzak Doğu"
+    },
+    "2ef92d0f-8285-4cb9-91d5-2c5bf752a217": {
+      "tr": "Yazın yağış oldukça azdır"
+    },
+    "2f573cb0-f920-4653-836c-aafbaecb26d7": {
+      "tr": "Futbol adına hiç bir şey yok"
+    },
+    "2f7bcb91-2a01-4f20-ad7c-a4fa955b311d": {
+      "tr": "Bu her şey için geçerli"
+    },
+    "2fe0994a-681e-4528-8ebf-905864823daf": {
+      "tr": "Bu tatil bana büyük sürpriz oldu"
+    },
+    "2ff75e47-77a1-4763-b8d5-221bee0abe9c": {
+      "tr": "Harika bir sporcu"
+    },
+    "302423e5-b96b-47c3-8e29-fcc07cce8725": {
+      "tr": "Ama elbette ki değil"
+    },
+    "304acb2c-94fb-4662-90fc-027701287dd3": {
+      "tr": "Bu çok önemli bir hadise"
+    },
+    "30f82abf-6d21-433c-a454-620772bb447f": {
+      "tr": "Herhangi bir cerrahi müdahale yok"
+    },
+    "31025271-3413-4732-be19-84cef1e688ce": {
+      "tr": "Motivasyon için dinlenmek önemli"
+    },
+    "31853e0b-90a3-414b-9eb8-f62dac45a93a": {
+      "tr": "Bu doğru değil ama kanaat doğru"
+    },
+    "3197a42c-b913-43af-b291-8fe3f3ec6a17": {
+      "tr": "Bu zaman öldürmek için yapılan bir iştir"
+    },
+    "32227516-8317-4a11-ac97-c7337af2541d": {
+      "tr": "Basın ve Milli Mücadele"
+    },
+    "32289c43-0309-4827-8aa6-d2cbc6f94ce4": {
+      "tr": "Bu önemli bir yetenek"
+    },
+    "326db289-dfa3-4b7b-9a38-a2156fb711b3": {
+      "tr": "Sosyal bakımdan muhteşem bir ortam"
+    },
+    "32cffb7f-6f7c-4a4f-941e-0c77df5a25b3": {
+      "tr": "Bence harika bir ürün"
+    },
+    "32e58b5e-03e9-4520-9238-4c761688dd34": {
+      "tr": "Fakat eğer bir"
+    },
+    "3317c163-ac5c-46d6-ba3e-e6b859cdd5a5": {
+      "tr": "Aynen bu da öyle"
+    },
+    "33c84db5-f84e-42f7-be32-1f737a715423": {
+      "tr": "Ancak maalesef bana göre bu görüntü gerçek değil"
+    },
+    "34020ec3-ebe7-410c-81b6-ff35764bb87a": {
+      "tr": "Bu bir hesaplaşma değil"
+    },
+    "3442ea9b-1add-4af6-aa83-4278054a7f90": {
+      "tr": "Bu çok kolay değil"
+    },
+    "34fdccc0-65ef-4a47-b380-89789c6651ac": {
+      "tr": "Sahil güzel personel çok cana yakın"
+    },
+    "357622cc-aa31-4783-a422-6daeca54eaa2": {
+      "tr": "Hizmet işi gerçekten zor"
+    },
+    "3592a11f-8cd8-455a-b1c9-dc2724553c06": {
+      "tr": "Adalet tecelli eder"
+    },
+    "35c441b3-aeee-4103-84dd-ee7da5566fa0": {
+      "tr": "Fazıl Özen kongre hakkında bilgi verdi"
+    },
+    "35c6c552-723c-4261-a3e4-b2efbfd99dc7": {
+      "tr": "Bazen gitmek ister insan"
+    },
+    "360f0cbe-fd1d-488e-9d63-f7d9fc0cc8e0": {
+      "tr": "Daha açık bir ifade ile"
+    },
+    "36183bc4-014c-479c-a8b2-4ec381d045fe": {
+      "tr": "Yunan atasözü gibi bir şey herhalde"
+    },
+    "362d6902-a875-447f-a1d1-464c0c97a70f": {
+      "tr": "Hem de kaç yıl önce"
+    },
+    "36f04c1d-bf6f-424c-a534-a80d59608527": {
+      "tr": "Mesleki öz güven geliştirme"
+    },
+    "379b12f2-ffef-4ebf-b768-97a3330e33d2": {
+      "tr": "Muhalefet kötü bir şey değil"
+    },
+    "37ae8802-d69a-4be7-998b-15cddc95c1b5": {
+      "tr": "Sıcak bir gülümseme ve derin bir saygı"
+    },
+    "382bbb2b-0686-46e7-980d-d3afa192658e": {
+      "tr": "Böyle bir şey yok diye"
+    },
+    "38318a41-3334-4a41-a5e8-e1297edbd0d6": {
+      "tr": "Asıl önemli nokta bu"
+    },
+    "386588f6-77e7-4030-a638-3f705177b4bf": {
+      "tr": "Bu çok çok önemli bir konu"
+    },
+    "38d28db4-aa70-4408-8cb6-143d286a6722": {
+      "tr": "Bu kadar kolay işte"
+    },
+    "38da9c29-2f4f-4f85-8cc2-34466dbd7a04": {
+      "tr": "Bana söz verdi"
+    },
+    "38f53885-ad25-42b4-b059-db568d115eef": {
+      "tr": "Gayet temiz ve şaibesiz bir seçim oldu"
+    },
+    "38fd0fdf-3194-4406-a3f7-a7302b5d4e8b": {
+      "tr": "Anca beraber kanca beraber"
+    },
+    "38ff1676-2596-4fd9-a6b0-67db0de57531": {
+      "tr": "Zor ama olmaz değil"
+    },
+    "397040f9-7e6a-4e47-85b5-53354fd91ab1": {
+      "tr": "Mevcut durum itibari ile"
+    },
+    "39b9aa98-7fd3-4d75-badd-6e811762e3e4": {
+      "tr": "Yatırım bakımından bir cazibe merkezi"
+    },
+    "3b009a07-f50a-4ea0-90d3-a89e0cb870b4": {
+      "tr": "Öyleyse öteki yok"
+    },
+    "3b1be2e6-b297-4491-9b9c-3cd1e3ef8c38": {
+      "tr": "Daha başkan bile değil"
+    },
+    "3cee7a74-8fb0-478b-9c94-c10ef38f9d68": {
+      "tr": "Sabah ve akşam egzersiz yapın"
+    },
+    "3d00c205-4528-4179-b084-2ae9bc1543a9": {
+      "tr": "Teknoloji bir araç"
+    },
+    "3d0a67c8-9b58-41f7-baad-1eb0e85ae5e5": {
+      "tr": "Tüm dünyada çok nadir bilinen bu hareket çok basit"
+    },
+    "3d13c701-f0d4-46bf-8fde-0da61e59fc61": {
+      "tr": "Temel hemen itiraz eder"
+    },
+    "3d688ee3-bf3d-4ca8-afa9-49d31363b5e0": {
+      "tr": "Bu da bir yöntem"
+    },
+    "3d85f0eb-da09-4cc8-aacc-e6619fd1e7db": {
+      "tr": "Böyle akademisyen yetiştirmek mi olur"
+    },
+    "3d9eeb8c-9216-4823-ba7e-e7e451f4407c": {
+      "tr": "Ve hiç yer yok"
+    },
+    "3daaf5a1-b20a-42cb-b7ee-b4ae723d9189": {
+      "tr": "Başka amaç gaye yok"
+    },
+    "3db95d87-967f-4223-8db2-1fba09418e2f": {
+      "tr": "Kim bilir kaç kişi daha yetenekli olmak için böyle"
+    },
+    "3dc13b30-bce3-44d5-95ef-de906dfed842": {
+      "tr": "Biri makine diğeri çimento"
+    },
+    "3e3bd7e6-b937-4d42-8ebd-63c598c4838e": {
+      "tr": "Nesnel gerçeklik hiç bir zaman bilinemez"
+    },
+    "3e4de3be-b1e7-4cdb-a6a3-eea0c67211f0": {
+      "tr": "Ancak bu ucuz bir haz elde etmek için pahalı bir yoldur"
+    },
+    "3e5697e4-02db-42f2-9215-f92f77aa90d5": {
+      "tr": "Çünkü Allah var"
+    },
+    "3eb93071-41b9-4f0b-a983-1c6249cc8ef8": {
+      "tr": "Bu sefer farklı bir şey oldu"
+    },
+    "3ec13124-9953-476a-96e8-388ac0678886": {
+      "tr": "Çok yararlı bir paylaşım"
+    },
+    "3f6e53db-a994-4b7c-a677-afb8e400e28a": {
+      "tr": "Yepyeni bir takım olacak"
+    },
+    "3f9808a7-fe44-40ed-9759-b5654f4d481c": {
+      "tr": "Personel de gayet ilgili ve saygılı"
+    },
+    "3f9ba635-b7cb-482c-9941-66593df96976": {
+      "tr": "Peygamber ve Birlikte Yaşama"
+    },
+    "3fe89d5e-dc3d-4e51-a9f2-4a92e96da9ed": {
+      "tr": "Pasif bir devrim oldu"
+    },
+    "3fee65a0-4f17-4306-b00e-edaa2857145e": {
+      "tr": "Dolayısıyla geri almak gibi bir şey olamaz"
+    },
+    "401e5def-4405-410a-b922-4b723b00fa6b": {
+      "tr": "Dil ve kültür böyle bir olay"
+    },
+    "408ad509-bc54-4250-aba3-34eb1ac3326f": {
+      "tr": "Bu önemli bir tasarruf"
+    },
+    "40a529ed-3e7e-4dc1-91a5-17a0aa4e6486": {
+      "tr": "Bu çok ciddi bir rakam"
+    },
+    "40c1b030-cb3d-4670-8e8e-e60d58b594b0": {
+      "tr": "O da bir nasip işte"
+    },
+    "4189cffb-04b6-4abe-b8fc-e6b24ff80986": {
+      "tr": "Sadece bir pastane değil işte Sevinç"
+    },
+    "419184fd-d4ff-4b91-93ed-f978e53ba1c6": {
+      "tr": "O da yine başka bir hile"
+    },
+    "41b17b32-c7ad-497e-b5aa-c843773233df": {
+      "tr": "Bu heyecan verici bir değişiklik"
+    },
+    "41c9debd-10b7-45c2-8407-a37aa31a5e90": {
+      "tr": "Kürtaj yasak ama hamile gezmek ayıp"
+    },
+    "41cd37e2-74c9-452b-8406-d0c407a193f3": {
+      "tr": "Burası böyle bir yer"
+    },
+    "41d92ab1-9c26-4ffc-8875-7ffe8f3e4c1d": {
+      "tr": "Şimdi yeni bir proje daha var"
+    },
+    "422b43c5-c7e5-43e5-bb9d-788dd50e0479": {
+      "tr": "Bir müddet sonra değil"
+    },
+    "42495dfc-df61-47f3-9ad3-4258881100aa": {
+      "tr": "Bu sene daha da uzun ve daha da karanlık sanki"
+    },
+    "426c89ed-dd1d-4a2b-a9ed-56b14b6d5bc1": {
+      "tr": "Üç Büyük Cereyan"
+    },
+    "42b1d554-aa54-4002-8483-5d818de5a906": {
+      "tr": "Burada başka havadis yok"
+    },
+    "42d2236b-bdab-40fd-a3ff-878f0d8503ba": {
+      "tr": "Biraz açık büfe gibi"
+    },
+    "43346c3f-ddbd-44af-909a-4c1614180090": {
+      "tr": "Yani o kadar önemli ki bu kadar olur"
+    },
+    "43724f2d-d1c0-41af-8fd7-d1db89af7402": {
+      "tr": "Futbol oynamak için ilk önce ayakta durmak ilk şart"
+    },
+    "4376e420-6285-463a-831a-f0f69663bf42": {
+      "tr": "Mesela Kurtuluş ve Kadıköy"
+    },
+    "438cee7c-3f9f-4c68-a491-8ae91c1c5600": {
+      "tr": "Halbuki böyle bir şey yok"
+    },
+    "43c2adde-e812-4ac4-9e73-c2a94da8326a": {
+      "tr": "Tıpkı bir Antalyalı gibi"
+    },
+    "43e7446d-26f9-4e78-8a61-acfec9c43823": {
+      "tr": "Kimse de sorumluluk hissi yok"
+    },
+    "441449f6-d43f-4960-8c87-2f470c2fea14": {
+      "tr": "Poyraz ise büyük bir şok yaşar"
+    },
+    "441e8702-cd65-4f51-bb61-ff8b6b055601": {
+      "tr": "Sadece Sivas değil"
+    },
+    "44278704-21b4-442d-949c-e7284c136702": {
+      "tr": "Sami Ulus Kadın Doğum"
+    },
+    "44646787-ed4c-415d-aa96-0b9dfbfe2e99": {
+      "tr": "Ayni yıl içinde Uz"
+    },
+    "4639d39d-bb44-41fd-a3b0-5a39335d4957": {
+      "tr": "Cennet artık çok forvet"
+    },
+    "464bc8c2-39d1-4b96-9e78-1d577de734e6": {
+      "tr": "Bütün her şey iki dakika içinde oldu"
+    },
+    "46dcfdd2-a438-4d39-af3e-44ed9ca6ca1e": {
+      "tr": "Güvenli tasarım hızlı üretim"
+    },
+    "46e87f0d-7e81-43f6-a382-57c9144562df": {
+      "tr": "Bayağı dolmuş demek ki"
+    },
+    "47365d16-8090-4d9f-a630-173e0c31ddcf": {
+      "tr": "Çok gurur verici bir durum"
+    },
+    "47829623-f721-4114-a3f7-62ed7616de63": {
+      "tr": "Bunlar taraftar değil"
+    },
+    "47869db2-ebc3-44d7-848d-d6ccf23a63a1": {
+      "tr": "En ufak bir geri adım yok"
+    },
+    "479f8182-0cd2-4467-ad12-8773feb04dce": {
+      "tr": "Ya o masum çocuk"
+    },
+    "47ba820e-9619-4ac9-ac72-b913000f555a": {
+      "tr": "Çok az sefer var"
+    },
+    "47beaac5-acd3-476a-aaab-caf5f6c6138e": {
+      "tr": "Ancak bu her zaman mümkün olmaz"
+    },
+    "47e1730e-c24a-4ade-9317-38b7b47f4429": {
+      "tr": "Balıkesir yeni cazibe merkezi olacak"
+    },
+    "47e4c454-a208-4fc4-abaf-65d3b375f9c6": {
+      "tr": "Resmi görev daha tehlikeli olur"
+    },
+    "48077493-b84f-4eb1-94f0-57d96455d250": {
+      "tr": "Çok faydalı bir oyuncu"
+    },
+    "481fc758-38fb-4c8e-abac-46e2c4995753": {
+      "tr": "Okul çok önemli"
+    },
+    "482a967d-6582-40cd-8f57-05a3faffddb4": {
+      "tr": "Bu dünya bir illüzyon"
+    },
+    "48595d67-5a24-4d4b-b2b8-98ee33284ef1": {
+      "tr": "Fikri kamplaşma hoş değil"
+    },
+    "48a75d03-60bb-4e67-85c8-fe80ef8efe9b": {
+      "tr": "Bu da güven demek"
+    },
+    "48b470a0-d46b-44b3-b444-e726faf48478": {
+      "tr": "Klinik tanımlama ile uyumlu vaka"
+    },
+    "49444488-391c-485d-be62-6dfc3eec1b9c": {
+      "tr": "Bu gerçek ortada"
+    },
+    "497ea091-b65a-4028-8c16-8666da499fda": {
+      "tr": "Zaten bölge aşırı yoğun"
+    },
+    "49814fb6-d691-4fec-9c19-22c06f9c8176": {
+      "tr": "Bu da çok doğal"
+    },
+    "499c8cea-3dcb-4e9d-a3c4-9211577695b7": {
+      "tr": "Bakın herkes burada"
+    },
+    "49b24641-0eea-42f6-974d-5b36a6d38fdd": {
+      "tr": "Bence çok başarılı olmuş"
+    },
+    "49d6b180-a375-4222-8a40-aeff8b24033d": {
+      "tr": "Elbette ki başka bir muhteşem plan ile"
+    },
+    "49f17fd1-f36b-43c5-982b-2ee32e2e6a61": {
+      "tr": "Modern ya da çağdaş"
+    },
+    "4aaf28ee-182d-4265-89ec-2a9de33a4789": {
+      "tr": "Ama öyle değil ki"
+    },
+    "4ac8c0fa-387b-41d3-82a1-9a907436b795": {
+      "tr": "Bir hafta mutluluk diğer hafta çile"
+    },
+    "4ae14d43-916b-4266-b8da-fe44d5ba0a50": {
+      "tr": "Kütahya köklü bir şehir"
+    },
+    "4af97035-c1dd-4cac-9e6f-b333d6f3f127": {
+      "tr": "Dolayısıyla çok büyük bir organizasyon"
+    },
+    "4b2a62e4-9633-457b-9a09-587c544430b7": {
+      "tr": "Yanal iyi bir teknik adam"
+    },
+    "4b3cfdb6-f10a-4f05-9de6-6d6bc41eb941": {
+      "tr": "Önceki haftaya devam"
+    },
+    "4bc06d99-8ede-4095-9b1f-2c1f68c6ea6b": {
+      "tr": "Yeni bir program"
+    },
+    "4cb0f6df-796a-4aa3-954f-16db16734656": {
+      "tr": "Yaşam süresince yalnız bir kez dişe sahip olma"
+    },
+    "4cce260b-59d8-45e9-9039-229471b0f5d6": {
+      "tr": "Bu işin içinde sakatlık da var"
+    },
+    "4d19b8fa-b4ed-4a8e-8552-068e0486496c": {
+      "tr": "O zaman hemen bu kitabı oku"
+    },
+    "4d8f3181-2d1b-43d1-8d90-11163e03b548": {
+      "tr": "Sadece maddi hasar var"
+    },
+    "4db858c5-bb14-45c6-bf95-f0cc5b7265bf": {
+      "tr": "Kalabalık ve gürültü bana göre değil"
+    },
+    "4dee8279-2846-422c-be49-272a7120c8fd": {
+      "tr": "Tabii ev almak öyle kolay bir iş değil"
+    },
+    "4e47bb89-dbab-440f-a175-e7044c362952": {
+      "tr": "Hızlı ve güvenilir raporlama"
+    },
+    "4e738772-3656-43be-bf7c-fb623142cc97": {
+      "tr": "Çok verimli bir program oldu"
+    },
+    "5006cd8c-1984-4ee4-9e1e-551e25ad7b6b": {
+      "tr": "Bu çok vahim bir durum"
+    },
+    "504ebff7-4831-489d-9f5a-884505485ee8": {
+      "tr": "Güzel ve farklı bir panel oldu"
+    },
+    "506bb686-9aba-45e8-b08d-98ff09429074": {
+      "tr": "Isparta büyük bir şehir"
+    },
+    "50a1272e-a455-497a-a007-f18ec0af9953": {
+      "tr": "Şimdi çok daha iddialı"
+    },
+    "50bcec8e-f07b-4325-b6f1-d77b45a2b11c": {
+      "tr": "Üç klasik fotoğraf"
+    },
+    "50fcbdd8-0230-426c-9eae-905e68eed2d3": {
+      "tr": "Oyuncak gerçek oldu"
+    },
+    "51a64418-51f4-48ca-b6b7-9108cde2469f": {
+      "tr": "Yine vatan için"
+    },
+    "529778ff-6ad2-4a75-8008-8553d49d04ce": {
+      "tr": "O zaman da hastalanmak yok"
+    },
+    "529b5228-626a-48d1-95eb-f1c3ef504799": {
+      "tr": "Lütfen yardımcı ol"
+    },
+    "531804eb-ad4f-45a4-a5a0-8746c736efd7": {
+      "tr": "Yeter değil mi YETER"
+    },
+    "531e2236-45ed-48e7-b34c-dd4d302286dc": {
+      "tr": "Ona daha iki gün var"
+    },
+    "537c13cc-b1d3-4992-be21-92611ca61aaa": {
+      "tr": "Zaman çok önemli artık"
+    },
+    "53ca5f51-d2e4-446b-acca-4892ba471639": {
+      "tr": "Heyecan çok güzel"
+    },
+    "5414969a-62c7-46ce-80a5-89c1762a7979": {
+      "tr": "Hem de tam dört tane"
+    },
+    "543ac3b1-4143-431b-a6b9-9e6a2cb1c39c": {
+      "tr": "Yaşar Becerikli konuk oldu"
+    },
+    "54bb2730-ee8f-474d-9569-8d63cb2bd3a1": {
+      "tr": "Çünkü orası daha bana ait bir alan"
+    },
+    "54c22424-b23e-4aba-af88-445d75e717c7": {
+      "tr": "Oldukça ilgi çekici bir özellik olmuş bu doğrusu"
+    },
+    "54dae927-155a-4bf8-8b7d-871d7b9162ac": {
+      "tr": "Aksine gelecek için ümit verdi"
+    },
+    "54f35ff0-1b1b-44bb-a2f5-f21501d04c79": {
+      "tr": "Ama ortada garip bir durum var"
+    },
+    "5581952c-5486-427e-84b8-a4513095b4af": {
+      "tr": "Gerçek bir salak"
+    },
+    "5615a8ef-fa52-4132-8f12-b97daec6839f": {
+      "tr": "Çok müracaat var"
+    },
+    "5617c3be-43fa-4a77-a76c-b6d5b7b075cd": {
+      "tr": "Sanat Tarihi Böl"
+    },
+    "56180f84-0d30-4ac7-80f6-c2bc67d63992": {
+      "tr": "Son derece demokratik bir yarışma olacak"
+    },
+    "5652c59f-1320-4822-9850-c67828be18c0": {
+      "tr": "Bir kaç saniye içinde uygulama hazır hale gelecek"
+    },
+    "56d50a79-c0fa-4bcf-ac82-3f6d80b063e3": {
+      "tr": "Tatil için her şey vardır"
+    },
+    "5703a51d-98cf-4d4a-8924-86609966784f": {
+      "tr": "Onlar sadece bir resim"
+    },
+    "57272b02-c2e4-409c-9427-265797e1e3c8": {
+      "tr": "Her yer çikolata ve şeker dolu"
+    },
+    "573730a9-a8ce-4c35-a7cc-7b28f9291c6b": {
+      "tr": "Asla doğru değil"
+    },
+    "57a9e3f9-5656-4cd4-ae58-44a4d9219566": {
+      "tr": "Halbuki komik bir şey değil münafık"
+    },
+    "57c13bea-818a-4102-8499-89472fa3bcb0": {
+      "tr": "Afaki bir öneri de değil"
+    },
+    "57fabd7b-e883-4d55-b27f-7478ec6ec0a7": {
+      "tr": "Bazen bilgi ve"
+    },
+    "5868c0fb-e361-4196-88f5-68005ccfe29f": {
+      "tr": "Hayali bile güzel"
+    },
+    "58f3eef9-3b39-4596-98d3-2e9d045911a2": {
+      "tr": "Kaçıncı oldu bu"
+    },
+    "595cedce-14ce-4904-bcdd-c72771fd2551": {
+      "tr": "Gündüz vaktinde çok canlı"
+    },
+    "598d1897-f5f5-48e8-8fc2-e79bc738ea48": {
+      "tr": "Çok kayıp verdi"
+    },
+    "5a039ae3-2cbf-4d89-8c7d-d7de1afe34f5": {
+      "tr": "Üretmek elbette mümkün fakat buna gerek yok"
+    },
+    "5a33ef46-d37c-43c4-ad5b-99d4a038a424": {
+      "tr": "Tek taraflı bir şey değil"
+    },
+    "5a4c25fe-4f3e-492e-a5c7-eb7589ab6471": {
+      "tr": "Zor bir sektör"
+    },
+    "5a4d5070-a834-41ac-8904-def63731d49b": {
+      "tr": "Bu sektör güzel bir sektör"
+    },
+    "5a990043-91b4-480c-81a0-f97b02489f4b": {
+      "tr": "Hep bir savaş içinde olmak ister"
+    },
+    "5abd379b-3190-471f-b52e-8c86f6751da5": {
+      "tr": "Birkaç ay takip edin"
+    },
+    "5ae31f33-c228-4550-ba9c-5ba1561c365a": {
+      "tr": "O da ayrı bir iş tabii"
+    },
+    "5b775b03-4297-4f6f-9859-b0599e513743": {
+      "tr": "Herkes için daha fazla esneklik"
+    },
+    "5b8fd568-3b6b-4444-9d5a-a01edd91036f": {
+      "tr": "Seçim tarihi daha belli değil"
+    },
+    "5c5910a2-6caa-4d87-ad5b-77a7ef5d3902": {
+      "tr": "Aslında maalesef de değil"
+    },
+    "5d3a8329-24fa-4b79-a4fd-cc91341cca15": {
+      "tr": "Ecir ve Sabır Ziya Paşa"
+    },
+    "5daf8cf0-5f55-4d8d-b079-6d4a19d35121": {
+      "tr": "Başkanlık çıkacak bir tablo yok"
+    },
+    "5df42491-f27a-4a07-a6d4-1b08d3866c4a": {
+      "tr": "Sıcak sıcak servis yapın"
+    },
+    "5e610ee3-1b5b-4859-8f89-5dacb966e50d": {
+      "tr": "Görsel bir kitap gibi"
+    },
+    "5e9bbff9-592d-4842-bfde-490c9672a29e": {
+      "tr": "Bence şaşırmak yerine derin bir nefes alın"
+    },
+    "5ee45904-8d1a-42b3-8982-9d997ecee043": {
+      "tr": "Son derece entelektüel bir hayvancık bu"
+    },
+    "5f1a5e16-1a54-4fae-8bdb-e58987ae726a": {
+      "tr": "Yeterli hizmet almak pek mümkün değil"
+    },
+    "5f518f50-8a93-4f37-80ee-5362bfb7f198": {
+      "tr": "Mars için büyük gün"
+    },
+    "5fd69525-7783-4aa3-8135-d72ad9043768": {
+      "tr": "Peki bu program"
+    },
+    "5fd866d7-c563-461e-b632-8834b612f210": {
+      "tr": "Burada potansiyel var"
+    },
+    "60171991-73c9-4a06-a4bb-3757a3272178": {
+      "tr": "Birlikte üretmek ve büyümek için"
+    },
+    "6040cb5a-b7b7-4244-8dc6-a66e0e319002": {
+      "tr": "Aynı kuşlar gibi"
+    },
+    "6040dce5-c0a1-4b56-ab7a-6383a5283ee2": {
+      "tr": "Çok güzel bir turnuva"
+    },
+    "60835953-5033-4812-9a02-34e4ccb3dcba": {
+      "tr": "Hizmet almak için"
+    },
+    "60b38163-e83a-417b-8997-199e73909515": {
+      "tr": "Belki hatta daha da iyi olur"
+    },
+    "60eace1c-a31d-40be-ba54-765c766ac6d9": {
+      "tr": "Eskiden mesela ibretlik"
+    },
+    "60ec0ee8-63ae-45f1-b91f-a4a97a3bca46": {
+      "tr": "Böyle düşünmek lazım namaz esnasında"
+    },
+    "60eeaca1-4b6c-400a-b3a3-82dc6455a549": {
+      "tr": "Elbette pek çok da tehlike var"
+    },
+    "60fc13f8-3c43-478c-a86f-eec954910754": {
+      "tr": "O da özel sektör"
+    },
+    "61072be6-358c-4c35-a5b8-82bfc0e18781": {
+      "tr": "Gayet de güzel oldu"
+    },
+    "61c0496d-a472-403b-9b26-343ef805649c": {
+      "tr": "Asıl önemli nokta burası"
+    },
+    "61d995e8-2ef2-40a2-9c02-1353b650e291": {
+      "tr": "Ama değer mi değer"
+    },
+    "623c7a2a-fc36-4b51-955e-60e2b9613136": {
+      "tr": "Burada icraat var"
+    },
+    "6292c726-c6ef-412d-afb2-060b3b853f0d": {
+      "tr": "Burada yeni bir tecrübe var"
+    },
+    "629908ca-59d5-4354-948d-38b0f54f76ee": {
+      "tr": "Ama bu sefer durum farklı"
+    },
+    "62e5e071-f1f6-4fd4-8ecb-87b8637cdfcf": {
+      "tr": "Yalnızca basit bir bakım ve rutin servis buna yeter"
+    },
+    "63219b9a-353b-46ed-bd56-69bf3aef57b6": {
+      "tr": "Bence çok değer ve fırsat var"
+    },
+    "6354b667-af2a-4f5e-b5fd-237033c600f6": {
+      "tr": "Peki ne yapmak lazım"
+    },
+    "63a9e88a-549c-4445-9b1b-37639c993f3f": {
+      "tr": "Yani üretici olmak lazım"
+    },
+    "63cee53a-5c84-4b9b-befc-c2cb61d2e450": {
+      "tr": "Baba Çağlar daha sonra"
+    },
+    "63d9db61-374d-49ea-9fb5-7910e8ff7165": {
+      "tr": "Personel cana yakın ve çok yardımsever"
+    },
+    "63e2054d-b77d-4eb0-a190-3e553c64da16": {
+      "tr": "Bilmek için bilmek"
+    },
+    "63e941ed-033d-4188-9175-de0f89a72e53": {
+      "tr": "Ne kadar yerinde ve ifade gücü yüksek bir söz"
+    },
+    "643ec321-d6c9-4906-a394-0bdccc9d2e51": {
+      "tr": "Hiç de kolay değil"
+    },
+    "644b0a24-6e55-4976-9f34-b53399ff38f2": {
+      "tr": "Her başarılı sporcu antrenör olamaz"
+    },
+    "649ff72d-1cfd-4865-b516-90aae6c93e35": {
+      "tr": "Sanki böyle bir durum var"
+    },
+    "64b51875-17e0-4b47-bf13-a355ae68562b": {
+      "tr": "Bir değil ara ile birkaç kez"
+    },
+    "64c74ff4-4137-4d95-939f-0a149fee48bb": {
+      "tr": "Ciddi bir başarı yok"
+    },
+    "64cb3e65-c1af-4394-974a-b11e40bb5894": {
+      "tr": "Yani hepsi çok iyi"
+    },
+    "651469a7-36a2-463d-bffa-c804dcb2f113": {
+      "tr": "Bu sene hiç ithalat yok"
+    },
+    "654b8229-7cc8-491e-a81e-f205bdf5d0df": {
+      "tr": "Ya da kolay değil"
+    },
+    "6550e391-3dc8-494c-87dc-1637681cdd48": {
+      "tr": "Daha bir çeyrek saat var"
+    },
+    "657bf484-bbec-42af-8258-1822c54493b6": {
+      "tr": "Panel malzeme hakkında genel bilgi"
+    },
+    "65980886-da67-4916-86a0-676463e74777": {
+      "tr": "Akıllıca bir yöntem doğrusu"
+    },
+    "65bba552-3b60-45c3-b5a7-36b0e94407a3": {
+      "tr": "Üç bölümlü bir kitap"
+    },
+    "65c5bdc7-1283-4d4d-9915-493e8628fbad": {
+      "tr": "Mesela ikinci gol"
+    },
+    "65eb1538-5a7a-4a61-beab-03165609e1f3": {
+      "tr": "Buna rağmen bu oran çok düşük"
+    },
+    "65fd502f-cebe-4a61-94de-735c53df95c9": {
+      "tr": "Kısacası kolay değil"
+    },
+    "6637105a-6c4c-4558-a058-1106951eb8d0": {
+      "tr": "Açı ölçer ve cetvel şart"
+    },
+    "6647c822-f7a5-45c6-a4ec-d3818ebb6bd9": {
+      "tr": "Bu kadın resmen taş gibi"
+    },
+    "666ba288-f09c-4841-b8e5-cd678fa43e36": {
+      "tr": "Böyle şey olmaz"
+    },
+    "673658d6-df1f-462c-baca-0a1cf55cb86e": {
+      "tr": "Bir defa lokomotif de lazım"
+    },
+    "67503895-5884-4174-8364-f1bcb3ed794e": {
+      "tr": "Et döviz kuru gibi"
+    },
+    "67c1e514-a60f-4ccd-a3bc-558beb84fcab": {
+      "tr": "Yalnız o değil"
+    },
+    "67cc8a8a-3562-4e46-833d-4c16c38961f4": {
+      "tr": "Burada çok farklı bir tanıtım olacak"
+    },
+    "67d8ba9f-bce0-4438-9858-bd7fd1b836da": {
+      "tr": "Eğer siz de huzur yoksa bende de huzur yok"
+    },
+    "67fde92d-8a47-412c-8e4b-c1700a196e3f": {
+      "tr": "Doğa gücü sayesinde çamaşır kurutma"
+    },
+    "6893ea1e-b31f-4129-a026-3309e7ee9b28": {
+      "tr": "Hem de iyi bir marka"
+    },
+    "68cf85c4-dde6-4558-aff6-c5914aec4325": {
+      "tr": "Tedbirli hareket etmek"
+    },
+    "68d20135-2c3e-496a-a5f0-9465f426d4ab": {
+      "tr": "Ama amaç hedef şaşırtmak"
+    },
+    "695373a0-6851-4369-9a9b-0a61348e1579": {
+      "tr": "Televizyon izlemek bile zulüm"
+    },
+    "6982ca07-641d-408a-aca7-1a3c009f6474": {
+      "tr": "Bu çok ciddi bir şey"
+    },
+    "69aaf319-7469-426c-8f0b-79cb331bf2e3": {
+      "tr": "Peki bu yeterli mi maalesef yeterli değil"
+    },
+    "69cefd76-14e9-4a36-b0a5-a98dd296a2b6": {
+      "tr": "Tabii ki çıktı hem de bir sürü"
+    },
+    "69e902a2-1db0-4bd9-8e04-28d17d683b57": {
+      "tr": "Burada ki amaç daha çok k"
+    },
+    "69f4154c-ef1a-4dd3-86c3-81dc69a2cc18": {
+      "tr": "Baştan bir ön kabul var"
+    },
+    "6b2f1aca-f4a5-4eb3-afa7-a13c0a6dc3b3": {
+      "tr": "Yüzlerce yaralı var"
+    },
+    "6bf8fbb4-08a4-43f4-af63-bfbb8ca02a36": {
+      "tr": "Yanında da bir grup cesur muhafız"
+    },
+    "6c0f5346-d59e-4342-bd19-2784d62480f2": {
+      "tr": "Bu işte bir arıza var"
+    },
+    "6c29ab79-5b7c-4ea1-b150-ba9774abba74": {
+      "tr": "Aslen Trabzonlu ama Tatvan için çok heyecanlı"
+    },
+    "6c7a0602-6f69-44f7-bcfa-ba8b07271f89": {
+      "tr": "Eğitim de tabii ki eşit"
+    },
+    "6cc6f621-eb33-4024-9613-1975ddd6f79a": {
+      "tr": "Önemli an şu andır"
+    },
+    "6d41b3e8-ea12-40d3-9281-9f4fafbd43fa": {
+      "tr": "Çok başarılı ve eğlenceli bir etkinlik oldu"
+    },
+    "6d4bfacc-ca25-4245-8c92-5c4bdd8dead7": {
+      "tr": "Çok belirgin üç sorun var"
+    },
+    "6d4df9c3-e931-452c-a0e3-d139461af64f": {
+      "tr": "Daha erken tabi"
+    },
+    "6d7abdc8-fd63-44bf-8e9d-8c16a5c888c7": {
+      "tr": "Sağlıklı cilt parlak ve canlı olur"
+    },
+    "6d8db674-fd07-4795-9491-63a7f5cce90e": {
+      "tr": "Evet son derece önemli"
+    },
+    "6dd930f5-1f9c-4c6f-a130-94f558fa0467": {
+      "tr": "Bu kadar Italyan var"
+    },
+    "6e5adf25-b457-4904-9f45-ffb581319c9d": {
+      "tr": "Onlar hep planlı hareket eder"
+    },
+    "6e773f51-7899-4e6d-8c04-7730ed92e408": {
+      "tr": "Tiyatro para işi"
+    },
+    "6e9b5626-c8d0-413e-a16a-fa52ad2a9817": {
+      "tr": "Büyük mücadele verdi"
+    },
+    "6eace28a-d1f5-46a3-804e-5441e1ecb238": {
+      "tr": "Kalite kontrol ve doğrulama"
+    },
+    "6eeb83ba-6aae-4e61-a244-f9d9fc0b2e2c": {
+      "tr": "Son derece yanlış bir karar olur"
+    },
+    "6f1469d6-af22-40ff-b349-a7b7dad58d80": {
+      "tr": "Konu itibarıyla"
+    },
+    "6f2f9d33-1660-436f-8f07-65e3f8b2a309": {
+      "tr": "Büyük bir jest"
+    },
+    "702dc374-e134-4d9a-a756-a3658158e03f": {
+      "tr": "Bence gayet sevimli oldu"
+    },
+    "704f3f19-d188-4978-b532-8471e718d5ee": {
+      "tr": "Bu sadece bir branş"
+    },
+    "70a91c0d-3841-4f47-9076-54ec400830ff": {
+      "tr": "Güzellik mücadele ve çaba ister"
+    },
+    "713271a9-80b2-4608-95a7-4a0743826dca": {
+      "tr": "Ancak hiç gelişme y"
+    },
+    "7138045c-d932-46eb-ab19-bfc9b529ebf9": {
+      "tr": "Genç erkek kafatası"
+    },
+    "71846bc0-65af-4233-9876-1dbe44d02c44": {
+      "tr": "Buna engel yok"
+    },
+    "71b35f45-72fb-4ff5-9cf5-6c95710a7beb": {
+      "tr": "Hem de çok şanslı"
+    },
+    "7268e245-27f5-416a-b019-1d432647f4c3": {
+      "tr": "Hayret içinde kalmak"
+    },
+    "72db5c12-dc44-4105-8acd-e6fc7128198d": {
+      "tr": "Daha keyifli de olabilir"
+    },
+    "72e4cdaa-89e5-4994-a13f-71c6e6eb3e25": {
+      "tr": "Tabii veteriner hekimlik zor bir meslek"
+    },
+    "7328d42e-ae40-4569-8a5e-7215fedb1652": {
+      "tr": "Belki de gerçekten dürüst"
+    },
+    "73676cdb-de74-4afd-889a-c7a45bcb3e18": {
+      "tr": "Hiç de belli olmaz"
+    },
+    "73f778a8-9e5e-46ce-8bda-ae96d6ed89bf": {
+      "tr": "Eğitim şart abi"
+    },
+    "744eea68-27f4-4f03-a810-ada87aeb90a4": {
+      "tr": "Hakem sarı kart verdi"
+    },
+    "74fb67b4-39f9-4648-9c9e-5d3ed21e457b": {
+      "tr": "Deri ve Lif Tek"
+    },
+    "7515a08d-29f2-45a5-b8e0-bf673a022b6b": {
+      "tr": "Hakemlik elbette uzun bir süreç"
+    },
+    "758d89d9-639e-4d1b-b620-f6d02a7d724e": {
+      "tr": "Bu bir röportaj kitabı olacak"
+    },
+    "75b3fbd1-3613-4412-967d-abbe4dcc07f1": {
+      "tr": "Ama henüz bir gelişme yok"
+    },
+    "75c8ce36-940e-4a2b-8873-a830d42cc0c6": {
+      "tr": "Burası çok önemli bir yol"
+    },
+    "7667a698-6d52-4639-8dfb-88aa4a391866": {
+      "tr": "Ümit hanım bana çok güven ve cesaret verdi"
+    },
+    "767c4675-049a-456c-a15d-40adc3763640": {
+      "tr": "Bu da önemli bir husus"
+    },
+    "76a26387-961b-408e-b2aa-280c1547430e": {
+      "tr": "Nitekim Yüce Yaratıcı hakkında"
+    },
+    "76a2cf77-5371-45df-8cfe-1690ff940211": {
+      "tr": "Yani iki kişi fazladan"
+    },
+    "76c81df4-c073-4dfd-be88-3ce2db371fd6": {
+      "tr": "Bu da teknoloji ile mümkün"
+    },
+    "76e9498f-b81a-4791-94fb-713bc46cbe8f": {
+      "tr": "Basılı ve Görsel Basın"
+    },
+    "771c1d87-4499-496b-ba6b-65f770360be4": {
+      "tr": "Fakat kirli değil"
+    },
+    "7731ac75-9ebc-44c9-a495-3858ffe2a50c": {
+      "tr": "Daha henüz bir şey yok tabi"
+    },
+    "7884e3a8-e761-465d-a6f4-5b80c9787ced": {
+      "tr": "Mesela ben çok eğlenceli bir yer"
+    },
+    "78e1e037-876b-4e4e-8454-a7617eab3718": {
+      "tr": "Son derece zeki bir genç"
+    },
+    "79010c83-a209-4525-affe-477745d86b04": {
+      "tr": "Funda Selçuk Şirin konuk oldu"
+    },
+    "791e0ed3-be59-4a6e-bd01-c70f2e443979": {
+      "tr": "Eğitim ve tecrübe çok önemli"
+    },
+    "792d8ec4-e886-447c-ba7e-89c18b4024d0": {
+      "tr": "Yani kazanmak imkansız"
+    },
+    "79b73903-7443-42ca-9032-943abb3e410f": {
+      "tr": "Bu kez fonda piyano ve yine Caz var"
+    },
+    "79d11766-8499-4268-94fa-40f358563347": {
+      "tr": "Öyle değil mi"
+    },
+    "79fb0eb7-d48c-400f-8d61-d70d2a0127bf": {
+      "tr": "Her anı kontrol edin"
+    },
+    "7ade11eb-71f1-4280-82b1-d0f45babab5c": {
+      "tr": "Bu da çok önemli bir gelişme"
+    },
+    "7b246dbb-af89-42d6-9306-361c6d9b0439": {
+      "tr": "Personel çok iyi"
+    },
+    "7b635123-173b-473e-be62-7be6a1508b39": {
+      "tr": "Nehir cıva gibi bir çocuk"
+    },
+    "7bd3f99b-47e3-47fb-bb40-5a5995f5e1c3": {
+      "tr": "Daha ucuz diye"
+    },
+    "7be066c5-a23a-4dbd-96ef-342a3214467f": {
+      "tr": "Akıllıca değil bir kere"
+    },
+    "7c43f87f-f583-46a3-8ece-41a9058f9b7c": {
+      "tr": "Dünyada böyle bir şey yok"
+    },
+    "7c447c74-8a3c-43cc-b5ae-86bf440fcf1a": {
+      "tr": "Fiyat biraz yüksek yani"
+    },
+    "7c4c3909-c42b-4c70-82f7-a316a95a8ce6": {
+      "tr": "Bu döngü içinde yer alan insan"
+    },
+    "7c77c228-72b9-475b-9060-2daf715f808b": {
+      "tr": "Arz talep yani"
+    },
+    "7cc33e05-e007-46e6-a030-2f17e21e1b32": {
+      "tr": "Bir problem yok her şey çok güzel"
+    },
+    "7cf4c150-e610-464f-8c95-f2a3ca5fb552": {
+      "tr": "Kamarot hizmet eder yemek saatinde"
+    },
+    "7d346380-d767-4b88-add3-050e1e3e0e12": {
+      "tr": "Bu iletişim için de bir protokol var"
+    },
+    "7d4c7c15-a65e-48c5-bedd-8da3b953f57d": {
+      "tr": "Birkaç ay sonra komite içinde ayrılık çıktı"
+    },
+    "7d4d1f72-3420-4530-aba9-a9e273f830bf": {
+      "tr": "Fakat bu yersiz bir korku"
+    },
+    "7dd0db61-998c-43ad-bc7d-e62a0a42e6c2": {
+      "tr": "Yol geniş ve asfalt"
+    },
+    "7e1b8e75-8944-4333-ac07-32c56ed5c302": {
+      "tr": "Bu her durum için geçerli"
+    },
+    "7e5c3d88-feae-4b23-ad90-1d49da56b051": {
+      "tr": "Ama hiçbir bu kadar kıymetli ve anlamlı değil"
+    },
+    "7e77b86d-2302-4ee3-afb8-feb1897e94f1": {
+      "tr": "Müzik tuhaf ve yüksek sesli gelir"
+    },
+    "7f1992bc-60f0-4e41-aebe-ae2df67415e4": {
+      "tr": "Deneysel bölüm sözel ya da sayısal olabilir"
+    },
+    "7f3d66d1-171f-4013-b886-35523da5a054": {
+      "tr": "Bazen farklı düşünmek lazım sanki"
+    },
+    "7fb1b3a6-4a00-4247-9139-ddccd065fa54": {
+      "tr": "Oldukça uzun ve etkileyici"
+    },
+    "8034e8de-9c58-4569-ae28-d3dc396eab35": {
+      "tr": "Olmaz böyle şey"
+    },
+    "80605767-753e-4ce9-9bb2-cbff830d1222": {
+      "tr": "Daha bir şey söylemek için erken"
+    },
+    "8078c1db-b99b-4910-b96c-29c149049105": {
+      "tr": "Bugün artık demo günü"
+    },
+    "80948dc9-84ec-4ee4-abcc-9042b1a9754d": {
+      "tr": "Çok önemli bir şey bu"
+    },
+    "80f0c1b1-8e51-48da-8aa8-2ba2050d3c15": {
+      "tr": "Her ile bir asal otel lazim"
+    },
+    "81d13cda-bc26-4c99-b021-11b97c9fdd0a": {
+      "tr": "Lütfen bilgi ver"
+    },
+    "81d67639-9eed-4429-9b0d-bd3dfd1002df": {
+      "tr": "Sizi yeniden burada görmek mutluluk verici"
+    },
+    "825450ea-1eda-4a3c-ade1-3e336c258d91": {
+      "tr": "Muğla çok güzel"
+    },
+    "829ad717-e93f-486f-bf7d-7bd0e474cbda": {
+      "tr": "Bu hiç normal bir şey değil ama oldu"
+    },
+    "82a0ba82-460b-4e48-be73-81b43e62d04e": {
+      "tr": "Siyaset farklı"
+    },
+    "82a2c863-9ab7-4dad-85a3-2cefdfad6a1f": {
+      "tr": "Tek kelime ile HAYIR"
+    },
+    "8315dda3-552a-45c9-bbe0-4ea7e70c02ed": {
+      "tr": "Hizmet mükemmel"
+    },
+    "836817f4-8b13-4942-8555-30bcde6a5089": {
+      "tr": "Çok güzel bir çalışma"
+    },
+    "83a4f5c4-82f3-4d0d-9976-2f2fa3a5f2ab": {
+      "tr": "Oysa yatak ne kadar da çekici şimdi"
+    },
+    "83e3eb66-6f88-4b19-a199-e4c223859971": {
+      "tr": "Sanat içsel bir mecburiyet ve aşk demek"
+    },
+    "840e21db-274d-4fa8-83c6-cbdde875bca5": {
+      "tr": "Olay sadece iyi bir performans göstermek de değil"
+    },
+    "8435e5c4-4f57-42dd-9aa4-db996e37ccf2": {
+      "tr": "Mutfak zengin ve lezzetli"
+    },
+    "843ff6a5-0cef-4b97-b6d2-88bf28b8b73e": {
+      "tr": "Ayrıca çok başarılı"
+    },
+    "8488fd47-0805-4aef-96a6-0e0d76282e8e": {
+      "tr": "Yani o bir sebep olabilir"
+    },
+    "852676f0-c1d4-4934-b8e5-e7dbeafee660": {
+      "tr": "Yine öyle olmuş"
+    },
+    "85396724-daec-4c41-96c9-0b74ce5c47fa": {
+      "tr": "Bu yaz da farklı değil aslında"
+    },
+    "85c7fff6-6dfd-4f41-9748-fdc46ef4d409": {
+      "tr": "Bu açılım ne kadar da güzel bir şey"
+    },
+    "86378ee2-277e-4bbf-8191-134da2554eb5": {
+      "tr": "Samimi ve misafirperver biri"
+    },
+    "868220a4-4dfc-45e2-91ae-3562d61454bc": {
+      "tr": "Ama şimdi öyle değil"
+    },
+    "86b09902-85eb-47f3-8052-1cb6506ae639": {
+      "tr": "Bu da ayrı bir haz"
+    },
+    "8718a426-4a45-44b8-8dc3-2de0248e84dd": {
+      "tr": "Israr etmek çok önemli"
+    },
+    "8739a071-497f-42d3-892d-2f74f7f6d9ec": {
+      "tr": "Maliyet yüksek değil"
+    },
+    "875a7707-7729-4380-ac0d-1e07a59c969c": {
+      "tr": "Önceki gün yine aynı safsata"
+    },
+    "878b3d4c-7bad-499c-bc83-941598c145b4": {
+      "tr": "Henüz analog makine"
+    },
+    "87e76aac-5035-43d9-83eb-844f36c26c49": {
+      "tr": "Anlamak için acele etme"
+    },
+    "87f6153e-196d-4f4d-a05c-b9697019339b": {
+      "tr": "Mesela sıfır stokla çalışma"
+    },
+    "8803cc16-9156-432f-b696-25692a299f81": {
+      "tr": "Daha az kelime ile arama yapın"
+    },
+    "8809f8e2-ad8b-4c06-8504-630bc97656d8": {
+      "tr": "Merkez hatasız bir kurum değil"
+    },
+    "888c901b-faf4-4180-b025-9a07d02ea387": {
+      "tr": "Burada bir denge var"
+    },
+    "88b25b10-fd45-45a0-8e52-92ac668ede2b": {
+      "tr": "Çünkü o da farklı"
+    },
+    "894fc611-fcff-4c0c-b8da-c70ade9ffe78": {
+      "tr": "Tıpkı Uğur Mumcu ve Eşref Bitlis gibi"
+    },
+    "8955b383-2d17-4ffc-b2f3-c21e755ac909": {
+      "tr": "Çok duygusal bir olay"
+    },
+    "895bd5fa-caf9-499d-8c6e-02ec75c63551": {
+      "tr": "Binlerce yıldır orada"
+    },
+    "8970eeb9-bc80-47a8-9651-9eeb01091e0a": {
+      "tr": "Onlar bile şimdiden hazır"
+    },
+    "89b89aa3-452f-49eb-9730-990dd6fa8a4a": {
+      "tr": "Ama sadece bu değil"
+    },
+    "89b8e344-0440-4307-8dfc-60bd86f4c2f4": {
+      "tr": "Hem de giriş ücretsiz"
+    },
+    "89f44035-ed68-44d8-8bd0-fc102a48fbd8": {
+      "tr": "Herkes heyecan dolu"
+    },
+    "8a3e4dd0-31e7-4def-8117-711479b2e8fc": {
+      "tr": "Bana göre bu oran bile çok"
+    },
+    "8a4c1401-b940-45b0-a593-e8297579e07d": {
+      "tr": "Ancak iki konu eksik burada"
+    },
+    "8ac7eda8-bbfc-4e78-ab2c-4c146bc079f8": {
+      "tr": "Elbette çıkacak"
+    },
+    "8ad194b7-fa85-443c-bfa7-2587e9f6ef05": {
+      "tr": "Bu yıl durum artık öyle değil"
+    },
+    "8af3e786-e645-4879-be01-1c1b5a8296d0": {
+      "tr": "Çok daha büyük bir dil ve bakış var"
+    },
+    "8b3e2c4f-7f20-403b-b548-a6dbede2e447": {
+      "tr": "Üretim ve marka iki ayrı iş aslında"
+    },
+    "8be25283-9faf-44d7-830a-6ad7c661cf4a": {
+      "tr": "Büyük bir avantaj oldu"
+    },
+    "8c0faa39-b5c4-4da1-aca7-45498447535f": {
+      "tr": "Bir Çin atasözü vardır"
+    },
+    "8c3af348-ef5d-4922-ad3d-f939d82c8dff": {
+      "tr": "Demokratlık hiç değil"
+    },
+    "8c588812-627d-4735-9198-dfa84416c4ac": {
+      "tr": "Ancak bu kadar olur"
+    },
+    "8c66fb08-8d8d-4859-bb38-235c1c2eb041": {
+      "tr": "Maalesef talep yok"
+    },
+    "8c73271e-b719-4b05-9032-bdb83efce54e": {
+      "tr": "Bu bilim için çok önemli bir kaynak"
+    },
+    "8c774f3e-4e25-45a5-b679-fa5dc9c96d6e": {
+      "tr": "Çok güzel ve kaliteli"
+    },
+    "8c9333e3-6b50-4a94-bee3-197dc6b03fd0": {
+      "tr": "Bu ödül Bursa için"
+    },
+    "8caa959f-29b3-42fd-b5a8-db128803d223": {
+      "tr": "Patika ve uzantı hariç olmak üzere sadece dosya adı"
+    },
+    "8cc736d1-f027-4064-8cb1-81951ac1bc02": {
+      "tr": "Uğur Mumcu yine haklı çıktı"
+    },
+    "8d8c8ffb-ce75-4301-99c6-5bc89c116967": {
+      "tr": "Kolay bir şey değil ki"
+    },
+    "8d942ba8-0bec-4f41-9e65-ee2d3a686e95": {
+      "tr": "Bence süper bir dizi olmuş"
+    },
+    "8da380f3-8166-4ef8-bc34-c5455cfbf5c9": {
+      "tr": "Artık bunlar geçerli değil"
+    },
+    "8db3bd05-59eb-4494-b92f-8b5e70b46cae": {
+      "tr": "Bu gayet mantıklı bir durum"
+    },
+    "8de9118a-f045-445a-8a59-a6b16f55444f": {
+      "tr": "Böyle bir engel koymak ırkçılık olur"
+    },
+    "8e52f833-aa4f-4019-a38e-a04304aa77d0": {
+      "tr": "Her şey çok sakin"
+    },
+    "8edb683f-4503-496f-b264-bf3e852edd3f": {
+      "tr": "Her şey yavaş yavaş"
+    },
+    "8f134f41-17d7-43b2-b260-b7d921ef257e": {
+      "tr": "Bu da bir termal yatırım için yeterli bir miktar"
+    },
+    "8f27e284-f035-42c8-9b8b-45184ca9f0df": {
+      "tr": "Buna en iyi örnek de Çin"
+    },
+    "8f313a96-ab04-4d94-80b3-ef9ba3a42fdc": {
+      "tr": "Bir kere soğukkanlı olmak lazım"
+    },
+    "8f355f02-5aaa-4a27-9109-411ee4737515": {
+      "tr": "Ürün ya da marka hakkında bilgi taşıma"
+    },
+    "8f521a7d-9f6f-4806-8bf2-49826958e9a6": {
+      "tr": "Şarj etmek mesele"
+    },
+    "8f5fbcb5-8cd7-4db0-a291-1f571dc67d94": {
+      "tr": "Mesela bu hafta da Topal yok"
+    },
+    "8fd31507-930b-401f-9f7b-fea9605bda8f": {
+      "tr": "Yok öyle bir şey"
+    },
+    "90614f4b-4de8-4ceb-9579-d30a48aaa551": {
+      "tr": "Oysa fotoğraf çok canlı bir alan"
+    },
+    "9081d4cf-452b-429a-b91b-cb6fa3ae4833": {
+      "tr": "Böyle ilginç bir macera"
+    },
+    "908f7dc4-975a-47fe-be9f-e19c7c313b2f": {
+      "tr": "Lüzumsuz bir film"
+    },
+    "90a04d67-388f-42c9-bed7-a39fe936496c": {
+      "tr": "Tabii ki de önce midye"
+    },
+    "90fd41c0-1db3-4e20-a24f-e82362ecf9cf": {
+      "tr": "Temel mikrobiyoloji ve temel immünoloji"
+    },
+    "912838b1-bc04-4485-b360-6f0078fbaa71": {
+      "tr": "Böyle yitik bir siyaset olmaz"
+    },
+    "9179a4cd-70ca-4d8d-8cfc-632d221425df": {
+      "tr": "Ama şöyle bir şey de var"
+    },
+    "91afea84-4113-48ad-9583-f3fdd8fabaa3": {
+      "tr": "O kısım da çok önemli"
+    },
+    "91f9e0cb-54f4-4359-8d6c-d5b428f1311f": {
+      "tr": "Bu da öyle oldu"
+    },
+    "927df2f0-70da-44da-9af9-b6a8c139bb3d": {
+      "tr": "Hiç görülmemiş bir şey"
+    },
+    "927e295d-cefb-4d68-80cf-db4a9197a5f6": {
+      "tr": "Bu müthiş bir yaratıcılık"
+    },
+    "92a5b28c-2168-4304-b7b8-9be6f3d172fc": {
+      "tr": "Devlet işi ciddiyet ister"
+    },
+    "92ef4217-7a79-458c-890e-f579fe6ca48d": {
+      "tr": "Çok tehlikeli bir durum"
+    },
+    "934a1b0d-e2e5-4588-aa06-562e4244bd85": {
+      "tr": "Bayram ne özel bir gelenek aslında"
+    },
+    "93559c9f-60cd-4af3-a99f-9807dc7cbf14": {
+      "tr": "Orada bir proje daha var"
+    },
+    "93db0130-d02e-48ea-bbcb-4ab876c6f59b": {
+      "tr": "Meşakkatli bir görev"
+    },
+    "941be981-7d57-441f-ac7d-3c188885bf57": {
+      "tr": "Hizmet etmek için"
+    },
+    "9431ac12-d55c-48a2-b919-b1ad792f7cef": {
+      "tr": "Bu çok önemli bir soru"
+    },
+    "943a7ae5-a5fe-4392-b022-83cdbc26b209": {
+      "tr": "O ticari bir olay"
+    },
+    "9444a2a4-be3f-414e-bcc8-e613aabbd762": {
+      "tr": "Bir sürü iddia var"
+    },
+    "944aa3a1-ec0e-4bcb-bdfe-af49d8972cbc": {
+      "tr": "Burası çok önemli"
+    },
+    "94929559-b338-4eb8-b6a6-4f27d491a0d7": {
+      "tr": "Detaylı tasarım ve gerçekleştirme"
+    },
+    "94bcc111-fc22-4288-a9e8-b6ec0206e93b": {
+      "tr": "Burada halk var"
+    },
+    "95167c97-985f-4fa7-a0ca-ca7a805cc532": {
+      "tr": "Bu o kadar önemli değil"
+    },
+    "953eac07-3c2d-4fe0-946a-7bb3b7fa4a41": {
+      "tr": "Amerika zaten oyun kurucu"
+    },
+    "962c24b7-6eff-49b8-a209-e0354e946350": {
+      "tr": "Çünkü ihtiyaç yok"
+    },
+    "962cdbb2-3bd3-4e4e-be03-134e107fd2a4": {
+      "tr": "Lezzet hiç yok"
+    },
+    "97182bb3-ac81-4210-b9dc-96540c5be8c3": {
+      "tr": "Ama sadece inşaat değil"
+    },
+    "973c7351-080e-4453-81cb-d019be9dfe8c": {
+      "tr": "Hata olmaz mı yine olur"
+    },
+    "977b15c4-1924-41ed-b139-66240598dc83": {
+      "tr": "O düzenleme olacak"
+    },
+    "987437e2-83e3-4208-b74d-cc97136e42d6": {
+      "tr": "Bu düzen yamalı bohça gibi daha gider"
+    },
+    "98863836-958e-4ebd-a93a-fa379c718859": {
+      "tr": "Her taraf taş apartman oldu"
+    },
+    "98934836-a2a4-4d62-b55d-62e1e82ee5ec": {
+      "tr": "Irak ise öyle değil"
+    },
+    "98ad79e5-6c1e-4bbd-888b-262ff7d222e1": {
+      "tr": "Kısacık bir isim Soma"
+    },
+    "98ae9d5c-608c-4aec-bc10-37887ede6faf": {
+      "tr": "Çünkü başarı burada gizli"
+    },
+    "996d06f5-b85f-4bf6-96be-28517ea4a9ac": {
+      "tr": "Bu da daha güçlü bir Avrupa demek"
+    },
+    "9988dc70-abcc-42bc-a9ea-b73e98669e13": {
+      "tr": "Siyasi çözüm için"
+    },
+    "9a00fa64-2437-429a-b559-e110e0668b96": {
+      "tr": "Şahin KOÇAK oldu"
+    },
+    "9a9c98af-3642-4c7e-a189-d377e0c07e8d": {
+      "tr": "Bu bir deneyim olacak"
+    },
+    "9aa94a16-b9bd-4da3-899b-862291b1e030": {
+      "tr": "Ne güzel bir yorum sağ olun"
+    },
+    "9acdc30c-6a66-4de3-9147-eb61b7600e31": {
+      "tr": "Böyle bir maç oynamak çok kolay değil"
+    },
+    "9b2c4110-fcfa-4a46-8a72-070b361e4851": {
+      "tr": "Doğrusu böyle bir amaç için de böyle bir tedbir değer"
+    },
+    "9b5cfa66-2515-46bd-8d1a-32f87f164088": {
+      "tr": "Ama hala yoğunlaşma pek fazla"
+    },
+    "9bed0718-2ae4-4b10-89bb-ff34d4780dbc": {
+      "tr": "Hiç önemli değil"
+    },
+    "9bf2dbd6-79b5-4fc6-b8e6-71980dd46630": {
+      "tr": "Müthiş bir bina"
+    },
+    "9cacd189-47b6-46fa-babe-aab1650c96a2": {
+      "tr": "Çok şeker ve huzur verici olmuş"
+    },
+    "9cee42b5-6213-4b64-9f43-b0f5acd950ee": {
+      "tr": "Az bir rakam değil"
+    },
+    "9d35ee48-c9ab-4c04-a8dc-ec0c6cdbd2ce": {
+      "tr": "Fakat işin aslı pek de öyle değil aslında"
+    },
+    "9d58f516-b05c-45c3-b542-4ffbb6750cd0": {
+      "tr": "Ortam gayet sıcak"
+    },
+    "9e785202-e925-45f9-988d-3537f78f82af": {
+      "tr": "Örneğin bu kılıf işi olabilir"
+    },
+    "9f2d048c-6503-4c69-b3af-ece7ff22008d": {
+      "tr": "Saha gerçekten bataklık bir saha"
+    },
+    "9f9a21fa-985d-4012-8d98-c53b3da55dd2": {
+      "tr": "Çok ciddi bir kısmı ise yeşil alan"
+    },
+    "9fc90d3a-b490-48f1-a6b2-e1ab23bac5d1": {
+      "tr": "Yani iyi bi yer"
+    },
+    "9ffa02f9-fe99-4768-a0b5-f039c965fd27": {
+      "tr": "Sadece bu da değil"
+    },
+    "a0c06075-4805-49d2-a05d-96d39653f6b3": {
+      "tr": "Erzurum Trafik"
+    },
+    "a0df330d-b612-480e-afef-5679099d4961": {
+      "tr": "Büyük bir olay değil"
+    },
+    "a1cbb76f-908e-4694-8e4e-2f66390e1fc7": {
+      "tr": "Sponsor bulmak da çok zor"
+    },
+    "a1d666a3-25bf-4662-ba4d-b103eac3e26b": {
+      "tr": "Atomik yapı ve bağlar"
+    },
+    "a1efb33e-8a2c-4599-baec-dfb12220263e": {
+      "tr": "Büyüme artık buradan gelecek"
+    },
+    "a252c2b9-5287-428d-b5e7-097bf44564cf": {
+      "tr": "Üstelik bu kaleci"
+    },
+    "a2a7179b-5c1b-4de6-87ac-e01e0acb1012": {
+      "tr": "Milyonlarca satır kod var içinde"
+    },
+    "a2c15233-f083-47de-b869-78470279919c": {
+      "tr": "Bu ciddi bir rakam"
+    },
+    "a31c3d35-6776-415c-a47d-40fcee7d6e38": {
+      "tr": "Tek doğru Tolga Zengin"
+    },
+    "a3221f4c-b29c-4077-ade2-f224f2bd0537": {
+      "tr": "Kira yeterli değil"
+    },
+    "a32e9631-03b3-40a6-99a8-b551d43df292": {
+      "tr": "Ne acı bir durum"
+    },
+    "a39cbf7f-296c-453e-b589-c17cc73507d1": {
+      "tr": "Resmi bilirkişilik ve danışmanlık yapmak"
+    },
+    "a4052682-5014-4c6b-92db-5abfebe44999": {
+      "tr": "Hem de kolayca"
+    },
+    "a416b100-6924-4e7c-92dc-49e5f8794cae": {
+      "tr": "Doğru düzgün yeşil alan yok"
+    },
+    "a43ab8a8-c119-4c23-ba77-bf943ff31f22": {
+      "tr": "Binlerce yıldır böyle"
+    },
+    "a58baa52-c02c-4b3b-a9b9-72b48d0a9e68": {
+      "tr": "Tek bir kelime için"
+    },
+    "a5c7cd7b-ba88-42bc-bf58-3b97add40157": {
+      "tr": "Burada on bir tane mahalle var"
+    },
+    "a62462fe-3290-4f91-bc0c-e95af0bf0932": {
+      "tr": "Önce vizyon sonra da lezzet gerekli"
+    },
+    "a62d5159-3d6f-4eec-b6ff-485cb2a6c0c2": {
+      "tr": "Bu çok uzun ve ince yoldur"
+    },
+    "a64f8ba3-ba5d-4505-ae4f-097602be79e8": {
+      "tr": "Maalesef böyle toprak olmuş"
+    },
+    "a6d877fc-1d2a-4599-83a7-5958402858ff": {
+      "tr": "Kıraç bölge az"
+    },
+    "a6f35552-e966-4473-93bb-81f4d174cf46": {
+      "tr": "Öyle yağma yok"
+    },
+    "a719161a-af21-412a-a3cb-eff5cc4d73c0": {
+      "tr": "Bir ayrıntı daha var"
+    },
+    "a73f263a-a155-4f4d-ad66-61c1bcd9cef3": {
+      "tr": "Tabii ki yeterli değil"
+    },
+    "a7523f04-2f5c-49f3-ae61-08493d904e6c": {
+      "tr": "Şimdi burası yeniden bir çekim merkezi olacak"
+    },
+    "a7c4dbb0-5b48-4162-b7ce-9cf5ce825468": {
+      "tr": "Bence iyi bir proje"
+    },
+    "a80ebb96-3072-490e-a448-47a726b08b5a": {
+      "tr": "Önemli bir görev"
+    },
+    "a818d850-9a7e-4d2a-b539-7c893a0ffe22": {
+      "tr": "Ama bugün durum öyle değil"
+    },
+    "a837c474-4682-4cab-b635-d7f02f465c67": {
+      "tr": "Hafta içinde çalış"
+    },
+    "a83de1f0-c73e-43e8-a4d1-d0d3d726cad7": {
+      "tr": "Bu önemli bir özgürlük"
+    },
+    "a853752a-097e-4cba-8ec5-283e57af085e": {
+      "tr": "Ama eğer bu iyi bir alışkanlık ise"
+    },
+    "a8f6604c-ce82-48f6-839f-8765786bf1e9": {
+      "tr": "Bana yardımcı oldu"
+    },
+    "a9253c5e-5689-4e31-9e01-5d21bf8ddb64": {
+      "tr": "Ama Süper Lig için durum böyle değil"
+    },
+    "a96857ec-a6c7-48fa-a1c6-219486c24c2c": {
+      "tr": "Doğrulama başarısız oldu"
+    },
+    "a988881b-1bce-45ba-9b4e-7329595884bd": {
+      "tr": "Bu kadar hata olmaz ki"
+    },
+    "a9c97ab3-7e06-471b-8e6a-b49da1a2dad3": {
+      "tr": "Çok önemli değil"
+    },
+    "a9c9d43e-d863-4894-8e37-f80d2d1b1864": {
+      "tr": "Evrensel komünikasyon da çok önemli"
+    },
+    "a9dc3ccb-97b8-4164-8e63-304b99213933": {
+      "tr": "Edebiyat ve Tarih içinde"
+    },
+    "a9f666b4-fa1b-4660-86b4-7427606ffe0f": {
+      "tr": "Ama talihsiz bir girişim"
+    },
+    "aa819aef-8a7f-4c66-bc30-f777161a4463": {
+      "tr": "Açıkçası çabuk ve hızlı bir giriş oldu"
+    },
+    "ab26a870-298a-46bd-b8f3-ec13dc50f1e4": {
+      "tr": "Artık herkes bir haberci"
+    },
+    "ab392c13-f234-4af5-b497-831bdb0106bd": {
+      "tr": "Sadece yaş günü değil elbette"
+    },
+    "abaff7a2-ba18-4f8f-b888-1bbeffd87227": {
+      "tr": "O da doğru dürüst bir pozisyon değil"
+    },
+    "abfe0cca-371c-4f7d-bb19-77492ed0dd94": {
+      "tr": "Çünkü o proje Arapgir için önemli bir proje"
+    },
+    "ac51a39a-7c1a-420f-882b-cfb8796d5b05": {
+      "tr": "Bu yazar bir keşif"
+    },
+    "ac8da68d-c5b5-49ea-8185-65bad61f1eb5": {
+      "tr": "Selam ve saygı ile"
+    },
+    "ac9b0336-d6b5-4aa0-80ba-d0167048bf18": {
+      "tr": "Üniversite çok önemli bir bileşen"
+    },
+    "accad087-9e09-409b-973e-9f2a1c770e07": {
+      "tr": "Buna da son derece saygı duymak lazım"
+    },
+    "acd5805f-a215-473c-b360-435599f6ab06": {
+      "tr": "Ayrıca ateş resmi kullanılmış"
+    },
+    "acf1b595-30e7-4975-9ae6-7bd2d125b97b": {
+      "tr": "Ama bu çok dinamik ve değişken bir roman"
+    },
+    "ad34bc5b-965d-4cbb-a4e3-f2557da71ade": {
+      "tr": "Bu bütün dünyada böyle"
+    },
+    "adf7a040-022f-41a9-983b-bc8b931902bd": {
+      "tr": "Bir tane kapalı havuz var ve oldukça güzel"
+    },
+    "ae391d93-b769-453f-979c-f8381208ae75": {
+      "tr": "Ciddi destek verdi"
+    },
+    "ae978080-ba3e-4b7a-9ec9-4ea52ebd69d0": {
+      "tr": "Olacak şey değil"
+    },
+    "aea03654-1907-4ac6-9dee-4a29c5353e5e": {
+      "tr": "Profesyonel ve sıcakkanlı bir"
+    },
+    "aeb3fc45-911c-44f2-b2b3-c1ead0411722": {
+      "tr": "Giriş ücretsiz"
+    },
+    "afdab105-41df-435f-87cc-003520de3c36": {
+      "tr": "Adli soruşturma ve bilgisayar"
+    },
+    "b031f27f-76ff-44b5-90ab-217c37c9248e": {
+      "tr": "Ancak genç kuşak öyle değil neyse ki"
+    },
+    "b0861c8b-bf65-449d-a56a-ead287fa0e51": {
+      "tr": "Hayat elbette ki mücadele"
+    },
+    "b0987148-43db-4e16-b175-83efe70671db": {
+      "tr": "Bir sürü parametre var"
+    },
+    "b0ada2a2-ddce-490b-9b0c-dac6c245084c": {
+      "tr": "Çok haklı eleştiri var"
+    },
+    "b0ae7fcb-fa55-4b73-b77d-9f189e899321": {
+      "tr": "Bütün insanlık için"
+    },
+    "b0b3f909-f6f2-4c04-a8c8-acd769f051d3": {
+      "tr": "Doğu Marmara Kalkınma"
+    },
+    "b0d0a3ca-61b8-4161-a2c0-45e55835a987": {
+      "tr": "Bayağı temiz ve güzel bir anlatım olmuş"
+    },
+    "b15855cd-19aa-4a6f-b346-8990a513562c": {
+      "tr": "Burada olmak çok güzel"
+    },
+    "b19a23e3-919f-42b6-82a7-f5ba3be1ede8": {
+      "tr": "Eğitim yine öyle"
+    },
+    "b1fec9f1-1cee-4e08-864d-535064b730b3": {
+      "tr": "Daha fazla çocuk ölmez"
+    },
+    "b2a7eab9-76b5-4b9f-8dc0-d62ffe465075": {
+      "tr": "Bu ülke üçüncü sınıf bir ülke değil"
+    },
+    "b31a5c32-2256-4e63-af4b-e5e3a75f8fbf": {
+      "tr": "Her birim gibi"
+    },
+    "b36be353-4c2f-4929-a62b-4ee04850400f": {
+      "tr": "Olay kısaca bu"
+    },
+    "b372a6eb-efdd-4154-b5a9-39ff1a9cc558": {
+      "tr": "Evet öyle oldu"
+    },
+    "b3887e47-4c05-4e23-9b84-3f9908c7efb5": {
+      "tr": "Bu da son derece önemli"
+    },
+    "b394ac67-c362-4d14-8487-db37747ac896": {
+      "tr": "Dünyada böyle bir örnek yok"
+    },
+    "b3c9f389-a542-43f9-b435-7d3f2a6e34c9": {
+      "tr": "Bu durum gerek iç"
+    },
+    "b416ca4e-85c3-467f-a18c-4bd4d2fcfaca": {
+      "tr": "Hafta hesabı ile biraz daha fazla"
+    },
+    "b41a91b9-1206-40fb-b802-6cca9d69b49c": {
+      "tr": "Daha oraya çok var yani"
+    },
+    "b4a037b2-7e77-4080-bf92-6e1895d344cf": {
+      "tr": "Kusursuz bir konaklama için en doğru adres"
+    },
+    "b4c44ad5-9fee-4b30-b96c-62743e378ed9": {
+      "tr": "Bu da gayet makul bir meblağ gibi görünür"
+    },
+    "b61dda21-e55f-4b83-8b51-2f8bada32f64": {
+      "tr": "Bu büyük bir imkan ve büyük bir fırsat"
+    },
+    "b61f3c4f-f7b3-47b1-b90c-9fa74ddb7b14": {
+      "tr": "Yok öyle yağma ya"
+    },
+    "b6219ea3-c4e5-4a13-ba34-ad9209477fc3": {
+      "tr": "Yarın da zor maç olacak"
+    },
+    "b62569a2-8e4a-4526-8d1f-87a80e366263": {
+      "tr": "Şebnem Hanım aslında bir öğretmen"
+    },
+    "b6516b44-5244-440c-a1f7-9f83bab512b5": {
+      "tr": "Yani Ayvaz kasap hep bir hesap"
+    },
+    "b75051ce-2225-4683-b282-4b03e83538ab": {
+      "tr": "Daha az zarif"
+    },
+    "b752b280-b300-42ef-b56c-a9e87d82d694": {
+      "tr": "Bu da Sulusaray için şahane bir gelişme"
+    },
+    "b75346b5-eff9-4a31-a218-309fc8bff89c": {
+      "tr": "Dövme süresince de çalgı devam eder"
+    },
+    "b883c169-d9b6-4039-aaef-b08f78c242a3": {
+      "tr": "Yani berbat bir kısır döngü"
+    },
+    "b8943b3a-bd27-48bc-a3ee-28cc5b7243c8": {
+      "tr": "Bu bir angarya değil bilişsel yetenek testi"
+    },
+    "b8c9921f-9edb-4a1a-8f7f-4373ef4d2c1e": {
+      "tr": "Bu kadar çuvallamak fazla"
+    },
+    "b913caa9-9be0-456a-ac72-bdae37122cda": {
+      "tr": "Çünkü şeker pahalı"
+    },
+    "b9728fbb-6f00-44f3-b00c-fd9162ac33fc": {
+      "tr": "Biraz da neon bir hava var"
+    },
+    "baa5cd88-5781-4d01-9d22-ca4869eaeaa3": {
+      "tr": "Genellikle az veya çok koyu renkli olur"
+    },
+    "bac2a2c5-ff4f-4aaa-9a0e-8a617706d8cc": {
+      "tr": "Meteoroloji ve hava"
+    },
+    "bacf5be0-78a7-42f5-b1ca-b7b5eae9f0ab": {
+      "tr": "Bu ciddi bir oran"
+    },
+    "bb1acb77-cde8-44d8-a50f-8540808d5f6b": {
+      "tr": "Birdenbire turuncu bir loşluk oldu"
+    },
+    "bb4ab84e-6314-4035-8b46-0a7f65ff79dd": {
+      "tr": "Misafir hiç eksik olmaz"
+    },
+    "bb827b3c-21b9-43fe-8871-830f5c2d243c": {
+      "tr": "Bu uzun ince bir yol"
+    },
+    "bbfc78d0-6039-412b-a3a0-cb091eb3b10b": {
+      "tr": "Güncelleme ile ilgili bir hata olmuş"
+    },
+    "bc14acc7-d7c8-4d34-9c00-c3c0ec6953fc": {
+      "tr": "Bu millet eski millet değil"
+    },
+    "bc273828-9fff-4063-bbcd-eb77cc2caefd": {
+      "tr": "Çok daha iyi oldu"
+    },
+    "bc6f6c1f-4c4d-473c-8cc8-0c85057d645e": {
+      "tr": "Ama şöyle bir yanılgı da var"
+    },
+    "bc76eba3-4739-432f-8ff2-5ce776f812de": {
+      "tr": "Buna ihtiyaç vardır"
+    },
+    "bcc05ba8-63d9-4db2-bbef-ffa72789e120": {
+      "tr": "Milli gelir ile ilgili"
+    },
+    "bcc7fbbd-163e-4aea-a84b-0c6d509d4b7a": {
+      "tr": "Öyle böyle değil"
+    },
+    "bcdfdbb0-2ae3-493d-b88b-8eec75d91928": {
+      "tr": "Şöyle düşünmek lazım"
+    },
+    "bd5a8127-3485-4c1a-9377-b52bccb44a82": {
+      "tr": "Bu çok mümkün değil"
+    },
+    "bd77abb2-5c4d-4d0d-ac83-9c3a9a3e6d09": {
+      "tr": "Bu ikinci dalga"
+    },
+    "bd9da830-5738-4109-83c8-a655006bab6c": {
+      "tr": "Oysa esas sorun oksijensiz kalmak"
+    },
+    "be59a118-7a86-4360-acee-6598f7f5b36f": {
+      "tr": "Ne telefon ne bir şey var"
+    },
+    "bea24c73-fb2e-4782-8fac-f2a61bd56bce": {
+      "tr": "Tarih boyunca bu sorun olmuş"
+    },
+    "bebd8657-9f15-483c-8e21-724727498587": {
+      "tr": "Eğlenceli bir yazılım"
+    },
+    "bedf7006-ed82-4476-9dc3-40412dd640cc": {
+      "tr": "Artık tesadüf müdür bilinmez"
+    },
+    "bf2c66d9-9e09-48f2-8261-d23b550a72d1": {
+      "tr": "Vekil Aydın ve Başkan Sargın Tetik Teknoloji Me"
+    },
+    "bf2f5436-10f7-4095-9393-107beb69c5e2": {
+      "tr": "Peygamber Efendi"
+    },
+    "bfc1cba0-a63e-4c9d-bbce-b77fd905178e": {
+      "tr": "Sebep tek değil ama basit"
+    },
+    "c061e73e-716f-464b-be20-7b2e823e5c87": {
+      "tr": "Ama sen rahat uyu"
+    },
+    "c0961c74-a006-4a56-8dd7-d546ac30eb65": {
+      "tr": "Hiç oralı olma"
+    },
+    "c0c25548-63b6-4b97-bc4d-42885bb8d413": {
+      "tr": "Burada herkes var"
+    },
+    "c0f3e1f3-3d36-479e-836a-a9174fa58ca8": {
+      "tr": "Herkes şaşkın şoför de dahil"
+    },
+    "c10f5777-2392-4ded-afce-9b68dd9c686d": {
+      "tr": "Hedef belirlemek kişisel gelişim için de çok gerekli"
+    },
+    "c1118a0b-ba2d-404a-a211-4ed7e1ffc32f": {
+      "tr": "Bu kez de öyle oldu"
+    },
+    "c1fa7c4f-44c5-4664-b3e7-6eff0b05737f": {
+      "tr": "Tuz ve karabiber ilave edin"
+    },
+    "c23d3218-442a-4e34-85c6-101cccb48099": {
+      "tr": "Gerçek bir afet"
+    },
+    "c246a312-b515-47ff-b40e-080e30fc0181": {
+      "tr": "Bu da üçüncü nokta"
+    },
+    "c252ba3b-7e95-4387-a24e-822a1269f860": {
+      "tr": "Yavaş bir hayat var"
+    },
+    "c27a9593-c257-4c6e-896d-d0c38761ed84": {
+      "tr": "Hem çevreci hem şık"
+    },
+    "c2b15833-86e3-484a-9625-9e25747facf9": {
+      "tr": "Herkes kötü değil"
+    },
+    "c2bfba7f-261b-41b6-b95f-e2a01024deae": {
+      "tr": "Son derece trajik bir durum"
+    },
+    "c2e6fa6f-ad9e-4d22-adb0-48ef94273787": {
+      "tr": "Balkon ve oda keyifli"
+    },
+    "c31aeed5-829b-4b87-9e6c-43dbabd612d5": {
+      "tr": "Çünkü ortada böyle bir şey yok"
+    },
+    "c3611054-5389-45fa-93cb-89b7757f3990": {
+      "tr": "Bu aslında bir ön çalışma"
+    },
+    "c3875ad7-d5b2-479f-b679-58200a8a2288": {
+      "tr": "Televizyon da böyle işte"
+    },
+    "c3bc6b2a-1452-453c-b5bf-bd067e91409e": {
+      "tr": "Şimdi Cem Yılmaz da yok"
+    },
+    "c3db4681-12ef-44e4-998f-de966742421a": {
+      "tr": "Bursa AK Parti Milletvekili ve AK Parti Merkez Disiplin Kuru"
+    },
+    "c3eb0a28-3831-4e82-9f45-c7f0f5ea00a2": {
+      "tr": "Birim enerji maliyet hesabı"
+    },
+    "c402871b-563c-4a63-a843-407f7f70dce9": {
+      "tr": "Bu iki taraflı bir süreç vatandaş ve müteahhit olmak üzere"
+    },
+    "c4102106-a891-406c-b332-a3d34e7a6c8b": {
+      "tr": "Aslında güzel bir tekerleme bu"
+    },
+    "c42b0ba7-c2f5-4dc7-a8a8-b168d4554d68": {
+      "tr": "Tatil kısmı sonra olacak"
+    },
+    "c45a19ee-dad4-4c52-b8b4-95d83c4e906f": {
+      "tr": "Ama hiç belli de olmaz"
+    },
+    "c460b60e-f103-47c7-b5a6-ab58e34a6faf": {
+      "tr": "Çünkü bu büyük bir haksızlık"
+    },
+    "c489a3fe-f543-4d4c-8537-8987b60ae87f": {
+      "tr": "Ama bu terör başka bir şey"
+    },
+    "c50b8bab-c903-48b8-84c6-43a8f63a1a98": {
+      "tr": "Bu yıl da tıp ve hukuk için baraj geçerli"
+    },
+    "c50da840-3fa1-4b98-b5df-e92324fef7e1": {
+      "tr": "Yani hayır da ya"
+    },
+    "c55989b3-42a0-40ff-9824-e05e0a2db490": {
+      "tr": "Burada nitekim badem çok faydalı oldu"
+    },
+    "c5755423-3162-46b6-aac8-9a29a9fef922": {
+      "tr": "Dolayısıyla en önemli sorun belirsizlik"
+    },
+    "c58a2217-a3a0-45e0-af25-c47286e176cd": {
+      "tr": "O da yine son derece lüks"
+    },
+    "c5c6168a-b37b-41af-bbe5-7fbd30bf020d": {
+      "tr": "Yanında sote armut ve kremalı turp ile sıcak servis yapın"
+    },
+    "c5cc4c2b-3103-4af8-8c44-5f5a3b7c5732": {
+      "tr": "Konaklama çok keyifli"
+    },
+    "c765ed52-125b-434f-b4a0-d3a725985a1f": {
+      "tr": "Belki biraz ilgisizlik"
+    },
+    "c783f78d-a10d-426d-8fec-46299f4bc49d": {
+      "tr": "Bugün yine farklı bir gün"
+    },
+    "c797f46f-63ad-4e33-ab94-0622ae849f48": {
+      "tr": "Gayet de rahat oldu"
+    },
+    "c80b420f-e3da-4246-8305-bc2755890c09": {
+      "tr": "Hem de kara bir sevda"
+    },
+    "c854943f-1cd8-4561-ab71-e5dac937c785": {
+      "tr": "Dolayısıyla burada her iş önemli"
+    },
+    "c9160e9f-b406-456a-a171-bb521862d03d": {
+      "tr": "Rahmetli eski Başbakan"
+    },
+    "c93adb3f-33ba-4fdf-9860-0b6149fb14d7": {
+      "tr": "Aslında bu doğru bir algı değil"
+    },
+    "c95141c3-880d-4ee6-a98f-872d86bce0b5": {
+      "tr": "Ancak çözüm ortada"
+    },
+    "c9e193e4-36a4-447f-a809-40499b4b55a7": {
+      "tr": "Çok hassas aslında"
+    },
+    "ca898976-7c19-4ad6-b511-446d4d269306": {
+      "tr": "Bu hüküm bir zulüm olur"
+    },
+    "cab07c7a-3d28-4f77-9a1a-18360aa010b8": {
+      "tr": "Çok mükemmel ve modern bir şehir"
+    },
+    "cb889de5-8d78-4e12-915e-bcc40dd51e16": {
+      "tr": "Ne anlamlı bir söz"
+    },
+    "cba8f088-b827-46d7-b823-a64b0dbb7427": {
+      "tr": "Küçük yasta hafız oldu"
+    },
+    "cc0cf32f-3a55-4a66-97a7-ad51bc0f179a": {
+      "tr": "Hemen yanında bir var"
+    },
+    "cc19508a-f7a6-4d56-8c65-41707226d67e": {
+      "tr": "Her şey ortada"
+    },
+    "cc37e49b-e1a0-4b4c-882d-bb6505ab5743": {
+      "tr": "Ölüm acı doğum hep iki defa"
+    },
+    "cca5abe9-db5e-4c78-b80e-b868d8671613": {
+      "tr": "Geçmek mümkün değil"
+    },
+    "ccea30a4-af92-4281-b178-93484b51fff9": {
+      "tr": "Bir sorun daha vardır"
+    },
+    "cd18e535-977c-46bb-91ce-38dd324d5429": {
+      "tr": "Bu bir çığlık Sayın Bakan"
+    },
+    "cd2803d7-8a2f-43a1-8c47-fa6eccfa5b1b": {
+      "tr": "Aslında yol doğru"
+    },
+    "cd2bd48b-9e25-43fa-be56-b5c92b1b5014": {
+      "tr": "Hakikaten acı bir kaza"
+    },
+    "cdd224e9-5489-4b8e-921a-addd053ef7c6": {
+      "tr": "Her ne kadar daha pratik bir"
+    },
+    "ce578750-ea12-4270-b60a-a3faefa61ce9": {
+      "tr": "Fiziksel egzersiz oldukça önemli"
+    },
+    "ce7b2a44-7083-43e9-81e5-af9ba5863278": {
+      "tr": "Gerçekten önemli bir konu"
+    },
+    "cf4a66a8-3b94-48df-9eca-d67dd8ff9960": {
+      "tr": "Hem de uzun uzun"
+    },
+    "cf9584da-1bb7-4b2d-8a72-e1b519f2e692": {
+      "tr": "Personel son derece saygısız"
+    },
+    "cfbe810d-5ae5-49ce-b6a4-bb5fa271ea50": {
+      "tr": "Cem Kılıç ve Arş"
+    },
+    "d02fd43a-85f0-46be-868b-66b198a14367": {
+      "tr": "Bugün Dünya Toprak Günü"
+    },
+    "d03f1fe1-4e99-454b-8f1a-d18de0dc1442": {
+      "tr": "Bir diğeri daha da etkili bir isim"
+    },
+    "d07301cb-ff96-4ce8-a16e-5873d145a2fc": {
+      "tr": "Bence Volkan daha iyi bir kaleci"
+    },
+    "d0c08db9-2b8f-4346-830f-23446514238f": {
+      "tr": "Burada delice bir şey var tabii"
+    },
+    "d0f977c5-3cd7-4d64-8e75-d47571ef0a04": {
+      "tr": "Yüzde yüz yerli bir tesis olacak"
+    },
+    "d1d11370-8a33-49b6-8565-73a25a0c7d79": {
+      "tr": "Tam da değil aslında"
+    },
+    "d273920c-b32d-4a32-801d-601bcad18c5f": {
+      "tr": "Bunlar kafa kesen cani bir topluluk hepsi bu"
+    },
+    "d2bb1942-5567-474f-8cac-462af2a58b3e": {
+      "tr": "Şehit kan verdi göz göre göre"
+    },
+    "d3403394-b6b6-4080-a0a1-355a208d6947": {
+      "tr": "Önemli bir çekim merkezi"
+    },
+    "d34294fa-35e9-421d-8efb-574abbd9c372": {
+      "tr": "Lütfen istirahat edin"
+    },
+    "d362cead-ace3-40a3-918b-a7203f325c63": {
+      "tr": "Çok güzel bir site olmuş"
+    },
+    "d366228a-76d9-4112-8614-1f2e7faec41f": {
+      "tr": "Hem de çok iyi"
+    },
+    "d3da5e3e-b69c-473f-a611-5833e1d2a9f0": {
+      "tr": "El Bab çok stratejik bir nokta"
+    },
+    "d4261a4d-312e-4b9c-a03f-519e3336ca87": {
+      "tr": "Aşk çok tatlı ama bazen de bir o kadar acı"
+    },
+    "d42cf9d6-4059-46b3-a1bb-b8365dec9e7b": {
+      "tr": "Ego zararlı değil ki"
+    },
+    "d48c35f8-b0fd-4493-9dc9-00fb5cab7ef4": {
+      "tr": "Sanat ve eğitim merkezi Kazan"
+    },
+    "d48c9bd9-6268-4389-9162-e8b443c75144": {
+      "tr": "Burada bir vahşet var"
+    },
+    "d4b19fa9-0e28-4e7a-8577-be0213377bf0": {
+      "tr": "Bizsiz bir şey zaten mümkün değil"
+    },
+    "d4cd4ca9-1062-4415-b05f-888559be2c86": {
+      "tr": "Daha yaratıcı ve yenilikçi"
+    },
+    "d4de0f7e-b28e-4bdb-b466-c9ec5020033c": {
+      "tr": "Bence aynı kural siyaset içinde geçerli"
+    },
+    "d50fed1a-ace9-4953-850c-f521f70e2bd5": {
+      "tr": "Sürekli uyuklama hali olur"
+    },
+    "d578289a-fa2b-48ac-b3e4-ab395458ae6c": {
+      "tr": "Hem evet hem hayır"
+    },
+    "d5848a2e-0ba7-404d-92e4-21c08f7a36b9": {
+      "tr": "Çünkü her kafadan bir ses çıktı"
+    },
+    "d59f7715-0978-45f8-ab61-db0c49e22e29": {
+      "tr": "Bu o kadar çıplak bir gerçek ki"
+    },
+    "d5a992af-c47e-48ce-8a8c-8ec03afb8953": {
+      "tr": "Ama bu bir gerçek"
+    },
+    "d5c02215-bb6f-43ea-8b0d-e736a2a6a531": {
+      "tr": "Ortam sıcak ve samimi"
+    },
+    "d620aafb-30fd-4ed2-bc8e-4a402ab33253": {
+      "tr": "Akıllıca bir proje"
+    },
+    "d658eb14-ecfb-4f9c-b91a-9c8d4252cefb": {
+      "tr": "Gerçekten potansiyel çok büyük"
+    },
+    "d66b5ed7-c9a2-4531-92b6-9e31b09c435b": {
+      "tr": "Zengin ama çok zengin değil"
+    },
+    "d68277c7-1812-4714-ae58-afa67f59450a": {
+      "tr": "Şimdi en kolay şey çabuk para kazanmak"
+    },
+    "d6c6a460-e988-47df-a246-60eb76442fb9": {
+      "tr": "Sorun belli çözüm belli"
+    },
+    "d7286933-1931-4ccf-b792-9aea1c2c2dc7": {
+      "tr": "Yatak yanında priz yok"
+    },
+    "d79a29bb-d453-4174-bad2-fbf11884f49f": {
+      "tr": "Bana göre biraz şanssız"
+    },
+    "d79bd9cc-45d0-4909-8284-eb5be605d8d8": {
+      "tr": "Hareketli demir halka"
+    },
+    "d7e170f8-9bda-4988-b129-c36abf85750a": {
+      "tr": "Asıl yarışma ikincilik için"
+    },
+    "d7e6bbe0-8e17-4d77-9b40-c2426776d278": {
+      "tr": "Kemal çok iyi bir rejisör"
+    },
+    "d828877b-47d1-40a2-afed-f5dc9737f7e2": {
+      "tr": "Görüşme uzun ve çetin oldu"
+    },
+    "d8dc494b-d993-45b9-b7aa-9d604b59e0f1": {
+      "tr": "Oyun kesinlikle sıkıcı değil"
+    },
+    "d927c8b9-17f4-4640-a292-7495694fbf28": {
+      "tr": "Her türlü tehlike var"
+    },
+    "d95301b2-5c4b-47f5-878f-5a9370943696": {
+      "tr": "Kırıkkale de yapılan her şey ekip işi"
+    },
+    "d9681462-79d1-4dc9-a0e9-7c3c4b6fd49d": {
+      "tr": "Bu konu çok önemli"
+    },
+    "d9ae2668-2237-4a31-b26e-4d267c671c46": {
+      "tr": "Aktarmasiz rahat bir yolculuk"
+    },
+    "d9be253b-344d-493a-a9f5-134d2ca20286": {
+      "tr": "Bu yoğun bir süreç"
+    },
+    "d9cb63b1-67bb-4df1-97c5-c7c207a850b1": {
+      "tr": "Henüz hiç bir açıklama yok"
+    },
+    "db03b4d0-9d8f-4fc8-985f-a3defe031d64": {
+      "tr": "Yanında birkaç fotoğraf"
+    },
+    "dbac630d-60f9-4c74-83eb-ac5d56733097": {
+      "tr": "Ama hayat zaten zor"
+    },
+    "dbb22a49-9c1e-4554-b580-0b437203257d": {
+      "tr": "Kıyı ile ilişkili bölge"
+    },
+    "dbb7c125-2d88-4534-9635-24df2cdcde15": {
+      "tr": "Ramazan da yine çok yetenekli bir sporcu"
+    },
+    "dbf31c75-7b91-4758-ad08-27207612b9f0": {
+      "tr": "Hoş bir sohbet oldu"
+    },
+    "dc32ab7d-5edc-4a68-afe3-9650b75599ab": {
+      "tr": "Çok güzel soru"
+    },
+    "dc6dfecd-bbca-493c-aead-c60506029750": {
+      "tr": "Yönetim ve Bilişim Sis"
+    },
+    "dcb27e7e-e9bf-4a3e-b890-49e13738111c": {
+      "tr": "O kadar ona hasta"
+    },
+    "dce272fb-5bf4-4984-9716-492dfa594800": {
+      "tr": "Çok ciddi bir talep bu"
+    },
+    "dd3494a4-3a15-4da5-a137-0883edce2859": {
+      "tr": "Hiç de adil değil"
+    },
+    "dd51fd23-d2ed-4eb0-830f-2c7c1fc8bfaa": {
+      "tr": "Psikolojik tesir çok önemli"
+    },
+    "ddb89309-e8a2-4e75-89d0-a163c04ccc82": {
+      "tr": "Durum çoğu vatandaş için böyle"
+    },
+    "de7338fe-5ccb-408a-aa26-4518a2630355": {
+      "tr": "Bu çoban iki üç daha çobanlık etmek ister"
+    },
+    "de7894ac-c869-4155-acc8-441c9ea955de": {
+      "tr": "Sonunda hayat da böyle oldu zaten"
+    },
+    "de7ba9b1-4535-44c0-956f-5cff3120b934": {
+      "tr": "Terazi burcu çoğu insan tarafından beğenilmek ister"
+    },
+    "de92d4c3-93f4-4102-9e79-7f63f92be5e5": {
+      "tr": "Vallahi iyi oldu"
+    },
+    "de996fd1-344c-463a-885c-704a6e1b3f95": {
+      "tr": "Her yer yemyeşil"
+    },
+    "deb07681-3ba8-4954-87b1-824ed9d209a6": {
+      "tr": "Ofis çok güzel ve düzenli"
+    },
+    "deb31a04-529d-424a-bcfc-8bb46be03a5b": {
+      "tr": "Özetle vasat bir otel"
+    },
+    "dedc37ac-ab94-4e54-b346-d6e6cd38988e": {
+      "tr": "Büyük bir gürültü kopmak"
+    },
+    "df23d9a0-0c4b-4111-9f5a-1cb8e4f1f3f3": {
+      "tr": "Gözlem zamanında kar veya karla karışık yağmur veya dolu"
+    },
+    "df3f8e04-211d-4f65-856a-e6c883c646db": {
+      "tr": "Sadece tek bir gece için fena değil"
+    },
+    "df95be23-5a40-476c-85f4-3dbc4a8d1def": {
+      "tr": "Personel ve yönetim çok ilgili ve profesyonel"
+    },
+    "dfde018d-acb8-44f4-93f6-b17bf76f6a20": {
+      "tr": "Tam bir isyankar ruh"
+    },
+    "e00409c1-b5fc-4f27-97f6-90fbaa2108ad": {
+      "tr": "Voleybol ve basketbol yeni yeni görünür oldu"
+    },
+    "e035de65-1362-4d6f-828c-aa0c1ba532cb": {
+      "tr": "Bu dünyada da böyle"
+    },
+    "e11d9735-6287-4e1c-b683-09130ea28fb6": {
+      "tr": "Çünkü aşk en insani duygu"
+    },
+    "e187d21c-05d2-4f94-8235-06806ea3fc2f": {
+      "tr": "Hemen herkes ucuz kredi"
+    },
+    "e1b2e20d-79bc-4fcd-bf96-f205d07bdec6": {
+      "tr": "Yine fantastik bir öneri"
+    },
+    "e1d2f7d9-9b61-4c15-bb36-1e4f3a5fcaf2": {
+      "tr": "Buna da bir engel yok"
+    },
+    "e21f9c53-10b1-47a4-90a0-fa786d8ac3d5": {
+      "tr": "Böyle bir tablo skandal bir tablo"
+    },
+    "e23022a7-9a91-468a-be48-3f20c08971f0": {
+      "tr": "Bana göre liderlik Aslında herkes için farklı"
+    },
+    "e256c615-06be-4ca2-8601-cd29ccffbfd6": {
+      "tr": "Aynen öyle oldu"
+    },
+    "e2634ed9-98b1-4aaa-9b8e-f1c7ba736a03": {
+      "tr": "Bu defa o isim ünlü şarkıcı Çelik oldu"
+    },
+    "e27826aa-b7ba-44a8-98b0-0150a9ec0ada": {
+      "tr": "Hediye zaten özenle seçilmiş"
+    },
+    "e28cc741-fe0b-45b4-b018-3eb9ae871925": {
+      "tr": "Ancak bu sadece bir kitap değil"
+    },
+    "e2aecdc6-636e-4696-9242-b2a120817690": {
+      "tr": "O disiplin çok önemli"
+    },
+    "e326b697-0ca5-4c90-938e-f68a7fd57760": {
+      "tr": "Kesinlikle böyle bir şey olamaz"
+    },
+    "e355d133-5656-4d23-80d7-f492783e6bfb": {
+      "tr": "Bizimki de buna dahil"
+    },
+    "e374cbf3-6d82-416e-92d5-cbfbe58cebf5": {
+      "tr": "Güzel bir program oldu"
+    },
+    "e38efcbc-7993-479c-a364-75d3bcdfc1e4": {
+      "tr": "Böyle bir ortak hayal"
+    },
+    "e3b1a0a3-fcf1-4ee7-b5f7-1f5628edfb2d": {
+      "tr": "Aslında bunlar böyle değil"
+    },
+    "e3efeb0b-bfe6-49a6-b48d-4a12ed2783bf": {
+      "tr": "Cevabı gayet basit"
+    },
+    "e3f330ef-c350-4256-9084-337829c0dea3": {
+      "tr": "Elbette ki sosyal medya da çok önemli"
+    },
+    "e4482ad0-bd3a-410c-8513-5ec693082c3e": {
+      "tr": "Gerçekten bir yıl çok kısa oldu"
+    },
+    "e4a0b44f-5db8-4b1a-803f-363f1501db98": {
+      "tr": "Bugünkü adım çok önemli bir adım"
+    },
+    "e4cbea99-e830-4954-9f81-ea5ca11da87b": {
+      "tr": "Ama türban değil de daha farklı"
+    },
+    "e507e18d-1623-4cd8-957a-45f12be6826a": {
+      "tr": "Eğer öğrenci ise bursiyer de olabilir"
+    },
+    "e50dd807-577f-4e68-8cb8-7120c5372710": {
+      "tr": "Her aile bir kabile"
+    },
+    "e5177be6-7ab7-4a21-8087-3f4e4b88d80a": {
+      "tr": "Ama Büyükşehir farklı"
+    },
+    "e5551815-0a81-4d3c-ae4b-6afe0d46f5cd": {
+      "tr": "Ama tarz bu işte"
+    },
+    "e5941149-0192-4f6b-843c-9b03983c790e": {
+      "tr": "Veri toplama ve işleme"
+    },
+    "e5962c24-8469-4827-b7b7-30b16cb3be90": {
+      "tr": "Hem de ne biçim yazar"
+    },
+    "e5f70e78-4cb7-4271-bebf-c9a7d5c00dde": {
+      "tr": "Sanat aslında lokomotif bir güç"
+    },
+    "e60e268e-abca-4231-ba9c-a476484dae5e": {
+      "tr": "Sporcu ve antrenör için bu çok büyük bir avantaj"
+    },
+    "e69fab1a-740d-4904-9688-48fef53208ad": {
+      "tr": "Eh bu kadar yeter"
+    },
+    "e6ac3c40-34ff-4e88-a19e-891ddaa85d1c": {
+      "tr": "Mesele basit bir yanlışlık değil"
+    },
+    "e6fbf998-b8f9-4c55-bf69-13d74c43e3c9": {
+      "tr": "Oh ne güzel dünya"
+    },
+    "e7063b85-9fdb-4121-aff0-0ae8ab5df3a8": {
+      "tr": "Şehitlik büyük bir mertebe"
+    },
+    "e743eca3-15c0-489d-880a-cec04bd31674": {
+      "tr": "Doğru da bir yaklaşım bu"
+    },
+    "e7512798-9aa6-42fc-becb-9db1f49dc273": {
+      "tr": "Aç insan şimdi daha az"
+    },
+    "e76a7e4c-b8e8-40d9-b7a9-3b54f119b7a5": {
+      "tr": "Haksız ve adaletsiz bir kart"
+    },
+    "e78b7ce6-84bb-442e-8429-6eccb9ebc410": {
+      "tr": "Akıl çok önemli"
+    },
+    "e7b5e30b-06bd-4d65-9f62-3023d4d2221f": {
+      "tr": "Gerçek değil ama ortada"
+    },
+    "e8398af2-3b9f-4657-b208-088382554255": {
+      "tr": "Bu hep böyle olacak"
+    },
+    "e87e73ae-dbf3-4d53-8d33-5659e1d4e56c": {
+      "tr": "Bu çok önemli bir kolaylık"
+    },
+    "e8805c77-8fe8-47c8-b15a-21ebec733847": {
+      "tr": "Akademik başarı her şey değil"
+    },
+    "e8bae7bf-feae-45ed-b41b-91f9f7a78c51": {
+      "tr": "Günde bir fincan yeterli"
+    },
+    "e8c04df6-e8d4-47b6-ad87-3e938d69bdad": {
+      "tr": "Artık her şey ayan beyan"
+    },
+    "e8e2e474-7908-4386-8185-b86e12e014f7": {
+      "tr": "Bugün her şey fazlasıyla hesaplı"
+    },
+    "e90300cd-b661-4ffe-ab6d-f483136c9571": {
+      "tr": "Bir sivil inisiyatif ve"
+    },
+    "e9c56270-8c0b-47e5-81ce-3bcae0ce4a62": {
+      "tr": "Faydalı bir ürün"
+    },
+    "e9e7f8c0-43e9-4a9c-b90e-b8bb901329ee": {
+      "tr": "Gayet normal bir durum"
+    },
+    "eacc8815-60bb-4a18-acda-24b4cbffe0a7": {
+      "tr": "Tek il Gümüşhane"
+    },
+    "eadd3362-00ef-4583-85c0-9e543fe9a8ad": {
+      "tr": "Bağıl hız ve ivme"
+    },
+    "eb094954-608f-4007-b462-6448a5b012ff": {
+      "tr": "Süreyya Karagöz konuk oldu"
+    },
+    "eb4eb6d7-af97-4f13-b389-e8c067ca800e": {
+      "tr": "Katılan herkes çok heyecanlı ve mutlu"
+    },
+    "eb5e86b9-2d95-4ead-882c-faff373ce080": {
+      "tr": "Karar vermek için uygun zaman değil"
+    },
+    "ebf22bda-abc2-4b39-8a4a-14e8671ac62a": {
+      "tr": "Çok da güzel bir albüm oldu"
+    },
+    "ec61285e-3494-4b95-828b-1308f63030b9": {
+      "tr": "Bu ona iyi bir ders olacak"
+    },
+    "ec6435b0-1e3e-4e0e-a759-7e1ec1edcd17": {
+      "tr": "Geçen hafta çıktı"
+    },
+    "ed049701-3b03-4171-b3f1-be547221dae8": {
+      "tr": "Özenli ve çok güzel"
+    },
+    "ed12be10-92f2-4554-9d4d-4e469802cc04": {
+      "tr": "Bu sadece bir örnek"
+    },
+    "ed24f37a-331b-42b1-a6a5-31494dd48d64": {
+      "tr": "Hemen hemen hiç düzlük yok"
+    },
+    "ed2bcf86-b198-4143-a724-0cde2499885c": {
+      "tr": "Sözcü çok başarılı bir gazete oldu"
+    },
+    "ed45f6d2-a230-426d-944e-eea73079ea4c": {
+      "tr": "Hatta insan bile"
+    },
+    "ed48508a-1bb5-4ae1-8085-dfa53f3abfe8": {
+      "tr": "Ama şu an böyle değil"
+    },
+    "ed4b775a-fdd4-4fba-a1c8-214d971924e4": {
+      "tr": "Rahat bir maç oldu"
+    },
+    "edad6329-cfc2-49c2-a118-ba8ec324377a": {
+      "tr": "Çok modern ayrıca"
+    },
+    "ee0a4c6d-b0c8-460a-be84-904989e340e4": {
+      "tr": "Çünkü zahmetsiz rahmet olmaz"
+    },
+    "ee228d5f-f8d3-41b7-86c9-1bf7284aba9a": {
+      "tr": "Etkili bir sunum yapmak için"
+    },
+    "ee5fea08-e218-4c6a-ac37-93efa332633a": {
+      "tr": "Tabii ki önce vicdan"
+    },
+    "eeb72352-0241-4a3f-b22e-9723bcbced71": {
+      "tr": "Mutlaka her zaman kahvaltı edin"
+    },
+    "eede1e97-9ab2-4703-87aa-69929cc8a0a0": {
+      "tr": "Hani renkli topluluk olmak iyi bir şey de"
+    },
+    "ef69d2a3-7af5-4d97-b826-7957c30effc7": {
+      "tr": "Banyo geniş ve jakuzili"
+    },
+    "ef6f4517-3767-413e-b9aa-d04ea9b6c613": {
+      "tr": "Fasıl açmak için kriter diye bir şey yok"
+    },
+    "ef9356dc-2725-4f54-bf0f-a3c96b4cac11": {
+      "tr": "Ali Can Karaca Yorum Yapılan GD"
+    },
+    "ef94032e-f862-43f7-b3d1-f07b0d9d11ff": {
+      "tr": "Şüphesiz ki eder"
+    },
+    "f04d75ee-31a7-4541-9d8b-e08d7b0339a9": {
+      "tr": "Bu kelebekler de butik turizm için önemli"
+    },
+    "f07d6b73-ed0d-4cee-954a-cfd53426fb48": {
+      "tr": "Bu çok önemli çok ciddi bir fark"
+    },
+    "f0910cc9-c8cb-49a1-b3b5-e45a8dde5b74": {
+      "tr": "Her şey mevcut burada"
+    },
+    "f0d06444-6c76-48a8-be26-3f289c829c6f": {
+      "tr": "Çok güzel ve büyük bir antik kent"
+    },
+    "f0edda70-c9fd-4ed0-b125-2d3830e2869c": {
+      "tr": "Ama insan hazırcı"
+    },
+    "f133eceb-33a9-4c55-8e89-37746439d9b1": {
+      "tr": "Halbuki bilim öyle değil"
+    },
+    "f177c500-437b-455c-9b1d-41167919dbaa": {
+      "tr": "Çok ciddi bir kapasite var"
+    },
+    "f1b64473-5c92-44be-9aa1-258447ddfebf": {
+      "tr": "Lütfen biraz daha futbol"
+    },
+    "f1c7ab4f-cebd-4d9c-9516-6c05b7b48c02": {
+      "tr": "Üstelik anlık veri izleme ücretsiz"
+    },
+    "f278d4bf-3c59-4790-85bd-671aedaa1bed": {
+      "tr": "Daha da iyi oldu"
+    },
+    "f2a05de9-df7f-401a-8eab-40a23be34f81": {
+      "tr": "Bu rakam önemli"
+    },
+    "f2a368ba-add4-4bc2-8b71-74bbdbe87582": {
+      "tr": "Öncelikle talep etmek"
+    },
+    "f2a6e2bc-f86d-487a-8d37-2f45806578e7": {
+      "tr": "Oysa ilk konu oldukça eğlenceli"
+    },
+    "f2f6dea8-5493-4cb0-96cb-7b383fe404fe": {
+      "tr": "Kova insanı hemen"
+    },
+    "f35dfc1c-cb7d-44c4-bed6-a14b0e1fdec2": {
+      "tr": "Bu daha başlangıç"
+    },
+    "f3725c2e-76cb-4c35-b4a2-14b709238554": {
+      "tr": "Kaç bakan olacak belli değil"
+    },
+    "f3bdafea-b13d-4249-97a1-6385ca83e493": {
+      "tr": "Çoğu yaşlı için iyi bir imkan"
+    },
+    "f4564b9b-6bd0-4e9c-97a7-026bc5e5fae1": {
+      "tr": "Fakat lakap ve isim aynı şey değil"
+    },
+    "f4945760-ca3d-4bdb-9f50-a2acdb5ab2a2": {
+      "tr": "Çok iyi huylu bir kız"
+    },
+    "f5492dfe-62ce-4729-bd45-31b4e6edeec0": {
+      "tr": "Hiç psikolojik muayene yok"
+    },
+    "f585015b-05a5-4a95-9831-6111e290b42c": {
+      "tr": "Orada muhteşem bir ekip var"
+    },
+    "f59b83ea-b78d-45fe-afc7-3d800a361ea4": {
+      "tr": "Profesyonel bir yaklaşım"
+    },
+    "f622fa0f-7d0e-4112-8161-4af6d1b78455": {
+      "tr": "Bu uzun ve ince bir yoldur"
+    },
+    "f6484653-79ef-4ae0-8848-de6f0fe83f47": {
+      "tr": "Sağlık ve Medya özel dosya"
+    },
+    "f64ed47b-1720-42c2-befb-c1c5704b5be3": {
+      "tr": "Bu süreç bana cesaret verdi"
+    },
+    "f666ab61-643a-4780-9ecf-8b17048c7c02": {
+      "tr": "Çok fazla insan var"
+    },
+    "f67488ac-678d-4dd3-986d-d9738f015987": {
+      "tr": "Bu hem merkezi olabilir hem yerel olabilir"
+    },
+    "f6828c2f-b07e-46d2-a6e9-e5d3420d0db3": {
+      "tr": "Daha bir renkli daha bir canlı sanki"
+    },
+    "f6b4b94c-49ee-44c3-a42d-2288d98c6db8": {
+      "tr": "Dolayısıyla yurt içinde de büyük bir pazar"
+    },
+    "f70939e8-c1f8-4d92-bc6f-604b5cf3ec9b": {
+      "tr": "Evet böyle işte"
+    },
+    "f70b841e-bff9-4b9e-b028-014a6df8c879": {
+      "tr": "Bütün mesele daha önce yakalayabilmek"
+    },
+    "f718cc2f-aa72-4133-9930-0e7aa0cf4fd5": {
+      "tr": "O yol doğru yol değil"
+    },
+    "f74aa78d-fa29-4ce9-aadb-a0a1d86b7dcc": {
+      "tr": "Bir de kısa süreli yakıcı çözümler var"
+    },
+    "f76e3b43-a222-4cbe-8803-8963fb2b5993": {
+      "tr": "Çok daha güzel oldu"
+    },
+    "f8195ba1-cc2a-42f9-b9f0-792c5c4212cf": {
+      "tr": "Tabi bir de böyle bir soru var"
+    },
+    "f8ba7e1a-1afb-44b1-9485-51d13e5977ec": {
+      "tr": "Kaçak ve yer altı kaçak su ile mücadele etmek"
+    },
+    "f8c491bb-eacc-43dc-abb3-914e162180e1": {
+      "tr": "Tarih sizi böyle yazar artık"
+    },
+    "f90d6b8f-abdc-4b09-bf56-7199432d934e": {
+      "tr": "Ona uluslararası bir hasım lazım"
+    },
+    "f9831ccf-bc72-4400-a81e-283f4eef315b": {
+      "tr": "Gerçekten ciddi sorun var"
+    },
+    "fa0534de-c7f5-4861-97ae-277c342533ee": {
+      "tr": "Son derece güvenilir bir insan"
+    },
+    "fa0a50df-0e0a-4a29-84d7-8a7176490f10": {
+      "tr": "Dünya barış içinde yaşasın"
+    },
+    "fa31a895-6fd9-4936-9427-636d3123409e": {
+      "tr": "Bu üst kademe bir bayan için de geçerli"
+    },
+    "fa67cb72-a1a3-4893-941b-7a689dacfe76": {
+      "tr": "Fakat bir gün IV"
+    },
+    "fab6d9e3-76d2-4371-a9df-db8c6e985977": {
+      "tr": "Galiba samimiyetle alakalı bir şey bu"
+    },
+    "fb49324f-700c-4444-b2e9-8782208cfd76": {
+      "tr": "Ne de iyi oldu"
+    },
+    "fb5946b7-8f83-435e-8457-1d412e834894": {
+      "tr": "Bir tercih hariç"
+    },
+    "fb8253fd-f798-4566-9070-d37992e68f87": {
+      "tr": "Satranççı yetiştirmek uzun vadeli zor bir iş"
+    },
+    "fbc100d7-0d6e-4f96-9bc7-d3f5865a5d56": {
+      "tr": "Oyunculuk gerçekten çok zor bir meslek"
+    },
+    "fbfa70d5-74cf-4733-9593-ef8db383db20": {
+      "tr": "Mekan geniş ve ferah"
+    },
+    "fc02ff45-b18d-4a04-957f-7268a77f3c87": {
+      "tr": "Zira insan kusursuz olmaz"
+    },
+    "fcb3cd27-d569-4832-87d6-c76497840c74": {
+      "tr": "Bence iş tamamen ticaret"
+    },
+    "fcc647de-2be3-4f2d-b9a7-d860c2511eb2": {
+      "tr": "O bile zeka ister"
+    },
+    "fcca03d3-7513-465d-b1da-71c4eb724f76": {
+      "tr": "Eski hal muhal"
+    },
+    "fd2fb439-eab1-4ad3-8ae3-a28331e6c3c9": {
+      "tr": "Yakında bir yol daha gelecek"
+    },
+    "fda89854-1904-4d54-b85c-83d3bf0ef31a": {
+      "tr": "En büyük tedavi işte olmak"
+    },
+    "fdb7fd2d-b8b3-4da9-b58d-2546a1209b39": {
+      "tr": "Ankara Antikacılık Antika ve Sanat Müzayede Org"
+    },
+    "fde374a6-5f60-42f5-bd59-017e120e0ccd": {
+      "tr": "Buna ne çok gereksinim var"
+    },
+    "fe0505f9-5d6f-4c74-b1e7-652ac4f307bf": {
+      "tr": "Poyraz istifa eder"
+    },
+    "fe0d95cd-ae97-4c96-966b-bcb8d8cbae1c": {
+      "tr": "Bu Aydın adına çok üzücü bir durum"
+    },
+    "fe1224d2-4109-4b48-ab45-58a423417b6f": {
+      "tr": "Şimdi de gelecek"
+    },
+    "fe20b9e6-3f6a-495a-b19e-2dcb0dc32e23": {
+      "tr": "Yani yeterince kaynak var"
+    },
+    "fe336498-21db-4f6c-87e4-f2ffb8ad097b": {
+      "tr": "Marmara tamamen ölmüş"
+    },
+    "fec7145d-cec4-440a-b715-a55363e6f25e": {
+      "tr": "Kemer Yapı ve Turizm AŞ"
+    },
+    "ff176cdc-8f14-444e-a983-f456d78e9f18": {
+      "tr": "Herkes de rahat eder"
+    }
+  }
+}
