@@ -1,0 +1,5283 @@
+{
+  "id": "2c8cb60f-f1b9-47bf-b6e5-9c8ca8991f20",
+  "date": "20190111.163114715",
+  "language": "de",
+  "phones": {
+    "'2": 0,
+    "'2:": 43,
+    "'6": 0,
+    "'9": 4,
+    "'9~": 0,
+    "'?": 3339,
+    "'@": 0,
+    "'C": 63,
+    "'D": 4,
+    "'E": 91,
+    "'E:": 8,
+    "'EI": 0,
+    "'I": 34,
+    "'N": 4,
+    "'O": 9,
+    "'OY": 5,
+    "'R": 1235,
+    "'S": 1690,
+    "'T": 7,
+    "'U": 28,
+    "'Y": 0,
+    "'Z": 28,
+    "'a": 297,
+    "'a:": 302,
+    "'aI": 31,
+    "'aU": 2,
+    "'a~": 8,
+    "'b": 1135,
+    "'d": 1000,
+    "'e": 0,
+    "'e:": 40,
+    "'e~": 4,
+    "'f": 1424,
+    "'g": 1087,
+    "'h": 1006,
+    "'i": 0,
+    "'i:": 120,
+    "'j": 494,
+    "'k": 1353,
+    "'l": 1376,
+    "'m": 1103,
+    "'n": 1354,
+    "'o": 0,
+    "'o:": 166,
+    "'o~": 1,
+    "'p": 617,
+    "'pf": 100,
+    "'r": 58,
+    "'s": 378,
+    "'t": 1595,
+    "'tS": 64,
+    "'ts": 1058,
+    "'u": 0,
+    "'u:": 3,
+    "'v": 1273,
+    "'w": 40,
+    "'x": 14,
+    "'y": 0,
+    "'y:": 1,
+    "'z": 1616,
+    "2": 1,
+    "2:": 666,
+    "6": 9072,
+    "9": 357,
+    "9~": 0,
+    "?": 7209,
+    "@": 15720,
+    "C": 2235,
+    "D": 12,
+    "E": 6597,
+    "E:": 961,
+    "EI": 171,
+    "I": 9732,
+    "N": 2246,
+    "O": 2719,
+    "OY": 733,
+    "R": 8317,
+    "S": 4628,
+    "T": 25,
+    "U": 5508,
+    "Y": 1496,
+    "Z": 219,
+    "a": 8083,
+    "a:": 4425,
+    "aI": 3339,
+    "aU": 1731,
+    "a~": 139,
+    "b": 5021,
+    "d": 4428,
+    "e": 38,
+    "e:": 3750,
+    "e~": 43,
+    "f": 5656,
+    "g": 4725,
+    "h": 1903,
+    "i": 79,
+    "i:": 6467,
+    "j": 2027,
+    "k": 5859,
+    "l": 9159,
+    "m": 5820,
+    "n": 18728,
+    "o": 151,
+    "o:": 5071,
+    "o~": 65,
+    "p": 3664,
+    "pf": 365,
+    "r": 233,
+    "s": 11694,
+    "t": 15413,
+    "tS": 254,
+    "ts": 4188,
+    "u": 28,
+    "u:": 2351,
+    "v": 2990,
+    "w": 54,
+    "x": 704,
+    "y": 4,
+    "y:": 997,
+    "z": 3448
+  },
+  "sentences": {
+    "003540c6-f759-40ef-944a-b34dcee57995": {
+      "de": "desillusionierte==dEs-?I-lu-zjo-'ni:6-t@"
+    },
+    "0055db48-dd6a-4783-a53c-3d16c31f1b74": {
+      "de": "Heil=='haIl"
+    },
+    "00772512-3f92-4940-8cd0-53f0a23eb0df": {
+      "de": "Reaktor==Re:-'ak-tO6"
+    },
+    "008085b5-fc32-4f2e-9bea-413c653d9cf6": {
+      "de": "Shirt=='S96t"
+    },
+    "008d5aa0-e3bd-43aa-91d9-db83fa1f60d2": {
+      "de": "Einordnung=='aIn-?O6-dnUN"
+    },
+    "00a2163f-34c3-4a4d-832c-b2697d3106da": {
+      "de": "Six=='sIks"
+    },
+    "00b540a4-04bf-4fad-a4e8-c04b938f1660": {
+      "de": "Sierren==zi:-'E-R@n"
+    },
+    "00d148d1-0965-4996-a226-8bf4e2d190a2": {
+      "de": "Eisenbahnen=='aI-z@n-ba:-n@n"
+    },
+    "00e3a61e-e40a-41aa-a401-ac0c58e1fc84": {
+      "de": "Cousin==ku:-'ze~"
+    },
+    "010b5d1d-1fbb-4c65-9068-d93585df6fd5": {
+      "de": "manuell==ma-nu:-'El"
+    },
+    "01cc00c5-7764-481b-ae15-a5119aeb1882": {
+      "de": "Vocals=='voU-k@ls"
+    },
+    "01f3c0b1-33de-4fd0-867c-d42db2f4ad71": {
+      "de": "Pfalz=='pfalts"
+    },
+    "0208997d-69c4-4149-bd5f-908d449f02b3": {
+      "de": "einheitlichen=='aIn-haI-tlI-C@n"
+    },
+    "020cc8cd-0caf-4261-866f-11d185395332": {
+      "de": "Dossier==dO-si:-'e:"
+    },
+    "02272fbe-e1b3-48d5-ade2-b917cda84626": {
+      "de": "VIP=='vIp"
+    },
+    "02a2ddd9-9cac-401c-bed4-2b77ecff2403": {
+      "de": "Quatsch=='kvatS"
+    },
+    "02baa4b8-b5e0-4c76-bfa7-364364c4d1db": {
+      "de": "Go=='go:"
+    },
+    "02ed9857-7e44-42e9-b61e-e13ddaa3cf56": {
+      "de": "Space=='spEIs"
+    },
+    "03115f18-8d5c-4332-b4f4-357abc79508c": {
+      "de": "Bands=='bE:nds"
+    },
+    "0355509e-7480-49e7-b298-bd4408c02744": {
+      "de": "Gift=='gIft"
+    },
+    "0359a79a-b4e4-479e-9bd7-e42451cb11ba": {
+      "de": "Chungyus=='CUN-y:-Us"
+    },
+    "03b99809-b94f-4da4-9bd3-a0129737551c": {
+      "de": "Pass=='pas"
+    },
+    "03c60a6a-4db7-4988-a2d7-83bf7e8e22b4": {
+      "de": "Klier=='kli:6"
+    },
+    "03ca72b5-6756-47aa-9949-a5931223a36a": {
+      "de": "nen=='n@n"
+    },
+    "03e10f23-776a-492c-92f7-f748b90f0544": {
+      "de": "France=='fRa~s"
+    },
+    "040e5992-d2ed-40cb-88f4-531c8869bb79": {
+      "de": "früh=='fRy:"
+    },
+    "04111de8-d5b6-4475-aadc-681bc14f3ccf": {
+      "de": "desillusioniert==dEs-?I-lu-zjo-'ni:6t"
+    },
+    "04223e48-2f2b-4c53-80e4-31a9fe07d454": {
+      "de": "Byte=='baIt"
+    },
+    "04577da8-598d-486c-baf6-9ba5c1622774": {
+      "de": "Thuille=='tuI-l@"
+    },
+    "04720082-5d6a-4311-81db-4053508b5d88": {
+      "de": "Drive=='draIf"
+    },
+    "04c61153-42d0-457f-aa71-3a6333ff1d55": {
+      "de": "Beaujeu==bo:-'Z2:"
+    },
+    "04d6fce2-ef11-472d-8e93-8ea27d680b4f": {
+      "de": "escapen==?Es-'keI-p@n"
+    },
+    "04e6f1b1-df93-4d1f-a991-fee7adc0e591": {
+      "de": "Guajak==gu:-'a-ja:k"
+    },
+    "0513e294-1fa2-49ae-a22e-32f1645b3022": {
+      "de": "Weil=='vaIl"
+    },
+    "052d0cce-fe7a-4c3b-a497-c4b9832ec926": {
+      "de": "Lingual==lIN-gu:-'a:l"
+    },
+    "0537a96e-f900-4b33-91c7-bdef346867c2": {
+      "de": "Baum=='baUm"
+    },
+    "057f2a07-c1c1-4ce8-b437-75144c7e6ea6": {
+      "de": "Train=='tRe~"
+    },
+    "05879fe0-ecce-40ee-8f49-6f560f13329f": {
+      "de": "Quack=='kvak"
+    },
+    "058d5bb9-ba4c-40f0-b26e-e180d28064a8": {
+      "de": "Deal=='di:l"
+    },
+    "05a0bfe4-0049-4b59-a91f-03f2fd517413": {
+      "de": "Daatz=='da:ts"
+    },
+    "05c5b4c1-f3a2-41ae-8e30-f58bae915cd3": {
+      "de": "Judd=='jUt"
+    },
+    "05f858fd-4bae-439e-9159-b369cd76189c": {
+      "de": "Low=='loU"
+    },
+    "060bd6aa-5009-42ae-a3cc-3f33ba0115c5": {
+      "de": "Noch=='nOx"
+    },
+    "0619c3cd-a2c8-4f4e-8a3b-88892ccb4c17": {
+      "de": "Alveolar==?al-veo:-'la:6"
+    },
+    "0622e275-4c9a-456e-bd3f-81aee1fbf660": {
+      "de": "luxuriös==lU-ksu:-Ri:-'2:s"
+    },
+    "062c2792-0f94-4cfc-977b-f7fbad625a97": {
+      "de": "Boss=='bOs"
+    },
+    "06adf0f2-4312-4a62-9962-d3e2cbf9d83a": {
+      "de": "what=='wOt"
+    },
+    "06b902cc-6acf-4951-b3b0-68f509039279": {
+      "de": "Kroate==kRo:-'a:-t@"
+    },
+    "06cc4150-bfd3-4c15-a149-0e0f076acbd5": {
+      "de": "asozial=='?a-zo-tsja:l"
+    },
+    "06d13a58-de88-461f-a29d-09c481c314e4": {
+      "de": "Schaf=='Sa:f"
+    },
+    "06f576c4-bad1-4f68-bb75-aecbb6c74edc": {
+      "de": "Jean=='Za~"
+    },
+    "06fbb092-f29a-4482-a5f8-5b4edd03a0ad": {
+      "de": "Genres=='Za~-R@s"
+    },
+    "071b565b-9c5f-4a1a-a71a-259d414e2952": {
+      "de": "fair=='fE:6"
+    },
+    "0774a793-e7e4-4db4-8d82-39c17c5a8753": {
+      "de": "Hotelier==ho:-tE-li:-'e:"
+    },
+    "07a74d82-4f23-4cc3-9677-8f165595374a": {
+      "de": "Grips=='gRIps"
+    },
+    "07ed227e-e382-4dbb-821e-07ac7d075ad5": {
+      "de": "pje=='pj@"
+    },
+    "07f96d47-b8e8-41f9-905e-681b21539b1f": {
+      "de": "Archiven==?a6-'Ci:-v@n"
+    },
+    "07fbe6f1-5155-464b-8dd4-e2052c5e4b05": {
+      "de": "Fame=='fEIm"
+    },
+    "08382f13-d5b7-41c8-929f-8b0329808fd6": {
+      "de": "ökumenisch==?2:-ku-'me:-nIS"
+    },
+    "087fc310-3432-4ce3-8018-1386de22f406": {
+      "de": "Hab=='ha:p"
+    },
+    "0922d78d-aed9-4461-be1c-b3ee9b91211c": {
+      "de": "Pech=='pEC"
+    },
+    "0947e0ad-a6be-4f5c-95d2-70a8324db871": {
+      "de": "Sinn=='zIn"
+    },
+    "098dd9ec-1907-4091-952d-1784404c9c4f": {
+      "de": "eingeführt=='aIn-g@-fy:6t"
+    },
+    "099b7bed-3192-47d8-a31d-4a84e9703f99": {
+      "de": "Tschad=='tSat"
+    },
+    "09a1faad-8b36-4c88-97fb-0db020191f10": {
+      "de": "Rutsch=='RUtS"
+    },
+    "0a17ab04-1193-484a-8c2b-5d610b4e8148": {
+      "de": "Asiat==?a-zi:-'a:t"
+    },
+    "0ae8355e-448f-4672-a0cb-277df88e91b4": {
+      "de": "domain==do:-'meIn"
+    },
+    "0aed6c53-3f08-4214-8c3e-9c803843f0f5": {
+      "de": "triumphgekröntstes==tRi:-'Umf-g@-kR2:nt-st@s"
+    },
+    "0b0c161a-87bb-4ee2-9e50-479c53d52ef7": {
+      "de": "Du=='du:"
+    },
+    "0c12704d-df57-4fb2-aae0-1582f391f78b": {
+      "de": "Graetz=='gREts"
+    },
+    "0c6559aa-6345-4292-aacd-bff5b1ce1046": {
+      "de": "Prosaisten==pRo:-za:-'Is-t@n"
+    },
+    "0ca5b8b5-30de-4e74-b535-967868546eb2": {
+      "de": "Wave=='weIv"
+    },
+    "0cc7e2dd-e1c3-4768-9e86-156fa4eb7d66": {
+      "de": "Sujet==sy:-'Ze:"
+    },
+    "0cd1ef81-e057-4cba-b30f-6d6b4c9fdd8b": {
+      "de": "Addams=='?E-d@ms"
+    },
+    "0d189334-4e73-4ae0-8b69-6ef0460714c9": {
+      "de": "Wald=='valt"
+    },
+    "0d53012a-f672-4152-a9a1-d3a5e1090f9a": {
+      "de": "Zwölf=='tsv9lf"
+    },
+    "0d6009c0-fbf1-4461-aa4c-cd05a389be9e": {
+      "de": "Eid=='?aIt"
+    },
+    "0d77f9e0-6f14-4546-bf95-033c4546d8d9": {
+      "de": "arrangierte==?a-Ra~-'Zi:6-t@"
+    },
+    "0db0644a-74af-421a-9b4a-eadae292ef24": {
+      "de": "Auer=='?aU6"
+    },
+    "0dd4373a-3591-4dd5-a252-e25aea94a6a8": {
+      "de": "bryon==bRy:-'o~"
+    },
+    "0dff3d56-88eb-4373-ba80-2a6a0191e4ff": {
+      "de": "Deebs=='de:bs"
+    },
+    "0e10f063-6fe7-4487-9bb5-32e917ef5f94": {
+      "de": "Fields=='fi:lds"
+    },
+    "0e545894-bbdb-4d0d-88fb-ebf09ec81fb4": {
+      "de": "Wright=='raIt"
+    },
+    "0e6bc079-26e2-4bea-b86f-05342b7429ae": {
+      "de": "Biss=='bIs"
+    },
+    "0e784377-f16a-4a05-a6d2-be7deb8013fb": {
+      "de": "desillusionierten==dEs-?I-lu-zjo-'ni:6-t@n"
+    },
+    "0eb0565c-1258-4fe7-9953-28a9b1ad19d0": {
+      "de": "Oesch=='?9S"
+    },
+    "0ec629ec-4a6c-4925-9635-cf2952e9fcf5": {
+      "de": "Mag=='mE:k"
+    },
+    "0f01ee17-154a-4995-9ad0-5e6761053531": {
+      "de": "desillusionierst==dEs-?I-lu-zjo-'ni:6st"
+    },
+    "0f11e92e-9cc3-4877-9a87-c9d50c5e9b66": {
+      "de": "Hört=='h2:6t"
+    },
+    "0f397fd9-9395-4c6d-bd41-06b06fa5c4e5": {
+      "de": "Pingcheng==pIN-'CEn"
+    },
+    "0f650675-f163-48d1-af03-118eacb00574": {
+      "de": "W=='ve:"
+    },
+    "0f6c4650-9af5-48db-8e4d-5376d8a9d220": {
+      "de": "Geist=='gaIst"
+    },
+    "0f71b4ad-b055-4908-850e-afb24aaded9a": {
+      "de": "Fjell=='fjEl"
+    },
+    "0f74cc5c-68e7-46a6-a2de-b1ac544baea5": {
+      "de": "euch=='?OYC"
+    },
+    "0f9aebd3-7864-40c6-a8ee-eae84e5b1f66": {
+      "de": "ähnelt=='E:-nElt"
+    },
+    "0fabc6ff-4fc6-4aba-82d8-86190b030b4e": {
+      "de": "Höh=='h2:"
+    },
+    "0fe06da4-300e-4839-a857-166f2d2221eb": {
+      "de": "List=='lIst"
+    },
+    "0fea9685-d95b-46b9-8289-d19e3091e3f2": {
+      "de": "Language=='lEN-gwItS"
+    },
+    "103e4c48-64db-46d7-9bc9-a0dd70e2a592": {
+      "de": "Wayne=='weIn"
+    },
+    "106e31de-6f23-4425-a0b8-8e09f487dcc0": {
+      "de": "Pfund=='pfUnt"
+    },
+    "107719a0-a582-4551-8a40-f4566ccffa64": {
+      "de": "Metropolit==me-tRo-po-'lit"
+    },
+    "10b432e7-4f0b-4538-b350-12a1febf7bb8": {
+      "de": "Aus=='?aUs"
+    },
+    "10ca8d33-519b-466b-8af4-e6bdbc89e383": {
+      "de": "Fahrt=='fa:6t"
+    },
+    "10f960e1-feae-4118-9bdd-bf531ca05b99": {
+      "de": "Fleance==fle:-'a~s"
+    },
+    "11072a12-643d-4160-bbc3-764e64b9b954": {
+      "de": "Papp=='pap"
+    },
+    "116fdcd9-0c82-477f-9a10-4b31e6e22b56": {
+      "de": "Cuautla==ku:-'aU-tla:"
+    },
+    "118f7d15-31ac-4970-855f-7007345c0f74": {
+      "de": "Lied=='li:t"
+    },
+    "1193fea2-0c0f-452a-ab07-dbbb41493e70": {
+      "de": "seriös==ze:-Ri:-'2:s"
+    },
+    "119f7544-58f7-497e-8ee6-1f3370bee901": {
+      "de": "triumphgekröntest==tRi:-'Umf-g@-kR2:n-t@st"
+    },
+    "11c69751-95b2-40d0-b330-2b29e309b442": {
+      "de": "revolutionieren==Re-vo-lu-tsjo-'ni:-R@n"
+    },
+    "11c7c800-6f96-48e4-928e-3fb1cc628444": {
+      "de": "Bomb=='bOmb"
+    },
+    "11e39c55-d580-41fb-9825-dec8b9c33835": {
+      "de": "Sandwich=='zE:nd-wItS"
+    },
+    "12869da6-37f8-4c52-9009-9b05af5460ff": {
+      "de": "Pfeil=='pfaIl"
+    },
+    "12909979-c764-443a-a5e2-09ebbff96fc1": {
+      "de": "Mingcheng==mIN-'CEN"
+    },
+    "12a7fb54-1700-4b42-84b0-66d786e009d3": {
+      "de": "Redgrave=='rEd-grEIv"
+    },
+    "12adb564-1eeb-41c6-ad0a-807f9510be81": {
+      "de": "Coup=='ku:"
+    },
+    "12c2a79b-1e6e-4266-8628-c50518c61bd9": {
+      "de": "Spions==Spi:-'o:ns"
+    },
+    "12e8be0c-9cd2-436e-912a-c03f8d1ba46e": {
+      "de": "Sejm=='zaIm"
+    },
+    "13329fad-9813-4b4d-bcab-062ada88a6ef": {
+      "de": "Dir=='di:6"
+    },
+    "13986f5d-ca59-4794-99ae-f46a30921f6a": {
+      "de": "Bahn=='ba:n"
+    },
+    "13d0ed02-dbc5-40a2-b9a1-c6e44c2a3a29": {
+      "de": "Monarchien==mo:-na6-'Ci:n"
+    },
+    "13d91a4c-f323-4145-969d-5ab254ce9a85": {
+      "de": "Timbre=='te~-bR@"
+    },
+    "13f12c39-0375-47a0-aae4-982ae9d7786e": {
+      "de": "Trochäus==tRO-'xE:-Us"
+    },
+    "141a254d-5316-4a2b-bf18-4b42929e8c5b": {
+      "de": "Groitzsch=='gROYtsS"
+    },
+    "1426fd13-cf6d-4e2c-8965-42bebfba133a": {
+      "de": "eingegliedert=='aIn-g@-gli:-d6t"
+    },
+    "143378e9-37bc-48de-a24d-9483f4d85e6a": {
+      "de": "Broke=='br@Uk"
+    },
+    "144a01c5-7eb8-445d-a1bd-f5a3a9f85752": {
+      "de": "Matthew=='mE-Tju:"
+    },
+    "145363b8-1164-4088-833b-768343872dd2": {
+      "de": "Mao=='ma:o:"
+    },
+    "145efc77-e44a-4d08-801a-865548e47886": {
+      "de": "Zucht=='tsUCt"
+    },
+    "14747a4d-3315-49e0-863a-ab7efb2790fc": {
+      "de": "Kyoto==ki:-'o:-to:"
+    },
+    "1476f818-fa39-4c79-b429-06a7efaf3cfd": {
+      "de": "Crowe=='krOU"
+    },
+    "148f8304-a844-4ed8-9c2d-0ac5efd3e2ac": {
+      "de": "All=='?al"
+    },
+    "14cb50a7-b6f9-4f31-ae87-8cb3ea41462f": {
+      "de": "Cruyff=='kRYf"
+    },
+    "15070b09-1ccc-4c19-aa91-2fb71ac21de0": {
+      "de": "Will=='wIl"
+    },
+    "150ff2ff-6b50-4188-9aad-1531b6f1c872": {
+      "de": "Eng=='?EN"
+    },
+    "15197cae-ffe3-4a16-9e03-a2cf635b873b": {
+      "de": "Raimi=='raI-mI"
+    },
+    "1539fea0-c482-4c93-b195-8ccd0539321c": {
+      "de": "ambitiös==?am-bi:-tsi:-'2:s"
+    },
+    "153a909c-2814-4dd7-bca3-cbe7c8be5db8": {
+      "de": "Blut=='blu:t"
+    },
+    "157a1c1a-dcb5-4294-8cf3-3825627501d1": {
+      "de": "Pfeile=='pfaI-l@"
+    },
+    "15b28107-91e1-4e70-9dd7-00470aa7a5e6": {
+      "de": "Rönsch=='R9nS"
+    },
+    "15e17f67-2dd5-414c-a534-1c39ff2a4740": {
+      "de": "Lampion==lam-pi:-'a~"
+    },
+    "1637ba86-5419-4d90-b1ed-269f5473e22e": {
+      "de": "Gauck=='gaUk"
+    },
+    "1641cd80-b58a-4ab2-b1d0-fa66f7a9ce0e": {
+      "de": "Pointen==po:-'e~-t@n"
+    },
+    "1641f63d-2773-429e-87e0-c5b8d7387377": {
+      "de": "Charme=='Sa6m"
+    },
+    "1656e8c6-18e8-41fa-a551-8b1f2d056a42": {
+      "de": "pfiff=='pfIf"
+    },
+    "1661e592-fc0e-4f2f-90ae-a29a35d315bf": {
+      "de": "Suite=='svi:t"
+    },
+    "1667285c-501e-49d5-a69b-d1690182d350": {
+      "de": "Hauts=='haUts"
+    },
+    "16a0eda5-1294-4f30-bf0c-67ca761b8558": {
+      "de": "Glas=='gla:s"
+    },
+    "1704958d-1417-4388-84e7-70f7cabf8243": {
+      "de": "Damm=='dam"
+    },
+    "1720a006-215a-4871-b28f-6f951260bea0": {
+      "de": "Anarchie==?a-na6-'Ci:"
+    },
+    "172e1986-7665-417b-aab3-72bb7c453953": {
+      "de": "Flucht=='flUxt"
+    },
+    "176b6f45-4acc-4ce9-84d1-3f6f7fb61c1d": {
+      "de": "Schön=='S2:n"
+    },
+    "178d9562-790f-4183-a3fe-3263086e9459": {
+      "de": "Ideals==i:-de:-?'a:ls"
+    },
+    "17b7cef3-873c-44be-aa65-5820d39dea1d": {
+      "de": "Dan=='da:n"
+    },
+    "17d7fbca-6e9c-4bca-9e8f-34f66a9f9027": {
+      "de": "Linguistik==lIN-gu:-'Is-tIk"
+    },
+    "1800fc45-f12d-4955-9e78-4ed9a401a96c": {
+      "de": "Einzug=='aIn-tsu:k"
+    },
+    "18037145-4ac0-4103-a41f-c0d48aca8e9c": {
+      "de": "Zi=='tsi:"
+    },
+    "18193ddc-3db6-404a-acb9-e33952ecda4d": {
+      "de": "Fink=='fINk"
+    },
+    "1852fcbc-7988-42fd-a211-c165f8b87730": {
+      "de": "Ring=='RIN"
+    },
+    "18a81cbe-fdd4-46bb-a5d2-da202a8671b4": {
+      "de": "Metier==me:-ti:-'e:"
+    },
+    "18d67b6e-b6e8-4ab2-a55a-40024d185612": {
+      "de": "Brian=='braIn"
+    },
+    "18deab21-9330-4443-af43-490513121285": {
+      "de": "Schlacht=='Slaxt"
+    },
+    "18ec6db6-8e37-41ce-903d-48f91557c295": {
+      "de": "Hachani==ha-'xa:-ni:"
+    },
+    "1939fb3d-0c9a-4840-be16-6016668dd1f1": {
+      "de": "Idiot==?i:-di:-'o:t"
+    },
+    "1996db21-6f83-47bc-9f35-3fa56c98343f": {
+      "de": "Exterieur==?Eks-te:-Ri:-'2:6"
+    },
+    "19ab8f93-106d-4278-bd95-1f177f34dc18": {
+      "de": "Tür=='ty:6"
+    },
+    "19af059f-d2ad-4616-9da4-21a005f163c7": {
+      "de": "Fiasko==fi:-'as-ko:"
+    },
+    "19cf8524-f56e-4592-80a4-497e79604329": {
+      "de": "Teig=='taIk"
+    },
+    "1a115485-0cff-468a-a520-132d524ae4e2": {
+      "de": "Regimes==Re:-'Zi:ms"
+    },
+    "1a16c28a-e652-44b2-b7de-af34e6e4d23c": {
+      "de": "Sagt=='za:kt"
+    },
+    "1a2e6adf-371d-4f00-a30c-df57f28b83fa": {
+      "de": "eh=='e:"
+    },
+    "1a7d94f7-e119-4271-8772-baa05e667a67": {
+      "de": "Schluss=='SlUs"
+    },
+    "1a850d4b-6f75-485f-ab31-c5caac119324": {
+      "de": "real==Re:-'a:l"
+    },
+    "1a8afb29-a042-49c4-9244-a026902e207d": {
+      "de": "Boot=='bo:t"
+    },
+    "1a957f18-e750-471a-996d-1d496933b3c3": {
+      "de": "Egoismen==?e:-go:-'Is-m@n"
+    },
+    "1aaa8f21-b604-4940-8127-29b16612dbd2": {
+      "de": "Fühl=='fy:l"
+    },
+    "1abcefd6-d03c-4a4b-bc71-496107b4c092": {
+      "de": "Challenge=='tSE-l@ndZ"
+    },
+    "1ac1cbea-adc0-4642-91b0-23cd6822376d": {
+      "de": "Jane=='dZEIn"
+    },
+    "1adef175-41c1-433f-bb44-20913ccb8d93": {
+      "de": "desillusioniertest==dEs-?I-lu-zjo-'ni:6-t@st"
+    },
+    "1b19941b-c788-44b7-9f2c-8cf0d4f59e98": {
+      "de": "Rheydt=='RaIt"
+    },
+    "1b241171-53ab-4959-b983-8ada47e264f5": {
+      "de": "Dem=='de:m"
+    },
+    "1b2faac9-2ebb-461b-b90d-9a29e41252d6": {
+      "de": "Beuys=='bOYs"
+    },
+    "1b35289e-6867-4836-9d48-235fa8e17684": {
+      "de": "Suir==zU-'i:6"
+    },
+    "1b5a028f-1460-4bd1-8b10-5017220e2384": {
+      "de": "Key=='ki:"
+    },
+    "1bcd1efe-cc60-44e8-ab7b-eaa659584b38": {
+      "de": "Aung=='?aUN"
+    },
+    "1bd2d59c-396c-406a-b328-09365cd1a594": {
+      "de": "Gran=='grEn"
+    },
+    "1becd62d-2116-4029-9b06-b3934af4868d": {
+      "de": "Bulletin=='bU-l@-'te~"
+    },
+    "1c098d5d-58eb-4017-86bc-886b98817eb2": {
+      "de": "Meeks=='me:ks"
+    },
+    "1c76c856-ff50-4a81-a581-6ea66bd1b104": {
+      "de": "Dienst=='di:nst"
+    },
+    "1c999317-2735-4a87-9004-817c22fc47c4": {
+      "de": "Pest=='pEst"
+    },
+    "1ccf0fbb-3cac-4f87-90a6-36f822171279": {
+      "de": "Ynis=='y:-nIs"
+    },
+    "1cd33ef6-4edd-4d64-8e9a-20caa40536ad": {
+      "de": "Alveolars==?al-veo:-'la:6s"
+    },
+    "1d052082-2c74-469f-aae5-bdaf928f3417": {
+      "de": "Siehst=='zi:st"
+    },
+    "1d05cab6-f27c-410e-9585-1c697197d15e": {
+      "de": "heiau==haI-'aU"
+    },
+    "1d1a6c90-4091-42f5-8a37-f78f896a9990": {
+      "de": "Ball=='bal"
+    },
+    "1d2766da-1566-43ae-92c0-b83d05bd450a": {
+      "de": "Schweiz=='SvaIts"
+    },
+    "1d28ebaf-7733-47b3-a741-ead18536f2ce": {
+      "de": "Warft=='vaRft"
+    },
+    "1d2933c9-558a-45f9-bee8-3d336d14b8f4": {
+      "de": "Alliiertem==?a-li:-'i:6-t@m"
+    },
+    "1d651223-0e3b-4121-a614-35d3b8fd5480": {
+      "de": "Records=='rE-kO6ts"
+    },
+    "1da135e1-7576-4874-89cb-58421aaedb72": {
+      "de": "Grey=='grEI"
+    },
+    "1e18e71e-3cf2-45bc-aca3-6c5e1bd9f6bf": {
+      "de": "eingeleitet=='aIn-g@-laI-t@t"
+    },
+    "1e33e778-3c83-4777-bfce-8cc90617a26c": {
+      "de": "Teil=='taIl"
+    },
+    "1e438349-13a5-44a5-92fd-8a3cd1c1eb1f": {
+      "de": "Aachen=='?a:-x@n"
+    },
+    "1e70bfb7-8c14-4641-9294-a314ffe147e8": {
+      "de": "Swings=='svINs"
+    },
+    "1eba525d-3065-490c-8d50-6406a3e95c25": {
+      "de": "Durch=='dU6C"
+    },
+    "1eca20d9-9a4a-44c4-ad83-ebdaecf1b7e4": {
+      "de": "Bou=='bOU"
+    },
+    "1ef95409-9b31-4c16-975c-8db26729a535": {
+      "de": "Wand=='vant"
+    },
+    "1ef9fdb6-52f9-4f19-956a-928f77cd1f78": {
+      "de": "Klient==kli:-'Ent"
+    },
+    "1f0b9d8a-a379-4312-a86c-6bb5ebc12409": {
+      "de": "Francis==fRa~-'si:s"
+    },
+    "1f11bd9f-9bc8-4dee-b8de-780ef9d63226": {
+      "de": "Boy=='bOY"
+    },
+    "1f32597a-4e20-4a10-b21c-193aaffb69a1": {
+      "de": "et=='e:"
+    },
+    "1fa57c1a-1d74-4f5e-bc7a-e436e9e0cdc5": {
+      "de": "müht=='my:t"
+    },
+    "1ff7a6f9-2c92-4160-a2fc-1a044fb28e95": {
+      "de": "Dance=='dE:ns"
+    },
+    "2085cf84-834e-4a9f-bdde-1e6df470030d": {
+      "de": "Schaum=='SaUm"
+    },
+    "20ace1a6-434f-4e01-811e-e665ea0f4f55": {
+      "de": "Mal=='ma:l"
+    },
+    "20fd1159-5d25-42c0-86c0-099a3dce3c3b": {
+      "de": "Kupon==ku:-'po~"
+    },
+    "21442205-e15d-4821-8aed-558be34c15d2": {
+      "de": "Thiudareiks==ti:-'u:-da:-RaIks"
+    },
+    "216da147-5ede-426f-b1be-af1a7c4fdeb8": {
+      "de": "lügt=='ly:kt"
+    },
+    "2172f475-92fb-4f3e-a2c7-12b7855c5745": {
+      "de": "Tucholsky==tU-'xOls-ki:"
+    },
+    "22131684-20cc-450f-a249-4dbb8cd9588a": {
+      "de": "Joan=='dZOUn"
+    },
+    "22283dd9-5440-42ca-8822-798019a507dc": {
+      "de": "Sieh=='zi:"
+    },
+    "22673d08-ad26-4ec0-a001-56ae91c37ba0": {
+      "de": "Paar=='pa:6"
+    },
+    "22922c02-33be-4507-89b7-962eae94d475": {
+      "de": "desillusionieret==dEs-?I-lu-zjo-'ni:-R@t"
+    },
+    "22b3280a-afc5-47e7-912b-728cccea9528": {
+      "de": "Rankings=='rEN-kINs"
+    },
+    "22c15e0a-86ac-4c3a-8506-586657ca2b8b": {
+      "de": "positiv=='po-zi-ti:f"
+    },
+    "232ddca8-c51f-40d2-8616-d3ae8ccf75ea": {
+      "de": "Archonten==?a6-'COn-t@n"
+    },
+    "2348be75-6905-4671-87c5-5e0e8472dca7": {
+      "de": "bourgeoise==bU6-Zo:-'az"
+    },
+    "236f343c-607d-4576-a823-95b8269865ff": {
+      "de": "The=='D@"
+    },
+    "23b54c0a-c361-4454-b738-c38fe163a151": {
+      "de": "Dijon==di:-'jo~"
+    },
+    "23bb276c-51aa-4a17-973b-80ed5550ec40": {
+      "de": "Crew=='kru:"
+    },
+    "23f440d0-54a7-4372-a68c-f089d5c27d47": {
+      "de": "Variant==va-Ri:-'ant"
+    },
+    "24296e97-a31a-43eb-b2a9-bcc85bde0365": {
+      "de": "Kroetz=='kR9ts"
+    },
+    "24557cbc-b869-4738-bf51-b6a3478f090f": {
+      "de": "Maß=='ma:s"
+    },
+    "24c0e09d-126c-4f3c-ab63-f4d542b9dd1f": {
+      "de": "Den=='de:n"
+    },
+    "2527a217-ae5f-43c9-b2c5-307ca722f3de": {
+      "de": "feucht=='fOYCt"
+    },
+    "254c84a0-79bb-46cb-be2d-b1bf1336ced6": {
+      "de": "Archaismus==?a6-Ca-'Is-mUs"
+    },
+    "259bbf77-219b-49e1-b9e1-21dd33a5cf6f": {
+      "de": "Knopf=='knOpf"
+    },
+    "25aa3651-7e3b-44c4-a599-3d967582e476": {
+      "de": "Fan=='fE:n"
+    },
+    "25ac1850-8b0a-4255-b1ce-61af1ca129da": {
+      "de": "Bosch=='bOS"
+    },
+    "25d5d6e1-ea97-4f52-be94-98ca1b9f506d": {
+      "de": "religiös==Re:-li:-gi:-'2:s"
+    },
+    "25e97c14-e260-4f40-8df5-3f027febcf95": {
+      "de": "Fang=='faN"
+    },
+    "260aac23-d216-4778-ac8e-345d4c7fd2b2": {
+      "de": "Loch=='lOx"
+    },
+    "2636ad4e-ccf9-4738-a7ee-e1ec0ff54b8d": {
+      "de": "Tantieme==ta~-ti:-'e:-m@"
+    },
+    "263f96d5-46fb-4126-b6fc-20eb1dd1f13c": {
+      "de": "Sprich=='SpRIC"
+    },
+    "26704aa7-b307-4097-a6e8-97912d153fed": {
+      "de": "Wahn=='va:n"
+    },
+    "26749377-2116-48d4-826c-1af20177a52e": {
+      "de": "Tratsch=='tRa:tS"
+    },
+    "2679de60-7da9-4326-8258-127d7bf98a74": {
+      "de": "Hertz=='hE6ts"
+    },
+    "267ddd7d-201e-4f40-b0cd-57b657015d5b": {
+      "de": "Sujets==sy:-'Ze:s"
+    },
+    "268146ba-ded4-4145-aab5-f2478588933b": {
+      "de": "Chopin==So:-'pe~"
+    },
+    "26927aef-4b28-465b-be36-7393787e7660": {
+      "de": "San=='sEn"
+    },
+    "26dcf5e3-0410-402c-9d8d-7f86ddd96e55": {
+      "de": "Chinas=='Ci:-na:s"
+    },
+    "2713fdb1-38dd-4ca1-ae01-2bca9f36e2e7": {
+      "de": "Deutsch=='dOYtS"
+    },
+    "272dd7eb-4172-46d2-a36d-a8375184a795": {
+      "de": "Nyingma==ny:-'IN-ma:"
+    },
+    "275ede28-9658-43e5-a025-dd3f38fd8f2b": {
+      "de": "Stan=='stE:n"
+    },
+    "2777783f-6fdd-4a63-a9b6-89b34b8dd58f": {
+      "de": "Freak=='fri:k"
+    },
+    "2792b1a3-0833-478b-88bf-637491436b1e": {
+      "de": "deliziös==de:-li:-tsi:-'2:s"
+    },
+    "27c86e93-0122-4527-beb9-d46489e66075": {
+      "de": "Zebroid==tse:-bRo:-'i:t"
+    },
+    "27dffcf4-9b36-4372-a2e2-38844dc1a8e1": {
+      "de": "Cha=='tSa:"
+    },
+    "27e68e92-dd3b-4a3a-9ca4-c1877ce820a4": {
+      "de": "familiäre==fa-mi:-lI-'E:-R@"
+    },
+    "28092367-603a-4775-af7b-7d1eeed1fc84": {
+      "de": "grandes=='gRa~"
+    },
+    "2815abe3-f38b-4a61-a916-c8c22c4a18a4": {
+      "de": "Triumvir==tRi:-'Um-vI6"
+    },
+    "28a6ee67-ee08-455e-a78e-2998a27004df": {
+      "de": "hörst=='h2:6st"
+    },
+    "28b48f09-0660-4b1d-ba11-f0b6e41889a0": {
+      "de": "Bill=='bIl"
+    },
+    "28b920e9-ecde-47cb-b68d-b7810cf081fd": {
+      "de": "Was=='vas"
+    },
+    "2904dd0f-a73e-424d-a8c1-6d56e542c5f0": {
+      "de": "Frogs=='frOks"
+    },
+    "29159ede-a052-462d-a3fd-490fa4f2ef52": {
+      "de": "Joyeuse==dZOY-'2:s"
+    },
+    "29768957-b734-4f27-a40b-fad2b3bac4c7": {
+      "de": "Bop=='bOp"
+    },
+    "29ded959-51cd-4c8f-a4e5-6bdb3aaaba33": {
+      "de": "Seit=='zaIt"
+    },
+    "2a06aef9-1655-464b-a191-51c392bce27a": {
+      "de": "Dorf=='dO6f"
+    },
+    "2a3e2c43-4271-42a9-a1f0-27d8b7fb50fa": {
+      "de": "Spike=='spaIk"
+    },
+    "2a474a7c-a8b4-43be-90a6-414e779b27a5": {
+      "de": "ciao=='tSaU"
+    },
+    "2a6e8146-0391-4a4d-bb32-b802cfc7cb50": {
+      "de": "Text=='tEkst"
+    },
+    "2a82aeb9-89a9-4c96-b1df-63e91ea5ad95": {
+      "de": "Pfeffer=='pfE-f6"
+    },
+    "2abf098b-2d31-4264-8827-7effaf19f5e3": {
+      "de": "Arrangeur==?a-Ra~-'Z2:6"
+    },
+    "2b3a41f4-63e8-4985-9f64-84afe3094982": {
+      "de": "Essayisten==?E-se:-'Is-t@n"
+    },
+    "2b577a10-08f2-4b34-9391-953e8175a42c": {
+      "de": "George=='dZO6dZ"
+    },
+    "2b8ecd3b-0bac-4ee8-b7f1-e1f1b7ba05ab": {
+      "de": "Entree==?a~-'tRe:"
+    },
+    "2bb351cf-db1a-4d0a-ab8b-915719f7fd77": {
+      "de": "Air=='?E:6"
+    },
+    "2bd67f57-1a5b-4579-9420-a138a2db72b1": {
+      "de": "Pnom=='pno:m"
+    },
+    "2c26f9e7-2843-4b39-919f-7c4666d09b96": {
+      "de": "Ephraim==?'Ef-Ra:-i:m"
+    },
+    "2c5d59eb-e1df-4276-a591-e85ec1f63e2c": {
+      "de": "Jus=='jUs"
+    },
+    "2c6b1b84-f168-4163-be92-3034f7d13829": {
+      "de": "Legion==le:-gi:-'o:n"
+    },
+    "2c705c25-0c0a-4fdc-aa36-6ef450d649d4": {
+      "de": "desillusionieren==dEs-?I-lu-zjo-'ni:-R@n"
+    },
+    "2c887b8c-ea31-4283-ba8a-843700965b4a": {
+      "de": "Dröhn=='dR2:n"
+    },
+    "2cba1c92-48e9-4563-a036-b053a8d9b487": {
+      "de": "Rang=='RaN"
+    },
+    "2cfcb380-ee50-4a40-b608-ca36f8f76213": {
+      "de": "Heroins==he:-Ro:-'i:ns"
+    },
+    "2d03cf0a-3a4b-4e64-95bb-04d1e3cdbe8b": {
+      "de": "Neuirland==nOY-'I6-lant"
+    },
+    "2d18e172-3448-4a63-87a9-07d4de048eb3": {
+      "de": "Gen=='ge:n"
+    },
+    "2d20cc46-90c2-4627-a5eb-52f9ae207e88": {
+      "de": "Pueblos==pu:-'e:-blo:s"
+    },
+    "2d3fb9db-d01e-430d-955e-3c4690bf3dc4": {
+      "de": "Hawke=='hOk"
+    },
+    "2d43aa96-d610-46f1-90cc-7851ce2b576d": {
+      "de": "Journal=='Zu:R-'na:l"
+    },
+    "2da07266-ccbe-4918-874d-66721e1263bf": {
+      "de": "School=='sku:l"
+    },
+    "2dd6c2db-9bc3-4d56-b941-94582cc2442d": {
+      "de": "Pantheismus==pan-te:-'Is-mUs"
+    },
+    "2e27af5c-d588-4c87-b3a9-f651400ec5b6": {
+      "de": "Gu=='gu:"
+    },
+    "2e2f0c47-811a-4e60-b1a2-a89a447f2110": {
+      "de": "Ter=='tER"
+    },
+    "2e568474-ebdd-48c1-be86-5b2e3706f824": {
+      "de": "der's=='dE:6s"
+    },
+    "2e8f135f-bf41-474a-93f3-a6d348ca9599": {
+      "de": "Metiers==me:-ti:-'e:s"
+    },
+    "2e94e8df-0a43-4771-9009-121cae907833": {
+      "de": "Seyrl=='zaIRl"
+    },
+    "2e9eecba-bcbe-4f4f-b269-ddeb947753e3": {
+      "de": "Fest=='fEst"
+    },
+    "2f41117d-7672-40b6-a96e-5f6dbe3fe99d": {
+      "de": "Fischfond=='fIS-fo~"
+    },
+    "2f4bd500-6bc9-4374-9096-efd60e4e4288": {
+      "de": "Catherine=='kET-rIn"
+    },
+    "2f705462-61e2-42c0-be90-107a124bc1e2": {
+      "de": "biochemisch==bi:-o:-'xe:-mIS"
+    },
+    "2f75441d-a4cc-42be-9501-4f22e103c7e2": {
+      "de": "Furcht=='fU6Ct"
+    },
+    "2fbd00ab-80f3-485d-aeba-e9da38c67f2d": {
+      "de": "Krääääh=='kRE:"
+    },
+    "2ff58f7d-e854-49b1-a30a-ff9816953fd6": {
+      "de": "Schopf=='SOpf"
+    },
+    "300033bb-8fa0-4a86-8f25-6ffe158dd07a": {
+      "de": "Spionen==Spi:-'o:-n@n"
+    },
+    "303cca7a-3230-4d92-84c8-004cd2d533d7": {
+      "de": "Midway=='mId-wEI"
+    },
+    "3042afbf-2ee1-46dd-90dd-34fdd3c2f361": {
+      "de": "Pumps=='p9mps"
+    },
+    "306fbb73-8814-4ed5-848a-8474ac6729a8": {
+      "de": "Reals==Re:-'a:ls"
+    },
+    "30f812b7-50b4-4bcd-857a-0ec60af10df1": {
+      "de": "Zoo=='tso:"
+    },
+    "30fbcb70-d5d6-4a9f-b88b-b3fa779ec2ea": {
+      "de": "zag=='tsa:k"
+    },
+    "31745c51-db41-4db7-aaf6-83aa8ae07ae5": {
+      "de": "Z=='tsEt"
+    },
+    "31ad8140-30e0-445b-beb0-797901211b04": {
+      "de": "Frost=='fROst"
+    },
+    "31d3c85a-4f86-4667-adab-ff13b46fbc63": {
+      "de": "Mosaik==mo:-za-'i:k"
+    },
+    "3228cd61-7913-4f20-b43a-bf348bb269af": {
+      "de": "Kokon==ko:-'ko~"
+    },
+    "322e58d3-9e2e-47c7-8ccd-ceae160a4a36": {
+      "de": "Cage=='kEIdZ"
+    },
+    "3230fce1-59ea-43fc-8241-45f6384c0ad8": {
+      "de": "Verunglimpfung==fE6-'UN-glIm-pfUN"
+    },
+    "32444218-0d19-4fef-8f44-e13783a548ef": {
+      "de": "Ozonloch==?o-'tso:n-lOx"
+    },
+    "3244a9f9-8be1-4b73-b12e-11c39afa050b": {
+      "de": "Schiismus==Si:-'Is-mUs"
+    },
+    "324ef9dc-eee1-4c1f-919e-6895549a62e4": {
+      "de": "Bird=='b96t"
+    },
+    "324f844c-5946-4308-a212-7ac1eee86543": {
+      "de": "Spion==Spi:-'o:n"
+    },
+    "3287dec7-f337-496a-8bb6-814c2d66fbe6": {
+      "de": "Fred=='fRe:t"
+    },
+    "32b1b61e-da5d-4157-adc2-f6cbc01569f6": {
+      "de": "sensuell==zEn-zu:-'El"
+    },
+    "32ee74d5-ac9c-4cf3-815a-d6cde51dd06e": {
+      "de": "Earp=='?96p"
+    },
+    "3332c61e-b483-4ae5-84b1-2bdf89582775": {
+      "de": "Hirsch=='hI6S"
+    },
+    "33351c49-cdb0-4051-a4c1-2e6aad9f30e5": {
+      "de": "Flöh=='fl2:"
+    },
+    "33405fa1-7a51-4200-a1ce-ee7f83d4506a": {
+      "de": "Öl=='?2:l"
+    },
+    "334e8a02-3981-4078-8d7c-bc160d83f371": {
+      "de": "Trachea==tRa-'xe:-a:"
+    },
+    "335419a8-8cba-4b9d-a0ec-1b043429b1d2": {
+      "de": "Uchte=='Ux-t@"
+    },
+    "33872cd1-9686-4cdf-bb68-f70415764551": {
+      "de": "engagierten==?a~-ga-'Zi:6-t@n"
+    },
+    "33d8a1b7-3954-4c07-9bc4-4c44b2669b74": {
+      "de": "Zwang=='tsvaN"
+    },
+    "33da12ef-2149-4973-b036-b12749fc62eb": {
+      "de": "Fass=='fas"
+    },
+    "340880b1-e7f4-4c96-8c94-510e71fda84c": {
+      "de": "Einnahme=='aI-na:-m@"
+    },
+    "34c78c3a-36ec-42ab-a0b2-ec44479cf57d": {
+      "de": "Bonn=='bOn"
+    },
+    "350e4e7c-1efc-485d-bff0-bc443fc64c21": {
+      "de": "Branchiat==bRan-Ci:-'a:t"
+    },
+    "354c2662-244d-4d59-9165-f87391d40b98": {
+      "de": "Interieur==?e~-te:-Ri:-'2:6"
+    },
+    "357f779e-de68-408e-bb81-18d37e6c621e": {
+      "de": "Milch=='mIlC"
+    },
+    "35a995df-8110-4dce-9c8f-2b5463951050": {
+      "de": "Yale=='jEIl"
+    },
+    "35e0061e-ecd9-42ea-be92-e86c30f79582": {
+      "de": "situiert==zi:-tu:-'i:6t"
+    },
+    "35efd056-9025-4441-979a-6b2a18855cb7": {
+      "de": "Sound=='saUnt"
+    },
+    "36d34664-3094-4d31-9198-f4e618041efa": {
+      "de": "That's=='DEts"
+    },
+    "36e2e293-b0a7-44fe-9a14-f80c707b93d3": {
+      "de": "sexuell==zE-ksu:-'El"
+    },
+    "36f046e0-68e3-4fa0-b039-360d1e978b2f": {
+      "de": "Piotr=='pjOtr"
+    },
+    "36f7e554-806a-40b2-a0cd-0845738086a2": {
+      "de": "Torsten=='to6-st@n"
+    },
+    "37126220-9438-428d-8d78-b2abdc776932": {
+      "de": "Dachfonds=='dax-fo~s"
+    },
+    "3717dfbe-3633-4184-b884-0b838c33a15e": {
+      "de": "Île=='Il"
+    },
+    "374d2c9f-fc07-4ec0-b08c-ffc764654565": {
+      "de": "Ready=='rE-di:"
+    },
+    "3778bb97-3fbc-4b14-afdb-657b3884d1b9": {
+      "de": "Schank=='SaNk"
+    },
+    "3781f020-c378-4bfd-b0a4-467d3d51aa78": {
+      "de": "Euch=='?OYC"
+    },
+    "378fbc66-bf34-4313-b55a-840c6f50d9e8": {
+      "de": "Saum=='zaUm"
+    },
+    "3792bd8f-5116-4c5e-a2c2-8f98e9f2dd80": {
+      "de": "Bleib=='blaIp"
+    },
+    "37b266cd-695b-4fca-901d-116bdfdb2cd4": {
+      "de": "Tann=='tan"
+    },
+    "37db662e-c70b-4db1-beef-039ec6438aa0": {
+      "de": "Ihr=='?i:6"
+    },
+    "37fb7e37-af6b-4c64-a8d5-40f562544da0": {
+      "de": "Metropoliten==me-tRo-po-'li-t@n"
+    },
+    "38148886-ec49-45f1-bf29-33ef1ed61a03": {
+      "de": "Für=='fY6"
+    },
+    "382774da-f0c6-4c54-b50b-8b69b0e0971b": {
+      "de": "Parochie==pa-Ro:-'Ci:"
+    },
+    "3897c634-f3e8-4751-8c4a-151ee7d995a8": {
+      "de": "Chickens=='tSI-k@ns"
+    },
+    "38ce5a61-dd41-4602-bae3-dc7a8186eb2a": {
+      "de": "Reit=='RaIt"
+    },
+    "38db7f46-a55e-4794-ad74-c526c879d231": {
+      "de": "Play=='plEI"
+    },
+    "38eb3bb4-fbb6-4b09-b77d-adfbfa5ec55b": {
+      "de": "Weib=='vaIp"
+    },
+    "38f48f9b-fd17-4b23-bf29-b1c9ca4321ad": {
+      "de": "Schiff=='SIf"
+    },
+    "3904056b-644b-4db6-8d38-1b24afffe344": {
+      "de": "Sluis=='slUIs"
+    },
+    "392f92eb-3253-4bdb-96d0-e448da78d226": {
+      "de": "Kai=='kaI"
+    },
+    "393f3bc5-176d-42a9-bc29-8d3f1782b57c": {
+      "de": "Break=='brEIk"
+    },
+    "39504bd4-9088-4d5c-8bca-c215180fbf27": {
+      "de": "Prioren==pRi:-'o:-R@n"
+    },
+    "39781fe9-358d-437a-900a-8c49777bb3ac": {
+      "de": "Hop=='hOp"
+    },
+    "398f874e-9f36-4bd8-beb6-504625357377": {
+      "de": "Blei=='blaI"
+    },
+    "39ece99c-a3c8-428e-9c8f-5995faea022d": {
+      "de": "Fonds=='fa~"
+    },
+    "39fef67a-2d0c-42e8-928a-fd1ba21ca0cd": {
+      "de": "archaisch==?a6-'Ca:-IS"
+    },
+    "3a520154-bf0d-4402-898b-0920692ff04f": {
+      "de": "graziös==gRa:-tsi:-'2:s"
+    },
+    "3a58708d-65dc-4a19-899f-6e75598779a0": {
+      "de": "eingemeindet=='aIn-g@-maIn-d@t"
+    },
+    "3a59e4b5-f4f2-47c0-b7a6-0a2e63d44c6a": {
+      "de": "Guanos==gu:-'a-no:s"
+    },
+    "3a611cd3-c14d-4bac-8774-6307c927fedd": {
+      "de": "Ness=='nEs"
+    },
+    "3a68c05e-71c8-4ff6-ba51-584a89be6c2a": {
+      "de": "Bund=='bUnt"
+    },
+    "3a876742-47a7-4d06-85e4-2c36c721aa7f": {
+      "de": "eingetragen=='aIN-g@-tRa:-g@n"
+    },
+    "3ad796bf-4a95-4b15-bee0-3964ebadd6ca": {
+      "de": "Kirk=='k96k"
+    },
+    "3add5395-edbf-4f0f-9f63-6cab83899f6e": {
+      "de": "Eintrag=='aIn-tRa:k"
+    },
+    "3af8d10d-e681-49cb-882d-5754d141ebbd": {
+      "de": "Holz=='hOlts"
+    },
+    "3b5bab86-c20c-4223-877a-b239b28f85bc": {
+      "de": "Zipf=='tsIpf"
+    },
+    "3b83f57a-2901-478d-be1b-b43fa5701cbd": {
+      "de": "Gobelin==go:-b@-'le~"
+    },
+    "3bc4b682-dd4f-463f-8294-878a8ae65826": {
+      "de": "Arzt=='?a6tst"
+    },
+    "3bc8eb32-1a44-4dd5-9d5a-0a4675382987": {
+      "de": "Salz=='zalts"
+    },
+    "3c237266-9af0-41dd-b94d-ab0d696d3b88": {
+      "de": "Bief=='bi:f"
+    },
+    "3c2c133c-03b9-4740-a6ca-85e0400d0323": {
+      "de": "Golds=='gOlts"
+    },
+    "3c517573-712e-49b5-a55f-1576b65b8628": {
+      "de": "Bank=='baNk"
+    },
+    "3c57c5d9-05f4-4563-93d6-8317d0def4ab": {
+      "de": "Höch=='h2:C"
+    },
+    "3c5a9594-a6f8-4ed1-81ad-84654b9b36a4": {
+      "de": "Heyworth=='hEI-v96T"
+    },
+    "3c5c4586-a1f4-40bd-8527-eb277b10cf0b": {
+      "de": "Fayence==fEI-'a~s"
+    },
+    "3c5d5628-c119-48e5-b4ad-1d32bf34ef0c": {
+      "de": "the=='D@"
+    },
+    "3c644761-4c86-4fd4-8501-87c008da3e78": {
+      "de": "Move=='mu:v"
+    },
+    "3c8ad49e-520d-41f7-a354-88c0fdcaeebb": {
+      "de": "Pfeife=='pfaI-f@"
+    },
+    "3c999b6c-4707-454e-80ad-17be78f40b26": {
+      "de": "Nord=='nO6t"
+    },
+    "3cb41297-1882-4f98-9e13-996973c18a49": {
+      "de": "Joe=='dZOU"
+    },
+    "3cc8f9de-29d5-4fe9-82d5-5dbed58bfae5": {
+      "de": "Fell=='fEl"
+    },
+    "3cccd1b6-b73a-4549-8924-a3a53500fec9": {
+      "de": "Blunz=='blUnts"
+    },
+    "3d26e8f3-b882-4fb7-8bdf-932d2fc7561b": {
+      "de": "schwört=='Sv2:6t"
+    },
+    "3d30fa11-1444-4f25-836b-6230bc330f90": {
+      "de": "Lichts=='lICts"
+    },
+    "3d702226-b628-4afe-bb32-b8c7d00ad642": {
+      "de": "Markt=='ma6kt"
+    },
+    "3d7eb11c-0304-4152-babe-198a30f989a7": {
+      "de": "Elizabeth==?E-'lI-z@-b@T"
+    },
+    "3d9a73e5-e0e6-4c90-8ddf-0a23cce67781": {
+      "de": "Genre=='Za~-R@"
+    },
+    "3dba30e3-6b84-4067-9be7-36d3dd7d3ba5": {
+      "de": "Typ=='ty:p"
+    },
+    "3dba3748-717b-4b5b-8dcb-a6dfcdac21c8": {
+      "de": "Anarchist==?a-na6-'CIst"
+    },
+    "3dd1e677-8a20-4095-85bb-d4af794b646e": {
+      "de": "Tat=='ta:t"
+    },
+    "3ddf60ad-7e6a-4195-8093-91074e762198": {
+      "de": "Güell==gy:-'El"
+    },
+    "3df31b63-5652-422c-8e13-7478f226dfd9": {
+      "de": "Phangnga==fa-'Na:"
+    },
+    "3e12343e-7111-4c49-a97f-888362060955": {
+      "de": "Méaux==me:-'o:"
+    },
+    "3e8da75d-ff81-4ac3-8c9c-fadc626f9fa7": {
+      "de": "Busch=='bUS"
+    },
+    "3ec35791-e07d-4495-8173-f66f80247bea": {
+      "de": "Rohr=='Ro:6"
+    },
+    "3ece21a0-fcb7-4bef-8ccc-f7f2cc6ec77f": {
+      "de": "Flair=='flE:6"
+    },
+    "3ef026db-426b-483d-a4a5-758213b99a0e": {
+      "de": "Tantiemen==ta~-ti:-'e:-m@n"
+    },
+    "3ef7b921-1e47-4e37-b0c8-6d6af5f5b612": {
+      "de": "Blauer=='blaU6"
+    },
+    "3f4a30bd-5853-4dce-9087-f33252b7250a": {
+      "de": "Pro=='pRo:"
+    },
+    "3f5e4fdd-b6fd-499f-8786-3a63b5afe15b": {
+      "de": "Papst=='papst"
+    },
+    "3f677c2a-2ab4-4bc5-b9fb-768d745fe0ca": {
+      "de": "Götz=='g9ts"
+    },
+    "3f9ec636-9e92-4c32-887b-ce28c0b3327f": {
+      "de": "For=='fO"
+    },
+    "3fa829f8-3da4-4860-8211-797dc4d48308": {
+      "de": "Pröll=='pR9l"
+    },
+    "3fafa974-9c15-4fe7-8a37-7aeb79ece962": {
+      "de": "Bernd=='bE6nt"
+    },
+    "3fdebdf4-7af1-4ff5-8f98-9095059472e7": {
+      "de": "Präambel==pRE:-'am-b@l"
+    },
+    "40478c71-1e03-4fe8-a67c-8bcee056fb0d": {
+      "de": "Sen=='zEn"
+    },
+    "404fdb47-25bd-46c6-8b0a-27aabf15e99c": {
+      "de": "Nukleins==nU-kle:-'i:ns"
+    },
+    "4065267c-b8fb-4fcb-b4dd-1497d447d717": {
+      "de": "Schah=='Sa:"
+    },
+    "40e252ee-0858-4bd6-90a0-51b74aaf6fd3": {
+      "de": "Da=='da:"
+    },
+    "40f2c9dd-9248-46aa-b890-b78269194987": {
+      "de": "Hall=='hal"
+    },
+    "4100b452-575e-4b0c-93d3-113dd7e7945e": {
+      "de": "Fisch=='fIS"
+    },
+    "4105f868-c599-4978-8377-dcfc77c8ac30": {
+      "de": "Verden=='veR-d@n"
+    },
+    "410ad912-5eff-4cdf-97f7-5c9a336ad07e": {
+      "de": "Kroaten==kRo:-'a:-t@n"
+    },
+    "410d4a0b-c9ae-4bfe-a2bb-83d935355dd7": {
+      "de": "Äons==?E-'o:ns"
+    },
+    "41311277-ece2-4fa0-91a1-598f8b219810": {
+      "de": "Brust=='bRUst"
+    },
+    "4180cbdd-cade-446f-8a91-208e3184ce21": {
+      "de": "Noir=='noaR"
+    },
+    "41825b2a-8faa-482d-aaca-c574c6ba0156": {
+      "de": "Bryant==bRi:-'ja~"
+    },
+    "4190d4a1-f6fd-48e6-8ac0-36a2c6cebeed": {
+      "de": "Kau=='kaU"
+    },
+    "419ded37-9453-43ad-b4fc-663afff5a498": {
+      "de": "Koalas==kO-'a:-la:s"
+    },
+    "41e27f31-802b-4c92-ad4f-cb0c92f35ee2": {
+      "de": "Jil=='dZIl"
+    },
+    "42362b82-6e9d-4208-b481-d5fd5dc8c4a4": {
+      "de": "Lead=='li:t"
+    },
+    "42549bad-69c5-426b-81f5-512fefaa81e0": {
+      "de": "Tschiersch=='tSi:6S"
+    },
+    "425d1b51-ffeb-4d53-a200-b25294b68c43": {
+      "de": "Father=='fa:-D6"
+    },
+    "427430b2-2dcd-4100-a3af-61272e507760": {
+      "de": "strömt=='StR2:mt"
+    },
+    "428545b3-6acb-4cad-905c-2a70a74e8e93": {
+      "de": "Guus=='gu:s"
+    },
+    "42a49385-2e35-4729-8a22-d966325edd9f": {
+      "de": "Chain=='tSEIn"
+    },
+    "42b964f1-49f2-4114-83ef-e83692b12d55": {
+      "de": "Scheu=='SOY"
+    },
+    "42c8901b-d4e4-4f8d-960b-e53646343cd7": {
+      "de": "Guanche==gu:-'an-tS@"
+    },
+    "42f5ebc4-8e16-41ba-bd8b-25988ec649d2": {
+      "de": "Dodge=='dOdZ"
+    },
+    "430bd32b-1202-42e6-be71-d287d4605390": {
+      "de": "Fabien==fab-'je~"
+    },
+    "4394bec1-5b2f-49ab-99fb-6c955083377d": {
+      "de": "Steve=='sti:v"
+    },
+    "43b2007e-e235-4d98-b22d-353270640704": {
+      "de": "Fleisch=='flaIS"
+    },
+    "43c76d31-3128-4fb0-b14b-933faccfa034": {
+      "de": "Chance=='So~s"
+    },
+    "43cd3708-9d2b-4621-bac4-29d4a5feb50f": {
+      "de": "Refrain==Re:-'fRe~"
+    },
+    "44061726-4616-45b2-b9b7-b514e14cc900": {
+      "de": "Reaktors==Re:-'ak-tO6s"
+    },
+    "4410f024-e074-44c7-aa1d-b138dbd23a76": {
+      "de": "Delon==d@-'lo~"
+    },
+    "4452b322-30e6-4f49-b947-03a0c6da0f45": {
+      "de": "Fasson==fa-'so~"
+    },
+    "445d09fa-2727-458e-b871-c482ffc73c5a": {
+      "de": "Dumb=='dUmb"
+    },
+    "44804e1a-7fcc-40ce-bc4a-bbae84accdd7": {
+      "de": "Genf=='gEnf"
+    },
+    "448bb9ef-28d5-4bc2-abfa-02af783e4239": {
+      "de": "Eiben=='aI-b@n"
+    },
+    "44e5e193-22be-4810-adc9-782082a56838": {
+      "de": "Patsch=='patS"
+    },
+    "45050376-617b-49dd-8004-e23be15e0fda": {
+      "de": "Maison==mE-'zo~"
+    },
+    "4521d304-3f1f-4864-863a-99236c9b6a88": {
+      "de": "Polizistin==po-li-'tsIs-tIn"
+    },
+    "452b9000-463d-429f-865e-6350336137aa": {
+      "de": "Viertelstunde==fi6-t@l-'StUn-d@"
+    },
+    "4537ad3c-e74f-47a6-9d3b-0fbf3a042cab": {
+      "de": "Pfade=='pfa:-d@"
+    },
+    "45c31429-8708-43d5-b144-1f34313714fa": {
+      "de": "Jeton==Z@-'to~"
+    },
+    "45e6465b-3420-4d4e-8e42-f841202ab327": {
+      "de": "Zeit=='tsaIt"
+    },
+    "45ea4c48-fa13-441d-b214-4936dd2b881d": {
+      "de": "Fondue==fo~-'dy:"
+    },
+    "460cd05d-3fb2-4c6c-bf89-d736bb1dde88": {
+      "de": "Ionen==?i:-'o:-n@n"
+    },
+    "465d4299-f01b-4fc9-b46d-70785149d411": {
+      "de": "Tracht=='tRaxt"
+    },
+    "466bea92-5dd3-46e3-9351-86133b19eea1": {
+      "de": "Oyl=='?OYl"
+    },
+    "46b186ef-bca1-406f-907c-b536f81da1e9": {
+      "de": "Idioms==?i:-di:-'o:ms"
+    },
+    "46b8287c-4cb4-41e5-b1c1-a94751bfd5da": {
+      "de": "Suire==zU-'i:-R@"
+    },
+    "4706f907-a265-4609-9e3b-f6d5c7c935f7": {
+      "de": "kühl=='ky:l"
+    },
+    "4722a342-2c75-49ee-922d-aa10a8d4a941": {
+      "de": "kriminell==kRi-mi:-'n@l"
+    },
+    "478b9c73-32e5-4416-be8c-c1790855292c": {
+      "de": "Schau=='SaU"
+    },
+    "479b14d6-385f-4baf-84ff-1ba93e1f7994": {
+      "de": "VdU==fau-de-'?u:"
+    },
+    "479eb16a-34b2-4a96-8f88-52bd88a836e3": {
+      "de": "Moulin==mu:-'le~"
+    },
+    "47a767d1-717b-4847-9c9f-4d9a4b0af048": {
+      "de": "Frucht=='fRUCt"
+    },
+    "47eb7515-d551-4f07-b2f3-03f8d21d506e": {
+      "de": "Mäeutik==mE-'OY-tIk"
+    },
+    "48247ba5-df9d-4e3e-8be2-8f256c63fa53": {
+      "de": "Fiakers==fi:-'a-k6s"
+    },
+    "4827601f-4b32-4f29-a111-b2ba63ca021b": {
+      "de": "Front=='fROnt"
+    },
+    "488818e0-e325-4ef2-a27d-e1f3794086b5": {
+      "de": "protegierte==pRo:-te:-'Zi:6-t@"
+    },
+    "489f1997-09b0-4150-86ff-8134e4d57852": {
+      "de": "Dein=='daIn"
+    },
+    "48c342b7-bfcf-4bcb-8dc0-2fffb4b2f657": {
+      "de": "Jack=='dZEk"
+    },
+    "490ca240-749a-4110-b0eb-d3d6e8c59555": {
+      "de": "deutsch=='dOYtS"
+    },
+    "495ff903-b189-4549-a433-b366a50cd5ba": {
+      "de": "Globe=='gl@Ub"
+    },
+    "49754295-8ff7-4a3a-9827-0350fb818b10": {
+      "de": "Lineals==li:-ne:-'a:ls"
+    },
+    "49885013-f180-424a-a969-2388a38f90f8": {
+      "de": "tirailleurs==ti:-REI-'96"
+    },
+    "49b80530-51de-451e-894e-aa91bfb8bfd0": {
+      "de": "Mann=='man"
+    },
+    "4a0a6db2-79e2-48c0-bd38-2266b734cb45": {
+      "de": "Sprach=='SpRa:x"
+    },
+    "4a1978bd-600d-4f85-93a8-41115ffadbfe": {
+      "de": "Drei=='dRaI"
+    },
+    "4a6c645a-0487-4795-9020-81ab5cc0007c": {
+      "de": "Arch=='?a6tS"
+    },
+    "4a7cfa79-bd9a-4e15-9341-95ee132174c7": {
+      "de": "Juan==xu:-'a:n"
+    },
+    "4b3ecb18-c402-463b-8d0c-071916302afd": {
+      "de": "Wray=='rEI"
+    },
+    "4b81fab5-b008-4274-90aa-0b941f17f52b": {
+      "de": "Carl=='ka6l"
+    },
+    "4b8a590a-d6ed-4629-ba5a-7aeeac589883": {
+      "de": "Patriot==pat-Ri:-'o:t"
+    },
+    "4ba3568f-65b3-4da6-a92d-9818642b829f": {
+      "de": "Prosaist==pRo:-za:-'Ist"
+    },
+    "4babc58b-fda5-4cdd-8949-646ae253fa84": {
+      "de": "with=='wID"
+    },
+    "4bbf9327-7902-4288-95d3-9805ea073a73": {
+      "de": "Suchoi==zU-'COY"
+    },
+    "4bc0a9cf-3266-488f-8cb6-bdf22992e41b": {
+      "de": "Mechanik==mE-'Ca:-nIk"
+    },
+    "4c0d3a86-e6bc-4a9b-bd42-90b34882bace": {
+      "de": "Grab=='gRa:p"
+    },
+    "4c30d313-cf2f-483b-8246-2c7dae614ce8": {
+      "de": "Rest=='REst"
+    },
+    "4c450284-a2fa-4aa7-8bde-f15e3a2d86e9": {
+      "de": "Big=='bIg"
+    },
+    "4c6007da-0323-41c2-8f57-de7a5392d4ec": {
+      "de": "Ziel=='tsi:l"
+    },
+    "4c8f8a64-8d7e-418c-bdd0-a07144fb624f": {
+      "de": "äußert=='OY-s6t"
+    },
+    "4d4892f8-05ed-4fbe-8d48-df327a3704d3": {
+      "de": "Faye=='fEI"
+    },
+    "4d646694-b221-4d6c-8de0-ec34170cffab": {
+      "de": "Gegenstände=='ge-g@n-StEn-d@"
+    },
+    "4d6df345-b0ff-4a66-baf3-30d71bc29c01": {
+      "de": "Äon==?E-'o:n"
+    },
+    "4de67618-8f40-4833-b36a-8efc5481aa15": {
+      "de": "Harz=='ha6ts"
+    },
+    "4e13aecc-c30a-4529-83d4-33985492b416": {
+      "de": "statioes==Sta-ti:-'2:s"
+    },
+    "4e3b9024-fcf1-42eb-91ee-a241247f4371": {
+      "de": "Achtel=='?ax-t@l"
+    },
+    "4e6008bc-c5a7-4cbe-b9ad-12c8144218bc": {
+      "de": "Rayleigh=='raI-lEI"
+    },
+    "4e8d449e-68b4-4e22-afb5-8408dc38fa21": {
+      "de": "Flor=='flo:6"
+    },
+    "4e9af445-b33d-4333-867d-711de9816809": {
+      "de": "engagiert==?a~-ga-'Zi:6t"
+    },
+    "4ed0160c-3e8c-4130-8bc0-b642256fb8f8": {
+      "de": "Junta=='xUn-ta:"
+    },
+    "4ee30364-0c65-414a-bf38-06cd649f5f29": {
+      "de": "Bourgeois==bU6-Zo:-'a"
+    },
+    "4eed9fe3-4482-488a-aa44-c9239b43021a": {
+      "de": "triumphgekröntester==tRi:-'Umf-g@-kR2:n-t@s-t6"
+    },
+    "4f25d2a3-3c97-44a3-95dd-c17adf9e4a3c": {
+      "de": "Dossiers==dO-si:-'e:s"
+    },
+    "4f402aea-0fa6-43da-9389-cde09c484fd9": {
+      "de": "Ions==?i:-'o:ns"
+    },
+    "4f412bb7-0ea2-4e15-941e-2b83c6c21454": {
+      "de": "maliziös==ma-li:-tsi:-'2:s"
+    },
+    "4f67b8a1-8a03-4749-8340-b85531f0aa36": {
+      "de": "Pueblo==pu:-'e:-blo:"
+    },
+    "4faa0b83-924a-4064-ab5d-b42a20acc056": {
+      "de": "Gates=='gEIts"
+    },
+    "4fd8edc7-1da7-48b8-878a-66124d66d07a": {
+      "de": "Fücks=='fYks"
+    },
+    "5005cb26-bbe8-4d53-98ff-b174ae29322c": {
+      "de": "Viöl==vi:-'9l"
+    },
+    "50386fa3-e13c-4b98-b08c-57a11043f686": {
+      "de": "Small=='smOl"
+    },
+    "50474ac1-ef2f-4400-b8fc-39951637c6f4": {
+      "de": "Warren=='wO-r@n"
+    },
+    "504ac036-2b86-422b-ad14-b01559b63171": {
+      "de": "Kamp=='kamp"
+    },
+    "505d1b10-9f57-4873-94fd-a902bc121e97": {
+      "de": "Braun=='bRaUn"
+    },
+    "505f01e9-9c09-4df0-aa1c-62514dee213e": {
+      "de": "Das=='das"
+    },
+    "507797d9-883a-482d-861d-b53060228b65": {
+      "de": "Israelis==?i:s-Ra:-'e:-li:s"
+    },
+    "508151a3-af4c-4c71-891e-178352e0baf1": {
+      "de": "Marge=='ma6Z"
+    },
+    "50827681-5971-4378-ba3a-babc6dadd365": {
+      "de": "triumphgekröntst==tRi:-'Umf-g@-kR2:ntst"
+    },
+    "509b24da-8cb6-4e08-acd6-a46fc6e93080": {
+      "de": "Flug=='flu:k"
+    },
+    "50c3a91a-2f9d-47c2-9b11-14931a591b35": {
+      "de": "Joanna==dZOU-'E-na:"
+    },
+    "50d1a9ea-ea66-4aee-9ca1-22e62f0b1127": {
+      "de": "Herd=='he:6t"
+    },
+    "50d51933-2b88-423b-8152-01ff4ae0ecfb": {
+      "de": "Joerg=='j96k"
+    },
+    "510aef54-4b59-409a-bd86-5506a5fd0b3a": {
+      "de": "Zahl=='tsa:l"
+    },
+    "51181f4f-8629-445a-b683-e0e35f67ef4e": {
+      "de": "Fuhr=='fu:6"
+    },
+    "51210f25-499a-44e7-bfa2-231a3e15af28": {
+      "de": "Florence==flo:-'Re~s"
+    },
+    "515c5d3a-361e-4e61-929e-0fb8e499f1ac": {
+      "de": "ngiau=='Ni:-aU"
+    },
+    "51a86b14-3112-4b6d-b651-ab00369a3839": {
+      "de": "Frosch=='fROS"
+    },
+    "51af4a4e-b9e1-4bd9-94ba-835cca2e5422": {
+      "de": "Financier==fi:-na~-si:-'e:"
+    },
+    "51d04b81-8b26-44ce-83c8-30f8e21613d8": {
+      "de": "Diana==di-'a:-na:"
+    },
+    "51ec55b2-32e2-4c64-8411-da00ebf174d5": {
+      "de": "Klatsch=='klatS"
+    },
+    "52276696-982e-4616-a2dd-4bb974d29566": {
+      "de": "Süd=='zy:t"
+    },
+    "524b2bf7-dfbf-4c06-a4f8-162b8e3d37f4": {
+      "de": "Goulds=='gu:lds"
+    },
+    "525df90e-66ba-44fa-9304-d08b5f7dd5c2": {
+      "de": "Jeans=='Za~s"
+    },
+    "52d6311c-2657-4928-8ab3-425373432f86": {
+      "de": "Mac=='mEk"
+    },
+    "52e44e60-e785-4c04-b7ab-243deaba9fcd": {
+      "de": "Claus=='klaUs"
+    },
+    "531b2ced-d593-4647-97ce-675b0e2c69a1": {
+      "de": "Aubergine==?o:-bE6-'Zi:-n@"
+    },
+    "533728ee-caa7-4446-be96-ba3b5a40510b": {
+      "de": "Tschüß=='tSy:s"
+    },
+    "533c1a8d-4ab3-46ec-a5db-e0eaf9997f20": {
+      "de": "zum=='tsum"
+    },
+    "535d48e9-397b-47e0-8577-203e9375d9ec": {
+      "de": "Doc=='dOk"
+    },
+    "5392dc43-cbce-4b5e-b186-5c446c17cb70": {
+      "de": "Glaubst=='glaUpst"
+    },
+    "53a1dca2-ac0e-43c4-9b73-3c55c6105c0d": {
+      "de": "Macht=='maxt"
+    },
+    "53f6abe0-11fb-45fd-ad3f-bd59a1203d8f": {
+      "de": "wait=='wEIt"
+    },
+    "5447b257-9913-4860-9c46-b4ab9057f4bb": {
+      "de": "Satin==za-'te~"
+    },
+    "54652ca9-7597-46c9-9b73-1703d3972e92": {
+      "de": "Jan=='ja:n"
+    },
+    "554412b2-05cc-44cc-8886-4376bdaf35b8": {
+      "de": "Verortung==fE6-'OR-tUN"
+    },
+    "55460c45-baad-43a5-8b85-a8e6301d9a37": {
+      "de": "Way=='vEI"
+    },
+    "55515bf2-6f49-47e4-b2da-65bea5c11508": {
+      "de": "Chueca==tSu-'E-ka"
+    },
+    "55714991-e931-4d09-859c-a73d9c90120a": {
+      "de": "Archaismen==?a6-Ca-'Is-m@n"
+    },
+    "55864eb4-4701-4a5e-8281-06eabde37d76": {
+      "de": "Bock=='bOk"
+    },
+    "558af886-e7ab-4b81-8009-e7f61d5b93da": {
+      "de": "Frank=='fRaNk"
+    },
+    "5599fec7-cbe6-49a5-ad67-8a6b29ca878f": {
+      "de": "Class=='klas"
+    },
+    "55aa0069-b01d-4b07-9492-988a7bf794ad": {
+      "de": "Spam=='spE:m"
+    },
+    "55aab67c-ec07-4228-b4ac-ab74a0ab0f86": {
+      "de": "Vienne=='vjEn"
+    },
+    "55e27b0b-cec3-406d-ab40-720ab517ba14": {
+      "de": "triumphgekröntestes==tRi:-'Umf-g@-kR2:n-t@s-t@s"
+    },
+    "55e84f10-6534-41d5-91ec-8fefc15c0c1f": {
+      "de": "Eisenbahn=='aI-z@n-ba:n"
+    },
+    "56135f12-9527-4462-9d04-5c66a56a5717": {
+      "de": "Pierre=='pjE:6"
+    },
+    "562df139-3aa7-4534-bb67-3513d4645e54": {
+      "de": "sozial==zo-'tsja:l"
+    },
+    "563a5583-7db1-40f2-9d9b-8f9f09ad4e26": {
+      "de": "F=='?Ef"
+    },
+    "566b82ec-55f7-4836-af45-bbfca713d221": {
+      "de": "ingeniös==?In-ge:-ni:-'2:s"
+    },
+    "5677551f-841e-4339-b364-74efb77d65b5": {
+      "de": "Rougemont==Ru:Z-'mo~"
+    },
+    "56986ec3-6d60-4ad3-ba85-957e192168ef": {
+      "de": "Haus=='haUs"
+    },
+    "56b3ec0d-0c64-4797-a6a7-6831b454aa2d": {
+      "de": "Fiaskos==fi:-'as-ko:s"
+    },
+    "57009ed2-80d0-4c5f-a983-227df30c0b87": {
+      "de": "Menuett==me:-nu:-'Et"
+    },
+    "570848d2-335d-43ac-b9e0-4992ab58b3b1": {
+      "de": "Hahn=='ha:n"
+    },
+    "570cba76-d447-4757-9b6c-4c9c643349db": {
+      "de": "Nachrichtenagentur=='na:x-RIC-t@n-?a:-gEn-tu6"
+    },
+    "571a55d9-f2b1-4adc-9d03-f52367f5e09f": {
+      "de": "Charles=='tSa6ls"
+    },
+    "5722d4c9-9b86-4a7c-ab84-a03f100fba8e": {
+      "de": "Hey=='hEI"
+    },
+    "57334671-8c1c-44b9-8e00-afff80224c28": {
+      "de": "kontagiös==kOn-ta-gi:-'2:s"
+    },
+    "57413e15-6e14-4b44-918b-83f47feb73f3": {
+      "de": "Kalb=='kalp"
+    },
+    "5794a016-fb99-4a55-a7e6-35348565af88": {
+      "de": "Schmerz=='SmE6ts"
+    },
+    "57a9d45c-5494-4ed7-8da8-7c3994c31397": {
+      "de": "Israel=='?i:s-Ra:-?el"
+    },
+    "58377359-7ccb-4ae3-949d-11eb26bb37eb": {
+      "de": "Schach=='Sax"
+    },
+    "589a9975-bd21-4199-9ebc-98cb3ffd0ec2": {
+      "de": "Twain=='tweIn"
+    },
+    "589e39c7-247e-44cd-a703-13a02861513e": {
+      "de": "melodiös==me:-lo-di:-'2:s"
+    },
+    "58a61ac7-c72f-472d-895e-b286e1b6b7ed": {
+      "de": "Provider==pro-'vaI-d6"
+    },
+    "58d0365a-0cab-4cdf-bec8-f5508dd450e2": {
+      "de": "Handy=='hEn-di"
+    },
+    "58dbf348-adc8-47d5-a204-44303ab12b5c": {
+      "de": "Beck=='bEk"
+    },
+    "59217645-aff0-42b3-88e1-877beca6dc3d": {
+      "de": "Feld=='fElt"
+    },
+    "5944c730-5457-4086-b910-3e786929f80e": {
+      "de": "seriell==ze:-Ri:-'El"
+    },
+    "594bd36c-88f1-4aff-8257-53dd722f234c": {
+      "de": "Cheng=='CEN"
+    },
+    "599b5944-9f97-441a-9f7d-822ce3c52ce6": {
+      "de": "Geh=='ge:"
+    },
+    "59b429cc-f314-4370-87c3-4ac8d9e9c56d": {
+      "de": "Tag=='ta:k"
+    },
+    "59c1a159-dc16-47d2-ad37-368192abe218": {
+      "de": "Triumvirs==tRi:-'Um-vI6s"
+    },
+    "59d1aab7-00e1-489d-8593-982280d44012": {
+      "de": "förmlichere=='f296m-lI-C6-R@"
+    },
+    "59d9e6a1-fef6-41c8-9da7-7e9c3e2638ce": {
+      "de": "League=='li:g"
+    },
+    "59e59916-0af5-436b-b436-434e7a2542b1": {
+      "de": "Stumpf=='StUmpf"
+    },
+    "59ee26f7-4f84-499f-854c-16632db06f67": {
+      "de": "Know=='nOU"
+    },
+    "5a658348-7bd4-459a-8674-c3fc453bf62d": {
+      "de": "Machete==ma-'xe:-t@"
+    },
+    "5a87df85-84e0-476a-ad69-d5c7c9f6282c": {
+      "de": "Franz=='fRants"
+    },
+    "5aad1b38-24e8-47db-94db-2c084b85078a": {
+      "de": "Schaaf=='Sa:f"
+    },
+    "5b1b690a-c7e8-412b-a85d-39ce245726aa": {
+      "de": "Halt=='halt"
+    },
+    "5b28281b-85bb-4f5a-870e-d16b8dd684f7": {
+      "de": "lipoid==li:-po:-'i:t"
+    },
+    "5b851f14-4b58-4194-a9a1-ef289084b84d": {
+      "de": "First=='f96st"
+    },
+    "5bb07176-afe6-486f-805a-3b0863b4ebf4": {
+      "de": "Graph=='gRa:f"
+    },
+    "5bc92bec-8aeb-43e0-86eb-38c15afab380": {
+      "de": "Girl=='gI6l"
+    },
+    "5bcc0d5f-b8b1-4d53-835c-64b581e5288f": {
+      "de": "Night=='naIt"
+    },
+    "5be2ae2c-42e0-4894-bffe-68c9f7b9e38f": {
+      "de": "War=='va:6"
+    },
+    "5bea4d56-1d85-4f64-9831-fe1bdac19f6b": {
+      "de": "Bohr=='bo:6"
+    },
+    "5c1064b9-3a46-4fb0-97e7-da2b97ff6e49": {
+      "de": "Art=='?a6t"
+    },
+    "5c5472f8-66c0-4a43-82a7-2c9c5451a271": {
+      "de": "TASS=='tas"
+    },
+    "5c6ab5af-2445-44bc-9ec0-4061f16f71ea": {
+      "de": "Chor=='ko:6"
+    },
+    "5cb3fe2f-432e-445b-8679-7b4704b7fa90": {
+      "de": "SPLA=='Spla:"
+    },
+    "5cc5f151-7044-4d95-91ae-56b9e9542519": {
+      "de": "Armand==?aR-'ma~"
+    },
+    "5cc76746-62b8-48e8-931d-7ffe3b56acd3": {
+      "de": "You=='ju:"
+    },
+    "5d23e75c-f33e-40f0-bc39-c4c4be9332a2": {
+      "de": "Umgekehrt=='Um-g@-ke:6t"
+    },
+    "5d286775-4440-4906-a141-3172e4b820b0": {
+      "de": "Syene=='zy-e:-n@"
+    },
+    "5d28959f-c981-407e-947f-6b1cb142438a": {
+      "de": "Grimoires==gRi:-'moaRs"
+    },
+    "5d88e3e4-d055-4428-8748-b1ccf43c1059": {
+      "de": "Parks=='pa6ks"
+    },
+    "5d9d6492-9a14-4990-a17b-4e4c580c77b2": {
+      "de": "Kolchose==kOl-'Co:-z@"
+    },
+    "5da9f23a-a76e-4e04-aef9-f55a322dba31": {
+      "de": "Burg=='bU6k"
+    },
+    "5e125b1d-38d4-493e-b5cb-7cc909a0e3f1": {
+      "de": "Max=='maks"
+    },
+    "5e158d85-0a62-48c0-a55f-85f41fe08a2c": {
+      "de": "that=='TEt"
+    },
+    "5e19e76c-d8b0-46a0-96fd-82f0f1a74207": {
+      "de": "Kreuzcousin=='kROYts-ku:-ze~"
+    },
+    "5e1df1b7-75ec-4823-913a-c85fbfd6030e": {
+      "de": "Huiyuan==hu:-i:-'u:-a:n"
+    },
+    "5e4280c7-5411-4789-8f10-460ad7920fd3": {
+      "de": "H=='ha:"
+    },
+    "5e72e66d-9d41-44cf-9acd-47b0247f05fa": {
+      "de": "Angiom==?aN-gi:-'o:m"
+    },
+    "5eb849c0-c605-43cf-a6e2-fe9d9f928821": {
+      "de": "Bothwell=='bOT-vEl"
+    },
+    "5ee370b9-89c9-4ead-83f8-a60f3a19d333": {
+      "de": "Fluch=='flUx"
+    },
+    "5f20b239-c0fb-44ea-a01d-f02d2d8fdc68": {
+      "de": "Pan=='pa:n"
+    },
+    "5f30f46e-8c76-43d0-a64d-139e8547e8c0": {
+      "de": "büür=='by:6"
+    },
+    "5f502b2d-c4ca-4834-97db-ce6e5a62b2d6": {
+      "de": "Smith=='smIT"
+    },
+    "5f504533-f873-424b-a473-e7603be0e79e": {
+      "de": "à=='a"
+    },
+    "5f549c0c-50ed-44bb-b8a0-99049309747f": {
+      "de": "Herbst=='hE6pst"
+    },
+    "5f680f8b-8934-4932-a3b8-460fef6ae38e": {
+      "de": "Zur=='tsu:6"
+    },
+    "5f72daa4-8cc2-4545-b6a8-759f08a68add": {
+      "de": "Kö=='k2:"
+    },
+    "5f7de318-8c84-4beb-8281-d73fc4aaf631": {
+      "de": "Brät=='bRE:t"
+    },
+    "5f8ab172-e7d8-4d43-b56c-47169e1333d4": {
+      "de": "Zwei=='tsvaI"
+    },
+    "5f8c8c06-aff1-4dd2-a248-93851c583a1c": {
+      "de": "Sechs=='zEks"
+    },
+    "5f8f2c35-2ad6-4f86-a7d2-f3a6ee877d2a": {
+      "de": "Klienten==kli:-'En-t@n"
+    },
+    "5f8f58f8-b094-4089-bf60-e16c0c631422": {
+      "de": "Bush=='bUS"
+    },
+    "5f9d1993-1e41-4721-9b2c-b3cb5ae64c84": {
+      "de": "Hier=='hi:6"
+    },
+    "5fa4df56-0989-427f-bc81-93af3e93b0d6": {
+      "de": "freut=='fROYt"
+    },
+    "5fb768b9-8652-410d-bd71-66713453ea98": {
+      "de": "Duke=='dju:k"
+    },
+    "60460472-940e-4a37-bb9e-d5911f7f2bf0": {
+      "de": "Skins=='skIns"
+    },
+    "60a38bcf-50ac-4698-b1b7-34aa088f8fcc": {
+      "de": "Dort=='dO6t"
+    },
+    "60cb56f2-3c2a-4f0b-ae0a-c50e8fdcc50c": {
+      "de": "Garderobiers==ga6-d6-Ro:-bi:-'e:s"
+    },
+    "611a7e99-3c59-427f-a012-86e62833f262": {
+      "de": "stößt=='St2:st"
+    },
+    "612eb932-8917-4191-a985-34fc8e1a14b1": {
+      "de": "We=='wi:"
+    },
+    "616fd303-31a0-49e9-8e00-1648920e2f84": {
+      "de": "Jay=='dZEI"
+    },
+    "617093b0-8f4a-4dc0-87c9-439a9506481b": {
+      "de": "John=='dZOn"
+    },
+    "61bd5d3a-b56e-466a-b0f9-0650a6a48c25": {
+      "de": "Gratz=='gRa:ts"
+    },
+    "61dc52c9-df4c-41c9-b4fc-826882d601aa": {
+      "de": "know=='no:"
+    },
+    "61e75b1d-644c-4af9-9ead-cf9d1799660a": {
+      "de": "Ek=='?Ek"
+    },
+    "61fa36a0-775e-4798-98f2-1904a3e8d2bb": {
+      "de": "Lachs=='laks"
+    },
+    "62246fe3-735c-447d-b812-8b5bc00b400f": {
+      "de": "Nichts=='nICts"
+    },
+    "625ebf30-bef3-47ba-9383-ce1ece0a59ad": {
+      "de": "pfui=='pfUI"
+    },
+    "62b676e4-6098-440b-8581-8d83e1628dab": {
+      "de": "Bruch=='bRUx"
+    },
+    "62bfd913-7001-407a-a78b-32eed66e2e87": {
+      "de": "Hut=='hu:t"
+    },
+    "62c3beec-9f47-46f0-94eb-1568b15735e5": {
+      "de": "Köln=='k9ln"
+    },
+    "62d85fee-8fc9-4201-9401-b467aa55af61": {
+      "de": "Hand=='hant"
+    },
+    "632684a7-a221-4deb-9d33-f1a7cec4822e": {
+      "de": "North=='no:T"
+    },
+    "633f779d-cbcb-4981-a4e3-1a3b2739631a": {
+      "de": "SPOT=='SpOt"
+    },
+    "636c74d4-37e2-4373-8923-9e162f003fc1": {
+      "de": "Bus=='bUs"
+    },
+    "6383fc13-ed13-4be3-b13c-39666a443173": {
+      "de": "Plüsch=='ply:S"
+    },
+    "638fb143-f603-4ee1-88b1-daaaad90cfbd": {
+      "de": "Riß=='RIs"
+    },
+    "63c24ab1-3635-4ac0-9bbc-21031c61bbca": {
+      "de": "D=='de:"
+    },
+    "63fc5846-e820-4e3a-892d-cabb9c71368d": {
+      "de": "essayistisch==?E-se:-'Is-tIS"
+    },
+    "64210667-958c-492b-9917-02d7c3ed65bf": {
+      "de": "thumb=='Tam"
+    },
+    "642897f6-62fe-48cf-afc1-93d71849173b": {
+      "de": "Main=='maIn"
+    },
+    "642dd970-8327-412a-8281-708341da3295": {
+      "de": "Forts=='fO6ts"
+    },
+    "646f6065-0e7c-48a7-ae7d-b8e2041f66ac": {
+      "de": "Sieg=='zi:k"
+    },
+    "64da89ab-66df-46ac-8813-75a02f0569f2": {
+      "de": "Crêt=='kRE"
+    },
+    "64ee6381-95e4-49f8-84db-5694de61ebf2": {
+      "de": "I=='?i:"
+    },
+    "6594a20c-9da8-40d2-8ab5-c6c8647a9b1e": {
+      "de": "blüht=='bly:t"
+    },
+    "65a852a3-e7a2-454d-a2c2-07ab47ef5562": {
+      "de": "Eochaill==?'e:-jo:-CaIl"
+    },
+    "65ceb686-15ad-49a1-a91e-eec8569d6b3d": {
+      "de": "Pfarrhof=='pfa6-ho:f"
+    },
+    "65e72f79-fd63-4cb5-a873-1893834d7d73": {
+      "de": "Abend=='?a:-b@nt"
+    },
+    "6603413f-529b-49b4-b80b-895f80f30c1a": {
+      "de": "Kyu=='kju:"
+    },
+    "660c67dc-265d-4715-8d4c-8cfabc485075": {
+      "de": "Proömium==pRO-'2:-mi:-Um"
+    },
+    "666944d3-80db-4693-8bad-eea1078b5445": {
+      "de": "Plan=='pla:n"
+    },
+    "668643e9-2724-408d-ab06-b6333782f302": {
+      "de": "Thoreaus==To-'r@Uz"
+    },
+    "669aec0b-298b-4b1a-8795-9f91bf677a6f": {
+      "de": "Berz=='bE6ts"
+    },
+    "66a57780-e826-429a-8420-49e963543f80": {
+      "de": "Gell=='gEl"
+    },
+    "66a767b4-02b5-4bd9-81dc-8d46ed633eba": {
+      "de": "Toe=='toU"
+    },
+    "670ac580-0ee6-4834-995a-de2a394c5654": {
+      "de": "umgebaut=='Um-g@-baUt"
+    },
+    "6745f696-c3e7-490f-9f32-b504a970592a": {
+      "de": "Mais=='maIs"
+    },
+    "67611843-b588-447f-8809-538d2b1fea15": {
+      "de": "Die=='di:"
+    },
+    "677ca9dd-c41e-4a91-a96a-f3828129a113": {
+      "de": "Schulpolitik=='Su:l-po-li-,tik"
+    },
+    "67a0fb1f-7718-428d-8be2-20df53b73102": {
+      "de": "illusionistisch==?I-lu-zjo-'nIs-tIS"
+    },
+    "67b67ee0-dc95-402e-b08c-6ad87fcde1ef": {
+      "de": "Bin=='bIn"
+    },
+    "67bbf239-8e3e-4de6-88da-accf4e0b5c34": {
+      "de": "Brook=='bRo:k"
+    },
+    "67d65ded-4413-4b3a-aedf-aa7eef819232": {
+      "de": "Mosaiks==mo:-za-'i:ks"
+    },
+    "67e470ab-bb61-4245-863e-4a6dbfcae4fc": {
+      "de": "Eiszeit=='aIs-tsaIt"
+    },
+    "67e4901d-440b-453b-8e98-7ee66eb517e9": {
+      "de": "Fast=='fast"
+    },
+    "68082096-c569-4c6d-8466-dd861f0d783c": {
+      "de": "Reagens=='rE-gEns"
+    },
+    "68836e2b-62fd-4bd3-977c-0ee8c80b06a0": {
+      "de": "Pneu=='pnOY"
+    },
+    "68904477-09a9-4f77-88e2-68ffc8a42262": {
+      "de": "Band=='bant"
+    },
+    "689c7898-08bb-47ce-94f6-b46592f67800": {
+      "de": "Pfau=='pfaU"
+    },
+    "68a3d776-3e63-41bf-8fdc-a7a9f5091409": {
+      "de": "Green=='gri:n"
+    },
+    "68c19ae5-620d-4be2-8c8c-e7a6cafba917": {
+      "de": "politisch==po-'li-tIS"
+    },
+    "68c8b4d4-72f6-46e9-81a1-98bd8cd514ad": {
+      "de": "Entente==?a~-'ta~t"
+    },
+    "68fa241c-bc73-4afb-924d-4fa5ccd062a7": {
+      "de": "Sie=='zi:"
+    },
+    "690227e1-d74a-48ca-ad55-75ded717663c": {
+      "de": "Paul=='paUl"
+    },
+    "6929c6e8-1adb-4cd3-bbb7-6216079f096d": {
+      "de": "Zoll=='tsOl"
+    },
+    "693391e4-cc69-466f-8f94-1b317ffbb6ff": {
+      "de": "Park=='pa6k"
+    },
+    "693abaca-921e-43e5-a509-5943fcfe6623": {
+      "de": "desillusionierest==dEs-?I-lu-zjo-'ni:-R@st"
+    },
+    "694ff3cc-40c0-455e-9e02-a71bdc468e32": {
+      "de": "Brigadiers==bRi:-ga-di:-'e:s"
+    },
+    "695208a5-031f-4db6-920c-62632d98d72d": {
+      "de": "Red=='rEd"
+    },
+    "6965ebd3-413c-48b1-ad24-7c4e0a0c8b31": {
+      "de": "Why=='waI"
+    },
+    "69a499ed-9f12-40a1-ac01-29c41cd3b7d7": {
+      "de": "el=='El"
+    },
+    "69cc90d5-1d1d-41dc-93e3-9c8dd7bf193a": {
+      "de": "Politiker==po-'li-ti-k6"
+    },
+    "69fb8b1d-5cb1-43b1-bdf0-21282043fa88": {
+      "de": "Abbot=='?E-b@t"
+    },
+    "69fc71bd-2edc-4090-a097-a6fe1a5cc41b": {
+      "de": "Wein=='vaIn"
+    },
+    "6a38296f-484a-4578-a9c5-05d63d32caf2": {
+      "de": "Don=='do:n"
+    },
+    "6a4396d3-d511-4b1e-8059-0f10536d0551": {
+      "de": "Pfaff=='pfaf"
+    },
+    "6a4c682e-09df-4e00-9c0c-1081a845d5db": {
+      "de": "Björn=='bj96n"
+    },
+    "6a62a0a4-b42f-4b99-beb9-ba0ee9b7a43d": {
+      "de": "Where=='wE6"
+    },
+    "6a7078cd-f8b6-4a86-9b61-708a11c6bb68": {
+      "de": "schizoid==Si:-tso:-'i:t"
+    },
+    "6b32a529-8bf9-4eda-a933-815c6b432e9c": {
+      "de": "Ich=='?IC"
+    },
+    "6b35033f-d615-4ff9-81a2-e13889576a67": {
+      "de": "Clouets==klu:-'e:s"
+    },
+    "6b3da7a2-c3e7-4d30-b344-9cf84fd8b792": {
+      "de": "Rapids=='rE-pIdz"
+    },
+    "6b4715d2-04d0-4ac9-ac90-f7ad1ded3200": {
+      "de": "Hoesch=='h9S"
+    },
+    "6b60a4cf-289b-486f-91ee-d1ec97f07572": {
+      "de": "gröhlt=='gR2:lt"
+    },
+    "6b73f081-2985-4b13-81b0-b5efcf3af917": {
+      "de": "Feind=='faInt"
+    },
+    "6b8f4923-7696-4fcd-a845-0064c74dd2e2": {
+      "de": "Alt=='?alt"
+    },
+    "6bdaf925-7378-4736-9b00-98cbec5e8d3b": {
+      "de": "Funk=='fUNk"
+    },
+    "6c54343e-3cb8-4d61-ba75-635c882c1e06": {
+      "de": "engagieren==?a~-ga-'Zi:-R@n"
+    },
+    "6c8b0623-55f8-4911-bfe1-63cf0eed3c14": {
+      "de": "Elle=='?El"
+    },
+    "6cb6ccb5-1be4-4f7d-b152-3323f63dca01": {
+      "de": "Skanx=='skanks"
+    },
+    "6cb7212b-f216-4498-be9a-f9862d5c8955": {
+      "de": "eignet=='aI-gn@t"
+    },
+    "6cc4dd1b-6603-42c0-a4b9-786aada07d1e": {
+      "de": "RAI=='RaI"
+    },
+    "6cc8882d-c2df-461c-9dab-abe419f7870b": {
+      "de": "Joyce=='dZOYs"
+    },
+    "6cd4913c-e239-4221-bc90-7fa7d0e39dcc": {
+      "de": "Che=='tSe:"
+    },
+    "6d21cce5-86cd-4421-a18c-576f0fc23d98": {
+      "de": "triumphgekröntesten==tRi:-'Umf-g@-kR2:n-t@s-t@n"
+    },
+    "6d34ae43-f567-46e1-84ab-9b08cab09a64": {
+      "de": "Deeg=='de:k"
+    },
+    "6d65832c-de3f-4e25-941e-4d94ff56838a": {
+      "de": "And=='?E:nt"
+    },
+    "6d7b17cc-059a-486a-8479-4a05c82ac1d5": {
+      "de": "K=='ka:"
+    },
+    "6de1c9dd-15f0-4aae-9b66-fdd89e9d8c81": {
+      "de": "Klaus=='klaUs"
+    },
+    "6e1bfceb-e8d9-4dd9-84e8-a97901cea110": {
+      "de": "Not=='no:t"
+    },
+    "6e2b42d1-d06c-4618-b367-ae33b16a77e4": {
+      "de": "Polizei==po-li-'tsaI"
+    },
+    "6e398794-fdce-4b93-b45a-5457ca296968": {
+      "de": "Clark=='kla6k"
+    },
+    "6e4c6cde-ef44-4237-8c69-9c34659318c2": {
+      "de": "Club=='klUp"
+    },
+    "6e643163-27b8-4fde-bb99-a56f54ca1372": {
+      "de": "ach=='?ax"
+    },
+    "6ebab12d-4115-4d8e-b3a1-b15a51d13248": {
+      "de": "Mauls=='maUls"
+    },
+    "6ecbd75a-61c0-4c9d-8d37-6d793c19cb85": {
+      "de": "Diopters==di:-'Op-t6s"
+    },
+    "6f48bdb7-5945-43c7-b647-29750307e753": {
+      "de": "Weg=='ve:k"
+    },
+    "6f632882-2478-4a4d-85f1-f9220eda58f7": {
+      "de": "Yule=='ju:l"
+    },
+    "6f965346-992f-4e54-927a-731c5a349fa5": {
+      "de": "dubioes==du:-bi:-'2:s"
+    },
+    "6fc60857-435e-44c2-a87a-df5d1e9c3403": {
+      "de": "Song=='sON"
+    },
+    "6fcd2f64-df4c-44ac-9706-69ef8e0bac9a": {
+      "de": "Prost=='pRo:st"
+    },
+    "6fdbef5d-c575-44e8-8865-19b3f8e811a5": {
+      "de": "T=='te:"
+    },
+    "6fe3519c-e46d-42ef-b658-8f627fdb782a": {
+      "de": "Elizabeths=='?E-'lI-z@-b@Ts"
+    },
+    "7002a391-2aff-49df-b610-9643a476f022": {
+      "de": "Luv=='lUv"
+    },
+    "702dee02-4ced-42ec-a696-6ee65169386c": {
+      "de": "Beton==b@-'to~"
+    },
+    "7039373a-72d2-411a-8ddc-179c9cdcfb0a": {
+      "de": "Angioms==?aN-gi:-'o:ms"
+    },
+    "7045f684-51e0-4219-ac75-6909d12e6207": {
+      "de": "Hard=='ha6t"
+    },
+    "7053e471-e4d8-43b5-939a-c3a315e3b57e": {
+      "de": "Lakch´=='lakC"
+    },
+    "70690c6e-30bd-4cd5-ae94-ed6f66a09a3c": {
+      "de": "Brei=='bRaI"
+    },
+    "70aa4232-96e0-4810-a0c0-e267ae085428": {
+      "de": "Vince=='vIns"
+    },
+    "70bd4ea0-a020-4b81-bb1c-d7d584d19a54": {
+      "de": "As=='?as"
+    },
+    "70cd72aa-0f1b-48f4-b75d-34a357f4aafb": {
+      "de": "Er=='?e:6"
+    },
+    "70d6d3f4-86cf-44f1-aff6-63d774eccae0": {
+      "de": "Whigs=='wIgz"
+    },
+    "70fe0b7b-ef30-4565-9675-deb8f77a4451": {
+      "de": "Einsicht=='aIn-zICt"
+    },
+    "7138a416-d8f1-4e28-9d31-23a8b834fe73": {
+      "de": "Fuß=='fu:s"
+    },
+    "7179240f-5a54-4c60-bfe0-783cb1685d2b": {
+      "de": "Priorin==pRi:-'O-RIn"
+    },
+    "718a54df-5c2c-4a90-9721-74ffc7194914": {
+      "de": "Taoudeni==ta-'u:-d@-ni:"
+    },
+    "71cda15a-91cd-4d48-80ff-a8fd8fd76d77": {
+      "de": "Call=='kOl"
+    },
+    "71ebdfc7-1c2b-49cd-a7d8-4e3708c30766": {
+      "de": "haploid==ha-plo:-'i:t"
+    },
+    "71ecc17d-1939-4a3b-ae69-92a439f505ba": {
+      "de": "Daz=='da:ts"
+    },
+    "71f3f6ad-89fe-4e2c-b4a5-7d805f54ac70": {
+      "de": "Chat=='tSEt"
+    },
+    "7209197b-f125-4a0c-8168-4c401812e7c7": {
+      "de": "French=='frEnS"
+    },
+    "7212a017-46e9-4eb7-9927-5acec535fe71": {
+      "de": "Mich=='mIC"
+    },
+    "72374d88-3d4d-4be0-ac6e-60b77f35d294": {
+      "de": "chemisch=='Ce:-mIS"
+    },
+    "72723a32-5104-4838-975f-d5f6db8056a4": {
+      "de": "Polizist==po-li-'tsIst"
+    },
+    "7272521e-101a-4cc9-a54d-057526d479cc": {
+      "de": "Day=='dEI"
+    },
+    "727e7871-2d4d-47ed-9dff-9b06c26f0a3c": {
+      "de": "Auf=='?aUf"
+    },
+    "72a77cb9-8d71-41d0-8909-56471d0fb546": {
+      "de": "religionslos==Re-li:-gi-'o:ns-lo:s"
+    },
+    "72b23d71-8e3c-433e-916e-4dc56c97a30e": {
+      "de": "Cheistwer==C@-'aIs-tv6"
+    },
+    "7328752e-d9e2-4ace-8b04-670aee6133b5": {
+      "de": "Pferd=='pfe:6t"
+    },
+    "733d149c-2369-463e-8415-f2bb08fda2b3": {
+      "de": "Denk=='dENk"
+    },
+    "733de1c8-c75d-44ec-b90f-22e78c657f2c": {
+      "de": "Deck=='dEk"
+    },
+    "73778b2d-b974-4b63-af51-7b4279e95abd": {
+      "de": "Bémont==be:-'mo~"
+    },
+    "73afbf2c-0914-4672-94b9-33e194a037fe": {
+      "de": "Amt=='?amt"
+    },
+    "73b36e8b-78aa-40ef-a7a9-bb221f3108cb": {
+      "de": "Wuthering=='wU-D@-rIN"
+    },
+    "73bf9838-1fdf-45f6-b0e4-5ed1c76d02a1": {
+      "de": "Pflicht=='pflICt"
+    },
+    "73f45dcc-dd34-4b8a-9a68-2d9280177dc4": {
+      "de": "Linguist==lIN-gu:-'Ist"
+    },
+    "73fc41c8-fe6f-4854-935f-6421b713fd0e": {
+      "de": "Sam=='sE:m"
+    },
+    "743e2b77-288e-4221-b48f-999f2d600192": {
+      "de": "Ars=='?aRs"
+    },
+    "745e4bb2-8df4-4824-9985-43af86f2f334": {
+      "de": "Hasch=='haS"
+    },
+    "7465d1cb-48b7-40c4-8d74-a44ef24ef8a0": {
+      "de": "Cray=='krEI"
+    },
+    "74e57d4c-ba93-4c93-939e-eb6e96b5ca93": {
+      "de": "Waalwijk=='wa:l-wEIk"
+    },
+    "74f0eb6a-96ee-4c8b-82e4-166d97c34358": {
+      "de": "Tanz=='tants"
+    },
+    "750b8fd9-cb1b-416a-a15b-8fecd31b9cff": {
+      "de": "Regime==Re:-'Zi:m"
+    },
+    "752184c9-1c09-48f6-a3ce-ddfd386b4376": {
+      "de": "Waters=='wO-t@z"
+    },
+    "7546d83a-624c-449b-845b-daa45beadf56": {
+      "de": "Pfad=='pfa:t"
+    },
+    "754e4810-db51-40c7-be83-2f518f0345d2": {
+      "de": "Leeds=='li:ts"
+    },
+    "758dc1ec-37a4-4013-9879-095c3f563708": {
+      "de": "Pfeifer=='pfaI-f6"
+    },
+    "75c842ae-96d9-47f1-95db-7aa02493898a": {
+      "de": "Areals==?a-Re-'a:ls"
+    },
+    "75f3fa39-3651-48cf-a444-a6de9f487bdf": {
+      "de": "Philippinen==fi-lI-'pi:-n@n"
+    },
+    "760443f3-5075-44a1-bc9f-a7861bdc9ae0": {
+      "de": "Lass=='las"
+    },
+    "762e8cfb-947c-4cf3-bcd7-d8c9436cdb26": {
+      "de": "Krebs=='kRE:ps"
+    },
+    "7631d01c-4ee8-4b6c-979f-5fce648eedea": {
+      "de": "odiös==?o:-di:-'2:s"
+    },
+    "76881376-8a69-4bd3-9e39-b5eee616a611": {
+      "de": "Dauphin==do:-'fe~"
+    },
+    "7688ffcb-ee13-4e4e-b8d6-7146d2222db1": {
+      "de": "Naotas==na-'o:-tas"
+    },
+    "7692d514-6d7d-4cc5-943a-8bd1276ec3cc": {
+      "de": "Alliierte==?a-li:-'i:6-t@"
+    },
+    "76c359c3-7bf3-4fd7-989e-1599588b569a": {
+      "de": "De=='d@"
+    },
+    "76c50c0b-54a1-496e-a7b4-16603583ab7c": {
+      "de": "en=='a~"
+    },
+    "7709ee19-c69b-400d-b51b-bfa325d822a0": {
+      "de": "Revolution==Re-vo-lu-'tsjo:n"
+    },
+    "7730be72-255f-4fb1-b664-78869e9e637c": {
+      "de": "East==?i:st"
+    },
+    "77c144cc-e923-4f35-8c81-53b1e62c1acc": {
+      "de": "Recordz=='rE-kO6ts"
+    },
+    "77d74513-b63e-44f3-b486-6fe1c5ac2a57": {
+      "de": "naiv==na-'i:f"
+    },
+    "77e36121-4d81-4fd1-878d-fbe3f47d71f0": {
+      "de": "Scheucht=='SOYCt"
+    },
+    "77f151b6-2808-4f1d-ae70-3825428cbb5e": {
+      "de": "Roach=='rOUtS"
+    },
+    "7808cb1f-48c6-4f18-a133-0945711d22ad": {
+      "de": "pfeift=='pfaIft"
+    },
+    "7819ffd2-3151-46a9-a62c-e8f2bfb095c4": {
+      "de": "Leigh=='lEI"
+    },
+    "7829b11d-a7cd-4c7e-a16a-53d9c6b9b2a5": {
+      "de": "Reggae=='rE-gE:"
+    },
+    "7836b53f-2d77-428c-ac47-9cd6ea25a261": {
+      "de": "triumphgekröntsten==tRi:-'Umf-g@-kR2:nt-st@n"
+    },
+    "7837ce1a-c3df-4999-acea-306c2a4331f1": {
+      "de": "should=='SUD"
+    },
+    "7844b595-9e00-4119-8f5b-05509132482b": {
+      "de": "Reille=='RaIj"
+    },
+    "784c5e36-c2fd-46f4-8f17-2f75cef6386b": {
+      "de": "Meer=='me:6"
+    },
+    "784ca8d6-b8b2-46ea-8b6a-068b14aa69b5": {
+      "de": "Putsch=='pUtS"
+    },
+    "7889ac7f-853b-44e1-9492-f89365a5210d": {
+      "de": "Fühlst=='fy:lst"
+    },
+    "78a57939-386c-4337-b094-6533e3202dd9": {
+      "de": "Gaus=='gaUs"
+    },
+    "78ed3794-795a-48c0-82c7-b641051f0ea0": {
+      "de": "Hyäne==hy:-'E:-n@"
+    },
+    "79ab31e6-00d9-4e23-864d-0ffb37bdcd5d": {
+      "de": "Seventh=='sE-v@nT"
+    },
+    "79c2d46f-e1d1-483a-bb93-0004748a62db": {
+      "de": "Weine=='vaIn@"
+    },
+    "79cc8e3b-0f8f-4455-a6f8-23413ff266a4": {
+      "de": "Affront==?af-'Ro~"
+    },
+    "79e319d0-6734-4955-81bc-9bd26555ad52": {
+      "de": "Charter=='tSa6-t6"
+    },
+    "79ea1103-8a50-48aa-b0ed-e4dbbcfa1411": {
+      "de": "Doubs=='du:bs"
+    },
+    "79f00082-068d-461b-b2bf-d2a658522bf1": {
+      "de": "Ein=='?aIn"
+    },
+    "7a1d4dfb-16a8-41c1-b7b4-b841971958a2": {
+      "de": "minutiös==mi:-nu:-tsi:-'2:s"
+    },
+    "7a4381fd-3769-4e5d-94a1-c84338196112": {
+      "de": "eingesetzten=='aIn-g@-zEts-t@n"
+    },
+    "7a5ba71b-3a46-49ec-8e94-d9b583053f40": {
+      "de": "Kropf=='kROpf"
+    },
+    "7a8b07e0-aa04-405a-b609-9a7f870b0e92": {
+      "de": "Chancen=='So~-s@n"
+    },
+    "7ae28507-1950-443d-a548-bc583613a269": {
+      "de": "Pfusch=='pfUS"
+    },
+    "7af0479e-eb12-4e4a-8928-d68d672e1898": {
+      "de": "Celli=='tSE-lI"
+    },
+    "7b54fa15-8433-4fa1-bf20-d1231c3a795f": {
+      "de": "Ab=='?ap"
+    },
+    "7b66dea2-6711-4a15-888c-83fe19d000e8": {
+      "de": "Zum=='tsUm"
+    },
+    "7bb44647-6051-4c35-a8b4-9056a05e72af": {
+      "de": "Spaniol==Spa-ni:-'o:l"
+    },
+    "7bc598d9-c768-4607-ab24-d97412f454d4": {
+      "de": "Jones=='dZOUns"
+    },
+    "7bcc765b-1411-4609-9379-fb140ab847c7": {
+      "de": "Hierarchie==hi:6-Ra6-'Ci:"
+    },
+    "7bcd2184-612c-4d23-8178-c85026f22526": {
+      "de": "Laut=='laUt"
+    },
+    "7c177e77-cb23-489b-8b4b-de66f95856e7": {
+      "de": "Rutherford=='ra-D6-fO6t"
+    },
+    "7c3da9e4-91ae-4f6b-b329-4537e5a63c88": {
+      "de": "Manns=='mans"
+    },
+    "7ca9d702-a271-4151-8dc9-4dfd6b24da60": {
+      "de": "Quarks=='kva6ks"
+    },
+    "7cbdf3df-e771-45ec-b5a8-fd24eae1fc15": {
+      "de": "Bassin==ba-'se~"
+    },
+    "7cd7f457-8d6f-44a4-8b05-8855feafa255": {
+      "de": "Earl=='?96l"
+    },
+    "7cdaee3c-8529-4ff1-8222-6270598ce1a5": {
+      "de": "Zorn=='tsORn"
+    },
+    "7d1c3262-1b95-4f5a-97c5-a4c1c54db0aa": {
+      "de": "Pfarre=='pfa-R@"
+    },
+    "7d43a0a8-674d-47af-ba30-a5d45b76c022": {
+      "de": "Jung=='jUN"
+    },
+    "7d6e8dc7-0b8d-4e7d-b3be-21d0caf7278f": {
+      "de": "Verb=='vERp"
+    },
+    "7d91cd27-54b0-4e7f-a938-40113b402a6b": {
+      "de": "Pferde=='pfe:6-d@"
+    },
+    "7da32e6b-747b-4a33-a472-4070a800f846": {
+      "de": "Proviants==pRo:-vi:-'ants"
+    },
+    "7e287580-eb64-4354-84d9-bedd5cc1de95": {
+      "de": "Essayist==?E-se:-'Ist"
+    },
+    "7e3be627-e068-4790-bfd7-4b6c2fbd4872": {
+      "de": "Eingang=='aIn-gaN"
+    },
+    "7e4816f3-a2d2-4e8f-bb1c-f91103c10ea4": {
+      "de": "Mitochondrien==mI-tO-'xOn-dRi:-@n"
+    },
+    "7e4fcce5-1739-4653-9132-fca0be388d10": {
+      "de": "dumpf=='dUmpf"
+    },
+    "7e55f9c1-6574-477a-bc7a-09461b2cd7e2": {
+      "de": "B=='be:"
+    },
+    "7e644e9b-25fd-4e57-ab30-c935edf9d61e": {
+      "de": "Pabst=='pa:pst"
+    },
+    "7e6a5add-6229-48f8-a0c4-f2f24d70d1b7": {
+      "de": "Boudoir==bu:-do:-'a:6"
+    },
+    "7ebfda26-d9de-4169-a99a-3297d87edb70": {
+      "de": "Arm=='?a6m"
+    },
+    "7ecfbff2-dc78-4b40-8a6a-3ef4af4d427e": {
+      "de": "Nahe=='na:@"
+    },
+    "7f522d6f-fb21-4c4a-8610-fb3a3fb88e8d": {
+      "de": "freust=='fROYst"
+    },
+    "7fb98c82-f829-476b-a21d-6f4f1cd2a908": {
+      "de": "Spot=='spOt"
+    },
+    "7fc25e88-d55d-4910-bb46-4c5cffdf4099": {
+      "de": "grün=='gRy:n"
+    },
+    "7fd7befe-c450-4d85-aef0-60023b49e965": {
+      "de": "reellen==Re:-'E-l@n"
+    },
+    "7fd821b1-3ebc-44a8-b987-f73137a22070": {
+      "de": "Tschik=='tSIk"
+    },
+    "7fe0df7e-7b1e-4d69-a983-57744b59547b": {
+      "de": "Met=='me:t"
+    },
+    "800792f1-dea2-4c54-a954-2fc34711f442": {
+      "de": "Abends=='?a:-b@nts"
+    },
+    "8019dc57-21d5-4101-8653-85efc2209ff6": {
+      "de": "Bord=='bO6t"
+    },
+    "80473b82-cba2-467c-b9e1-9ffb40390fb0": {
+      "de": "geeignet==g@-'aIk-n@t"
+    },
+    "80641c9a-3955-40f8-9ec0-79bec1207fd3": {
+      "de": "Hathaway=='hE-D@-wEI"
+    },
+    "8091a4a2-e0a9-401a-be82-bc0476d633c5": {
+      "de": "Cello=='tSE-lo:"
+    },
+    "809f896d-08f2-4433-8a2f-33c55e19a87e": {
+      "de": "Spionin==Spi:-'o:-nIn"
+    },
+    "80f3fe0e-bf27-4e49-97cc-a1a6a789e6b2": {
+      "de": "Reichs=='RaICs"
+    },
+    "8114c7d6-2cda-4ee5-9e9e-b36e918a302c": {
+      "de": "Linguals==lIN-gu:-'a:ls"
+    },
+    "813c23c3-e42e-4dc2-bcec-dc833f7fe810": {
+      "de": "Real==Re:-'a:l"
+    },
+    "8165fee3-387f-4684-b6e5-7818b5764056": {
+      "de": "No=='no:"
+    },
+    "81d6d9c7-0a45-410a-adcd-00f4bc186e68": {
+      "de": "Sienas==zi:-'e:-na:s"
+    },
+    "81d7324c-3600-41bf-91b8-cb0c12660e87": {
+      "de": "Pantheist==pan-te:-'Ist"
+    },
+    "81df1cac-fade-4c8e-9a3c-644b90fb808c": {
+      "de": "Elch=='?ElC"
+    },
+    "81eb1668-18db-4328-9575-363da62e9003": {
+      "de": "Strauch=='StRaUx"
+    },
+    "822b9363-8570-449b-9720-2ae7a7e9ea66": {
+      "de": "Flut=='flu:t"
+    },
+    "82451be8-8c30-4357-8be5-850870ad6d38": {
+      "de": "Gib=='gi:p"
+    },
+    "825fc5fb-05d4-47b8-b4a2-d6b2736e349a": {
+      "de": "tschilpt=='tSIlpt"
+    },
+    "8261d8ed-6b1a-49dd-a7c9-f155d526f5f0": {
+      "de": "Bass=='bas"
+    },
+    "8283c9a8-be17-439d-9072-da340c2f2d3b": {
+      "de": "Tausch=='taUS"
+    },
+    "828ba22f-c48f-4acd-b067-5d2557fc3f43": {
+      "de": "Schwarz=='Sva6ts"
+    },
+    "82ab35e1-5772-41bf-b1ad-9d2d0aa0f2ad": {
+      "de": "Gin=='dZIn"
+    },
+    "82bf9c9c-108e-47c4-bc9b-b4e670b11447": {
+      "de": "Grandjean==gRa~-'ja~"
+    },
+    "82c1f888-ad1a-4211-9eee-c276f34334a2": {
+      "de": "Hartz=='ha:6ts"
+    },
+    "834d96b2-8d42-43da-b045-4ba74fd48039": {
+      "de": "Zeigt=='tsaIkt"
+    },
+    "83a7b12a-21bc-4390-ad6d-1f4889300845": {
+      "de": "Lion==li:-'jo~"
+    },
+    "83d8967b-894f-405d-a6bd-7f3ae78f91bc": {
+      "de": "Reis=='RaIs"
+    },
+    "84077689-7a23-4ff4-ad1a-f79986010862": {
+      "de": "Nicht=='nICt"
+    },
+    "842c81d8-2c3e-479f-9fe7-5ba53830e86a": {
+      "de": "Jörg=='j96k"
+    },
+    "8431549d-8153-4d8f-a6c8-eb194b29f6cd": {
+      "de": "Jagd=='ja:kt"
+    },
+    "8438af0f-a596-46bf-80db-8a3813758ba2": {
+      "de": "Heights=='haIts"
+    },
+    "843c6572-bd5b-4025-b022-e269d05fa0ed": {
+      "de": "Judaismus==ju:-da-'Is-mUs"
+    },
+    "845ab86d-cc63-4ad2-a204-07508e0326c7": {
+      "de": "Hangeul==ha-'NOYl"
+    },
+    "8492e71f-60f1-49d5-9db8-239432a938e1": {
+      "de": "Takt=='takt"
+    },
+    "84dbf7e8-88fc-4e13-84bd-2d0d9da419d3": {
+      "de": "Khin=='ki:n"
+    },
+    "84f2174f-c957-4435-b75b-ec1a86bf0f5a": {
+      "de": "Hatz=='hats"
+    },
+    "85013dc0-ac89-41c7-8b3a-b826a610fe3a": {
+      "de": "Prize=='praIs"
+    },
+    "8533d54c-0b7d-407a-8083-db1b4f29daa7": {
+      "de": "D.=='de"
+    },
+    "85344846-a11d-4d2e-b59d-f56722e7cb6d": {
+      "de": "G=='ge:"
+    },
+    "85c6c6eb-8efe-4da9-a0a1-bff7a03eabac": {
+      "de": "grüß=='gRy:s"
+    },
+    "85ee02fd-7c89-4bcc-920b-9026f3d18e9f": {
+      "de": "Terror=='tE-Ro6"
+    },
+    "85f13d22-c062-4c59-a3ad-5342d1609992": {
+      "de": "Spaniols==Spa-ni:-'o:ls"
+    },
+    "85fb7b9a-5c40-4880-ab5d-6ade76533ec1": {
+      "de": "Boole=='bu:l"
+    },
+    "86103c45-a366-4610-a07b-e47b0b07ac88": {
+      "de": "fährt=='fE:6t"
+    },
+    "8620daf9-4cd3-4c34-8814-c27f73bc5a80": {
+      "de": "Obst=='?o:pst"
+    },
+    "8655afdc-35cf-4f87-bb76-0b6a27840b5b": {
+      "de": "Grosjean=='gRo:-ja~"
+    },
+    "86568d94-89d8-43b6-8ca3-ced2810096b2": {
+      "de": "Upgrade=='?Up-greId"
+    },
+    "86591a0a-b194-41f7-9546-7cb1037fac39": {
+      "de": "Kraut=='kRaUt"
+    },
+    "86cdd9d2-5612-49b1-895d-ab21ff8964ef": {
+      "de": "konstruiert==kOn-stRu:-'i:6t"
+    },
+    "86e8e21c-4934-44b0-b6b2-efe4ef555a9a": {
+      "de": "Bluetooth=='blu:-tu:T"
+    },
+    "87127249-73f7-4e40-b989-97a1c7d2b973": {
+      "de": "Tüüüh=='ty:"
+    },
+    "87181483-c2e0-4f9f-b61a-d3f0ded264d1": {
+      "de": "Pointe==po:-'e~-t@"
+    },
+    "8720b431-a952-40c0-a2b9-c8006ef8302d": {
+      "de": "Wavelet=='weIv-l@t"
+    },
+    "8729f4ec-0efd-4e7b-b95f-6f2932a4426d": {
+      "de": "Garderobier==ga6-d6-Ro:-bi:-'e:"
+    },
+    "87595bf0-541f-4ff2-b406-4956a5821e59": {
+      "de": "See=='ze:"
+    },
+    "8784b983-7e40-40ff-b2a9-ffffd81886ed": {
+      "de": "Point==po:-'e~"
+    },
+    "8798958d-dddf-4305-a4e2-b86af8a66fb8": {
+      "de": "Gawein=='ga:vaIn"
+    },
+    "88188097-8609-4d63-b4f0-c41f1642ba26": {
+      "de": "Docs=='dOks"
+    },
+    "885337fe-41f9-4c48-9ce4-09f5d87ed0e9": {
+      "de": "Achatschnecke==?a-'xa:t-SnE-k@"
+    },
+    "8896fc57-f94b-450a-b59a-e13cdc317eff": {
+      "de": "Bei=='baI"
+    },
+    "88b61058-cfd5-4350-8f48-0261aec6e2e0": {
+      "de": "Ernst=='?E6nst"
+    },
+    "88b89a29-c68f-4f99-b5ce-8852213bae4f": {
+      "de": "Film=='fIlm"
+    },
+    "88d7920c-3bc5-4a09-94a2-ff9317a5bcd5": {
+      "de": "einzuführen=='aIn-tsu:-fy:-R@n"
+    },
+    "89072f86-4adb-4ca7-9bfb-18bdf9fac7e1": {
+      "de": "Bassins==ba-se~s"
+    },
+    "89378e1b-bcf4-47dc-a7bf-54f516b5acef": {
+      "de": "Soul=='soUl"
+    },
+    "8965e7c1-db6b-4a37-b565-85101e4d6924": {
+      "de": "Theel=='te:l"
+    },
+    "8995cb8a-801f-420c-9482-bde2df42315b": {
+      "de": "Watson=='wO-ts@n"
+    },
+    "89b2ea00-da64-4dc0-b1c8-2c22a843d55e": {
+      "de": "Road=='rOUd"
+    },
+    "89d15be1-e00b-4308-86ee-1b8d1311074a": {
+      "de": "Druck=='dRUk"
+    },
+    "89d4ec19-a61d-41ea-8068-860747a6f630": {
+      "de": "Zweck=='tsvEk"
+    },
+    "89e94b07-3c39-4ccc-bdec-72e7b6c30b3b": {
+      "de": "Krieg=='kRi:k"
+    },
+    "89edfa6e-d253-4eab-8d9b-5467c5ea4639": {
+      "de": "Loitzsch=='lOYtS"
+    },
+    "8a3ebf17-8f73-4054-bd13-714f98a7b1c8": {
+      "de": "Roy=='ROY"
+    },
+    "8afcabbc-2063-4ff3-8edf-226e12b5d85a": {
+      "de": "Zar=='tsa:6"
+    },
+    "8b784116-b203-4517-874a-5233f6fdf492": {
+      "de": "Wheel=='wi:l"
+    },
+    "8b96579c-6227-41d2-83af-d6be65a84d8a": {
+      "de": "Kosmopolit==kOs-mo-po-'lit"
+    },
+    "8b98af97-c245-4277-8800-37423db8434d": {
+      "de": "Tschin=='tSIn"
+    },
+    "8bc482fa-5f01-4e0f-a4e5-e517f4f85a98": {
+      "de": "Polizisten==po-li-'tsIs-t@n"
+    },
+    "8be3eb38-9ecd-41a3-99ec-e7c37bcec48d": {
+      "de": "Jahn=='ja:n"
+    },
+    "8bfaf505-7a7d-4d9e-a2a9-456b706c79f7": {
+      "de": "Subfonds=='zUb-fo~s"
+    },
+    "8c2f99ee-7791-4a73-a94b-75555201e478": {
+      "de": "Ben=='bEn"
+    },
+    "8c701cc0-73db-4783-8f02-c23d04cdb545": {
+      "de": "minuziös==mi:-nu:-tsi:-'2:s"
+    },
+    "8c9242b3-984e-4998-b914-42693d42c318": {
+      "de": "Sware=='svE:r"
+    },
+    "8d123654-1571-4fbe-ab3b-affbc129a0b7": {
+      "de": "Land=='lant"
+    },
+    "8d2ef931-d61c-4b1e-a240-6f8c5a95c181": {
+      "de": "nuance==ny:-'a~s"
+    },
+    "8d53be22-5a40-4e15-b530-52b71e62b0bd": {
+      "de": "Zweitligisten=='tsvaIt-li-gIs-t@n"
+    },
+    "8da0aa93-6fbc-4eaf-a801-6089fcfc4cd5": {
+      "de": "Menuetts==me:-nu:-'Ets"
+    },
+    "8db5dbde-96bd-41de-b1e6-1938123972e2": {
+      "de": "Fuus=='fu:s"
+    },
+    "8de19fef-22da-4588-b406-88f9e81befd8": {
+      "de": "Sind=='zInt"
+    },
+    "8e147bee-432b-4693-b88e-94a630e5a617": {
+      "de": "ja=='ja:"
+    },
+    "8e2d7d63-ba77-4ffd-a6c5-feb06f9bfb61": {
+      "de": "Seance==se:-'a~s"
+    },
+    "8e50461a-2cc3-43c5-90cc-969371c17df0": {
+      "de": "Schicht=='SICt"
+    },
+    "8e6bb68b-8231-47ce-a545-5eff0a862aa6": {
+      "de": "Warrens=='wO-r@ns"
+    },
+    "8e8f5277-b1b3-4cbd-b391-319ce1e40d40": {
+      "de": "Yen=='jEn"
+    },
+    "8f7e1a0c-19e6-48df-a466-cfd6d0ba7dc8": {
+      "de": "Föhn=='f2:n"
+    },
+    "8f8c1e16-d4fa-44f4-bad0-9b1e0768f297": {
+      "de": "Haas=='ha:s"
+    },
+    "8fd32a01-75b3-4871-a63b-cfde47727968": {
+      "de": "Monotheist==mo:-no:-te:-'Ist"
+    },
+    "8fed7f29-ad69-4885-b7f6-6ef5ffa9519d": {
+      "de": "Grace=='grEIs"
+    },
+    "8ff235e2-e4df-4a10-a3e5-2da9e7a950e8": {
+      "de": "Exterieurs==?Eks-te:-Ri:-'2:6s"
+    },
+    "904645ad-e17b-4477-93be-dc4c096691d6": {
+      "de": "Pauls=='paUls"
+    },
+    "908abd33-930c-4430-bded-2325808a6125": {
+      "de": "Tec=='tEk"
+    },
+    "908eaed2-bd12-4872-8e3b-0f0454eb4295": {
+      "de": "Rial==Ri:-'a:l"
+    },
+    "90be3c30-13d5-4860-a2e9-c30a793a1075": {
+      "de": "Church=='tS96tS"
+    },
+    "90cd45f9-5a24-495a-900c-6a76c01d8d1d": {
+      "de": "Punkt=='pUNkt"
+    },
+    "90d652b3-07c7-4cb8-bd3a-8dd9e9f065ee": {
+      "de": "Leafs=='li:fs"
+    },
+    "90f323f3-58f3-408b-b046-72bb310315fa": {
+      "de": "Sumpf=='zUmpf"
+    },
+    "90f8a8ca-cc59-4d2d-9655-36343e8bbba5": {
+      "de": "Flop=='flOp"
+    },
+    "9107fa2d-b71a-42a1-aa36-7645f7088852": {
+      "de": "Zug=='tsu:k"
+    },
+    "911b43a2-bf75-4901-bc7e-becfe1268bc7": {
+      "de": "Boeuf=='b9f"
+    },
+    "912eea92-21a1-4a79-95f7-b1092f99d195": {
+      "de": "Dogs=='dOgs"
+    },
+    "913d89c2-a081-450e-900d-340fb8791431": {
+      "de": "Napf=='napf"
+    },
+    "915e7a25-3c77-4cd1-8baa-c2532040e275": {
+      "de": "Ladd=='lat"
+    },
+    "9167652e-5d62-4c5d-b2c2-fb472bbd7876": {
+      "de": "Chocolate=='tSOk-l@t"
+    },
+    "919a6cae-af13-4da5-9caf-572d6d2e8dfd": {
+      "de": "Wau=='vaU"
+    },
+    "91ca85e0-90c4-4a5c-a4a4-8ab09dd3024d": {
+      "de": "Cup=='kap"
+    },
+    "91cbefd5-6919-4a6a-a885-8f78453200c9": {
+      "de": "tschüss=='tSYs"
+    },
+    "920211a6-a949-4a69-9b38-f3a79379c060": {
+      "de": "Yaa=='ja:"
+    },
+    "9204b8b5-e4e9-4755-8444-2aa5c0ace7f8": {
+      "de": "Bett=='bEt"
+    },
+    "92490cfa-8f27-4d6e-b2b9-8153397fd591": {
+      "de": "Bleibt=='blaIpt"
+    },
+    "925286f1-f90f-45a3-967a-d07918280ebb": {
+      "de": "Kaum=='kaUm"
+    },
+    "92b9918b-e4bc-4a4c-8102-870d27d44ca7": {
+      "de": "Flags=='flE:gs"
+    },
+    "92c58e7f-ddd8-4102-8ee0-e72b3f6dcfb6": {
+      "de": "Wow=='waU"
+    },
+    "92fdc808-b3c4-4e53-aeb7-6c75fd292de0": {
+      "de": "Points==po:-'e~s"
+    },
+    "930d77b3-b3e2-439f-89ba-6a6770e31954": {
+      "de": "Kants=='kants"
+    },
+    "93192c9a-fbc9-4404-a986-3306b97e8061": {
+      "de": "Krampf=='kRampf"
+    },
+    "9323d3e4-e402-4a6e-a94b-8706b315ee38": {
+      "de": "Stochastik==Sto:-'xa-stIk"
+    },
+    "934c4b8f-1229-454d-8b4d-c0cec93a3ab5": {
+      "de": "Gamsachurdijas==gam-za-'xU6-di:-ja:s"
+    },
+    "93664980-3826-4c2c-89c8-a1a65240d592": {
+      "de": "Jill=='dZIl"
+    },
+    "936af5b3-58b2-4bad-8573-16b9d6e65652": {
+      "de": "Erst=='?E6st"
+    },
+    "938df807-df80-4020-9bd4-4822f2deb899": {
+      "de": "LKWs=='El-ka:-ve:s"
+    },
+    "93bd7c25-0394-40f0-a259-248c5e614ed5": {
+      "de": "Hoteliers==ho:-tE-li:-'e:s"
+    },
+    "9464e248-6364-4972-a9ae-fd78c8b407ff": {
+      "de": "Politik==po-li-'tik"
+    },
+    "9469d6cf-cdea-44a7-b2d3-d140ef14e2f3": {
+      "de": "we=='wi:"
+    },
+    "948f6743-d35f-423a-bc2b-be07d4c3ce6e": {
+      "de": "Lyoner==li:-'o:-n6"
+    },
+    "94920321-cf02-45ee-8485-7eddda1e9cc9": {
+      "de": "Chip=='tSIp"
+    },
+    "94a3ae37-ffbd-4892-bb35-1f59142a1bb9": {
+      "de": "Rauch=='RaUx"
+    },
+    "94a51fab-8098-4851-8f4f-e1bbaa80ecba": {
+      "de": "Nick=='nIk"
+    },
+    "94c4cb1e-f230-427e-bcec-1e0d1ac2ad54": {
+      "de": "Codes=='kOUds"
+    },
+    "94c52925-8d8f-474e-9256-52137ff2192a": {
+      "de": "Lehm=='le:m"
+    },
+    "94ff2182-ce3e-482c-b333-6631e79a45d2": {
+      "de": "Euadne==?OY-'ad-n@"
+    },
+    "953b8b98-5778-438c-8eb8-b4a8c76d9fe6": {
+      "de": "Theory=='Ti:-@-ri:"
+    },
+    "9579ee35-125d-40aa-84cb-b7260a6e9198": {
+      "de": "Psychosen==psy:-'Co:-z@n"
+    },
+    "95b75c42-d187-43e0-ab7c-a9fd6ef05f3d": {
+      "de": "Aktuars==?ak-tu:-'a:6s"
+    },
+    "95bf5211-7595-4aa8-9273-e98a28560460": {
+      "de": "Saint=='sEInt"
+    },
+    "95c12c57-a4bc-4db2-81d9-08b2ab894371": {
+      "de": "What=='wOt"
+    },
+    "962d63dd-d48b-4481-b756-a74ab8e8fa8e": {
+      "de": "Schlamm=='Slam"
+    },
+    "9679c295-48b6-475b-8919-e0f6587d97cb": {
+      "de": "Jaen=='jE:n"
+    },
+    "96800020-235c-4fcb-8609-ae2dc2f34630": {
+      "de": "le=='l@"
+    },
+    "96aebcc8-6319-4acb-827d-791831c712f5": {
+      "de": "ius==?i:-'Us"
+    },
+    "96bbd2f1-0d3f-4ab6-b562-0cf8f0d91c4d": {
+      "de": "á=='a:"
+    },
+    "96d050e3-a458-4ecf-9408-72c0918d2403": {
+      "de": "Triode==tRi:-'o:-d@"
+    },
+    "96fd5ca0-52bd-443c-a01e-6bceeccf5700": {
+      "de": "arrangiert==?a-Ra~-'Zi:6t"
+    },
+    "9745759d-7ce3-40c3-ab49-67dd4f9dd188": {
+      "de": "Triumphs==tRi:-'Umfs"
+    },
+    "97682917-98db-4798-a6bd-fdecd5330ad0": {
+      "de": "Heroismus==he:-Ro:-'Is-mUs"
+    },
+    "976b0eb5-9dee-47cc-93ad-1c333f10b3d0": {
+      "de": "E==?e:"
+    },
+    "977771bb-13fd-4cf6-b09e-e78be9afbe93": {
+      "de": "Grad=='gRa:t"
+    },
+    "9777e148-8d44-40a4-b20c-532b204b71c0": {
+      "de": "Lynne=='lYn"
+    },
+    "97c7e6d4-0ee6-48b6-b5da-c41e3bc13f3a": {
+      "de": "Web=='vEp"
+    },
+    "97df580d-48f9-4ab2-a8aa-9e8d32e98126": {
+      "de": "Lynkeus==lyN-'ke:-jUs"
+    },
+    "9804637c-7d12-4c12-b574-6347c060d979": {
+      "de": "Jens=='jEns"
+    },
+    "9810309a-9939-47be-8d19-8a134ba17ebf": {
+      "de": "Moyen==mo:-'je~"
+    },
+    "984eb87e-2ec8-4626-b241-2744a409c454": {
+      "de": "Ham=='ha:m"
+    },
+    "98b3b8e0-dbea-45de-9129-1b16b0b75ad7": {
+      "de": "für=='fy:6"
+    },
+    "98d6a514-6a6f-40a0-a79f-2a9338b038f8": {
+      "de": "Form=='fO6m"
+    },
+    "98ea2d9e-952f-45ed-bdb0-2bfb0b3e4b19": {
+      "de": "Ray=='rEI"
+    },
+    "98fb1595-166c-4f0a-83b6-11d3487dac40": {
+      "de": "Arms=='?a6ms"
+    },
+    "994b08a0-9625-47ca-b9ce-00c5b5cf5370": {
+      "de": "Kathy==kE-'Ti:"
+    },
+    "995f2e50-5567-4019-aba7-b52bf92788e0": {
+      "de": "Brigadier==bRi:-ga-di:-'e:"
+    },
+    "998dcf5a-bd9e-4b7f-904c-45b33b9d48b1": {
+      "de": "One=='?wan"
+    },
+    "998dd5ff-49d7-4b69-b9b9-80424a246355": {
+      "de": "subsidiär==zUp-zi:-di:-'E:6"
+    },
+    "99bee97a-f8f4-4aae-b93b-d7f790b6d29b": {
+      "de": "New=='nju:"
+    },
+    "99c42e42-c426-4ec1-8d10-d5eaed78f9fe": {
+      "de": "Welsh=='wElS"
+    },
+    "99f3c0f8-512c-4d7b-8a8a-3a361733eeb3": {
+      "de": "Pfuhl=='pfu:l"
+    },
+    "9a1d13ca-e43b-4a0f-9f73-885269c23b93": {
+      "de": "Passagiere==pa-sa-'Zi:-R@"
+    },
+    "9a2d74f1-1f46-40c7-9bf4-b9418e0e57fe": {
+      "de": "Audienz==?aU-di:-'Ents"
+    },
+    "9a41617e-b5ac-40e9-9f0f-343d0186f58c": {
+      "de": "Maestro==ma-'Es-tRo:"
+    },
+    "9a4cb6e7-76e6-425f-b3f0-75cf821c0b85": {
+      "de": "Remake=='ri:-mEIk"
+    },
+    "9a56d15c-468c-4920-9880-eeeee24f1e95": {
+      "de": "Jeep=='dZi:p"
+    },
+    "9a5d99e8-50ef-4254-9604-b972d479161e": {
+      "de": "erstmals=='?e6st-ma:ls"
+    },
+    "9a810f59-f1a3-432a-be78-15a3deed6959": {
+      "de": "Haar=='ha:6"
+    },
+    "9ab5feab-8208-4d25-8102-4e0d59c8aa7a": {
+      "de": "Scham=='Sa:m"
+    },
+    "9ab9abe7-cfac-4cf9-8cc3-e064ac71813b": {
+      "de": "Thriller=='TrI-l@"
+    },
+    "9adef5c2-4e27-4421-a130-9363b2e080b0": {
+      "de": "Fall=='fal"
+    },
+    "9b141f04-5c54-4b22-bb7b-226e570de848": {
+      "de": "Claude=='klo:d"
+    },
+    "9b4f303a-3bde-47cb-a05f-15fd94093ef1": {
+      "de": "Warwick=='wO6-wIk"
+    },
+    "9c37fdfb-66ec-4341-8ef4-9b51722ae3b8": {
+      "de": "Ford=='fO6t"
+    },
+    "9c459caf-9d78-4a77-b20f-639b61faacd0": {
+      "de": "voranzutreiben==fo:-'Ran-tsu-tRaI-b@n"
+    },
+    "9c5982b4-e8ac-458c-b4f1-680857ac952e": {
+      "de": "nö=='n2:"
+    },
+    "9ca45787-1fb3-470d-8d4a-c3d31c7c70cc": {
+      "de": "Polizeien==po-li-'tsaI-@n"
+    },
+    "9ce393e5-21f9-4ccd-ba8a-42649d40807e": {
+      "de": "Bruchs=='bRUxs"
+    },
+    "9cf0e0a9-2987-44c7-9507-4c67c12cf012": {
+      "de": "Beat=='bi:t"
+    },
+    "9d4af156-ed31-490e-90fb-cfd7c22da607": {
+      "de": "Oboisten==?o:-bo:-'Is-t@n"
+    },
+    "9d587ace-e342-45b1-9ba6-40b3249995b9": {
+      "de": "Draw=='drO"
+    },
+    "9d81db86-0e67-4626-8ec4-279b705ff262": {
+      "de": "Heft=='hEft"
+    },
+    "9da19992-7c0b-43b9-a943-66071b7d04e7": {
+      "de": "Ralf=='Ralf"
+    },
+    "9dab2a87-367b-4da3-864e-b6ed7d88a029": {
+      "de": "jou=='Zu:"
+    },
+    "9db130ab-4b61-4290-85d0-728f6087c257": {
+      "de": "Kongruenz==kOn-gRu:-'Ents"
+    },
+    "9dd7ea1d-901f-4814-bb62-530f6606d7fe": {
+      "de": "Berg=='bE6k"
+    },
+    "9e05afc0-7d55-46aa-b2c0-a951abc4f70e": {
+      "de": "King=='kIN"
+    },
+    "9e1861d2-83ad-4f5d-969a-50fac0c90c80": {
+      "de": "Kür=='ky:6"
+    },
+    "9e3ca0db-6b08-4fbc-9eae-ee679f13daa2": {
+      "de": "Recht=='RECt"
+    },
+    "9e4fa921-d582-47c0-8af3-80f878c58791": {
+      "de": "Blues=='blu:s"
+    },
+    "9e648d24-4f25-4b06-ab77-8c02591c04ad": {
+      "de": "Swutsch=='svUtS"
+    },
+    "9e9517c6-df9c-4cb8-b386-fdae8ac193b0": {
+      "de": "Des=='dEs"
+    },
+    "9e989625-0208-4c64-910d-577f5db31597": {
+      "de": "O=='?o:"
+    },
+    "9eb28fb2-8959-4eff-aaf5-5fb58907d776": {
+      "de": "Kreuz=='kROYts"
+    },
+    "9eef9c07-0ab3-4168-8471-05f17555cfeb": {
+      "de": "Syenit==zye-'ni:t"
+    },
+    "9f0ef23b-b486-482d-9962-9e2dfc5b6e6c": {
+      "de": "Lebt=='le:pt"
+    },
+    "9f33c9c5-0e98-449a-a06a-2a4b1f5daa7f": {
+      "de": "Claire=='klE@"
+    },
+    "9f57ed21-903d-441b-a291-eb35a80f8158": {
+      "de": "Maus=='maUs"
+    },
+    "9fce28b6-e090-4d08-b1d4-70cf79d5869d": {
+      "de": "Pfanne=='pfa-n@"
+    },
+    "9fcf2028-e880-4e6b-bbc6-0d4f70db29a7": {
+      "de": "Nuklein==nU-kle:-'i:n"
+    },
+    "9fd41691-1a40-4064-bab8-428aae764616": {
+      "de": "bourgeois==bU6-Zo:-'a"
+    },
+    "9fefe260-a2d8-40e3-86e7-18a1a7b1e867": {
+      "de": "Fach=='fax"
+    },
+    "9fffa03b-37d5-4eb9-99f8-c95963341e62": {
+      "de": "Matsch=='matS"
+    },
+    "a0a4d3e4-b04e-4d55-b1a7-ed5cb6f779b3": {
+      "de": "Fiaker==fi:-'a-k6"
+    },
+    "a0b8e357-57a2-4515-9349-5c1f53d3a252": {
+      "de": "Varianz==va-Ri:-'ants"
+    },
+    "a0de405d-ed4c-4731-b734-7de138db0e36": {
+      "de": "Chips=='tSIps"
+    },
+    "a0e206ff-b44b-414b-a3ab-f48af489acaf": {
+      "de": "Films=='fIlms"
+    },
+    "a1324791-f3d7-4cff-aea8-c7ceecd23a93": {
+      "de": "non=='no~"
+    },
+    "a146b767-03a0-424b-8317-c23890df8ed9": {
+      "de": "Fok=='fOk"
+    },
+    "a14cb188-56c0-4121-ab21-34dd5702ca20": {
+      "de": "Fair=='fE:6"
+    },
+    "a1831b2f-760b-4760-8368-29acfcdea13a": {
+      "de": "Lineal==li:-ne:-'a:l"
+    },
+    "a18a0759-4467-4da7-bffd-7b8db968b0f7": {
+      "de": "Peel=='pi:l"
+    },
+    "a18a49db-9541-4337-b9e4-c58b52a048ff": {
+      "de": "James=='dZEIms"
+    },
+    "a18dc825-40ee-4c1f-a7c8-4e4c9ba3e59b": {
+      "de": "Brother=='bra-D6"
+    },
+    "a1bfa21b-f686-4329-a663-83967d193fe8": {
+      "de": "Sag=='za:k"
+    },
+    "a1d06ec0-57f4-4e18-914b-d1ccb2e01cee": {
+      "de": "Dass=='das"
+    },
+    "a1ea3118-a582-4f5c-b586-9861c2f32c5e": {
+      "de": "Ass=='?as"
+    },
+    "a1f839b6-2412-45ff-ae8e-f394701126ca": {
+      "de": "Cent=='sEnt"
+    },
+    "a228d763-e0a0-4cdb-a326-8c6683c359f3": {
+      "de": "Ralph=='Ralf"
+    },
+    "a23552ce-b843-46e7-8945-cd84c1fcd681": {
+      "de": "Mauksch=='maUkS"
+    },
+    "a28f142f-d46e-439b-9b4e-114edce44cd6": {
+      "de": "Liz=='lIs"
+    },
+    "a2adb87d-62ca-4c59-8f19-a71fc6f6579b": {
+      "de": "Old=='?o:ld"
+    },
+    "a2adf366-9785-4d5c-9ad3-04d0e7564caa": {
+      "de": "M.O.D=='mOt"
+    },
+    "a2b93230-83ae-42fa-bd24-7b5bba9e5517": {
+      "de": "eigens=='aI-g@ns"
+    },
+    "a2ff03ab-a841-4514-baee-9745d84b2ef3": {
+      "de": "Barrieren==ba-Ri:-'e:-R@n"
+    },
+    "a300d0a6-8a62-4b78-9ee1-75c1e5842b3d": {
+      "de": "Sleng=='slEN"
+    },
+    "a3099782-2c6b-49a9-9d8b-064532f5742a": {
+      "de": "Tzeentch=='tse:ntS"
+    },
+    "a37e574c-365e-4713-a09d-b5b768fec293": {
+      "de": "äußeren=='OY-s6-R@n"
+    },
+    "a3857f16-e16b-4d5a-8cd4-c3d35c0096c9": {
+      "de": "Blatt=='blat"
+    },
+    "a390ff1b-f1f7-46ce-acbe-c7e241288445": {
+      "de": "Gad=='ga:t"
+    },
+    "a3916fbb-a6bf-490b-8a35-7ec56cd5c119": {
+      "de": "Gyöngyös=='gy:-'2:N-gy:-9s"
+    },
+    "a3a727ab-534a-444f-a78d-690dd4cd9673": {
+      "de": "Frei=='fRaI"
+    },
+    "a3ef5dc1-707e-4a96-9a13-cb31ac5b25f7": {
+      "de": "Sau=='zaU"
+    },
+    "a3f00af4-4f1c-44ff-85ab-450e1a483200": {
+      "de": "JeanHans==ja~-'hans"
+    },
+    "a4061789-fcad-4cb3-900c-25bf41b76b92": {
+      "de": "Tier=='ti:6"
+    },
+    "a4492225-8621-4a41-9d85-9b244b45220c": {
+      "de": "Akt=='?akt"
+    },
+    "a47b1bc1-9386-401e-afe3-c2e85143a74a": {
+      "de": "Tech=='tEk"
+    },
+    "a4e6d2bd-93c2-4b0b-8e50-c9d50fbc2643": {
+      "de": "Bist=='bIst"
+    },
+    "a4fdb46d-d291-49ab-84d8-81a3061fc550": {
+      "de": "tschö=='tS2:"
+    },
+    "a5874fec-0810-43b8-b6a8-aa76b27d87ca": {
+      "de": "Klang=='klaN"
+    },
+    "a58b1e9b-f1ef-4c04-ab2b-92fcf96bed24": {
+      "de": "sentenziös==zEn-tEn-tsi:-'2:s"
+    },
+    "a5f00010-ef1b-430d-8e37-77f22d4a7096": {
+      "de": "Proviant==pRo:-vi:-'ant"
+    },
+    "a602ccf6-bd24-494b-ad48-752b851c9919": {
+      "de": "Bad=='ba:t"
+    },
+    "a60b12f0-44ae-4d2e-a6df-5a6fed0812e4": {
+      "de": "Rat=='Ra:t"
+    },
+    "a66de305-1eee-483a-93c3-ee7c5f76ba61": {
+      "de": "triumphgekröntstem==tRi:-'Umf-g@-kR2:nt-st@m"
+    },
+    "a6a4251a-f7fb-43d4-b06e-427e2a74775a": {
+      "de": "Sao=='za:o"
+    },
+    "a6b0da37-928d-46fc-83cc-8621e1ab1907": {
+      "de": "Spruch=='SpRUx"
+    },
+    "a6d99fbd-985a-4cc2-a47b-c3fc7582d058": {
+      "de": "Saire==za:-'i:-R@"
+    },
+    "a6dbbbff-a508-4bcf-ac76-37bdb8a7825b": {
+      "de": "desillusionierend==dEs-?I-lu-zjo-'ni:-R@nt"
+    },
+    "a6f6fefb-2dd2-4978-a02b-f6589aecd369": {
+      "de": "ideell==?i:-de:-'El"
+    },
+    "a6fbff61-b1af-4e0c-ba2f-e6c2d298b2cf": {
+      "de": "Pfauen=='pfaU-@n"
+    },
+    "a7062fc8-3aca-499f-8724-f289ce7482ce": {
+      "de": "Toetouch=='toU-tatS"
+    },
+    "a74aa4aa-8974-4c33-96ea-029119caed02": {
+      "de": "Cathrine=='kET-rIn"
+    },
+    "a774baa5-0037-4032-816e-3b74aca3ef15": {
+      "de": "Maucksch=='maUkS"
+    },
+    "a7ad4560-d3f9-4123-9959-a2a32cd86675": {
+      "de": "einschließlich=='aIn-Sli:s-lIC"
+    },
+    "a7d0d45a-a0a1-499e-9c62-56d44fd62040": {
+      "de": "Marokko==ma:-'RO-ko"
+    },
+    "a805e3a0-4651-4ec4-888b-9fd1e3d8ceb1": {
+      "de": "Teint=='te~"
+    },
+    "a83b621b-1192-4830-baba-d1c1ea4cd7a8": {
+      "de": "Moos=='mo:s"
+    },
+    "a8473ae2-9875-4c2b-8a82-9fccb676aff1": {
+      "de": "Oh=='?o:"
+    },
+    "a883844c-08ce-4e4d-b044-b07940a52aeb": {
+      "de": "Kampfs=='kampfs"
+    },
+    "a9059e9a-383b-43c6-a7e8-c7cbab680149": {
+      "de": "Fréchet==fRe:-'CE"
+    },
+    "a914804f-4902-4b61-9c11-ce4aa827ddc8": {
+      "de": "Jun=='jUn"
+    },
+    "a92bfa45-39b5-4909-8c8d-a8f0f2a4a151": {
+      "de": "Lianen==li:-'a:-n@n"
+    },
+    "a9b4ee0f-ae7a-4712-a39f-ba73d88150de": {
+      "de": "Egon=='?e:-gon"
+    },
+    "a9efdd44-ae1f-4366-8969-8d43ae30c9d4": {
+      "de": "Schirm=='SI6m"
+    },
+    "a9f0acda-be0b-42d4-8b4a-8539702625e4": {
+      "de": "Aktuar==?ak-tu:-'a:6"
+    },
+    "aa0246b0-c684-4612-ab03-fee7c6f3d3c9": {
+      "de": "Neuötting==nOY-?'9-tIN"
+    },
+    "aa0d95fc-aa53-4381-b679-606ad05bc1cc": {
+      "de": "Boom=='bu:m"
+    },
+    "aa62510d-f81f-4bbd-bb7a-9fa41cdde952": {
+      "de": "Jim=='dZIm"
+    },
+    "aa734846-9a0c-42bb-8cd8-2eb3a0f1a3fa": {
+      "de": "Licht=='lICt"
+    },
+    "aa74d4f8-4f43-4673-87ad-ae53b4733db8": {
+      "de": "Herzl=='hE6tsl"
+    },
+    "aaae538c-a603-4db3-944e-44ebb801036d": {
+      "de": "Gerd=='gE6t"
+    },
+    "aaffd193-ca5b-444c-be7d-f4cf23d78dd6": {
+      "de": "Auch=='?aUx"
+    },
+    "ab17da5c-e055-48ee-b235-e830c16e7486": {
+      "de": "Bidault==bi:-'do~"
+    },
+    "ab1cacdb-7666-44e3-bbd4-386b2740805e": {
+      "de": "Am=='?am"
+    },
+    "ab223917-82f0-42b2-8e67-a14773bc6d48": {
+      "de": "Südchinas==zy:t-'Ci:-nas"
+    },
+    "ab365cf3-c632-4fa5-83b3-5d2840489c60": {
+      "de": "Mach=='max"
+    },
+    "ab3bc582-ed92-4b50-851e-feb041444111": {
+      "de": "schön=='S2:n"
+    },
+    "ab707319-24ad-4681-9649-3387b1bd5baa": {
+      "de": "Mehr=='me:6"
+    },
+    "abae0acf-f5fc-48ff-8fdb-eeb3c9628c91": {
+      "de": "Duett==du:-'Et"
+    },
+    "abc24e97-0f76-410d-b9fe-e15ced87e522": {
+      "de": "Triumph==tRi:-'Umf"
+    },
+    "abf1a571-d520-4eb3-be61-6fd198bd2f26": {
+      "de": "Barriere==ba-Ri:-'e:-R@"
+    },
+    "ac10988a-0ca0-432d-9779-41b2ca3c3104": {
+      "de": "Neil=='ni:l"
+    },
+    "ac2b0c93-1c9c-492c-98e0-bb421e4fa3a7": {
+      "de": "Rhee=='Re:"
+    },
+    "ac9e0a3d-63d4-435e-a0b7-449c7b6ba920": {
+      "de": "Monarchie==mo:-na6-'Ci:"
+    },
+    "acad1ffd-2f4b-40f5-aeef-7201cf5ac1ec": {
+      "de": "Rand=='Rant"
+    },
+    "ad0a5e10-c152-413b-8eba-c65d9bdb0db2": {
+      "de": "Me=='m@"
+    },
+    "ad1be68b-3156-4493-ade2-f9187f649bb5": {
+      "de": "Sierras==zi:-'E-Ra:s"
+    },
+    "ad328470-3adb-4b71-8425-093cf74141d4": {
+      "de": "Pete=='pi:t"
+    },
+    "ad453ea5-67e7-47c7-bc17-7de31afc9570": {
+      "de": "Gelb=='gElp"
+    },
+    "ad85c15c-4d16-4a00-aac3-bac13517a0f0": {
+      "de": "Huhn=='hu:n"
+    },
+    "ae7436ab-019b-4f3e-9e24-e4a4dc054418": {
+      "de": "Gaps=='gEps"
+    },
+    "ae96af6a-187d-4220-9797-41b744d88fcb": {
+      "de": "Stones=='st@Uns"
+    },
+    "ae9ab12a-3f7a-474f-87a6-c5f153d0c8ab": {
+      "de": "Rice=='raIs"
+    },
+    "aeaad226-0703-4002-9092-e77d97e80fb2": {
+      "de": "Champions=='tSEmp-jEns"
+    },
+    "aebd4624-21e7-4e28-b0dd-ac5a85b5bea0": {
+      "de": "Opiat==?o:-pi:-'a:t"
+    },
+    "aee34fbb-cdf3-43a3-b6f8-6ca8656081af": {
+      "de": "Hast=='hast"
+    },
+    "aefd66b0-6c08-4fc4-be87-b8935de5e8ef": {
+      "de": "Höchst=='h2:Cst"
+    },
+    "af0c62dc-3af3-4428-9274-eb9ca552d4fc": {
+      "de": "Laurent==lO-'Ro~"
+    },
+    "af11b5cd-606d-4d5d-bf2b-7c21894f3ec4": {
+      "de": "Hinduismus==hIn-du:-'Is-mUs"
+    },
+    "af30a1b4-aac8-4f90-bba9-7b727aee7cc4": {
+      "de": "Ho=='ho:"
+    },
+    "af642754-07e1-4635-8651-a91972044d2e": {
+      "de": "Life=='laIf"
+    },
+    "afd03447-01e8-45b5-b3f4-a018b5f3821d": {
+      "de": "Regie==Re:-'Zi:"
+    },
+    "b04606d7-69b2-4e17-b633-f24084d682e8": {
+      "de": "Fiakern==fi:-'a-k6n"
+    },
+    "b0da7374-e1d8-4c8d-a310-3c7ba026a773": {
+      "de": "Coubertin==ku:-bE6-'te~"
+    },
+    "b12075dd-0ffa-4cf1-8f7f-3ea8df813dde": {
+      "de": "Brauch=='bRaUx"
+    },
+    "b136fe5b-839b-4bd7-9718-99db3b96b525": {
+      "de": "dell'arte==dEl-'aR-t@"
+    },
+    "b13a9a62-d11a-47c2-9d8c-f428816e6b0e": {
+      "de": "Delors==d@-'lo~R"
+    },
+    "b13ab82d-33d1-44ea-97c6-7de6c8e03a5b": {
+      "de": "Home=='h@Um"
+    },
+    "b14b6df9-c620-4d1b-b3f4-d32b0d317853": {
+      "de": "Bay=='bEI"
+    },
+    "b1800a23-b8d3-4c0b-be95-35c897410bc0": {
+      "de": "ne=='n@"
+    },
+    "b1b5421f-d97f-4da2-84ff-3c8fe778f4fc": {
+      "de": "einheitliche=='aIn-haI-tlI-C@"
+    },
+    "b1d3252d-8b83-46b0-a8d5-cd4f5cb9644c": {
+      "de": "Thackerays=='Ta-k@-ri:s"
+    },
+    "b1e1cc86-fecf-4b86-adaa-e7974c81f132": {
+      "de": "Bötsch=='b9tS"
+    },
+    "b1f29496-561c-4e4b-bb32-f0024875d071": {
+      "de": "Denn=='dEn"
+    },
+    "b214006d-f778-4cd2-8c0b-851a12cd47d8": {
+      "de": "Charlie=='tSa6-li:"
+    },
+    "b22ed8b4-c875-49b1-97b5-f3d8c488b773": {
+      "de": "Bild=='bIlt"
+    },
+    "b265e046-a4e0-4597-a17d-08a0afb6ab43": {
+      "de": "Im=='?Im"
+    },
+    "b2709bc0-b336-4d06-a4e8-b5ccd9ea6cb6": {
+      "de": "Hai=='haI"
+    },
+    "b270e90e-d298-48fc-b9c7-ddac559f3d05": {
+      "de": "Naturschutzgebiet==na:-'tu6-SUts-g@-bi:t"
+    },
+    "b272bad2-fb67-478b-b131-0837139e50b7": {
+      "de": "J=='jOt"
+    },
+    "b2843ec7-1abe-4e54-a304-5f00f95551de": {
+      "de": "Snacks=='snEks"
+    },
+    "b2c50090-140c-46e0-83e4-958657a4b28c": {
+      "de": "Mark=='ma6k"
+    },
+    "b2cb834e-8941-40f6-8a70-f29243a1c260": {
+      "de": "Y.=='waI"
+    },
+    "b2f4f268-609a-41c7-be1e-bcce82d4573b": {
+      "de": "Game=='gEIm"
+    },
+    "b2f71044-ffa3-4ab2-adf9-1c393ab3f5a8": {
+      "de": "engagierte==?a~-ga-'Zi:6-t@"
+    },
+    "b31e2da6-d3ba-40ef-abd8-cec56c1cc98b": {
+      "de": "Bike=='baIk"
+    },
+    "b341050a-0467-48d5-bda7-cfed00629740": {
+      "de": "World=='v96lt"
+    },
+    "b350439f-22f5-4859-b020-0578f92ce1f6": {
+      "de": "Bundeswehr=='bUn-d@s-ve6"
+    },
+    "b367d50d-deb9-4b22-8e88-44733943b38b": {
+      "de": "Na=='na:"
+    },
+    "b3af295b-3b51-40b0-84f0-894b9d0a7af0": {
+      "de": "Reedsches=='ri:d-S@s"
+    },
+    "b417246f-f601-432e-b5ff-f899328c02b5": {
+      "de": "Bar=='ba:6"
+    },
+    "b439473c-dd31-4ce3-a84e-02d2d1536f04": {
+      "de": "Nacht=='naxt"
+    },
+    "b43e5712-6d74-4e90-8ecc-049d4fb40848": {
+      "de": "Frame=='frEIm"
+    },
+    "b46b2c7b-f321-49de-b396-594ff9e60e66": {
+      "de": "Fond=='fo~"
+    },
+    "b4a908dc-128a-46bc-8c8a-3d7a1296be80": {
+      "de": "Tüüüüüh=='ty:"
+    },
+    "b4b01347-0b04-40e7-9670-93443c7e9476": {
+      "de": "Deathmetals=='dET-mE-t@ls"
+    },
+    "b50a93a7-c637-4084-bfed-c534b56933e6": {
+      "de": "Acht=='?axt"
+    },
+    "b51ba905-7efd-460a-ba10-bd2297d03751": {
+      "de": "Ö=='?2:"
+    },
+    "b540f62c-d21b-456c-ab5f-37095c531a23": {
+      "de": "Kühn=='ky:n"
+    },
+    "b5451133-b729-4589-ad60-090aecf9b0ed": {
+      "de": "Mélange==me:-'la~S"
+    },
+    "b54e84b8-f3a3-4710-8e78-ef9405b37779": {
+      "de": "Gau=='gaU"
+    },
+    "b55e6544-e468-4dd3-903e-2fb074a5a292": {
+      "de": "Bätsch=='bEtS"
+    },
+    "b55ededd-4330-4133-bb28-d74a501869a8": {
+      "de": "Thron=='tRo:n"
+    },
+    "b572d04f-4537-4453-900d-306d84c8de3b": {
+      "de": "Denkst=='dENkst"
+    },
+    "b5a077a4-0c50-4e5f-843a-16770af1e523": {
+      "de": "Ihm=='?i:m"
+    },
+    "b5f2d94b-8e61-42cd-b881-679b3060be17": {
+      "de": "Ranking=='rEN-kIN"
+    },
+    "b603e6c0-3bf2-4697-953c-6755b7801596": {
+      "de": "Je=='je:"
+    },
+    "b6d75f55-86b4-4c79-bf10-a8a041cf7fed": {
+      "de": "Meteors==me:-te:-'o:6s"
+    },
+    "b7149091-d58e-4c7e-96f0-7398dc3549bc": {
+      "de": "Sketch=='skEtS"
+    },
+    "b73d23da-bd79-4149-bc3f-c704ad08e337": {
+      "de": "Heul=='hOYl"
+    },
+    "b759eae9-13f0-4b33-bfc5-c8964a1d5496": {
+      "de": "Prudhomme==pRy:d-'Om"
+    },
+    "b760a931-b6b3-4719-9f13-a33f174be50b": {
+      "de": "Opiats==?o:-pi:-'a:ts"
+    },
+    "b7633a78-a636-4acf-8636-c2619deb8530": {
+      "de": "Theiß=='taIs"
+    },
+    "b76e3027-9494-4eb3-b550-d95856e4c20f": {
+      "de": "Grand=='gRa~"
+    },
+    "b8135c4a-3179-4aee-9489-1c6547d25dd4": {
+      "de": "Dung=='dUN"
+    },
+    "b8215330-b8ad-4016-96f2-3469eb64f78f": {
+      "de": "Triumphe==tRi:-'Um-f@"
+    },
+    "b83bb37e-e889-4633-9f82-1440dc5903de": {
+      "de": "Achte=='?ax-t@"
+    },
+    "b83d9f8d-ea71-4f0c-9af0-6d806a7c84b3": {
+      "de": "Haj=='haI"
+    },
+    "b84289e2-7d6e-4d0a-ad30-6c79e090585c": {
+      "de": "Di=='daI"
+    },
+    "b857a2af-32cf-4bc3-a992-31290e1f7c09": {
+      "de": "Patriarch==pa-tRi:-'a6C"
+    },
+    "b85969f1-87ab-4ec3-a905-3d9bf4163664": {
+      "de": "Garth=='ga:T"
+    },
+    "b859d24d-0645-4f2b-9ef5-ff7bf8f8cec1": {
+      "de": "Trumpf=='tRUmpf"
+    },
+    "b919eae3-8b70-48ee-b070-bf57a91516cd": {
+      "de": "senior=='ze:-ni:-o6"
+    },
+    "b94bdd9c-5b39-4e0e-8355-9cd09ebbfd9b": {
+      "de": "grandios==gRan-di-'o:s"
+    },
+    "b96e9d61-f4bb-4747-9a7a-81ed59359eba": {
+      "de": "Dank=='daNk"
+    },
+    "b9ca377d-d96c-4697-9b54-9bc2eea56adb": {
+      "de": "Gut=='gu:t"
+    },
+    "ba275755-b870-43f7-a70a-e90143dfacd0": {
+      "de": "Spiones==Spi:-'o:-n@s"
+    },
+    "ba3daeda-9ffa-4140-bf25-e9b1db9fbcc0": {
+      "de": "Neu=='nOY"
+    },
+    "ba3e9d4e-f8bc-4256-8022-260bcb16091e": {
+      "de": "Schlupf=='SlUpf"
+    },
+    "ba76d24f-f124-4b89-be01-a2e84acb58e5": {
+      "de": "Alain==?a-'le~"
+    },
+    "ba8c08e5-cfa1-4472-9cff-3af77ae5adbb": {
+      "de": "Ljutsch=='ljUtS"
+    },
+    "bad4aa56-ff79-4093-8f0a-9d8e3b738e2f": {
+      "de": "Wall=='val"
+    },
+    "baf2d2fc-ef27-4942-bedd-1b2cc744560f": {
+      "de": "Jeanne=='Zan"
+    },
+    "bb0caab7-4da9-4ef4-92bf-52664d22839a": {
+      "de": "Sankt=='zaNkt"
+    },
+    "bb100163-d240-44c4-b498-8f93b47435a4": {
+      "de": "punktuell==pUNk-tu:-'El"
+    },
+    "bb28dddd-1484-4188-be48-d87c351ee562": {
+      "de": "Thyreoliberins==ty-Re:-o:-li:-be:-'Ri:ns"
+    },
+    "bb2916a2-5797-4452-8261-3daa7ece3738": {
+      "de": "zairisch==tsa-'i:-RIS"
+    },
+    "bb40d02b-1509-4818-a081-08a4182f3f49": {
+      "de": "Young=='jaN"
+    },
+    "bb775465-2d56-4700-a4f9-8e78cdc41a1e": {
+      "de": "Cox=='kOks"
+    },
+    "bb7e16e4-0fc1-4024-9964-bedc6916c1de": {
+      "de": "Politiken==po-li-'ti-k@n"
+    },
+    "bbcc893c-930f-4f0e-9107-fe14d5e7bf19": {
+      "de": "Lynn=='lYn"
+    },
+    "bbccc480-7ffe-43ee-84da-f5b43d889a0e": {
+      "de": "Jeu=='jOY"
+    },
+    "bc1b2614-2427-4276-bc63-76453bb3025f": {
+      "de": "Nou=='nOU"
+    },
+    "bc1e8549-4d08-491d-9790-f49b32f8666a": {
+      "de": "Thorp=='To:6p"
+    },
+    "bc3263da-f53e-4402-9623-60e8225e2c3e": {
+      "de": "La=='la:"
+    },
+    "bc36eae2-e6fd-4b86-868f-83748e9f2fb2": {
+      "de": "Ploetz=='pl9ts"
+    },
+    "bc761747-87db-4aa4-a530-8bdbdf86943c": {
+      "de": "Mosaismus==mo:-za:-'Is-mUs"
+    },
+    "bc761ae0-9d7d-4bef-8a36-db3eccb0e328": {
+      "de": "Clown=='klaUn"
+    },
+    "bcf6ce9e-b623-4035-b0ab-75d00c7eae22": {
+      "de": "Geld=='gElt"
+    },
+    "bd00f9cf-2433-4a59-91b5-c47c32ebf353": {
+      "de": "Sven=='svEn"
+    },
+    "bd0d0dec-6131-45d2-a4e6-1958992f586e": {
+      "de": "Mai=='maI"
+    },
+    "bd15523a-c572-4ae3-ab4d-187c0e855173": {
+      "de": "Pilz=='pIlts"
+    },
+    "bd1858fa-6ec3-4b4f-b3a5-b7975a3dbea9": {
+      "de": "Faust=='faUst"
+    },
+    "bd952898-db37-4806-b47e-ab18a29495b4": {
+      "de": "Lyon==li:-'jo~"
+    },
+    "bd969c5f-e3b4-4207-91e2-43880e3aea7b": {
+      "de": "Schweiß=='SvaIs"
+    },
+    "bdbc3af5-fb44-4cb5-8c5d-9174c85f05b9": {
+      "de": "Trichinen==tRI-'Ci:-n@n"
+    },
+    "bddee0bb-f5ce-4f2e-a072-6c9be841bd80": {
+      "de": "Bushs=='bUSs"
+    },
+    "bde82da0-52bc-4979-9cf1-f0ccb710c9e5": {
+      "de": "trochäisch==tRO-'xE:-IS"
+    },
+    "bdf015e0-8ddb-4dea-a9f6-8fa223bbb097": {
+      "de": "Dorfs=='dO6fs"
+    },
+    "be71d143-1821-4d01-b5f2-37d293f0e448": {
+      "de": "Ed=='?Et"
+    },
+    "be9e8e8e-ca38-4176-9576-b469257fe5c0": {
+      "de": "Archiv==?a6-'Ci:f"
+    },
+    "bf2e4c6a-c7a2-447c-8ca6-bebd5c205f32": {
+      "de": "Korps=='ko:6s"
+    },
+    "bf600d86-d7a0-4fde-8b8f-c68f4fd7dc22": {
+      "de": "Fee=='fe:"
+    },
+    "bfa4aae6-e1d7-4f90-a790-d55f7eb35074": {
+      "de": "Mo=='mo:"
+    },
+    "bfa64703-8871-43fe-a3ae-2ce6e7e71ffd": {
+      "de": "Aids=='?EIts"
+    },
+    "bfb2ef03-54cb-4a05-9063-820ffeed7e7a": {
+      "de": "Reeves=='ri:vs"
+    },
+    "bfc376d4-f3ab-44a2-956a-7d5174454ba3": {
+      "de": "Eyth=='?aIt"
+    },
+    "c019de32-d261-4fcd-8580-1bdf865827fd": {
+      "de": "Mäander==mE-'an-d6"
+    },
+    "c03d19bf-8f90-456b-bde8-7e7615ba5fdc": {
+      "de": "Kahn=='ka:n"
+    },
+    "c04cdd65-3c75-4c49-a9b9-a45b0d23302b": {
+      "de": "Tim=='tIm"
+    },
+    "c05a6cde-1269-4d47-875d-69bb2da5b86a": {
+      "de": "Scheikh=='SaIk"
+    },
+    "c0734bb3-a6a1-4f6a-a21e-7624a34334dd": {
+      "de": "Probst=='pRo:pst"
+    },
+    "c0bd48b2-84d6-4f14-b0d8-67cb688343d1": {
+      "de": "tje=='tj@"
+    },
+    "c0c2b94c-7ed4-466d-aec7-eecdd91e908f": {
+      "de": "Politikern==po-'li-ti-k6n"
+    },
+    "c0ec276d-efa8-4ed4-ba3c-cd8ee6e6a253": {
+      "de": "Lab=='la:p"
+    },
+    "c110c004-255e-41ae-a578-cd5b353b189a": {
+      "de": "Bart=='ba6t"
+    },
+    "c1162714-8c83-4bda-808c-018e71d7b618": {
+      "de": "Beach=='bi:tS"
+    },
+    "c1243a30-36ac-4fa9-99d5-f0a2f3f14063": {
+      "de": "Piel=='pi:l"
+    },
+    "c136efa2-54b1-4386-be79-632866fa40fd": {
+      "de": "House=='haUs"
+    },
+    "c19bf0e2-5660-4e78-9cfa-e4bf55f5cea5": {
+      "de": "Wood=='wUd"
+    },
+    "c1a26a22-8273-453f-aead-004612b7e2de": {
+      "de": "Schloss=='SlOs"
+    },
+    "c1c4f3e4-4d64-4a0e-a730-d8170708cdfd": {
+      "de": "Jahr=='ja:6"
+    },
+    "c1df1af7-3abf-4a7e-9b40-3e3a66617c4e": {
+      "de": "Quiz=='kvIs"
+    },
+    "c2219d63-a90f-4fe3-a625-495cf087a5c0": {
+      "de": "Packs=='paks"
+    },
+    "c2aca461-9bef-462f-9c8e-336b12e94c71": {
+      "de": "Tank=='taNk"
+    },
+    "c2b1f2a0-1de9-41c0-920a-e4c27b393656": {
+      "de": "Porrón==pO-'rOn"
+    },
+    "c2ca6b59-03ad-4840-85ae-b3273cf19048": {
+      "de": "Gast=='gast"
+    },
+    "c2d829ff-2e34-4ccc-ba88-f2dbdd64e167": {
+      "de": "Ma=='ma:"
+    },
+    "c340fe70-e7e2-4003-abbf-4619f04babbe": {
+      "de": "Sphaeroid==sfE-Ro:-'i:t"
+    },
+    "c344e529-4962-4727-acb9-3aae9f4d0621": {
+      "de": "je=='je:"
+    },
+    "c34d22f0-aad9-48f9-b547-91470ce8c61a": {
+      "de": "Buis==bU-'Is"
+    },
+    "c39eb5b1-4a7f-4be5-a75a-aaecf27750d2": {
+      "de": "Free=='fri:"
+    },
+    "c3a87b9c-1f4c-443f-9273-283a283938c6": {
+      "de": "Rösch=='R9S"
+    },
+    "c3a9462a-de2f-4e7e-b5d0-8139ccc4e1cb": {
+      "de": "Kommunalwahl==kO-mu-'na:l-va:l"
+    },
+    "c409b984-e103-497d-8a07-d6e0e0f02884": {
+      "de": "Angst=='?aNst"
+    },
+    "c42e93b3-472e-4f13-8a4c-330ae49001cb": {
+      "de": "China=='Ci:-na:"
+    },
+    "c44e107c-7717-475e-8e0c-45effa05674b": {
+      "de": "Freund=='fROYnt"
+    },
+    "c4711513-1de4-4058-8c14-f6259607fbd7": {
+      "de": "Grün=='gRy:n"
+    },
+    "c474fa2b-afbc-4292-a25e-11a336981de2": {
+      "de": "Valenzuela==va-l@n-tsu:-'e:la"
+    },
+    "c48e072b-dd3e-4d8b-bf86-3df206d44e55": {
+      "de": "Naiven==na-'i:-v@n"
+    },
+    "c4c834fd-944a-4361-833d-f343cccff377": {
+      "de": "Perm=='pE6m"
+    },
+    "c4d70b49-c301-4a60-90c8-cb89331f98ac": {
+      "de": "äh=='E:"
+    },
+    "c4f1e5a0-3908-4212-ada5-b8a9dd13dee3": {
+      "de": "Valve=='va:lv"
+    },
+    "c5805418-7e55-4ff9-b1b8-d782f4869f0e": {
+      "de": "Cancan==ka~-'ka~"
+    },
+    "c597941e-bf6c-4179-ae37-26c6a763bfff": {
+      "de": "Buch=='bu:x"
+    },
+    "c5baa4b8-cd39-4c5e-9ad1-e49f06c83d1e": {
+      "de": "Ähnlichkeit=='E:n-lIC-kaIt"
+    },
+    "c5c9aa17-e817-4693-98d7-490d22d94712": {
+      "de": "Huf=='hu:f"
+    },
+    "c5d36251-2026-4a27-a8a7-463d0b2f6d10": {
+      "de": "Ju=='ju:"
+    },
+    "c5ebb946-7fc8-4b77-a630-5146f23c758f": {
+      "de": "Chile=='tSi:-le:"
+    },
+    "c60b73e4-c901-445f-86bd-3b1f6ba8fa83": {
+      "de": "Zebroids==tse:-bRo:-'i:ts"
+    },
+    "c6291a09-3588-4c10-a860-7d0069d97eb3": {
+      "de": "Saig=='zaIk"
+    },
+    "c6333e18-94ae-453f-9d59-4b49c675eb06": {
+      "de": "mysteriös==mYs-te:-Ri:-'2:s"
+    },
+    "c66d7b91-30ae-46fe-8bc6-03390c948639": {
+      "de": "Rhein=='RaIn"
+    },
+    "c6968487-4248-4bd0-856c-ec5f783d9211": {
+      "de": "Zhou=='dZoU"
+    },
+    "c6b2cc34-cdfb-45c3-a695-c02ac684b184": {
+      "de": "Review=='rI-vju:"
+    },
+    "c6bd4544-f90b-4e73-90ad-432fad0d29fc": {
+      "de": "Nuss=='nUs"
+    },
+    "c6c571ef-9a0d-44d4-be2b-914def08b86e": {
+      "de": "Dach=='dax"
+    },
+    "c6d5696c-b251-46c7-8608-a02f5010f73d": {
+      "de": "Nam=='na:m"
+    },
+    "c6d966a3-3da0-4953-9fb6-4396ce8eaf06": {
+      "de": "Dom=='do:m"
+    },
+    "c6e05b22-49ef-4f78-abfb-a8ba28c5cdc2": {
+      "de": "Ökumene==?2:-ku-'m@-n@"
+    },
+    "c7301b74-877f-4321-a031-b148865c6a70": {
+      "de": "Haydns=='haIdns"
+    },
+    "c7c1bcb9-0e1f-4992-abae-daf34bc09ed7": {
+      "de": "Schlaf=='Sla:f"
+    },
+    "c7c5eb42-4360-4ad6-9cda-5badcd1b59d1": {
+      "de": "Geht=='ge:t"
+    },
+    "c8096928-4fd6-4709-85dd-8ab7da0394c0": {
+      "de": "Babe=='bEIb"
+    },
+    "c8350195-67ba-42aa-91af-65494ac5cc6c": {
+      "de": "Kampf=='kampf"
+    },
+    "c8a59160-0f9d-4563-97ee-e0790c90ded6": {
+      "de": "Chemiker=='Ce:-mi:-k6"
+    },
+    "c8bf2857-580b-4c55-be91-08d2c12b0a17": {
+      "de": "Hoch=='ho:C"
+    },
+    "c8c98198-3f46-4de5-86d4-9395f312e09c": {
+      "de": "Nimm=='nIm"
+    },
+    "c985e829-e4ec-45b3-86bd-5f61e2815c7d": {
+      "de": "Sein=='zaIn"
+    },
+    "c995b0d6-4d36-4124-b9b9-a8e5620e772c": {
+      "de": "Pfarrschul=='pfa6-Su:l"
+    },
+    "c995d323-16f9-4164-9ea0-dc4ea1586a37": {
+      "de": "Kunstfonds=='kUnst-fo~s"
+    },
+    "c9a83823-a4a4-44f8-9fc3-8637f525508b": {
+      "de": "Gros=='gRo:"
+    },
+    "c9c62a85-ceae-4bab-b9a9-a98efb80ffd6": {
+      "de": "intermediär==?In-t6-me:-di:-'E:6"
+    },
+    "c9d0e766-e060-426d-8775-e075dc2ffa10": {
+      "de": "Michail==mi:-Ca:-'Il"
+    },
+    "c9ffcc5b-ac12-4a76-8d81-12b642add708": {
+      "de": "Betz=='bEts"
+    },
+    "ca18391c-af43-4caf-a298-72f89ee1d649": {
+      "de": "Guerrouj==gE-'rUI"
+    },
+    "ca461f95-a731-4cf5-a124-1a6d79eeb99e": {
+      "de": "Flakon==fla-'ko~"
+    },
+    "ca68c5f0-695d-4dec-9b8b-1ade751a2546": {
+      "de": "Anthony=='?@n-T@-ni:"
+    },
+    "ca7504f2-c7da-44f4-a18e-3c938717ef61": {
+      "de": "Liane==li:-'a:-n@"
+    },
+    "cacfab02-d29f-4812-9ffd-32becfef3118": {
+      "de": "Dürr=='dY6"
+    },
+    "cb703feb-e223-40a4-8ecf-f3448afd9806": {
+      "de": "Siena==zi:-'e:-na:"
+    },
+    "cb820296-f668-4635-a59d-daf56e81829f": {
+      "de": "FIS=='fIs"
+    },
+    "cbaee6e7-8a63-4fa4-ab2c-96df4d59a848": {
+      "de": "Yijing=='ji-jIN"
+    },
+    "cbbea2ab-7cb2-41e4-9164-0927b34a2c4a": {
+      "de": "Geu=='gOY"
+    },
+    "cbd75982-c513-4ce1-8aff-b417d29056f5": {
+      "de": "Stumpfs=='StUmpfs"
+    },
+    "cbf7eec7-3542-4c0f-8a60-aea0ff29039f": {
+      "de": "Schweif=='SvaIf"
+    },
+    "cc0001bd-c53a-45b3-9b55-e31b870b38e9": {
+      "de": "Oldies=='?ol-di:s"
+    },
+    "cc03e549-2478-45fb-a9f7-9388771afaef": {
+      "de": "Les=='lEs"
+    },
+    "cc050816-d556-4c23-9b8f-522676058add": {
+      "de": "Nuance==nu:-'a~s"
+    },
+    "cc3ae5bb-33e4-4c45-bf4d-30b45d22e640": {
+      "de": "Jools=='dZu:ls"
+    },
+    "cc4a5f1d-c9cf-410d-8696-40d821ec62d3": {
+      "de": "Politikers==po-'li-ti-k6s"
+    },
+    "cc7eb47e-5f8a-4fdc-8f7a-e28ec125fa15": {
+      "de": "triumphgekröntestem==tRi:-'Umf-g@-kR2:n-t@s-t@m"
+    },
+    "cc845270-5fd0-4df2-8daa-30c2bedff015": {
+      "de": "Heinz=='haInts"
+    },
+    "cc8f7a9e-8e0f-45df-844b-a2036fa6bf4e": {
+      "de": "Sicht=='zICt"
+    },
+    "ccd364da-83cc-47cf-aeee-422f2a96d40d": {
+      "de": "Diane==di:-'a:-n@"
+    },
+    "cceb9d7b-550f-40fe-bffe-f0d7571cf786": {
+      "de": "Dann=='dan"
+    },
+    "cd11ec93-ebec-4766-a736-4f5770befc99": {
+      "de": "Hof=='ho:f"
+    },
+    "cdabdc98-52bf-4193-9110-3be38085cdf8": {
+      "de": "Rhône=='Ro:n"
+    },
+    "cde0e636-b145-4b9b-9f11-e1c53981ba9c": {
+      "de": "Einkommen=='aIN-kO-m@n"
+    },
+    "ce05a222-0872-4e67-803e-f6b8e73fdbf8": {
+      "de": "desillusioniere==dEs-?I-lu-zjo-'ni:-R@"
+    },
+    "ce2b4443-f7f8-4707-9edb-23ddc7c9008d": {
+      "de": "Bein=='baIn"
+    },
+    "ce49e3d3-9dc8-4afb-868c-c906927467c1": {
+      "de": "Twist=='tvIst"
+    },
+    "ce56299d-172d-4fec-b97d-257ff004ace8": {
+      "de": "us=='as"
+    },
+    "cea7c46d-57a2-454c-91d8-ca5ab5a7d2a7": {
+      "de": "Sir=='s96"
+    },
+    "cec4daeb-edb4-45eb-bea7-a6531eff9cdc": {
+      "de": "eingeteilt=='aIn-g@-taIlt"
+    },
+    "cef2f8cf-b903-46ce-b215-79ac2559bdae": {
+      "de": "fuckoff==fak-'Of"
+    },
+    "cf6ebbba-b609-4dac-82a4-a820e195af54": {
+      "de": "Löß=='l2:s"
+    },
+    "cf8ca5c0-bd29-4eaa-abe5-cc22261cc523": {
+      "de": "C=='tse:"
+    },
+    "cfae164a-f087-481a-8a65-80aef66ab115": {
+      "de": "Weiss=='vaIs"
+    },
+    "cfcbc3ab-c22a-41a8-83df-26daf8254333": {
+      "de": "Hussein=='hU-se-i:n"
+    },
+    "cfe880e6-bbdc-4faf-9d55-e53508d36ec6": {
+      "de": "Maas=='ma:s"
+    },
+    "d00d876c-0f2a-4b2a-91a6-c7b40b057ad7": {
+      "de": "Joule=='dUu:l"
+    },
+    "d01da45c-c112-4bce-857e-9ffa7eeaa8c8": {
+      "de": "Penhs=='pEns"
+    },
+    "d02df79b-3e70-4629-a2bf-d8ec444fe9c5": {
+      "de": "Rap=='rE:p"
+    },
+    "d04569df-64bc-45e2-8d60-50d4ec3a6a20": {
+      "de": "Als=='?als"
+    },
+    "d054f543-3c49-4c46-b596-82cb38561faf": {
+      "de": "Nur=='nu:6"
+    },
+    "d07508cd-fc53-4d49-95bc-edb6f788f106": {
+      "de": "Hits=='hIts"
+    },
+    "d0b2567e-9c5f-4379-bfa2-b1e51aa661bd": {
+      "de": "Zu=='tsu:"
+    },
+    "d0c55aa2-e122-4b2d-b4db-260ece05ee0b": {
+      "de": "Diopter==di:-'Op-t6"
+    },
+    "d0dc6ba9-cd48-45e5-aa87-b1c447538b23": {
+      "de": "Israeli==?i:s-Ra:-'e:-li:"
+    },
+    "d0ed73b5-180b-45f6-9e3d-bc88e6d68e30": {
+      "de": "höchst=='h2:kst"
+    },
+    "d0f53a24-52b3-4bb4-8074-c6e0c2437b0e": {
+      "de": "Leck=='lEk"
+    },
+    "d10453b5-2d4b-426c-9408-1bfb43f1973a": {
+      "de": "Bost=='bOst"
+    },
+    "d151c446-3715-44d2-8870-3e4e90b69be3": {
+      "de": "revolutionär==Re-vo-lu-tsjo-'nE:6"
+    },
+    "d172b40f-19c3-466f-9d73-26d37686c773": {
+      "de": "Farb=='fa6p"
+    },
+    "d17dcba9-1858-4005-9481-50ffb3270c00": {
+      "de": "Gas=='ga:s"
+    },
+    "d187a0ec-a68b-409e-9ba1-36294c9b5868": {
+      "de": "illusionär==?I-lu-zjo-'nE:6"
+    },
+    "d1b17b84-1eb0-4e0a-a4b4-0a764c14e8ec": {
+      "de": "Qaida==ka-'i:da:"
+    },
+    "d1bb6f21-1f37-41a6-8cba-1680a57fb3df": {
+      "de": "Lampions==lam-pi:-'a~s"
+    },
+    "d2d26a01-7304-45ac-8874-654fda2e6575": {
+      "de": "Sean=='Sa~"
+    },
+    "d2de3f55-428f-4d31-8961-ebea1309b4cd": {
+      "de": "Dampierre==da~m-'pjER"
+    },
+    "d2ea6883-da04-4251-93be-4eb455765990": {
+      "de": "Pfennig=='pfE-nIC"
+    },
+    "d3175fcd-67a5-4592-add1-781fc3dd60e7": {
+      "de": "desillusioniertet==dEs-?I-lu-zjo-'ni:6-t@t"
+    },
+    "d34393c5-4e14-4bf5-b4e7-95fc5a35c48f": {
+      "de": "Ninh=='ni:n"
+    },
+    "d3913628-bd72-47c4-be41-fa7dbaff0e44": {
+      "de": "Zehn=='tse:n"
+    },
+    "d3febf44-856b-4f40-9fb4-56a285c2c57c": {
+      "de": "Punk=='paNk"
+    },
+    "d41946df-3373-4c67-8b6b-698defaf4471": {
+      "de": "Thurn=='tURn"
+    },
+    "d41b8822-eb4f-4915-9406-9356b909dd20": {
+      "de": "Der=='dE6"
+    },
+    "d4370ab1-2b0d-48ee-930c-391935959534": {
+      "de": "illusionslos==?I-luz-'jo:ns-lo:z"
+    },
+    "d45e7430-61eb-410e-a4ab-c43510f3aff8": {
+      "de": "Neun=='nOYn"
+    },
+    "d46ed7b1-47b5-4b6c-9822-b70be02474b2": {
+      "de": "Reed=='ri:d"
+    },
+    "d48fb8b9-87db-48ec-9f1c-a2d1a28c8387": {
+      "de": "Songs=='sONs"
+    },
+    "d4a8f502-0b18-4f14-b577-83b22e614c54": {
+      "de": "Schlönk=='Sl9Nk"
+    },
+    "d4d7cdee-c2b7-47db-930e-fc9feca7ee61": {
+      "de": "Kitsch=='kItS"
+    },
+    "d4f71969-4021-41ee-92cb-aec4684374db": {
+      "de": "Tee=='te:"
+    },
+    "d50dddc4-86ff-42d5-8a78-fe87a3ceaed5": {
+      "de": "Vieux=='vj2:"
+    },
+    "d51f782f-c4ba-462a-bcea-fe7cfc9b1c7e": {
+      "de": "Allianz==?a-li:-'ants"
+    },
+    "d5269074-0a78-42aa-a58f-b0bc713a0c1d": {
+      "de": "Zürn=='tsYRn"
+    },
+    "d52ea7d4-9539-49ed-87a3-f61b3034d8e0": {
+      "de": "Conthey=='kOn-DEI"
+    },
+    "d596faca-5678-40d3-aa4d-a530d87261bb": {
+      "de": "Jungs=='jUNs"
+    },
+    "d5aac710-506c-4510-9300-c6278de05a73": {
+      "de": "Mönch=='m9nC"
+    },
+    "d5b81eef-c482-4210-9c2e-d81fbbca79f8": {
+      "de": "Frau=='fRaU"
+    },
+    "d62a69d9-0893-457e-9446-254354d45851": {
+      "de": "Dej=='de:j"
+    },
+    "d6d81ec3-c719-48be-91d6-1a9300c81ef8": {
+      "de": "Rouge=='Ru:Z"
+    },
+    "d6e013eb-7b64-4570-be71-46d22143d837": {
+      "de": "beugt=='bOYkt"
+    },
+    "d7115639-a266-4588-b04d-7bd6f6a14ae2": {
+      "de": "führt=='fy:6t"
+    },
+    "d724b0e0-b6d6-4da5-b5f0-75806d59b3fe": {
+      "de": "Kirks=='k96ks"
+    },
+    "d73f2ff0-7b7a-430b-aa07-53d6cd3a7d5a": {
+      "de": "Man=='mE:n"
+    },
+    "d7bcd82c-eead-4466-9412-830287ab660b": {
+      "de": "Hip=='hIp"
+    },
+    "d7e8197a-b842-494f-99ee-b4e7b92ceaa9": {
+      "de": "reell==Re:-'El"
+    },
+    "d8472948-a7b2-4772-a3bd-29c6d34bff42": {
+      "de": "Jaimes=='dZEIms"
+    },
+    "d84f3146-08b4-4830-9aec-bfe25ebdabf2": {
+      "de": "Test=='tEst"
+    },
+    "d861a6ca-a2c4-48a4-bbbd-d242463c647f": {
+      "de": "Dampf=='dampf"
+    },
+    "d873b754-9ba2-470b-a94f-b4534bdf62bb": {
+      "de": "Guano==gu:-'a-no:"
+    },
+    "d877e9b6-5488-49b3-bf2d-6dc407c5b559": {
+      "de": "Blue=='blu:"
+    },
+    "d885d2a0-efb1-441a-a694-b11637cd7052": {
+      "de": "Cobb=='kOb"
+    },
+    "d896372c-847c-43c2-9d7d-92d16837df64": {
+      "de": "Höhe=='h2:@"
+    },
+    "d8bc55be-f67d-45f9-84dd-4bb793d8eee8": {
+      "de": "Rumpf=='RUmpf"
+    },
+    "d8cb13f0-3c8e-4bc8-b786-4e6938841069": {
+      "de": "ralliierst==Ra-li:-'i:6st"
+    },
+    "d8d99723-fb90-4d3b-b3f0-efe81b616116": {
+      "de": "Pfeiffer=='pfaI-f6"
+    },
+    "d902554d-7021-418b-9050-d07aefbe1a71": {
+      "de": "Sphaeroids==sfE-Ro:-'i:ts"
+    },
+    "d9869a5f-0e18-47b6-960e-60df3f34915a": {
+      "de": "Ha=='ha:"
+    },
+    "d99263be-9f81-4f6e-bba4-534189cb31a8": {
+      "de": "pince=='pe~s"
+    },
+    "d999469f-d301-4221-bb1b-35908a2a4730": {
+      "de": "Scherf=='SE6f"
+    },
+    "d9a70026-a0da-4d02-a996-208519092e59": {
+      "de": "Blick=='blIk"
+    },
+    "d9b5f86b-79cf-45c9-8b6c-8d681d10bdca": {
+      "de": "Luch=='lu:x"
+    },
+    "d9e4fd0e-e769-4426-8384-db970d9093e5": {
+      "de": "beunruhigt==b@-'Un-Ru:Ikt"
+    },
+    "da0f652a-a100-4956-b2bf-c6e95770f22e": {
+      "de": "Kyi=='ky:j"
+    },
+    "da32ea92-1663-4aca-9b08-f8aa031e8a09": {
+      "de": "Year=='ji:6"
+    },
+    "da4a073d-bf35-47b4-acb8-fa695d1d3e05": {
+      "de": "Chempfo=='CEm-pfo:"
+    },
+    "da9dc8c0-c646-4d4c-9415-7b13dfbdf766": {
+      "de": "Wahl=='va:l"
+    },
+    "da9fb6a4-37b3-46b5-9dd3-ef1d52de6014": {
+      "de": "kapriziös==ka-pRi:-tsi:-'2:s"
+    },
+    "da9fd0d6-ec7f-486e-a56e-4b3da00a9182": {
+      "de": "Lauf=='laUf"
+    },
+    "daafe4e8-ca3f-4199-8291-7c031130795c": {
+      "de": "annuell==?a-nu:-'El"
+    },
+    "dab1cf18-8ef1-45b7-9a2a-ddf7a6a60ab7": {
+      "de": "Ska=='ska:"
+    },
+    "dab8f181-a3d4-4a20-9523-ef91d15bdfa8": {
+      "de": "oe=='?2:"
+    },
+    "db181af9-6e93-4cfb-8f43-2623844ee4ce": {
+      "de": "triumphgekröntster==tRi:-'Umf-g@-kR2:nt-st6"
+    },
+    "db2e4fa0-d080-4e30-97d2-1e2d24d61f75": {
+      "de": "Gabin==ga-'be~"
+    },
+    "db4ee9bb-889a-468d-b2bc-9b619a0c5ff1": {
+      "de": "Los=='lo:s"
+    },
+    "db8d7dcb-6720-41ba-83e3-795a03b6af92": {
+      "de": "Haut=='haUt"
+    },
+    "dbb2e69a-6030-43a1-afeb-659186e29ffb": {
+      "de": "Bau=='baU"
+    },
+    "dbc4cee5-43e5-43bd-9632-836259fb0908": {
+      "de": "Tracheen==tRa-'xe:-@n"
+    },
+    "dc09b028-49b1-488b-b7b3-a491adb4674f": {
+      "de": "pflegt=='pfle:kt"
+    },
+    "dc0bd26d-2dba-4f00-bfd5-cb9a108e1d97": {
+      "de": "Fürst=='fY6st"
+    },
+    "dc0eb37b-f286-47aa-a3ff-133f539ca62c": {
+      "de": "Tombstone=='tu:m-stoUn"
+    },
+    "dc188387-8060-4d3d-b949-e33729e657f4": {
+      "de": "Topf=='tOpf"
+    },
+    "dc403369-33b4-4daa-8a42-7289cb419686": {
+      "de": "Willy=='wIlI"
+    },
+    "dc85e6f8-f567-4982-9f37-57cfb8e9a92d": {
+      "de": "Weih=='vaI"
+    },
+    "dcc0e889-91ce-478d-a94c-f794de867855": {
+      "de": "Rock=='ROk"
+    },
+    "dcc892a0-970d-4cab-8256-ad884782fbbd": {
+      "de": "Herz=='hE6ts"
+    },
+    "dcd312e4-2ff8-4124-9670-80b93995d319": {
+      "de": "Goldfrancs=='gOlt-fRa~s"
+    },
+    "dd64fe47-512e-4aca-a6b2-970792329080": {
+      "de": "Franc=='fRank"
+    },
+    "dd9d46cf-dbef-4451-a4cd-4228bb137db3": {
+      "de": "Trademark=='treId-ma:k"
+    },
+    "dda1c282-ecd2-48e7-9170-91fe239ba7fc": {
+      "de": "Pfeiler=='pfaI-l6"
+    },
+    "ddb12edc-3f65-4387-9d99-090bc0770de7": {
+      "de": "Pjotr=='pjOtr"
+    },
+    "ddcca937-ac45-4ae6-b450-629a7ec581c7": {
+      "de": "Priorinnen==pRi:-'O-RI-n@n"
+    },
+    "ddd2daf0-f4b2-425e-8640-068bbd3ce62f": {
+      "de": "äußere=='OY-s6-R@"
+    },
+    "de169058-54be-426c-9180-24e7ba84f402": {
+      "de": "Ius=='?jUs"
+    },
+    "de3f397e-63ec-409d-a8de-a197740b5fd1": {
+      "de": "Seil=='zaIl"
+    },
+    "de45452b-6624-4b4b-94fb-4e993abbf373": {
+      "de": "Rodin==Ro:-'de~"
+    },
+    "de45f194-b5a5-4c41-a2b5-e81bbdb3300e": {
+      "de": "kongruent==kOn-gRu:-'Ent"
+    },
+    "dec8a9f9-a2c9-45c7-9966-8450f8ab4c45": {
+      "de": "Gmain=='gmaIn"
+    },
+    "ded98848-7751-44b4-94dd-a34c0c996c61": {
+      "de": "Naive==na-'i:-v@"
+    },
+    "def4ca15-c941-4c51-b907-9c3999e1247e": {
+      "de": "Baal=='ba:l"
+    },
+    "df1e793a-45ac-41e7-b2b8-ee8ad068025a": {
+      "de": "Triumvirn==tRi:-'Um-vI6n"
+    },
+    "df1f7178-55b0-44bf-a511-4c6069565914": {
+      "de": "Jetons=='Z@-'to~s"
+    },
+    "df2a2a80-b745-42fd-a8f8-3d80eae1b4f8": {
+      "de": "Dream=='dri:m"
+    },
+    "df60777e-b015-4dd7-85fe-a07a1988ba50": {
+      "de": "Aare=='?a:-R@"
+    },
+    "df68aa1c-e76a-4524-b1d9-070c0677d022": {
+      "de": "Fuss=='fu:s"
+    },
+    "dfd9a070-3b21-4ff8-b6f4-20cf8f3963a7": {
+      "de": "Room=='ru:m"
+    },
+    "dfdaf7db-209e-4624-b582-746a11d94863": {
+      "de": "löst=='l2:st"
+    },
+    "dfde7332-5446-469f-9bfb-4dc978522fa1": {
+      "de": "Uchida=='Ux-i:-da:"
+    },
+    "dfe0446d-51c0-4e89-8172-9e11910f0041": {
+      "de": "Gauguin==go:-'ge~"
+    },
+    "e02c7a0c-ff45-496d-8e03-174f2d468296": {
+      "de": "Timothy=='tI-m@-TI"
+    },
+    "e0619afd-2f10-42ef-8b8d-6a2f92aef112": {
+      "de": "Spione==Spi:-'o:-n@"
+    },
+    "e087a93c-fc90-4a25-8389-acc68ddfca04": {
+      "de": "Ringwood=='rIN-wu:d"
+    },
+    "e0976cd6-6b84-4bd4-a9ed-56a168326def": {
+      "de": "Dauhpins==do:-'fe~s"
+    },
+    "e0a282d7-35ae-4376-a347-166a217839d4": {
+      "de": "Beamte==b@-'am-t@"
+    },
+    "e0c4343a-fe76-42d1-81db-68e7ec84a901": {
+      "de": "Boudoirs==bu:-do:-'a:6s"
+    },
+    "e0c71888-9386-4fb4-857d-ed39fb0c0bc1": {
+      "de": "Zaw=='tsav"
+    },
+    "e0f6da8c-ce73-453c-bc36-944254a2d36e": {
+      "de": "Chi=='Ci:"
+    },
+    "e1048e77-2c96-4e1b-828d-955049bd073a": {
+      "de": "Gray=='grEI"
+    },
+    "e13f580c-b587-41d8-adf8-69eeacaa0b23": {
+      "de": "archaistisch==?a6-Ca-'Is-tIS"
+    },
+    "e16409f2-394e-4520-b880-216019772df3": {
+      "de": "Dioptern==di:-'Op-t6n"
+    },
+    "e1703831-6d9f-475b-928e-c735b94f9026": {
+      "de": "Nun=='nu:n"
+    },
+    "e18920be-d01d-41b1-92f5-74488b979cdb": {
+      "de": "wow=='waU"
+    },
+    "e18fbeba-de44-4677-85cf-01a225273737": {
+      "de": "Ranch=='RE:nS"
+    },
+    "e1b0c0e8-cbd7-4ad9-bcc6-4ee32645a6c6": {
+      "de": "Snack=='snEk"
+    },
+    "e205d8bf-54bf-4775-96ac-9337ae876368": {
+      "de": "Penn=='pEn"
+    },
+    "e22d6866-78c7-44a7-a052-8a98ddb1a7cd": {
+      "de": "Deuö=='d2:"
+    },
+    "e22e843d-1f68-4e12-8ec4-d52a4009a880": {
+      "de": "Treibhauseffekt=='tRaIp-haUs-e-fEkt"
+    },
+    "e23318e5-6a31-47fa-9ded-0e59b73e2144": {
+      "de": "Tauragé==tu:-Ra:-'Ze:"
+    },
+    "e2560546-8f1f-4967-9c3d-d5e3ac2d408b": {
+      "de": "Ja=='ja:"
+    },
+    "e26a60c7-c23c-4722-bcab-3431be248d6b": {
+      "de": "Chuzpe=='xUts-p@"
+    },
+    "e27b59f8-936d-4e40-975b-a43a394ae4c3": {
+      "de": "Queen=='kvi:n"
+    },
+    "e2c6a592-51a2-476b-9bf5-942edd779d45": {
+      "de": "Archivs==?a6-'Ci:fs"
+    },
+    "e37690f6-2d0c-4bcb-996e-c069dbf57c7c": {
+      "de": "Kong=='kON"
+    },
+    "e39a4a7d-c20b-40ba-929c-eed660a3a2a1": {
+      "de": "Kulturwochen==kUl-'tu6-vO-x@n"
+    },
+    "e3e30d67-c3c7-46c9-8871-a5ff8ef95781": {
+      "de": "Radsport=='Ra:t-Spo6t"
+    },
+    "e3e4a1a6-cbf1-4716-bdc3-e9a0ba7b8cb0": {
+      "de": "Ideal==?i:-de:-'a:l"
+    },
+    "e445f629-2a48-4f40-9c35-d8d451bfe408": {
+      "de": "Klee=='kle:"
+    },
+    "e456fb8a-f27b-4c7b-a6e0-5067e54aca66": {
+      "de": "süß=='zy:s"
+    },
+    "e460b153-2710-4a14-a03d-60b231dabd5a": {
+      "de": "Partsch=='pa6tS"
+    },
+    "e4c4638f-bddf-48e2-8ee1-3503d2897c92": {
+      "de": "Hans=='hans"
+    },
+    "e52025df-bd43-4608-b7b8-df0a76da8f2a": {
+      "de": "South=='saUT"
+    },
+    "e52645a4-8127-4753-b158-50b4b5dca2dd": {
+      "de": "örtlichen=='96t-lI-C@n"
+    },
+    "e527a6a6-0249-4620-8dbb-687a92aec2b8": {
+      "de": "für's=='fy:6s"
+    },
+    "e54ea0cb-2d26-4a17-8455-06db6a10592c": {
+      "de": "anakreontisch==?a-na-kRe:-'On-tIS"
+    },
+    "e55caaad-1685-4063-8fad-518ab640438e": {
+      "de": "Raum=='RaUm"
+    },
+    "e5673b4f-f4dc-4036-98bb-a21d36399678": {
+      "de": "Dowd=='daUt"
+    },
+    "e567d8eb-ea37-4e0a-b3e7-1d6e9598518b": {
+      "de": "triumphgekrönteste==tRi:-'Umf-g@-kR2:n-t@s-t@"
+    },
+    "e579ae4f-fb4d-4de5-b865-c16e2ad8f9ff": {
+      "de": "Rads=='Ra:ts"
+    },
+    "e59b4480-95eb-43c9-9cc8-eefbd0e78540": {
+      "de": "Tau=='taU"
+    },
+    "e59dc1f9-9489-48b9-afa0-af0987ff6c10": {
+      "de": "Jüngst=='jYNst"
+    },
+    "e5f9dc21-6914-40ca-97f0-967453ab8aa9": {
+      "de": "Achate==?ax-'a:-t@"
+    },
+    "e622eb6c-9518-4b83-bec3-7db1be5dcde5": {
+      "de": "Doch=='dOx"
+    },
+    "e6c5a658-08b7-471c-8ad7-df76b2c39984": {
+      "de": "Ei=='?aI"
+    },
+    "e707d73f-bde2-4616-9e77-7c1315a5ae54": {
+      "de": "triumphgekröntste==tRi:-'Umf-g@-kR2:nt-st@"
+    },
+    "e71889fc-f1ca-4fa1-980f-be8a8f1060d5": {
+      "de": "fühlst=='fy:lst"
+    },
+    "e762563a-267a-4043-bba3-f9fd9fed9519": {
+      "de": "Microsoft=='maI-kro-sOft"
+    },
+    "e769a089-1787-4cf0-b1e4-2ee451934219": {
+      "de": "Swaps=='svOps"
+    },
+    "e76f6f27-a3fc-4493-86f2-81b74948bc92": {
+      "de": "Clubs=='klUps"
+    },
+    "e7720310-4cfe-483a-bf11-e493e9d1e47d": {
+      "de": "Nach=='na:x"
+    },
+    "e77fa447-dcf3-4305-8540-4ca668f27a7d": {
+      "de": "Fay=='fEI"
+    },
+    "e7fed0ca-6f7e-49f0-965e-bdb7758b1c36": {
+      "de": "acht=='?axt"
+    },
+    "e8514b38-7aa7-419d-8023-a0d809874f43": {
+      "de": "Ion==?i:-'o:n"
+    },
+    "e87211ad-1677-4e07-b44e-4b31403132e3": {
+      "de": "Bier=='bi:6"
+    },
+    "e87e8099-8892-47a4-bb01-5666c0e76187": {
+      "de": "Ach=='?ax"
+    },
+    "e87ec797-de70-4e98-aaa4-8c53a382bc3a": {
+      "de": "Swing=='svIN"
+    },
+    "e890c1e3-9e7f-4bfa-a9ab-5da3f26704c5": {
+      "de": "Aye=='?aI"
+    },
+    "e895c77f-afe2-4395-be9e-be2ce6c0f2c8": {
+      "de": "Jargon==Za6-'go~"
+    },
+    "e8bc5d1f-2c60-474e-9bf9-06a80e35a9c0": {
+      "de": "Faesch=='fES"
+    },
+    "e8d1757a-101d-4ae9-b818-b49aacb9388e": {
+      "de": "Triumphes==tRi:-'Um-f@s"
+    },
+    "e8d6e04c-9dff-4385-9d56-ba75fd39f480": {
+      "de": "de=='d@"
+    },
+    "e90e40f4-61f7-441f-885e-f5c7909ce001": {
+      "de": "Torre=='tOr@"
+    },
+    "e935cba7-b873-4621-a2a1-d850acd674f5": {
+      "de": "Jesuit==je:-zu:-'i:t"
+    },
+    "e94d2cf1-c92b-488a-86d1-3c5bf211303c": {
+      "de": "Förg=='f96k"
+    },
+    "e958adf5-21d5-469a-837f-21de4bbebdde": {
+      "de": "Networks=='nEt-w96ks"
+    },
+    "e96f3ada-d605-471c-a7a6-2d6ec6b9f608": {
+      "de": "Pardon==pa6-'do~"
+    },
+    "e97e888d-f8f1-4617-938c-5fc2836f95bc": {
+      "de": "Skates=='skEIts"
+    },
+    "ea06bc2c-22d0-4f83-9df0-b0e9b8cdd483": {
+      "de": "Drang=='dRaN"
+    },
+    "ea306574-ba09-4b46-a84d-b23b10adc7a0": {
+      "de": "Interieurs==?e~-te:-Ri:-'2:6s"
+    },
+    "ea62243a-b8c6-4920-a9b8-ed0d605cd166": {
+      "de": "Kopf=='kOpf"
+    },
+    "ea8438de-4221-42ee-9a9b-af5138f00323": {
+      "de": "Rauschs=='RaUSs"
+    },
+    "ea9b1d4d-aeb9-4ce4-9610-361c65e87640": {
+      "de": "Kauf=='kaUf"
+    },
+    "eab2e80e-a4f2-469d-a51e-8a959f407187": {
+      "de": "Dirk=='dI6k"
+    },
+    "eac08a04-e8f2-4777-9cc3-2b9f3553dc40": {
+      "de": "ae=='?E:"
+    },
+    "eae08287-2c27-4aa4-9e34-f547cbb25421": {
+      "de": "than=='DEn"
+    },
+    "eafca880-089f-4f45-87dc-cec1e7f264f2": {
+      "de": "Roeun=='R2:n"
+    },
+    "eb03d09c-79bb-41aa-b530-baf4f48251f8": {
+      "de": "Freeze=='fri:z"
+    },
+    "eb049f66-b576-46ee-9fef-7ce9b4f041de": {
+      "de": "Jazz=='dZE:s"
+    },
+    "eb30dfe7-c707-451e-90af-8d5bfd85741b": {
+      "de": "Drake=='drE:Ik"
+    },
+    "eb81f556-a0f2-4b57-978e-56f0b54409b5": {
+      "de": "Reich=='RaIC"
+    },
+    "eb8567fe-6b56-464e-8a5b-b860002ee22e": {
+      "de": "Reiß=='RaIs"
+    },
+    "ec4d39b7-8ea7-482e-8b55-6a8dfddcc933": {
+      "de": "Naiver==na-'i:-v6"
+    },
+    "ec52823f-71a9-4857-ae2b-557572791ead": {
+      "de": "enttäuscht==?Ent-'OYSt"
+    },
+    "ec785d59-a459-40cf-a713-2865be35c080": {
+      "de": "way=='wEI"
+    },
+    "ec9340cf-a82e-4697-915d-adc3af0033b4": {
+      "de": "York=='jO6k"
+    },
+    "ec9c5d1f-0438-4c22-9279-bd8205d94be6": {
+      "de": "Glück=='glYk"
+    },
+    "eca08132-a441-4d3a-81b9-b2d0fb8b1312": {
+      "de": "Gibt=='gi:pt"
+    },
+    "ecadad0d-0be2-4174-b928-064bc6b96656": {
+      "de": "Zapf=='tsapf"
+    },
+    "ed02ef6e-1ad6-4840-97b6-70aee8af1d2a": {
+      "de": "Knecht=='knECt"
+    },
+    "ed0ba2e4-2204-4f0c-aab8-2f786bc26481": {
+      "de": "Falls=='fals"
+    },
+    "ed307226-65c9-4ce3-9312-21dbecc25fc7": {
+      "de": "Eis=='aIs"
+    },
+    "ed4c954a-2bf2-4a86-95e5-b9a6481c7694": {
+      "de": "Sand=='zant"
+    },
+    "edb751e1-fa37-4271-88d2-7d1c2350dd40": {
+      "de": "Flush=='flaS"
+    },
+    "edc470e5-9fb9-4e70-b33e-9174d59aaca6": {
+      "de": "Tal=='ta:l"
+    },
+    "ee0498ab-6006-4508-afb8-530ee0419d95": {
+      "de": "Earth=='?96T"
+    },
+    "ee37ed1d-f210-4915-a4ee-e93c7195e706": {
+      "de": "Boys=='bOYs"
+    },
+    "ee416d73-15e6-4ad5-a30f-4b151d770ea3": {
+      "de": "Egoismus==?e:-go:-'Is-mUs"
+    },
+    "ee551d73-ecea-414e-bca6-7a839071644a": {
+      "de": "Oboist==?o:-bo:-'Ist"
+    },
+    "ee55b6b4-8eb6-4044-916b-1f9d5b704e6d": {
+      "de": "Tanks=='taNks"
+    },
+    "eef5af11-433c-4dd2-937b-3ce81fd2124c": {
+      "de": "P=='pe:"
+    },
+    "ef0d707c-d03c-450c-8277-b1b9fa53be94": {
+      "de": "Food=='fu:t"
+    },
+    "ef1999a9-40c7-47e8-bc41-e31f2432598e": {
+      "de": "kühn=='ky:n"
+    },
+    "ef3ec8fe-9812-45a3-89fb-40bf2c8a185d": {
+      "de": "logierte==lo:-'Zi:6-t@"
+    },
+    "ef43b145-d618-4e51-a31c-3888b24b1ba4": {
+      "de": "Bridge=='brIdZ"
+    },
+    "ef5ecc4d-edc8-44f8-aba0-bca782b04f90": {
+      "de": "hört=='h2:6t"
+    },
+    "ef7ad5dc-9a7d-4615-a722-344ae4fefc1d": {
+      "de": "Bis=='bIs"
+    },
+    "efae957c-0a6c-45b1-a72b-26f4a62c2900": {
+      "de": "Chef=='SEf"
+    },
+    "efb0a478-bbf5-45ad-91e4-0be81099c611": {
+      "de": "geeignete==g@-'aI-gn@-t@"
+    },
+    "efb238c3-73b3-4a32-aa2c-8639793989ca": {
+      "de": "Nein=='naIn"
+    },
+    "efb86b30-d582-4ebd-8d56-89dd603e33ab": {
+      "de": "Camp=='kE:mp"
+    },
+    "efdfe1ae-33df-4ad9-8d13-31b5e5feb2b7": {
+      "de": "Brut=='bRu:t"
+    },
+    "efe80f78-8931-41a7-8f4a-54adddd271fb": {
+      "de": "Fans=='fE:ns"
+    },
+    "f014466f-e596-4a98-bc90-877943ab9098": {
+      "de": "Quark=='kva6k"
+    },
+    "f05e949e-c769-40ff-8786-c7e50169e0b7": {
+      "de": "Hass=='has"
+    },
+    "f0d13056-e1e3-405b-b48c-158be61280b4": {
+      "de": "Fünf=='fYnf"
+    },
+    "f0e4c86d-8600-42cb-9f89-9c8c8f3b16ce": {
+      "de": "Ah=='?a:"
+    },
+    "f0f39d33-e9f4-403d-b854-9d2d90d32668": {
+      "de": "Taub=='taUp"
+    },
+    "f1178f90-1d46-4ba0-b5e9-08742355f2ab": {
+      "de": "tendenziös==tEn-dEn-tsi:-'2:s"
+    },
+    "f14aab41-ca8c-4cd0-839f-62e9358b267c": {
+      "de": "Flash=='flES"
+    },
+    "f14f410e-0234-43f6-bf40-06e766b2d836": {
+      "de": "Triest==tRI-'Est"
+    },
+    "f16aa937-dc73-40b9-a067-ba644227141a": {
+      "de": "Sehr=='ze:6"
+    },
+    "f19517b5-92e0-4e92-af7b-729af232890e": {
+      "de": "Ding=='dIN"
+    },
+    "f19b6846-e43c-4181-8a0f-cdcdba1d41fe": {
+      "de": "Ringiers==RIN-'i:s"
+    },
+    "f1bc7177-65d2-4e98-b48e-b1b35122dac9": {
+      "de": "Curd=='kU6t"
+    },
+    "f1ceb439-9b6e-49bd-a198-32907548c68e": {
+      "de": "Zietsch=='tsi:tS"
+    },
+    "f1d83aab-2300-4797-9690-6a1bd13c2779": {
+      "de": "Clouet==klu:-'e:"
+    },
+    "f242b55e-ac39-4a19-8a22-2576040eba39": {
+      "de": "Fourier==fu:-Ri:-'e:"
+    },
+    "f25d0b21-9732-4a38-9d26-d41168f60f88": {
+      "de": "Selbst=='zElpst"
+    },
+    "f2725a47-ed4c-46cd-8e73-7023c519d26b": {
+      "de": "Tracy=='treI-sI"
+    },
+    "f29476e3-2159-4ecf-9cf2-64aeb3d05358": {
+      "de": "Client==kli:-'Ent"
+    },
+    "f298d8fd-0f58-423e-9a6e-63d0bf870c55": {
+      "de": "Pfaden=='pfa:-d@n"
+    },
+    "f2a70bb5-6eeb-4f5e-8afa-e2cbc5ee4939": {
+      "de": "Dies=='di:s"
+    },
+    "f2f63a40-430b-40c4-b8ab-eaf34b34b930": {
+      "de": "tschau=='tSaU"
+    },
+    "f34b9c38-2214-4551-8661-062fbb0ea278": {
+      "de": "Farce=='fa6s"
+    },
+    "f3ec54ef-de2c-4a66-b83b-26d9fd67f790": {
+      "de": "Chaplin=='tSEp-lIn"
+    },
+    "f448e8ac-9da2-4c12-bf03-ad18e5a36392": {
+      "de": "Treu=='tROY"
+    },
+    "f4576921-75b4-414b-94e0-757ceb556410": {
+      "de": "Trochäen==tRo:-'CE:-@n"
+    },
+    "f49f8324-e4b1-4497-9b68-1027417e6a24": {
+      "de": "Financiers==fi:-na~-si:-'e:s"
+    },
+    "f4b9a441-d928-4e47-ab53-c450b1b9783f": {
+      "de": "Sierra==zi:-'E-Ra:"
+    },
+    "f4d011ee-2d70-4cbd-b47f-f553c619a516": {
+      "de": "Einzelnachweise=='aIn-ts@l-nax-vaI-z@"
+    },
+    "f4e27886-ab01-418f-8b9a-9620e295239f": {
+      "de": "Schalck=='Salk"
+    },
+    "f50efdd1-c06d-49b1-b7bf-7e1f384a8b72": {
+      "de": "Radiant==Ra-di:-'ant"
+    },
+    "f5749e1a-85a2-4846-9757-e08d16899d1f": {
+      "de": "Linh=='lIn"
+    },
+    "f594af6c-46cd-43de-9358-b956c20db2f5": {
+      "de": "Jospin==ZOs-'pe~"
+    },
+    "f60e0011-ea81-4b38-8e88-fbf5ebfe49a2": {
+      "de": "why=='waI"
+    },
+    "f6518eb6-3132-46ec-829f-b8b20f80fe87": {
+      "de": "Brando=='brEn-doU"
+    },
+    "f69ca903-434c-4f81-9f77-f58b9be981be": {
+      "de": "Weert=='ve:6t"
+    },
+    "f69f0274-b007-456b-91ac-cde666bc69fe": {
+      "de": "Le=='l@"
+    },
+    "f6ba7723-3085-4fa2-be50-10b0cfc9f20e": {
+      "de": "Beuil=='bOYl"
+    },
+    "f6dca55a-81fc-421e-9103-9a5604fb35f4": {
+      "de": "Al=='?al"
+    },
+    "f6e6155b-76ba-4873-a985-5e2d54acf258": {
+      "de": "Zwerg=='tsvE6k"
+    },
+    "f6f6a00b-4f5e-4649-b24b-2b5210c62127": {
+      "de": "Reader=='ri:-d6"
+    },
+    "f733d052-34b8-4e3e-a8e2-dfdf5ad2f5e7": {
+      "de": "Heu=='hOY"
+    },
+    "f7439dc2-88b7-4508-b4db-a260ac4c8c0b": {
+      "de": "WAP=='vOp"
+    },
+    "f75325b7-6954-4f9e-bc81-8d1e82cb5bb4": {
+      "de": "Fjords=='fjO6ts"
+    },
+    "f754ca95-516c-41f6-ab0f-3c58e813edc0": {
+      "de": "Games=='gEIms"
+    },
+    "f76587d1-65bc-48be-b15a-6317d8996371": {
+      "de": "spirituös==Spi:-Ri:-tu:-'2:s"
+    },
+    "f7afe08e-bd38-4ed5-a8ba-86538868e1ed": {
+      "de": "Lang=='laN"
+    },
+    "f7bcbf73-7be0-472f-b66a-b4009fe50b85": {
+      "de": "Dark=='da6k"
+    },
+    "f7cd0306-e3b9-4b3b-b29f-fd70ee16abc2": {
+      "de": "Nee=='ne:"
+    },
+    "f7d1427a-d2e9-401e-8f2f-05118c8b1f72": {
+      "de": "W.=='ve:"
+    },
+    "f83f8d2d-b79a-4159-b527-9ec3f30d1d09": {
+      "de": "Pik=='pIk"
+    },
+    "f87ff8a0-891a-485a-a2dd-387ba04e04c1": {
+      "de": "Beim=='baIm"
+    },
+    "f8880d6e-e5b5-4bac-8256-5d7e37647cf6": {
+      "de": "Jacques=='Zak"
+    },
+    "f8881290-1b3b-4fdd-9bdd-a447a72efddb": {
+      "de": "Seht=='ze:t"
+    },
+    "f8d224d7-c3c0-46a9-82da-a3e1ea555b41": {
+      "de": "Terrain==te:-'Re~"
+    },
+    "f8dfa9b1-c48f-401b-85c0-8603e9ff7101": {
+      "de": "Aale=='?a:-l@"
+    },
+    "f8e68b1f-a128-497b-a6c6-88a618724489": {
+      "de": "Snows=='snOUs"
+    },
+    "f8ed0d71-f7f2-42c6-a9f2-f066b82f476f": {
+      "de": "ralliiert==Ra-li:-'i:6t"
+    },
+    "f9278967-706f-4e60-984e-d947a8b1d76a": {
+      "de": "Bö=='b2:"
+    },
+    "f9551302-fa93-4f66-b808-cca81029a63c": {
+      "de": "Reformer==Re-'fO6-m6"
+    },
+    "f9623f14-7a49-4077-ad2a-5216fc873fb5": {
+      "de": "Days=='dEIs"
+    },
+    "f9949894-9a39-49f5-afa4-3535c5ba5d78": {
+      "de": "Fudge=='fatS"
+    },
+    "f9ac53db-f716-4be6-8f5c-6eaae3368ec5": {
+      "de": "Achäne==?a-x'E:-n@"
+    },
+    "f9b86921-a968-45d7-af8b-eea47be0ae3b": {
+      "de": "Triumphpforte==tRi:-'Umf-pfOR-t@"
+    },
+    "f9be8f99-f76d-4cce-b810-33749f3d2ced": {
+      "de": "Branche=='bRa~-Z@"
+    },
+    "f9f0320c-8b52-4a22-899e-4dff1f396adb": {
+      "de": "Team=='ti:m"
+    },
+    "fa4ff0c3-0296-47b5-a903-5c5f884b3fde": {
+      "de": "Pack=='pak"
+    },
+    "fa7f5d04-9c00-4140-8587-5e985e4828ec": {
+      "de": "rührt=='Ry:6t"
+    },
+    "fa8871ab-e6e7-4a98-8ff9-1d9520a74cdd": {
+      "de": "Job=='dZOp"
+    },
+    "fa8fcebb-65b2-44c1-8c39-2b03554fe566": {
+      "de": "Lamm=='lam"
+    },
+    "faada5ac-494c-4fe5-86df-e297179d5d38": {
+      "de": "Subregion=='zUp-Re-gjo:n"
+    },
+    "fab4fc64-d398-4fa3-8617-8cb2ce1c9707": {
+      "de": "Wales=='weIlz"
+    },
+    "facea03d-1682-4509-8701-1927af3b7bda": {
+      "de": "ngi=='Ni:"
+    },
+    "fae2ebb4-7c1a-41d7-85bd-52b3537d6750": {
+      "de": "Chopins=='So:-pe~s"
+    },
+    "fb002a81-37c4-46cf-9e20-86a8affa89fb": {
+      "de": "Arrangeure==?a-Ra~-'Z2:-R@"
+    },
+    "fb0eb76f-7d39-463f-bfe1-605777ab0478": {
+      "de": "Brown=='braUn"
+    },
+    "fb613cbf-c1a3-4b55-963a-c2759482655b": {
+      "de": "Bob=='bOp"
+    },
+    "fb7924d7-18ac-44be-a284-16964198f6fd": {
+      "de": "Pantheisten==pan-te:-'Is-t@n"
+    },
+    "fb8a3b17-5bb4-422d-8a4e-ed29d75c3d0c": {
+      "de": "Sex=='sEks"
+    },
+    "fc38815e-4dbb-4739-b0f1-d32a8f21372c": {
+      "de": "Mail=='mEIl"
+    },
+    "fc3f1d83-b212-4063-b55c-54f8b4541a19": {
+      "de": "Triumphen==tRi:-'Um-f@n"
+    },
+    "fc641a0c-ad07-474b-8213-215e91349873": {
+      "de": "Chris=='kRIs"
+    },
+    "fc820f1e-e222-4a29-8e60-0266989cdce4": {
+      "de": "spongiös==SpON-gi:-'2:s"
+    },
+    "fc8d968d-d442-48b6-a235-802648126e89": {
+      "de": "Linguisten==lIN-gu:-'Is-t@n"
+    },
+    "fd31a20e-2adf-4490-b7c5-9a857942096f": {
+      "de": "Wann=='van"
+    },
+    "fd711caa-b458-4c85-b29e-95b86e887119": {
+      "de": "Hang=='haN"
+    },
+    "fdb65ac4-2734-420b-a2e9-0d5dfcf7ab3e": {
+      "de": "Meteor==me:-te:-'o:6"
+    },
+    "fdbe4866-892f-4cbd-b5b9-607328e2e394": {
+      "de": "An=='?an"
+    },
+    "fdbebd4d-4141-46d3-a00c-3daeb651a8a5": {
+      "de": "Satz=='zats"
+    },
+    "fdcbdbf4-8a49-4c30-8925-ca851ad5e531": {
+      "de": "El=='?El"
+    },
+    "fde7ade6-37bf-4bf2-a4c9-1652ce726932": {
+      "de": "Rausch=='RaUS"
+    },
+    "fdfdf022-ea46-44cd-8adf-0a40269ea8c7": {
+      "de": "Bach=='bax"
+    },
+    "fe39d482-4332-47fc-b98a-68968709b60d": {
+      "de": "Co=='ko:"
+    },
+    "fe3ea73c-c7ca-4ca3-9c61-5d5dfa37125b": {
+      "de": "Idiom==?i:-di:-'o:m"
+    },
+    "fe6e3ffa-450a-49cb-a588-57edbfb55cbf": {
+      "de": "Scaled=='skEIld"
+    },
+    "fe8a14c9-2fac-4b1e-8d9b-5c5e04aa00ca": {
+      "de": "fühlt=='fy:lt"
+    },
+    "fe8c5ecc-e347-477c-95fb-c1da4544793d": {
+      "de": "Cham=='tSam"
+    },
+    "fea3dab6-1896-477b-8e77-1360d3260128": {
+      "de": "Bionik==bi:-'o:-nIk"
+    },
+    "feb05486-1422-4692-b5ac-6a55c869a171": {
+      "de": "Best=='bEst"
+    },
+    "fec347cd-2e92-4fad-bb79-dd78d24de0df": {
+      "de": "Rapper=='rE:-p6"
+    },
+    "feec40ce-0fc1-4040-92f2-27c950efcbe4": {
+      "de": "Match=='mEtS"
+    },
+    "feeeb6be-e837-41a6-a18a-077ee62a0423": {
+      "de": "Senf=='zEnf"
+    },
+    "ff3eb578-2c46-4c77-b761-81a9414e571e": {
+      "de": "Schwert=='Sve:6t"
+    },
+    "ff805492-e5ea-4772-a366-083cc6f03365": {
+      "de": "À=='a"
+    },
+    "ff92dfc0-40a1-43db-8064-c795c265f6ea": {
+      "de": "Gang=='gaN"
+    },
+    "fffeda58-2aab-4db2-a8ca-0e4c6a8aa970": {
+      "de": "inzestuös==?In-tsEs-tu:-'2:s"
+    }
+  }
+}
